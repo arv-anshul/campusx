@@ -5,13 +5,12 @@ import os
 import re
 import time
 from dataclasses import dataclass, field
+from pathlib import Path
 from typing import TYPE_CHECKING, Iterable, Literal, Self
 
 from bs4 import BeautifulSoup, Tag
 
 if TYPE_CHECKING:
-    from pathlib import Path
-
     import httpx
 
 COURSE_URL = "https://learnwith.campusx.in/s/courses/653f50d1e4b0d2eae855480a/take"
@@ -182,6 +181,11 @@ class CourseSubTopic:
                 break
         else:
             raise ValueError(f"No subtopic found matching id={id} or title={title}")
+
+    @classmethod
+    def from_json(cls, path: str | Path) -> Iterable[Self]:
+        json_as_dict = json.loads(Path(path).read_bytes())
+        yield from (cls(**i) for i in json_as_dict)
 
 
 @dataclass(kw_only=True)
