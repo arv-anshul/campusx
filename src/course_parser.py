@@ -23,6 +23,11 @@ BASE_HEADERS = {
         "like Gecko) Chrome/111.5.0.0 Safari/507.02"
     ),
 }
+
+COURSE_TOPICS_PATH = Path("data/courseTopics.json")
+COURSE_SUB_TOPICS_PATH = Path("data/courseSubTopics.json")
+SUB_TOPIC_RESOURCES_PATH = Path("data/subTopicResources.json")
+
 ResourceType = Literal[
     "article",
     "assessment",
@@ -120,6 +125,9 @@ class CourseSubTopic:
     title: str
     type: ResourceType
 
+    def __eq__(self, __value: Self) -> bool:
+        return self.id == __value.id
+
     @classmethod
     def parse(cls, topic: CourseTopic) -> Iterable[Self]:
         """
@@ -211,11 +219,24 @@ class CourseVideoResource(CourseSubTopic):
             raise ValueError("Response could not be parsed as JSON.") from e
         except KeyError as e:
             raise ValueError("Bad response or missing required fields.") from e
+        try:
+            return cls(
+                **asdict(sub_topic),
+                description=data["spayee:description"],
+                totalTime=data["spayee:totalTime"],
+                isDescriptionHtml=data["spayee:isDescriptionHtml"],
+            )
+        except KeyError as e:
+            print(f"❌ KeyError: {e}")
+            return cls.null(sub_topic)
+
+    @classmethod
+    def null(cls, sub_topic: CourseSubTopic) -> Self:
         return cls(
             **asdict(sub_topic),
-            description=data["spayee:description"],
-            totalTime=data["spayee:totalTime"],
-            isDescriptionHtml=data["spayee:isDescriptionHtml"],
+            description="",
+            totalTime="0",
+            isDescriptionHtml=False,
         )
 
     def parse_description(self) -> list[str]:
@@ -250,6 +271,38 @@ class CourseAssignmentResource(CourseSubTopic):
             **asdict(sub_topic),
             assignmentLink=parse_assignment_link(response),
         )
+
+
+_RESOURCE_TYPE_MAPPING: dict[ResourceType, type[CourseSubTopic]] = {
+    "video": CourseVideoResource,
+    "assignment": CourseAssignmentResource,
+}
+
+
+def load_resources() -> list[CourseSubTopic]:
+    inferred_resources = []
+    resources = json.loads(SUB_TOPIC_RESOURCES_PATH.read_bytes())
+    for i in resources:
+        _class = _RESOURCE_TYPE_MAPPING.get(i["type"])
+        if _class:
+            inferred_resources.append(_class(**i))
+    return inferred_resources
+
+
+def filter_resources(
+    sub_topics: Iterable[CourseSubTopic],
+    resources: Iterable[CourseSubTopic],
+) -> list[CourseSubTopic]:
+    return [sub_topic for sub_topic in sub_topics if sub_topic not in resources]
+
+
+def dump_resources(resources: Iterable[CourseSubTopic]) -> None:
+    _resources: list[dict] = [asdict(i) for i in resources]
+    if SUB_TOPIC_RESOURCES_PATH.exists():
+        _resources = json.loads(SUB_TOPIC_RESOURCES_PATH.read_bytes()) + _resources
+        _resources = [dict(i) for i in {frozenset(r.items()) for r in _resources}]
+    with SUB_TOPIC_RESOURCES_PATH.open("w") as f:
+        json.dump(_resources, f, indent=2)
 
 
 if __name__ == "__main__":
