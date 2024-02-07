@@ -4,7 +4,7 @@ import json
 import os
 import re
 import time
-from dataclasses import dataclass, field
+from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import TYPE_CHECKING, Iterable, Literal, Self
 
@@ -189,10 +189,7 @@ class CourseSubTopic:
 
 
 @dataclass(kw_only=True)
-class CourseVideoResource:
-    id: str
-    topicId: str
-    title: str
+class CourseVideoResource(CourseSubTopic):
     totalTime: str
     description: str = field(repr=False)
     isDescriptionHtml: bool = field(repr=False)
@@ -215,9 +212,7 @@ class CourseVideoResource:
         except KeyError as e:
             raise ValueError("Bad response or missing required fields.") from e
         return cls(
-            id=sub_topic.id,
-            topicId=sub_topic.topicId,
-            title=data["spayee:title"],
+            **asdict(sub_topic),
             description=data["spayee:description"],
             totalTime=data["spayee:totalTime"],
             isDescriptionHtml=data["spayee:isDescriptionHtml"],
@@ -228,10 +223,7 @@ class CourseVideoResource:
 
 
 @dataclass(kw_only=True)
-class CourseAssignmentResource:
-    id: str
-    topicId: str
-    title: str
+class CourseAssignmentResource(CourseSubTopic):
     assignmentLink: str = field(repr=False)
 
     @classmethod
@@ -255,9 +247,7 @@ class CourseAssignmentResource:
             raise ValueError("assignmentLink tag not found in source")
 
         return cls(
-            id=sub_topic.id,
-            topicId=sub_topic.topicId,
-            title=sub_topic.title,
+            **asdict(sub_topic),
             assignmentLink=parse_assignment_link(response),
         )
 
