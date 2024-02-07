@@ -23,6 +23,7 @@ BASE_HEADERS = {
     ),
 }
 
+COURSE_HTML_PATH = Path("campusx.arv.html")  # Added `.arv` to ignore for *git*
 COURSE_TOPICS_PATH = Path("data/courseTopics.json")
 COURSE_SUB_TOPICS_PATH = Path("data/courseSubTopics.json")
 SUB_TOPIC_RESOURCES_PATH = Path("data/subTopicResources.json")
