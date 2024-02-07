@@ -3,7 +3,6 @@ from __future__ import annotations
 import json
 import os
 import re
-import time
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import TYPE_CHECKING, Iterable, Literal, Self
@@ -303,37 +302,3 @@ def dump_resources(resources: Iterable[CourseSubTopic]) -> None:
         _resources = [dict(i) for i in {frozenset(r.items()) for r in _resources}]
     with SUB_TOPIC_RESOURCES_PATH.open("w") as f:
         json.dump(_resources, f, indent=2)
-
-
-if __name__ == "__main__":
-    from pathlib import Path
-
-    import httpx
-    from rich import print
-
-    # campusx.html contains the html content of the website
-    course_topic_tag = CourseTopic.search(Path("campusx.html"))
-    course_topics = list(CourseTopic.parse(course_topic_tag))
-    print(course_topics[-10:])
-
-    sub_topics = list(CourseSubTopic.find(course_topics, id="olh5gfqpjt"))
-    print(list(sub_topics))
-
-    # Define cookies' ENVs and get it like this
-    cookies = get_cookies()
-
-    results: list[CourseVideoResource] = []
-    with httpx.Client(
-        base_url=BASE_RESOURCE_URL, headers=BASE_HEADERS, cookies=cookies
-    ) as client:
-        for i, sub_topic in enumerate(sub_topics, 1):
-            if sub_topic.type != "video":
-                print(f"subtopic id={sub_topic.id} is not a video resource.")
-                continue
-            if i % 7 == 0:
-                print("sleeping for 3 seconds...")
-                time.sleep(3)
-            results.append(CourseVideoResource.fetch(client, sub_topic))
-    if not results:
-        raise ValueError("No video resources found.")
-    print(results)
