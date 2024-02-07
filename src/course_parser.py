@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import time
 from dataclasses import dataclass, field
@@ -58,6 +59,23 @@ def fetch_sub_topic_resource(
     res = client.get(f"/{resource_type}s/{sub_topic_id}/get")
     res.raise_for_status()
     return res.content
+
+
+def get_cookies():
+    """Construct cookies from ENVs."""
+    c_ujwt = os.getenv("C_UJWT")
+    session_id = os.getenv("SESSION_ID")
+
+    error_msg = "Define '%s' as environment variable."
+    if c_ujwt is None:
+        raise ValueError(error_msg % "C_UJWT")
+    if session_id is None:
+        raise ValueError(error_msg % "SESSION_ID")
+
+    return {
+        "c_ujwt": c_ujwt,
+        "SESSIONID": session_id,
+    }
 
 
 @dataclass(kw_only=True)
@@ -256,11 +274,8 @@ if __name__ == "__main__":
     sub_topics = list(CourseSubTopic.find(course_topics, id="olh5gfqpjt"))
     print(list(sub_topics))
 
-    # Fill cookies from browser's network tab
-    cookies = {
-        "c_ujwt": "Your Token",
-        "SESSIONID": "Your current SESSION ID.",
-    }
+    # Define cookies' ENVs and get it like this
+    cookies = get_cookies()
 
     results: list[CourseVideoResource] = []
     with httpx.Client(
