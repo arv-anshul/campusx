@@ -120,7 +120,6 @@ class CourseSubTopic:
     topicId: str
     title: str
     type: ResourceType
-    source: Tag = field(repr=False)
 
     @classmethod
     def parse(cls, topic: CourseTopic) -> Iterable[Self]:
@@ -136,7 +135,6 @@ class CourseSubTopic:
                 topicId=topic.id,
                 title=tag["data-title"],
                 type=tag["data-type"],
-                source=tag,
             )
             for tag in topic.source.find_all("div", {"data-type": True})
         )
