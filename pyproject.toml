@@ -1,0 +1,58 @@
+[project]
+name = "campusx-dsmp"
+version = "0.0.0"
+license = "MIT"
+authors = [{ name = "Anshul Raj Verma", email = "arv.anshul.1864@gmail.com" }]
+requires-python = ">=3.11"
+readme = "README.md"
+description = "Get all the resources like 🔗 Links of 📝 Notes and 📓 Notebooks provided in the CampusX's DSMP Course."
+
+[project.urls]
+homepage = "https://github.com/arv-anshul/campusx-dsmp"
+repository = "https://github.com/arv-anshul/campusx-dsmp"
+
+[tool.ruff]
+target-version = "py311"
+
+[tool.ruff.lint]
+extend-select = [
+    "B",
+    "BLE",
+    "C4",
+    "C90",
+    "E",
+    "F",
+    "I",
+    "ICN",
+    "INP",
+    "ISC",
+    "PGH",
+    "PIE",
+    "PTH",
+    "Q",
+    "RSE",
+    "RUF",
+    "S",
+    "SIM",
+    "TCH",
+    "UP",
+    "W",
+    "YTT",
+]
+extend-ignore = [
+    "B008",
+    "B905",
+    "E501",
+    "E741",
+    "INP001",
+    "ISC001",
+    "N818",
+    "PGH003",
+    "S101",
+    "S301",
+    "UP035",
+]
+extend-unfixable = ["B", "F401"]
+
+[tool.ruff.lint.per-file-ignores]
+"__init__.py" = ["E402", "F401"]
