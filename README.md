@@ -15,3 +15,7 @@
   </p>
 
 </p>
+
+> \[!WARNING\]
+>
+> The listed resource is not suitable for the **Unpaid/Free User (who have not bought the course)** because it **only consists the paid lecture's notes and links** which are provided in the description **by The Mentor**.
