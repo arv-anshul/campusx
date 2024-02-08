@@ -62,3 +62,24 @@
 .warning-hover:hover {
   color: #ffc107;
 }
+
+/* Animations */
+@keyframes bounce {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.15);
+  }
+}
+
+.hover-icon:hover {
+  transform: scale(1.25);
+}
+.hover-icon-bounce:hover {
+  animation: bounce 1s infinite;
+}
+.bounce {
+  animation: bounce 1s infinite;
+}

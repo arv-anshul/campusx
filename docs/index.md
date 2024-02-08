@@ -24,5 +24,5 @@ hide:
 </p>
 
 <p align="center" markdown>
-[:material-book-open-page-variant:{ .lg } &nbsp;See Resources](./resources.md){ .md-button .md-button--primary }
+[:material-book-open-page-variant:{ .lg .bounce } &nbsp;See Resources](./resources.md){ .md-button .md-button--primary }
 </p>
