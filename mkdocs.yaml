@@ -1,0 +1,78 @@
+repo_url: https://github.com/arv-anshul/campusx-dsmp
+repo_name: arv-anshul/campusx-dsmp
+site_author: Anshul Raj Verma
+site_description: Get all the resources like 🔗 Links of 📝 Notes and 📓 Notebooks provided in the CampusX's DSMP Course.
+site_name: CampusX - DSMP
+site_url: https://arv-anshul.github.io/campusx-dsmp
+
+theme:
+  language: en
+  name: material
+  font:
+    text: Shantell Sans
+  logo: data/assets/favicon.jpg
+  favicon: data/assets/favicon.jpg
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.suggest
+  palette:
+    scheme: slate
+    primary: indigo
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.details
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search: null
+  - markdownextradata:
+      data: data/
+
+extra:
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_PROPERTY
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/arv_anshul
+      name: Connect on Instagram
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/user/arv-anshul/
+      name: See My Python Projects PyPi
+    - icon: fontawesome/brands/github
+      link: https://github.com/arv-anshul
+      name: See my GitHub Profile
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/arv-anshul
+      name: Connect on LinkedIn
+    - icon: octicons/globe-16
+      link: https://learnwith.campusx.in
+      name: Go to CampusX
+
+copyright: |
+  <span style="color: #ffffff73;">Made by</span> <a href="https://github.com/arv-anshul">Anshul Raj Verma</a>
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Resources: resources.md
