@@ -6,10 +6,15 @@ authors = [{ name = "Anshul Raj Verma", email = "arv.anshul.1864@gmail.com" }]
 requires-python = ">=3.11"
 readme = "README.md"
 description = "Get all the resources like 🔗 Links of 📝 Notes and 📓 Notebooks provided in the CampusX's DSMP Course."
+dependencies = ["bs4==0.0.1", "httpx==0.26.0", "python-dotenv==1.0.0"]
 
 [project.urls]
 homepage = "https://github.com/arv-anshul/campusx-dsmp"
 repository = "https://github.com/arv-anshul/campusx-dsmp"
+
+[project.optional-dependencies]
+docs = ["mkdocs-markdownextradata-plugin==0.2.5", "mkdocs-material==9.5.8"]
+tests = ["pytest==7.4.3"]
 
 [tool.ruff]
 target-version = "py311"
