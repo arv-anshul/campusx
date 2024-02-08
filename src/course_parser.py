@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import json
 import os
-import re
 from dataclasses import asdict, dataclass, field
 from enum import StrEnum, auto
 from pathlib import Path
@@ -28,6 +27,7 @@ COURSE_HTML_PATH = Path("campusx.arv.html")  # Added `.arv` to ignore for *git*
 COURSE_TOPICS_PATH = Path("data/courseTopics.json")
 COURSE_SUB_TOPICS_PATH = Path("data/courseSubTopics.json")
 SUB_TOPIC_RESOURCES_PATH = Path("data/subTopicResources.json")
+CLEANED_RESOURCES_PATH = SUB_TOPIC_RESOURCES_PATH.with_name("cleanedResources.json")
 
 
 class ResourceType(StrEnum):
@@ -239,9 +239,6 @@ class CourseVideoResource(CourseSubTopic):
             totalTime="0",
             isDescriptionHtml=False,
         )
-
-    def parse_description(self) -> list[str]:
-        return re.findall(r"href=\"(.*?)\"", self.description)
 
 
 @dataclass(kw_only=True)

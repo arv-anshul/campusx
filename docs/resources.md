@@ -16,7 +16,7 @@ hide:
 {% set printed_topic_ids = [] %}
 
 {% for topic in courseTopics %}
-    {% for sub_topic in subTopicResources %}
+    {% for sub_topic in cleanedResources %}
         {% if topic.id == sub_topic.topicId %}
             {% if sub_topic.description %}
             {% if topic.id not in printed_topic_ids %}
@@ -27,7 +27,16 @@ hide:
 
 ### :material-book:{ title="Sub Topic" .primary } {{ sub_topic.title }}
 
-{{ sub_topic.description }}
+<details style="border-color: #448aff33;">
+    <summary>Description</summary>
+    <div style="font-family: monospace;">
+    {{ sub_topic.description }}
+    </div>
+</details>
+
+            {% for netloc, link in sub_topic.links.items() %}
+- [{{ netloc }}]({{ link }})
+            {% endfor %}
 
             {% endif %}
         {% endif %}

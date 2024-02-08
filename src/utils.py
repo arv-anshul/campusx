@@ -3,7 +3,9 @@
 It only works when you have the website's HTML.
 """
 import json
+import re
 from dataclasses import asdict
+from urllib.parse import urlparse
 
 from src import course_parser as cp
 
@@ -43,9 +45,28 @@ def sort_sub_topics_resources():
         json.dump(sorted_data_file2, file2, indent=2)
 
 
+def clean_videos_resources() -> None:
+    resources: list[dict] = json.loads(cp.SUB_TOPIC_RESOURCES_PATH.read_bytes())
+
+    def parse_description(description: str) -> dict[str, str]:
+        links = re.findall(r"https?://\S+", description)
+        return {urlparse(link).netloc: link for link in links}
+
+    cleaned_resources = []
+    for resource in resources:
+        if resource["type"] != "video":
+            continue
+        resource["links"] = parse_description(resource["description"])
+        cleaned_resources.append(resource)
+
+    with cp.CLEANED_RESOURCES_PATH.open("w") as f:
+        json.dump(cleaned_resources, f, indent=2)
+
+
 if __name__ == "__main__":
     if not cp.COURSE_HTML_PATH.exists():
         raise RuntimeError("You must have the Course's website HTML.")
     export_course_topics()
     export_course_sub_topics()
-    # sort_sub_topics_resources()
+    sort_sub_topics_resources()
+    clean_videos_resources()
