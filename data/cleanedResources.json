@@ -1,0 +1,1708 @@
+[
+  {
+    "id": "65579bd6e4b0265b4ca6bce4",
+    "topicId": "otgagbc6p1",
+    "description": "",
+    "totalTime": 132.116,
+    "isDescriptionHtml": false,
+    "title": "Orientation Session (17th Nov 7:30 PM IST)",
+    "type": "video",
+    "links": {}
+  },
+  {
+    "topicId": "otgagbc6p1",
+    "description": "",
+    "isDescriptionHtml": false,
+    "totalTime": "0",
+    "id": "65582d20e4b02c2e8beae9bc",
+    "title": "How to join DSMP 2.0 Live Sessions",
+    "type": "video",
+    "links": {}
+  },
+  {
+    "id": "63ed8891e4b0be556ac578cb",
+    "description": "",
+    "topicId": "7xrab9ni2j",
+    "title": "How to Build a Portfolio Website for Data Science",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "id": "6406a8e6e4b0adf69d83e486",
+    "totalTime": 119.71222,
+    "title": "Career QnA Live Session for Paid Members",
+    "description": "",
+    "topicId": "7xrab9ni2j",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "description": "",
+    "topicId": "7xrab9ni2j",
+    "title": "Resume Building for Data Scientist",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "id": "63ed88e9e4b09aec52e995b2",
+    "type": "video",
+    "links": {}
+  },
+  {
+    "title": "Talking Data Science with Pranjal Yadav",
+    "id": "6406b093e4b0e110dcb13f7c",
+    "description": "",
+    "topicId": "7xrab9ni2j",
+    "isDescriptionHtml": false,
+    "totalTime": 84.61867,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "description": "Github Discussions - https://resources.github.com/devops/process/planning/discussions/\n\nGithub Actions - https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions\n\nGithub Projects - https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects",
+    "totalTime": 60.15278,
+    "topicId": "7xrab9ni2j",
+    "title": "Session on Open Source Software",
+    "isDescriptionHtml": false,
+    "id": "63f84469e4b009d2effa3abf",
+    "type": "video",
+    "links": {
+      "resources.github.com": "https://resources.github.com/devops/process/planning/discussions/",
+      "docs.github.com": "https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects"
+    }
+  },
+  {
+    "description": "",
+    "topicId": "7xrab9ni2j",
+    "title": "Build a Data Scientist's Dream LinkedIn Profile with ChatGPT",
+    "id": "63ed8968e4b09aec52e995b9",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "description": "",
+    "topicId": "7xrab9ni2j",
+    "type": "video",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "title": "How To Select A Project In Data Science?",
+    "id": "63ed89dee4b073eccd0774c9",
+    "links": {}
+  },
+  {
+    "id": "63ed89fde4b073eccd0774ec",
+    "description": "",
+    "topicId": "7xrab9ni2j",
+    "title": "How To Get Your First Job In Data Science",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "title": "How to Talk About Previous Data Science Projects in Interview",
+    "description": "",
+    "topicId": "7xrab9ni2j",
+    "id": "63ed8a14e4b073eccd0774ee",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "description": "",
+    "topicId": "7xrab9ni2j",
+    "id": "63ed8a38e4b073eccd0774f2",
+    "title": "Everything You Need To Know About Kaggle",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "isDescriptionHtml": true,
+    "id": "6376dbd8e4b065a4cadac4db",
+    "description": "<p>Code used in the session - <a href=\"https://colab.research.google.com/drive/10jVbuKq2Owsz_hIIrXA9Y09DMLdDt_21?usp=sharing\">https://colab.research.google.com/drive/10jVbuKq2Owsz_hIIrXA9Y09DMLdDt_21?usp=sharing</a></p>\n",
+    "totalTime": 130,
+    "topicId": "t7z3or0ssw",
+    "title": "Session 1 - Python Basics",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/10jVbuKq2Owsz_hIIrXA9Y09DMLdDt_21?usp=sharing\">https://colab.research.google.com/drive/10jVbuKq2Owsz_hIIrXA9Y09DMLdDt_21?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 132,
+    "id": "637d5eace4b07e057038ce4d",
+    "isDescriptionHtml": true,
+    "title": "Session 2 - Operators + If-Else + Loops",
+    "description": "<p>Code for the session -&nbsp;<a href=\"https://colab.research.google.com/drive/1dJIncqudN2wFNZ1P3_1sdJX76pzw-s-4?usp=sharing\">https://colab.research.google.com/drive/1dJIncqudN2wFNZ1P3_1sdJX76pzw-s-4?usp=sharing</a></p>\n\n<p>Session Code (Updated) :&nbsp;<a href=\"https://colab.research.google.com/drive/1He-CC_4GUaswgQ2NFg8exc23A-mChTwK?usp=sharing\">https://colab.research.google.com/drive/1He-CC_4GUaswgQ2NFg8exc23A-mChTwK?usp=sharing</a></p>\n",
+    "topicId": "t7z3or0ssw",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1He-CC_4GUaswgQ2NFg8exc23A-mChTwK?usp=sharing\">https://colab.research.google.com/drive/1He-CC_4GUaswgQ2NFg8exc23A-mChTwK?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code for Task 1 Solution - <a href=\"https://colab.research.google.com/drive/15ouziM6EkwvOYIJM_Z4kX9AUJ6TmmZnh?usp=sharing\">https://colab.research.google.com/drive/15ouziM6EkwvOYIJM_Z4kX9AUJ6TmmZnh?usp=sharing</a></p>\n\n<p>Code for Task 2 Solution - (Updated Link) -&nbsp;<a href=\"https://colab.research.google.com/drive/1mkBnQb0IELTQCpQ9nhtEYhqOgG84DTVd?usp=share_link\">https://colab.research.google.com/drive/1mkBnQb0IELTQCpQ9nhtEYhqOgG84DTVd?usp=share_link</a></p>\n",
+    "isDescriptionHtml": true,
+    "totalTime": 134.69778,
+    "id": "637d86c3e4b052a4c7a4abe9",
+    "topicId": "t7z3or0ssw",
+    "title": "Week 1 - Task 1 + Task 2 Solutions",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1mkBnQb0IELTQCpQ9nhtEYhqOgG84DTVd?usp=share_link\">https://colab.research.google.com/drive/1mkBnQb0IELTQCpQ9nhtEYhqOgG84DTVd?usp=share_link</a></p>"
+    }
+  },
+  {
+    "title": "Session 3 - Python Strings",
+    "id": "637d5fd8e4b07e057038cfa4",
+    "isDescriptionHtml": true,
+    "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing\">https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing</a></p>\n",
+    "totalTime": 143,
+    "topicId": "t7z3or0ssw",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing\">https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "637d6037e4b07e057038cfe2",
+    "isDescriptionHtml": true,
+    "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing\">https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing</a></p>\n",
+    "title": "Programming Problems on Strings",
+    "topicId": "t7z3or0ssw",
+    "totalTime": 29,
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing\">https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "637d87dbe4b0cece797d7c24",
+    "title": "Week 1 Task 3 Solutions",
+    "isDescriptionHtml": true,
+    "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1HLKrP34x9ypGXqN44XcAvlwuEmWZ7idg?usp=sharing\">https://colab.research.google.com/drive/1HLKrP34x9ypGXqN44XcAvlwuEmWZ7idg?usp=sharing</a></p>\n",
+    "totalTime": 66.164,
+    "topicId": "t7z3or0ssw",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1HLKrP34x9ypGXqN44XcAvlwuEmWZ7idg?usp=sharing\">https://colab.research.google.com/drive/1HLKrP34x9ypGXqN44XcAvlwuEmWZ7idg?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "637d608ce4b0cece797d4e09",
+    "totalTime": 48,
+    "isDescriptionHtml": true,
+    "description": "<p>Portfolio Website Example - <a href=\"https://www.kunalgohrani.info/\">https://www.kunalgohrani.info/</a></p>\n\n<p>HTML playlist -&nbsp;<a href=\"https://www.youtube.com/watch?v=jp3gE2Ow6Fw&amp;list=PLKnIA16_RmvaPjreiKXncoLCLQKE0I_9D&amp;index=1&amp;t=0s&amp;ab_channel=CampusX\">https://www.youtube.com/watch?v=jp3gE2Ow6Fw&amp;list=PLKnIA16_RmvaPjreiKXncoLCLQKE0I_9D&amp;index=1&amp;t=0s&amp;ab_channel=CampusX</a></p>\n\n<p>CSS Playlist -&nbsp;<a href=\"https://www.youtube.com/watch?v=4d79CMy5-LI&amp;list=PLKnIA16_RmvYz9J-59mtVWLQuPbsWd56P&amp;index=1&amp;t=0s&amp;ab_channel=CampusX\">https://www.youtube.com/watch?v=4d79CMy5-LI&amp;list=PLKnIA16_RmvYz9J-59mtVWLQuPbsWd56P&amp;index=1&amp;t=0s&amp;ab_channel=CampusX</a></p>\n",
+    "title": "How to Build a Portfolio Website for Data Science",
+    "topicId": "t7z3or0ssw",
+    "type": "video",
+    "links": {
+      "www.kunalgohrani.info": "https://www.kunalgohrani.info/\">https://www.kunalgohrani.info/</a></p>",
+      "www.youtube.com": "https://www.youtube.com/watch?v=4d79CMy5-LI&amp;list=PLKnIA16_RmvYz9J-59mtVWLQuPbsWd56P&amp;index=1&amp;t=0s&amp;ab_channel=CampusX\">https://www.youtube.com/watch?v=4d79CMy5-LI&amp;list=PLKnIA16_RmvYz9J-59mtVWLQuPbsWd56P&amp;index=1&amp;t=0s&amp;ab_channel=CampusX</a></p>"
+    }
+  },
+  {
+    "topicId": "t7z3or0ssw",
+    "isDescriptionHtml": true,
+    "totalTime": 102.007225,
+    "title": "Session on Time Complexity",
+    "description": "<p>PPT - <a href=\"https://docs.google.com/presentation/d/1oz_Uq3EvDzSJTi7uDUDSGDxRvXHxtNE_6fxvAYeGUnY/edit?usp=sharing\">https://docs.google.com/presentation/d/1oz_Uq3EvDzSJTi7uDUDSGDxRvXHxtNE_6fxvAYeGUnY/edit?usp=sharing</a></p>\n\n<p>Code - <a href=\"https://colab.research.google.com/drive/1tZn_tsleyYYh-_fOB3fDpaSIoNg4BmJI?usp=sharing\">https://colab.research.google.com/drive/1tZn_tsleyYYh-_fOB3fDpaSIoNg4BmJI?usp=sharing</a></p>\n",
+    "id": "637d636ce4b07e057038d204",
+    "type": "video",
+    "links": {
+      "docs.google.com": "https://docs.google.com/presentation/d/1oz_Uq3EvDzSJTi7uDUDSGDxRvXHxtNE_6fxvAYeGUnY/edit?usp=sharing\">https://docs.google.com/presentation/d/1oz_Uq3EvDzSJTi7uDUDSGDxRvXHxtNE_6fxvAYeGUnY/edit?usp=sharing</a></p>",
+      "colab.research.google.com": "https://colab.research.google.com/drive/1tZn_tsleyYYh-_fOB3fDpaSIoNg4BmJI?usp=sharing\">https://colab.research.google.com/drive/1tZn_tsleyYYh-_fOB3fDpaSIoNg4BmJI?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 89.867775,
+    "title": "Week 1 - Interview Questions",
+    "isDescriptionHtml": true,
+    "description": "<p>Question List - <a href=\"https://colab.research.google.com/drive/1Qh4SPnaqWXC3tA3EwzcV6BSKOEM0e9E4?usp=sharing\">https://colab.research.google.com/drive/1Qh4SPnaqWXC3tA3EwzcV6BSKOEM0e9E4?usp=sharing</a></p>\n",
+    "id": "637d85b7e4b08c3606680182",
+    "topicId": "t7z3or0ssw",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1Qh4SPnaqWXC3tA3EwzcV6BSKOEM0e9E4?usp=sharing\">https://colab.research.google.com/drive/1Qh4SPnaqWXC3tA3EwzcV6BSKOEM0e9E4?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "m2p4l0896y",
+    "title": "Session 4 - Lists in Python",
+    "id": "637d9769e4b052a4c7a4bd25",
+    "isDescriptionHtml": true,
+    "totalTime": 127,
+    "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1VUb_lXKIcypsWkKiMJ_NDwX2msdgEVGH?usp=sharing\">https://colab.research.google.com/drive/1VUb_lXKIcypsWkKiMJ_NDwX2msdgEVGH?usp=sharing</a></p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1VUb_lXKIcypsWkKiMJ_NDwX2msdgEVGH?usp=sharing\">https://colab.research.google.com/drive/1VUb_lXKIcypsWkKiMJ_NDwX2msdgEVGH?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "m2p4l0896y",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1uBqC9zOZH3e26WWc-R4dplohg2uvR-Xs?usp=sharing\">https://colab.research.google.com/drive/1uBqC9zOZH3e26WWc-R4dplohg2uvR-Xs?usp=sharing</a></p>\n\n<p>Problem 14 :&nbsp;</p>\n\n<p>print([[row[i] for row in matrix]for i in range(len(matrix))]) # Only works for Square Matrix.</p>\n\n<p># Updated code&nbsp;<br />\nprint([[row[i] for row in matrix]for i in range(len(matrix[0]))])</p>\n",
+    "type": "video",
+    "title": "Task 4 Solutions",
+    "totalTime": 46.12533,
+    "id": "637effeae4b02c7bb21ffaf4",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1uBqC9zOZH3e26WWc-R4dplohg2uvR-Xs?usp=sharing\">https://colab.research.google.com/drive/1uBqC9zOZH3e26WWc-R4dplohg2uvR-Xs?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "m2p4l0896y",
+    "id": "637efcf5e4b02c7bb21ff7cf",
+    "title": "Session 5 - Tuples + Sets + Dictionary",
+    "isDescriptionHtml": true,
+    "totalTime": 137,
+    "type": "video",
+    "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1PtRoTO1A4HwZudf0ZqCq-sqiDpamVeyH?usp=sharing\">https://colab.research.google.com/drive/1PtRoTO1A4HwZudf0ZqCq-sqiDpamVeyH?usp=sharing</a></p>\n",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1PtRoTO1A4HwZudf0ZqCq-sqiDpamVeyH?usp=sharing\">https://colab.research.google.com/drive/1PtRoTO1A4HwZudf0ZqCq-sqiDpamVeyH?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "m2p4l0896y",
+    "title": "Task 5 Solutions",
+    "isDescriptionHtml": true,
+    "totalTime": 47.430668,
+    "id": "637f0091e4b02c7bb21ffc27",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/17h1BUmK2qb9YZCCZKhUXsf6hRJuO42_t?usp=sharing\">https://colab.research.google.com/drive/17h1BUmK2qb9YZCCZKhUXsf6hRJuO42_t?usp=sharing</a></p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/17h1BUmK2qb9YZCCZKhUXsf6hRJuO42_t?usp=sharing\">https://colab.research.google.com/drive/17h1BUmK2qb9YZCCZKhUXsf6hRJuO42_t?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "m2p4l0896y",
+    "title": "Session 6 - Functions in Python",
+    "id": "637efdb1e4b02c7bb21ff833",
+    "isDescriptionHtml": true,
+    "totalTime": 136,
+    "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1DfnVcPYRGJDDrKcpYmEAuPHAR7XeTaKH?usp=sharing\">https://colab.research.google.com/drive/1DfnVcPYRGJDDrKcpYmEAuPHAR7XeTaKH?usp=sharing</a></p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1DfnVcPYRGJDDrKcpYmEAuPHAR7XeTaKH?usp=sharing\">https://colab.research.google.com/drive/1DfnVcPYRGJDDrKcpYmEAuPHAR7XeTaKH?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 45.863335,
+    "topicId": "m2p4l0896y",
+    "title": "Task 6 Solutions",
+    "id": "637f00e7e4b02c7bb21ffc68",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1r5De6VqloVnqqR94x2jz23JS2q9e2mQ2?usp=sharing\">https://colab.research.google.com/drive/1r5De6VqloVnqqR94x2jz23JS2q9e2mQ2?usp=sharing</a></p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1r5De6VqloVnqqR94x2jz23JS2q9e2mQ2?usp=sharing\">https://colab.research.google.com/drive/1r5De6VqloVnqqR94x2jz23JS2q9e2mQ2?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "m2p4l0896y",
+    "totalTime": 119.71222,
+    "title": "Career QnA Live Session for Paid Members",
+    "description": "",
+    "id": "637efe58e4b02c7bb21ff95b",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "topicId": "m2p4l0896y",
+    "totalTime": 137.16667,
+    "title": "Session on Array Interview Questions",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1xUoy5AW_vlI92xbIcfEbnx0ZnGb7IKbj?usp=sharing\">https://colab.research.google.com/drive/1xUoy5AW_vlI92xbIcfEbnx0ZnGb7IKbj?usp=sharing</a></p>\n\n<p>Time Stamp: 40:00. Q10 Maximum Sum SubArray.<br />\nGetting the best sum but Array printed is not correct.<br />\nThis is happening because of list referencing. Say we have a list <strong>a = [1,2,3]</strong> and another list <strong>b</strong> which is same as&nbsp;<strong>a </strong>like a = b, so if we make changes&nbsp;in <strong>a</strong>, <strong>b</strong> will also change. But if we assign <strong>b</strong> like: &nbsp;<strong>b = a[:]</strong> This time upon changing <strong>a</strong>, <strong>b</strong> will not change.</p>\n\n<p>Correction in approach 1 :&nbsp;<br />\n<strong>d[sum(subarray)] = subarray</strong>[:] # Cloning will solve this.<br />\n<br />\nCorrection Correction in Approach 2:<br />\n<strong>best_seq = curr_seq[:]</strong></p>\n",
+    "id": "637f0605e4b04a687338abdc",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1xUoy5AW_vlI92xbIcfEbnx0ZnGb7IKbj?usp=sharing\">https://colab.research.google.com/drive/1xUoy5AW_vlI92xbIcfEbnx0ZnGb7IKbj?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "m2p4l0896y",
+    "title": "Week 2 - Interview Questions",
+    "totalTime": 87.18278,
+    "isDescriptionHtml": true,
+    "id": "637efefae4b02c7bb21ffaa4",
+    "description": "<p>Question List - <a href=\"https://colab.research.google.com/drive/198UqZ59bcyluNKgIyw9K20uToSaHSjT5?usp=sharing\">https://colab.research.google.com/drive/198UqZ59bcyluNKgIyw9K20uToSaHSjT5?usp=sharing</a></p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/198UqZ59bcyluNKgIyw9K20uToSaHSjT5?usp=sharing\">https://colab.research.google.com/drive/198UqZ59bcyluNKgIyw9K20uToSaHSjT5?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 134,
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1bzZ5WiHXcnsxZThKEefsM8HOuBPwCany?usp=sharing\">https://colab.research.google.com/drive/1bzZ5WiHXcnsxZThKEefsM8HOuBPwCany?usp=sharing</a></p>\n",
+    "id": "637f0231e4b02c7bb21ffdc4",
+    "title": "Session 7 - OOP Part 1 | Class & Object",
+    "topicId": "7xpqy4bgny",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1bzZ5WiHXcnsxZThKEefsM8HOuBPwCany?usp=sharing\">https://colab.research.google.com/drive/1bzZ5WiHXcnsxZThKEefsM8HOuBPwCany?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1r_jeTn2XoKLaWq70QYhtLCNnr2FYCaYr?usp=sharing\">https://colab.research.google.com/drive/1r_jeTn2XoKLaWq70QYhtLCNnr2FYCaYr?usp=sharing</a></p>\n",
+    "title": "Task 7 Solutions",
+    "isDescriptionHtml": true,
+    "id": "63817e56e4b02b561dca6914",
+    "totalTime": 31.277334,
+    "topicId": "7xpqy4bgny",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1r_jeTn2XoKLaWq70QYhtLCNnr2FYCaYr?usp=sharing\">https://colab.research.google.com/drive/1r_jeTn2XoKLaWq70QYhtLCNnr2FYCaYr?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1F3Y_zoZH0BDdvcFwrHS46YXj8CCNDRqn?usp=sharing\">https://colab.research.google.com/drive/1F3Y_zoZH0BDdvcFwrHS46YXj8CCNDRqn?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "id": "637f044ce4b084812cce04bf",
+    "totalTime": 136,
+    "title": "Session 8 - OOP Part 2 | Encapsulation & Static Keyword",
+    "topicId": "7xpqy4bgny",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1F3Y_zoZH0BDdvcFwrHS46YXj8CCNDRqn?usp=sharing\">https://colab.research.google.com/drive/1F3Y_zoZH0BDdvcFwrHS46YXj8CCNDRqn?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 56.31,
+    "title": "task-8-solutions",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1Ia10uit7iguGlWjwG7gMF7h3AwNRL2KX?usp=sharing\">https://colab.research.google.com/drive/1Ia10uit7iguGlWjwG7gMF7h3AwNRL2KX?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "id": "6384461ce4b04d688bdfc967",
+    "topicId": "7xpqy4bgny",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1Ia10uit7iguGlWjwG7gMF7h3AwNRL2KX?usp=sharing\">https://colab.research.google.com/drive/1Ia10uit7iguGlWjwG7gMF7h3AwNRL2KX?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 135,
+    "id": "6380333ee4b0c9ac7c7a5a5e",
+    "title": "Session 9 - OOP Part 3 | Inheritance & Polymorphism",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing\">https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "topicId": "7xpqy4bgny",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing\">https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63818d10e4b071c10f7e59b3",
+    "totalTime": 15,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing\">https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "title": "What is Abstraction | OOP Concept",
+    "topicId": "7xpqy4bgny",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing\">https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1knllPL_sSnfqTrrqh0Ru9VpqLbGvPNjS?usp=sharing\">https://colab.research.google.com/drive/1knllPL_sSnfqTrrqh0Ru9VpqLbGvPNjS?usp=sharing</a></p>\n",
+    "id": "6388a501e4b0f24204464897",
+    "title": "task-9-solutions",
+    "isDescriptionHtml": true,
+    "totalTime": 25.424,
+    "topicId": "7xpqy4bgny",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1knllPL_sSnfqTrrqh0Ru9VpqLbGvPNjS?usp=sharing\">https://colab.research.google.com/drive/1knllPL_sSnfqTrrqh0Ru9VpqLbGvPNjS?usp=sharing</a></p>"
+    }
+  },
+  {
+    "title": "Session on OOP Project",
+    "totalTime": 135.13445,
+    "id": "63817dd5e4b0a04756eff5bd",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1WyFLxv8gs5nK1YeAx7oO3IU7qev8PYDP?usp=sharing\">https://colab.research.google.com/drive/1WyFLxv8gs5nK1YeAx7oO3IU7qev8PYDP?usp=sharing</a></p>\n",
+    "topicId": "7xpqy4bgny",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1WyFLxv8gs5nK1YeAx7oO3IU7qev8PYDP?usp=sharing\">https://colab.research.google.com/drive/1WyFLxv8gs5nK1YeAx7oO3IU7qev8PYDP?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "638445a6e4b03e79581e39ff",
+    "totalTime": 111.30167,
+    "isDescriptionHtml": true,
+    "title": "Week 3 - Interview Questions",
+    "description": "<p>Interview Questions class discussion -</p>\n\n<p><a href=\"https://colab.research.google.com/drive/1pFSCaenXUtrWRPgP4zTOcM_2GQIMjU4z?usp=sharing\">https://colab.research.google.com/drive/1pFSCaenXUtrWRPgP4zTOcM_2GQIMjU4z?usp=sharing</a></p>\n\n<p>More Interview Questions -</p>\n\n<p><a href=\"https://colab.research.google.com/drive/1LlTdY0LeYdI893EtSN3CqZOFg_bFxrPu?usp=sharing\">https://colab.research.google.com/drive/1LlTdY0LeYdI893EtSN3CqZOFg_bFxrPu?usp=sharing</a></p>\n",
+    "topicId": "7xpqy4bgny",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1LlTdY0LeYdI893EtSN3CqZOFg_bFxrPu?usp=sharing\">https://colab.research.google.com/drive/1LlTdY0LeYdI893EtSN3CqZOFg_bFxrPu?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code <a href=\"https://colab.research.google.com/drive/1TP7ks1pnEzJwwzHtswkSYvMWwo2HeRxM?usp=sharing\">https://colab.research.google.com/drive/1TP7ks1pnEzJwwzHtswkSYvMWwo2HeRxM?usp=sharing</a></p>\n\n<p>at Timestamp : 54:00 Reading a big text file</p>\n\n<p>with open(&#39;big.txt&#39;, &#39;r&#39;) as f:<br />\n&nbsp; &nbsp; chunk_size = 10<br />\n&nbsp; &nbsp; data = f.read(chunk_size)<br />\n&nbsp; &nbsp; while len(data) &gt; 0:<br />\n&nbsp; &nbsp; &nbsp; &nbsp; print(data, end=&#39;****&#39;)<br />\n&nbsp; &nbsp; &nbsp; &nbsp; data = f.read(chunk_size)<br />\n&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+    "topicId": "5f44kexem4",
+    "id": "638560d9e4b03811b648f7c5",
+    "totalTime": 125,
+    "isDescriptionHtml": true,
+    "title": "Session 10 - File Handling + Serialization & Deserialization",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1TP7ks1pnEzJwwzHtswkSYvMWwo2HeRxM?usp=sharing\">https://colab.research.google.com/drive/1TP7ks1pnEzJwwzHtswkSYvMWwo2HeRxM?usp=sharing</a></p>"
+    }
+  },
+  {
+    "title": "Supplementary Session - Recursion using Python",
+    "topicId": "5f44kexem4",
+    "description": "",
+    "id": "638561afe4b011fc0e12075b",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "topicId": "5f44kexem4",
+    "totalTime": 90,
+    "isDescriptionHtml": true,
+    "title": "Session 11 - Exception Handling",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1-yYl5wagPH1ctS_x-RBDyMFj-ez8hWvS?usp=sharing\">https://colab.research.google.com/drive/1-yYl5wagPH1ctS_x-RBDyMFj-ez8hWvS?usp=sharing</a></p>\n",
+    "id": "6386ae6fe4b058e60e60d5a9",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1-yYl5wagPH1ctS_x-RBDyMFj-ez8hWvS?usp=sharing\">https://colab.research.google.com/drive/1-yYl5wagPH1ctS_x-RBDyMFj-ez8hWvS?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "5f44kexem4",
+    "id": "6387fb80e4b0bd2df3b1d7e1",
+    "isDescriptionHtml": true,
+    "title": "Session 12 - Decorators & Namespaces",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1P5jtGzaVkIjEFFr6WSrzs0capal32QPn?usp=sharing\">https://colab.research.google.com/drive/1P5jtGzaVkIjEFFr6WSrzs0capal32QPn?usp=sharing</a></p>\n",
+    "totalTime": 119,
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1P5jtGzaVkIjEFFr6WSrzs0capal32QPn?usp=sharing\">https://colab.research.google.com/drive/1P5jtGzaVkIjEFFr6WSrzs0capal32QPn?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "5f44kexem4",
+    "id": "6387fbd1e4b0bd2df3b1d802",
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/python-iterators-and-iterables\">https://github.com/campusx-official/python-iterators-and-iterables</a></p>\n",
+    "totalTime": 38,
+    "isDescriptionHtml": true,
+    "title": "Supplementary Session on Iterators",
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/campusx-official/python-iterators-and-iterables\">https://github.com/campusx-official/python-iterators-and-iterables</a></p>"
+    }
+  },
+  {
+    "topicId": "5f44kexem4",
+    "totalTime": 25,
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/python-generators\">https://github.com/campusx-official/python-generators</a></p>\n",
+    "id": "6387fc1be4b065e6e46cc1c5",
+    "title": "Supplementary Session on Generators",
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/campusx-official/python-generators\">https://github.com/campusx-official/python-generators</a></p>"
+    }
+  },
+  {
+    "title": "Session on Resume Building",
+    "topicId": "5f44kexem4",
+    "totalTime": 48.149334,
+    "isDescriptionHtml": true,
+    "description": "<p>PPT - <a href=\"https://docs.google.com/presentation/d/1hpsmCqwk6cxqulpDmPvnbYdYxzW83msvofIGn77Bczo/edit?usp=sharing\">https://docs.google.com/presentation/d/1hpsmCqwk6cxqulpDmPvnbYdYxzW83msvofIGn77Bczo/edit?usp=sharing</a></p>\n\n<p>Blog Link - <a href=\"https://zety.com/blog/data-scientist-resume-example\">https://zety.com/blog/data-scientist-resume-example</a></p>\n",
+    "id": "638dee1ee4b026269e027ec6",
+    "type": "video",
+    "links": {
+      "docs.google.com": "https://docs.google.com/presentation/d/1hpsmCqwk6cxqulpDmPvnbYdYxzW83msvofIGn77Bczo/edit?usp=sharing\">https://docs.google.com/presentation/d/1hpsmCqwk6cxqulpDmPvnbYdYxzW83msvofIGn77Bczo/edit?usp=sharing</a></p>",
+      "zety.com": "https://zety.com/blog/data-scientist-resume-example\">https://zety.com/blog/data-scientist-resume-example</a></p>"
+    }
+  },
+  {
+    "topicId": "5f44kexem4",
+    "title": "Session on GUI Development using Python [2nd Dec - Fri]",
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/nlpapp/tree/master\">https://github.com/campusx-official/nlpapp/tree/master</a><br />\n<br />\n&nbsp;</p>\n",
+    "isDescriptionHtml": true,
+    "totalTime": 167.908,
+    "id": "638aa979e4b0c33615fec70b",
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/campusx-official/nlpapp/tree/master\">https://github.com/campusx-official/nlpapp/tree/master</a><br"
+    }
+  },
+  {
+    "id": "638b863ae4b075b026dfff47",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/19YHAGgm5856CuJyGmtO5kpewmXJzbUcK?usp=sharing\">https://colab.research.google.com/drive/19YHAGgm5856CuJyGmtO5kpewmXJzbUcK?usp=sharing</a></p>\n",
+    "topicId": "5f44kexem4",
+    "isDescriptionHtml": true,
+    "totalTime": 159.22867,
+    "title": "Week 4 - Interview Questions",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/19YHAGgm5856CuJyGmtO5kpewmXJzbUcK?usp=sharing\">https://colab.research.google.com/drive/19YHAGgm5856CuJyGmtO5kpewmXJzbUcK?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 45.002777,
+    "title": "Task 10 Solutions",
+    "topicId": "5f44kexem4",
+    "id": "638a9997e4b0a2e361dc047c",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/file/d/1vz4rlbZS1y9onWq6S3YQ6a0MbyTS0-3y/view?usp=sharing\">https://drive.google.com/file/d/1vz4rlbZS1y9onWq6S3YQ6a0MbyTS0-3y/view?usp=sharing</a></p>\n",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/file/d/1vz4rlbZS1y9onWq6S3YQ6a0MbyTS0-3y/view?usp=sharing\">https://drive.google.com/file/d/1vz4rlbZS1y9onWq6S3YQ6a0MbyTS0-3y/view?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "5f44kexem4",
+    "id": "638bf607e4b0ff7cd1f0fb71",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1DhvCxLlAduDxP3k7SVfwsmFL9ZKbDPsU\">https://colab.research.google.com/drive/1DhvCxLlAduDxP3k7SVfwsmFL9ZKbDPsU</a></p>\n",
+    "totalTime": 26.509445,
+    "title": "Task 11 Solutions",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1DhvCxLlAduDxP3k7SVfwsmFL9ZKbDPsU\">https://colab.research.google.com/drive/1DhvCxLlAduDxP3k7SVfwsmFL9ZKbDPsU</a></p>"
+    }
+  },
+  {
+    "topicId": "5f44kexem4",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1IHLZkKHJY6YBTB2aOVtfT5WVV_KJ9pqV?usp=sharing\">https://colab.research.google.com/drive/1IHLZkKHJY6YBTB2aOVtfT5WVV_KJ9pqV?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "title": "Task 12 Solutions",
+    "id": "638d4f92e4b034070750a387",
+    "totalTime": 35.143333,
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1IHLZkKHJY6YBTB2aOVtfT5WVV_KJ9pqV?usp=sharing\">https://colab.research.google.com/drive/1IHLZkKHJY6YBTB2aOVtfT5WVV_KJ9pqV?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 122,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing\">https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "id": "638fe709e4b0e21b7d612d7c",
+    "topicId": "cdqtzu4so2",
+    "title": "Session 13 - Numpy Fundamentals",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing\">https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 109,
+    "id": "63913b26e4b082b00dc4f26b",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1RVe07-2VU4Jft8GLFyf10PrQIOVfffaR?usp=sharing\">https://colab.research.google.com/drive/1RVe07-2VU4Jft8GLFyf10PrQIOVfffaR?usp=sharing</a></p>\n",
+    "topicId": "cdqtzu4so2",
+    "title": "Session 14 - Advanced Numpy",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1RVe07-2VU4Jft8GLFyf10PrQIOVfffaR?usp=sharing\">https://colab.research.google.com/drive/1RVe07-2VU4Jft8GLFyf10PrQIOVfffaR?usp=sharing</a></p>"
+    }
+  },
+  {
+    "title": "Session 15 - Numpy Tricks",
+    "id": "639296cfe4b061d0fccf2118",
+    "isDescriptionHtml": true,
+    "topicId": "cdqtzu4so2",
+    "totalTime": 91,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1PUW-yXxbkSYgvlhC5_zf30aOVyKYo9AC?usp=sharing\">https://colab.research.google.com/drive/1PUW-yXxbkSYgvlhC5_zf30aOVyKYo9AC?usp=sharing</a></p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1PUW-yXxbkSYgvlhC5_zf30aOVyKYo9AC?usp=sharing\">https://colab.research.google.com/drive/1PUW-yXxbkSYgvlhC5_zf30aOVyKYo9AC?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/nlp-web-app\">https://github.com/campusx-official/nlp-web-app</a></p>\n\n<p>HTML Playlist -&nbsp;<a href=\"https://www.youtube.com/watch?v=jp3gE2Ow6Fw&amp;list=PLKnIA16_RmvaPjreiKXncoLCLQKE0I_9D&amp;ab_channel=CampusX\">https://www.youtube.com/watch?v=jp3gE2Ow6Fw&amp;list=PLKnIA16_RmvaPjreiKXncoLCLQKE0I_9D&amp;ab_channel=CampusX</a></p>\n\n<p>CSS Playlist -&nbsp;<a href=\"https://www.youtube.com/watch?v=4d79CMy5-LI&amp;list=PLKnIA16_RmvYz9J-59mtVWLQuPbsWd56P&amp;ab_channel=CampusX\">https://www.youtube.com/watch?v=4d79CMy5-LI&amp;list=PLKnIA16_RmvYz9J-59mtVWLQuPbsWd56P&amp;ab_channel=CampusX</a></p>\n\n<p>Fundamentals of Web Development -&nbsp;<a href=\"https://www.youtube.com/watch?v=XEq5gEhqPNE&amp;list=PLKnIA16_RmvaAtO498fZOVVomyx01yZhx&amp;ab_channel=CampusX\">https://www.youtube.com/watch?v=XEq5gEhqPNE&amp;list=PLKnIA16_RmvaAtO498fZOVVomyx01yZhx&amp;ab_channel=CampusX</a></p>\n",
+    "title": "Session on Web Development using Flask",
+    "isDescriptionHtml": true,
+    "topicId": "cdqtzu4so2",
+    "totalTime": 153.54066,
+    "id": "63937114e4b0b01e572aba38",
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/campusx-official/nlp-web-app\">https://github.com/campusx-official/nlp-web-app</a></p>",
+      "www.youtube.com": "https://www.youtube.com/watch?v=XEq5gEhqPNE&amp;list=PLKnIA16_RmvaAtO498fZOVVomyx01yZhx&amp;ab_channel=CampusX\">https://www.youtube.com/watch?v=XEq5gEhqPNE&amp;list=PLKnIA16_RmvaAtO498fZOVVomyx01yZhx&amp;ab_channel=CampusX</a></p>"
+    }
+  },
+  {
+    "title": "Task 13 Solutions",
+    "isDescriptionHtml": true,
+    "totalTime": 50.502777,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/15sGD09W5CVrYxuayY_81vDXlv6a7f-PB?usp=sharing\">https://colab.research.google.com/drive/15sGD09W5CVrYxuayY_81vDXlv6a7f-PB?usp=sharing</a></p>\n",
+    "topicId": "cdqtzu4so2",
+    "id": "6393d9e0e4b08ae9b057a065",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/15sGD09W5CVrYxuayY_81vDXlv6a7f-PB?usp=sharing\">https://colab.research.google.com/drive/15sGD09W5CVrYxuayY_81vDXlv6a7f-PB?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1UFnFdlSnm2wGcLFKE8mOifgcpfSICoKJ?usp=sharing\">https://colab.research.google.com/drive/1UFnFdlSnm2wGcLFKE8mOifgcpfSICoKJ?usp=sharing</a></p>\n",
+    "title": "Task 14 Solutions",
+    "isDescriptionHtml": true,
+    "id": "63953879e4b0eafe93d9b71b",
+    "topicId": "cdqtzu4so2",
+    "totalTime": 24.277779,
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1UFnFdlSnm2wGcLFKE8mOifgcpfSICoKJ?usp=sharing\">https://colab.research.google.com/drive/1UFnFdlSnm2wGcLFKE8mOifgcpfSICoKJ?usp=sharing</a></p>"
+    }
+  },
+  {
+    "title": "Task15 Solutions",
+    "totalTime": 21.642221,
+    "isDescriptionHtml": true,
+    "topicId": "cdqtzu4so2",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1tesod4lk55ZgC2a4xB0fUhUAD0nz1cTT?usp=sharing\">https://colab.research.google.com/drive/1tesod4lk55ZgC2a4xB0fUhUAD0nz1cTT?usp=sharing</a></p>\n",
+    "id": "6396dc29e4b020bc7b0d4455",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1tesod4lk55ZgC2a4xB0fUhUAD0nz1cTT?usp=sharing\">https://colab.research.google.com/drive/1tesod4lk55ZgC2a4xB0fUhUAD0nz1cTT?usp=sharing</a></p>"
+    }
+  },
+  {
+    "title": "Session 16 - Pandas Series",
+    "topicId": "y5elks0jt6",
+    "isDescriptionHtml": true,
+    "totalTime": 127,
+    "id": "639942ffe4b01842b1609596",
+    "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing\">https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing</a></p>\n\n<p>Download Datasets - <a href=\"https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link\">https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link</a></p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing\">https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing</a></p>",
+      "drive.google.com": "https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link\">https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link</a></p>"
+    }
+  },
+  {
+    "title": "Important Series Methods | Supplementary Session",
+    "topicId": "y5elks0jt6",
+    "totalTime": 25,
+    "isDescriptionHtml": true,
+    "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing\">https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing</a></p>\n\n<p>Download Datasets - <a href=\"https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link\">https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link</a></p>\n",
+    "id": "63995bb4e4b08da5946b275b",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing\">https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing</a></p>",
+      "drive.google.com": "https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link\">https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link</a></p>"
+    }
+  },
+  {
+    "id": "639a7fb3e4b0478aa412acae",
+    "topicId": "y5elks0jt6",
+    "description": "<p>Dataset -&nbsp;<a href=\"https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8\">https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8</a></p>\n\n<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1k_CV931NE4_jMxmu3k2ASPMmIA4g5Wcn?usp=sharing\">https://colab.research.google.com/drive/1k_CV931NE4_jMxmu3k2ASPMmIA4g5Wcn?usp=sharing</a></p>\n",
+    "totalTime": 128,
+    "isDescriptionHtml": true,
+    "title": "Session 17 - Pandas DataFrame",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8\">https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8</a></p>",
+      "colab.research.google.com": "https://colab.research.google.com/drive/1k_CV931NE4_jMxmu3k2ASPMmIA4g5Wcn?usp=sharing\">https://colab.research.google.com/drive/1k_CV931NE4_jMxmu3k2ASPMmIA4g5Wcn?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 132,
+    "id": "639bc876e4b0999ff74833c3",
+    "topicId": "y5elks0jt6",
+    "title": "Session 18 - Important DataFrame Methods",
+    "isDescriptionHtml": true,
+    "description": "<p>Datasets - <a href=\"https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8?usp=share_link\">https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8?usp=share_link</a></p>\n\n<p>Code - <a href=\"https://colab.research.google.com/drive/1a5Yii5DmHtaNH2QyMInegixa26pLWHo7?usp=sharing\">https://colab.research.google.com/drive/1a5Yii5DmHtaNH2QyMInegixa26pLWHo7?usp=sharing</a></p>\n",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8?usp=share_link\">https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8?usp=share_link</a></p>",
+      "colab.research.google.com": "https://colab.research.google.com/drive/1a5Yii5DmHtaNH2QyMInegixa26pLWHo7?usp=sharing\">https://colab.research.google.com/drive/1a5Yii5DmHtaNH2QyMInegixa26pLWHo7?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "y5elks0jt6",
+    "title": "Session on API Development Using Flask",
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/ipl-api-service\">https://github.com/campusx-official/ipl-api-service</a></p>\n",
+    "id": "639caaf1e4b0656b69f0da98",
+    "isDescriptionHtml": true,
+    "totalTime": 163.04933,
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/campusx-official/ipl-api-service\">https://github.com/campusx-official/ipl-api-service</a></p>"
+    }
+  },
+  {
+    "topicId": "y5elks0jt6",
+    "id": "639dfb58e4b0833c2d6c9f23",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/ipl-web-app\">https://github.com/campusx-official/ipl-web-app</a></p>\n\n<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1_QkzCawz5aofyLJXbGXF-vNsTAxjnNgG?usp=sharing\">https://colab.research.google.com/drive/1_QkzCawz5aofyLJXbGXF-vNsTAxjnNgG?usp=sharing</a></p>\n",
+    "title": "Week 6 - Numpy Interview Questions",
+    "totalTime": 154.108,
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/campusx-official/ipl-web-app\">https://github.com/campusx-official/ipl-web-app</a></p>",
+      "colab.research.google.com": "https://colab.research.google.com/drive/1_QkzCawz5aofyLJXbGXF-vNsTAxjnNgG?usp=sharing\">https://colab.research.google.com/drive/1_QkzCawz5aofyLJXbGXF-vNsTAxjnNgG?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "y5elks0jt6",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/16F_MMON9J1fFDYrxtyYaQDP80SQjj8x0?usp=sharing\" target=\"_blank\">https://colab.research.google.com/drive/16F_MMON9J1fFDYrxtyYaQDP80SQjj8x0?usp=sharing</a></p>\n",
+    "id": "63a10c0fe4b0f2d6785dae74",
+    "title": "Task 16 Solutions",
+    "totalTime": 13.806945,
+    "isDescriptionHtml": true,
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/16F_MMON9J1fFDYrxtyYaQDP80SQjj8x0?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "y5elks0jt6",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1GrYEtG87mn5-_MH7rWPTZJJxJ8jl5mWI?usp=sharing\">https://colab.research.google.com/drive/1GrYEtG87mn5-_MH7rWPTZJJxJ8jl5mWI?usp=sharing</a></p>\n",
+    "totalTime": 16.418056,
+    "isDescriptionHtml": true,
+    "id": "63a10cd8e4b0f2d6785daed6",
+    "title": "Task 17 Solutions",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1GrYEtG87mn5-_MH7rWPTZJJxJ8jl5mWI?usp=sharing\">https://colab.research.google.com/drive/1GrYEtG87mn5-_MH7rWPTZJJxJ8jl5mWI?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1NcOunueBaiVEkj2Y4DcGyf2jBIHlE9QQ?usp=sharing\">https://colab.research.google.com/drive/1NcOunueBaiVEkj2Y4DcGyf2jBIHlE9QQ?usp=sharing</a></p>\n\n<p>Question No. 6&nbsp;Solution:</p>\n\n<p>Modification in notebook: While calculation home_win and away_win, use bitwise AND operator-(&amp;). In solution bitwise OR is given.</p>\n\n<p><span style=\"color:#999999;\"><span style=\"background-color:#000000;\">home_win&nbsp;=&nbsp;df[(df.WinningTeam&nbsp;==&nbsp;team)&nbsp;&amp;&nbsp;(df.Team1&nbsp;==&nbsp;team)].shape[0]&nbsp;/&nbsp;df[df.Team1&nbsp;==&nbsp;team].shape[0]&nbsp;*&nbsp;100</span></span></p>\n\n<p><span style=\"color:#999999;\"><span style=\"background-color:#000000;\">away_win&nbsp;=&nbsp;df[(df.WinningTeam&nbsp;==&nbsp;team)&nbsp;&amp;&nbsp;(df.Team2&nbsp;==&nbsp;team)].shape[0]&nbsp;/&nbsp;df[df.Team2&nbsp;==&nbsp;team].shape[0]&nbsp;*&nbsp;100</span></span></p>\n",
+    "topicId": "y5elks0jt6",
+    "totalTime": 39.93639,
+    "isDescriptionHtml": true,
+    "id": "63a10d85e4b0f2d6785dafbd",
+    "title": "Task 18 Solutions",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1NcOunueBaiVEkj2Y4DcGyf2jBIHlE9QQ?usp=sharing\">https://colab.research.google.com/drive/1NcOunueBaiVEkj2Y4DcGyf2jBIHlE9QQ?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>&nbsp;</p>\n\n<p>Datasets used in the session - <a href=\"https://drive.google.com/drive/folders/1IiMIOGCv-giUV_rtF02sImgkaVuAQxkz?usp=share_link\">https://drive.google.com/drive/folders/1IiMIOGCv-giUV_rtF02sImgkaVuAQxkz?usp=share_link</a></p>\n\n<p>Notebook Link - <a href=\"https://colab.research.google.com/drive/1JZwTCZp2kbiTACzcuXmWq_FL-GRNo9ym?usp=sharing\">https://colab.research.google.com/drive/1JZwTCZp2kbiTACzcuXmWq_FL-GRNo9ym?usp=sharing</a></p>\n",
+    "title": "Session 19 - GroupBy Object in Pandas",
+    "isDescriptionHtml": true,
+    "topicId": "2f23nkrjd",
+    "type": "video",
+    "totalTime": 129,
+    "id": "63a26018e4b0646213f38cf6",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/1IiMIOGCv-giUV_rtF02sImgkaVuAQxkz?usp=share_link\">https://drive.google.com/drive/folders/1IiMIOGCv-giUV_rtF02sImgkaVuAQxkz?usp=share_link</a></p>",
+      "colab.research.google.com": "https://colab.research.google.com/drive/1JZwTCZp2kbiTACzcuXmWq_FL-GRNo9ym?usp=sharing\">https://colab.research.google.com/drive/1JZwTCZp2kbiTACzcuXmWq_FL-GRNo9ym?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63aa5008e4b04fd84e988662",
+    "title": "Task 19 Solutions",
+    "isDescriptionHtml": true,
+    "totalTime": 30.821333,
+    "topicId": "2f23nkrjd",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/157g2UZM9StxNMz-dUw2uPH-JeKn6z269?usp=sharing\">https://colab.research.google.com/drive/157g2UZM9StxNMz-dUw2uPH-JeKn6z269?usp=sharing</a></p>\n\n<p>IPL Delevries Dataset (for Q5 - to Q8, ) :&nbsp;<a href=\"https://docs.google.com/spreadsheets/d/1ROM5oTEEMXfnBHAmz3XC5lwGMgnQaw80PiXadKHRgGU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1ROM5oTEEMXfnBHAmz3XC5lwGMgnQaw80PiXadKHRgGU/edit?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/157g2UZM9StxNMz-dUw2uPH-JeKn6z269?usp=sharing\">https://colab.research.google.com/drive/157g2UZM9StxNMz-dUw2uPH-JeKn6z269?usp=sharing</a></p>",
+      "docs.google.com": "https://docs.google.com/spreadsheets/d/1ROM5oTEEMXfnBHAmz3XC5lwGMgnQaw80PiXadKHRgGU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1ROM5oTEEMXfnBHAmz3XC5lwGMgnQaw80PiXadKHRgGU/edit?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 135,
+    "id": "63a3b116e4b0c9972752e6d2",
+    "isDescriptionHtml": true,
+    "topicId": "2f23nkrjd",
+    "description": "<p>Datasets used in the session - <a href=\"https://drive.google.com/drive/folders/1tE0LxbzsVX70y8Br_VxiZas288ODDBup?usp=share_link\">https://drive.google.com/drive/folders/1tE0LxbzsVX70y8Br_VxiZas288ODDBup?usp=share_link</a></p>\n\n<p>Notebook Link - <a href=\"https://colab.research.google.com/drive/1Xs7On5fr6ZZnrwGxgMXWld2XUrniqXGj?usp=sharing\">https://colab.research.google.com/drive/1Xs7On5fr6ZZnrwGxgMXWld2XUrniqXGj?usp=sharing</a></p>\n",
+    "title": "Session 20 - Merging, Joining & Concatenating",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/1tE0LxbzsVX70y8Br_VxiZas288ODDBup?usp=share_link\">https://drive.google.com/drive/folders/1tE0LxbzsVX70y8Br_VxiZas288ODDBup?usp=share_link</a></p>",
+      "colab.research.google.com": "https://colab.research.google.com/drive/1Xs7On5fr6ZZnrwGxgMXWld2XUrniqXGj?usp=sharing\">https://colab.research.google.com/drive/1Xs7On5fr6ZZnrwGxgMXWld2XUrniqXGj?usp=sharing</a></p>"
+    }
+  },
+  {
+    "isDescriptionHtml": true,
+    "topicId": "2f23nkrjd",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1aLK7SUm8v2rRhJSU-wXyWERFMcBWC1mK?usp=sharing\">https://colab.research.google.com/drive/1aLK7SUm8v2rRhJSU-wXyWERFMcBWC1mK?usp=sharing</a></p>\n",
+    "title": "Task 20 Solutions",
+    "totalTime": 57.697334,
+    "id": "63ab4ebde4b0bab50da8f96b",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1aLK7SUm8v2rRhJSU-wXyWERFMcBWC1mK?usp=sharing\">https://colab.research.google.com/drive/1aLK7SUm8v2rRhJSU-wXyWERFMcBWC1mK?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/streamlit-basics\">https://github.com/campusx-official/streamlit-basics</a></p>\n\n<p>Learn LaTeX -&nbsp;<a href=\"https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F\">https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F</a></p>\n\n<p>Learn Markdown -&nbsp;<a href=\"https://www.markdownguide.org/basic-syntax/#images-1\">https://www.markdownguide.org/basic-syntax/#images-1</a></p>\n\n<p>Streamlit docs -&nbsp;<a href=\"https://docs.streamlit.io/library/api-reference\">https://docs.streamlit.io/library/api-reference</a></p>\n\n<p>Dataset link -&nbsp;<a href=\"https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding\">https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding</a></p>\n\n<p>Plan of Action -&nbsp;<a href=\"https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing\">https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "topicId": "2f23nkrjd",
+    "id": "63a5df99e4b0487681a5685c",
+    "totalTime": 144.77266,
+    "title": "Session on Streamlit",
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/campusx-official/streamlit-basics\">https://github.com/campusx-official/streamlit-basics</a></p>",
+      "www.overleaf.com": "https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F\">https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F</a></p>",
+      "www.markdownguide.org": "https://www.markdownguide.org/basic-syntax/#images-1\">https://www.markdownguide.org/basic-syntax/#images-1</a></p>",
+      "docs.streamlit.io": "https://docs.streamlit.io/library/api-reference\">https://docs.streamlit.io/library/api-reference</a></p>",
+      "www.kaggle.com": "https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding\">https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding</a></p>",
+      "docs.google.com": "https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing\">https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing</a></p>"
+    }
+  },
+  {
+    "title": "Pandas Case Study - Indian Startup Funding",
+    "isDescriptionHtml": true,
+    "topicId": "2f23nkrjd",
+    "id": "63a73199e4b0897b0c4a4946",
+    "totalTime": 143.324,
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/streamlit-basics\" target=\"_blank\">https://github.com/campusx-official/streamlit-basics</a></p>\n\n<p>Kaggle code -&nbsp;<a href=\"https://www.kaggle.com/campusx/startup-data-analysis\" target=\"_blank\">https://www.kaggle.com/campusx/startup-data-analysis</a></p>\n\n<p>Plan of Action -&nbsp;<a href=\"https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing\" target=\"_blank\">https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding\" target=\"_blank\">https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding</a></p>\n\n<p>&nbsp;</p>\n\n<p>Timestamp -&gt;&nbsp;0:40:50&nbsp;</p>\n\n<p># Converting date column datatype</p>\n\n<p><span style=\"background-color:#bdc3c7;\">df[&#39;date&#39;] = df[&#39;date&#39;].replace({&#39;05/072018&#39;:&#39;05/07/2018&#39;, &#39;01/07/015&#39;:&#39;01/07/2015&#39;, &#39;22/01//2015&#39;:&#39;22/01/2015&#39;})</span></p>\n\n<p><span style=\"background-color:#bdc3c7;\">df[&#39;date&#39;] = pd.to_datetime(df[&#39;date&#39;])</span></p>\n\n<p>For Issue at time 2:03:58 :<br />\nUse session state for option:<br />\n# Like below, the rest codes are&nbsp;the same as of sir&#39;s GitHub repo.</p>\n\n<p>st.session_state.option = st.sidebar.selectbox(</p>\n\n<p>&nbsp; &nbsp; &#39;Select One&#39;, [&#39;Overall Analysis&#39;, &#39;StartUp&#39;, &#39;Investor&#39;], key=&#39;analysis&#39;)</p>\n\n<p>option = st.session_state.option</p>\n\n<p>if option == &#39;Overall Analysis&#39;:</p>\n\n<p>&nbsp; &nbsp; load_overall_analysis()</p>\n\n<p>&nbsp;</p>\n\n<p>For ModuleNotFoundError at 2:13:00 :<br />\n&nbsp;-&gt; Similar Issue been resolved in&nbsp;<strong>Week 9: Project Using Plotly</strong> session from Timestamp 1:54:35</p>\n\n<p>&nbsp;</p>\n",
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/campusx-official/streamlit-basics</a></p>",
+      "www.kaggle.com": "https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding</a></p>",
+      "docs.google.com": "https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 131.09866,
+    "isDescriptionHtml": true,
+    "topicId": "2f23nkrjd",
+    "description": "<p>Download Git -&nbsp;<a href=\"https://git-scm.com/download/win\">https://git-scm.com/download/win</a></p>\n\n<p>What is GIT<br />\nWhat is VCS/SCM<br />\nExamples of VCS<br />\nWhy git/VCS is needed<br />\nTypes of VCS<br />\n- Centralized<br />\n- Distributed<br />\nAdvantages<br />\n- Version control<br />\n- Bug Fixing<br />\n- doing non-linear development<br />\n- collaborative development<br />\n************************************<br />\nHow git works? -&gt; terminology<br />\ninstalling git<br />\n************************************<br />\nCreating a repo<br />\ncloning someone else&#39;s repo<br />\nstatus<br />\n************************************<br />\nMaking Changes<br />\n- add<br />\n- commit<br />\n- When to commit?<br />\n- commit messages?<br />\n** short<br />\n** Explain what<br />\n** rule of thumb no and<br />\n** This commit will ...<br />\n- add .<br />\n- gitignore<br />\n***********************************<br />\nSeeing commits<br />\n- log -&gt; oneline -&gt; stat -&gt; p<br />\n- show<br />\n- seeing commits of someone else&#39;s repo<br />\n- diff<br />\n**********************************<br />\nCreating versions of a software<br />\n- tag-&gt;X.Y.Z<br />\nX &ndash; The major version, used for making major and backward-incompatible changes.<br />\nY &ndash; The minor version, used for adding functionality while maintaining backwards compatibility.<br />\nZ &ndash; The patch version, used for making small bug fixes while maintaining backwards compatibility.<br />\n- deleting tag<br />\n- adding tag to a past commit<br />\n**********************************<br />\n&nbsp;</p>\n\n<p>GIT PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1jmialN0Jhhuj5fl2K1N7R9LosoIjrtDb/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1jmialN0Jhhuj5fl2K1N7R9LosoIjrtDb/view?usp=sharing</a></p>\n",
+    "title": "Session on Git",
+    "id": "63a9d178e4b06e3957f6f9fc",
+    "type": "video",
+    "links": {
+      "git-scm.com": "https://git-scm.com/download/win\">https://git-scm.com/download/win</a></p>",
+      "drive.google.com": "https://drive.google.com/file/d/1jmialN0Jhhuj5fl2K1N7R9LosoIjrtDb/view?usp=sharing</a></p>"
+    }
+  },
+  {
+    "title": "Session on Git and Github Part 2",
+    "description": "<p>******************************************************<br />\nNon linear development(Branching)<br />\n******************************************************<br />\n-&gt; Scenario(Individual)<br />\n-&gt; Scenario(Team)<br />\n-&gt; Using branches -&gt; You had one branch already<br />\n-&gt; concept of head pointer<br />\nHEAD is the reference to the most recent commit in the current branch. This means HEAD is just like a pointer that keeps track of the latest commit in your current branch.<br />\n-&gt; Creating branches on head<br />\n-&gt; Creating branches on past commits<br />\n-&gt; Show all branches -&gt; Active Branch<br />\n-&gt; switch between branches-&gt;How this works?<br />\n-&gt; Understanding what will come under a branch(git log)<br />\n-&gt; Making new commits in all branches(git log)<br />\n-&gt; see all branches at once -&gt; --graph --all<br />\n-&gt; deleting branches<br />\n******************************************************<br />\nMerging Branches<br />\n******************************************************<br />\n-&gt; What is merging<br />\n-&gt; What happens at merging<br />\n** A new commit is created on merging<br />\n** look at the branches that it&#39;s going to merge<br />\n** look back along the branch&#39;s history to find a single commit that both branches have in their commit history<br />\n** combine the lines of code that were changed on the separate branches together<br />\n** makes a commit to record the merge<br />\n** Note - Merging happens at the checked out branch. No new branches are created<br />\n-&gt; Types of merging -&gt; Fast Forward -&gt; Regular(Divergent branches)<br />\n-&gt; Fast Forward -&gt; show log<br />\n-&gt; Merging Divergent Branches -&gt; show log<br />\n-&gt; Merge Conflict<br />\n(&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD) everything below this line (until the next indicator) is code of current branch<br />\n(=======) is the end of the original lines, everything that follows (until the next indicator) is what&#39;s on the branch that&#39;s being merged in<br />\n(&gt;&gt;&gt;&gt;&gt;&gt;&gt; heading-update) is the ending indicator of what&#39;s on the branch that&#39;s being merged in<br />\n-&gt; Resolving Conflicts<br />\n****************************************************************************************************<br />\nUndoing Changes<br />\n****************************************************************************************************<br />\n-&gt; editing the last commit message<br />\n-&gt; forgot to add some files to the last commit<br />\n-&gt; rolling back to a specific state using show<br />\n-&gt; revert a commit<br />\n*****************************************************************************************************<br />\nWorking with a remote repo<br />\n******************************************************************************************************<br />\n-&gt; Need -&gt; scenario-&gt; collaboration<br />\n-&gt; The flow diagram<br />\n-&gt; create a new repo on github<br />\n-&gt; add remote(git remote add origin <url>)<br />\n-&gt; push code(git push <remote-shortname> <branch-name>)<br />\n-&gt; git log -&gt; tracking branch<br />\n-&gt; add a readme file&nbsp;<br />\n-&gt; pull code</branch-name></remote-shortname></url></p>\n\n<p>GIT PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1jmialN0Jhhuj5fl2K1N7R9LosoIjrtDb/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1jmialN0Jhhuj5fl2K1N7R9LosoIjrtDb/view?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "topicId": "2f23nkrjd",
+    "totalTime": 129.28334,
+    "id": "63ab2410e4b01220335fe5f7",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/file/d/1jmialN0Jhhuj5fl2K1N7R9LosoIjrtDb/view?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63acc6e6e4b041e5174ff8dc",
+    "title": "Talking Data Science with Pranjal Yadav",
+    "totalTime": 84.70734,
+    "description": "",
+    "topicId": "2f23nkrjd",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "id": "63b4c15ae4b05b5d419e83a1",
+    "topicId": "g0ox7laja8h",
+    "totalTime": 118,
+    "isDescriptionHtml": true,
+    "description": "<p>Datasets used in the session - <a href=\"https://drive.google.com/drive/folders/1AP_M96SnIe985aQQp9SmDkz69AXHrs5t?usp=share_link\">https://drive.google.com/drive/folders/1AP_M96SnIe985aQQp9SmDkz69AXHrs5t?usp=share_link</a> Notebook Link - <a href=\"https://colab.research.google.com/drive/17l8EddlrS2Ed35frmeS6cHAvdf5Fbw-g?usp=sharing\">https://colab.research.google.com/drive/17l8EddlrS2Ed35frmeS6cHAvdf5Fbw-g?usp=sharing</a></p>\n",
+    "type": "video",
+    "title": "Session 21 - MultiIndex Series and DataFrames",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/1AP_M96SnIe985aQQp9SmDkz69AXHrs5t?usp=share_link\">https://drive.google.com/drive/folders/1AP_M96SnIe985aQQp9SmDkz69AXHrs5t?usp=share_link</a>",
+      "colab.research.google.com": "https://colab.research.google.com/drive/17l8EddlrS2Ed35frmeS6cHAvdf5Fbw-g?usp=sharing\">https://colab.research.google.com/drive/17l8EddlrS2Ed35frmeS6cHAvdf5Fbw-g?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "g0ox7laja8h",
+    "title": "Task 21 Solutions",
+    "isDescriptionHtml": true,
+    "id": "63bd6819e4b094aee111b700",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1v3YVApNLyFyK3VucW08MYg6G8Lmf2yUw?usp=sharing\">https://colab.research.google.com/drive/1v3YVApNLyFyK3VucW08MYg6G8Lmf2yUw?usp=sharing</a></p>\n",
+    "totalTime": 25.767334,
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1v3YVApNLyFyK3VucW08MYg6G8Lmf2yUw?usp=sharing\">https://colab.research.google.com/drive/1v3YVApNLyFyK3VucW08MYg6G8Lmf2yUw?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>&nbsp;</p>\n\n<p>Datasets used in the session - <a href=\"https://drive.google.com/drive/folders/1Vy1LilxgmyBiDg-UAnrBnJ5R1XBvwHGx?usp=share_link\">https://drive.google.com/drive/folders/1Vy1LilxgmyBiDg-UAnrBnJ5R1XBvwHGx?usp=share_link</a></p>\n\n<p>&nbsp;</p>\n\n<p>Notebook Link -</p>\n\n<p>Multi Index Object :&nbsp;<a href=\"https://colab.research.google.com/drive/17l8EddlrS2Ed35frmeS6cHAvdf5Fbw-g?usp=sharing\">https://colab.research.google.com/drive/17l8EddlrS2Ed35frmeS6cHAvdf5Fbw-g?usp=sharing</a></p>\n\n<p>Strings :&nbsp;<a href=\"https://colab.research.google.com/drive/1IbvN3BABXN2sgxNr3EckyB_WO4tP0EpE?usp=sharing\">https://colab.research.google.com/drive/1IbvN3BABXN2sgxNr3EckyB_WO4tP0EpE?usp=sharing</a></p>\n\n<p>Date Time :&nbsp;<a href=\"https://colab.research.google.com/drive/1zkfBGu48iLfJWNzAosD_qbCjzi7dYf8-?usp=sharing\">https://colab.research.google.com/drive/1zkfBGu48iLfJWNzAosD_qbCjzi7dYf8-?usp=sharing</a></p>\n",
+    "id": "63b78574e4b08cee120328e8",
+    "topicId": "g0ox7laja8h",
+    "isDescriptionHtml": true,
+    "totalTime": 126,
+    "title": "Session 22 - Vectorized String Operations | DateTime in Pandas | Pivot Table",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/1Vy1LilxgmyBiDg-UAnrBnJ5R1XBvwHGx?usp=share_link\">https://drive.google.com/drive/folders/1Vy1LilxgmyBiDg-UAnrBnJ5R1XBvwHGx?usp=share_link</a></p>",
+      "colab.research.google.com": "https://colab.research.google.com/drive/1zkfBGu48iLfJWNzAosD_qbCjzi7dYf8-?usp=sharing\">https://colab.research.google.com/drive/1zkfBGu48iLfJWNzAosD_qbCjzi7dYf8-?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 42.216667,
+    "id": "63c6a401e4b0edd0e1e1428d",
+    "topicId": "g0ox7laja8h",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1EV72ez6mbkzdyJvJdq3fFS0KmXAxYfGx?usp=sharing\">https://colab.research.google.com/drive/1EV72ez6mbkzdyJvJdq3fFS0KmXAxYfGx?usp=sharing</a></p>\n",
+    "title": "Task 22 Solutions",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1EV72ez6mbkzdyJvJdq3fFS0KmXAxYfGx?usp=sharing\">https://colab.research.google.com/drive/1EV72ez6mbkzdyJvJdq3fFS0KmXAxYfGx?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63b857bfe4b05b35d750224e",
+    "topicId": "g0ox7laja8h",
+    "isDescriptionHtml": true,
+    "title": "Pandas Case Study - Time Series Analysis",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/12G4cSJkdYAE6tLjilZ90ou_YfP1xXij8?usp=sharing\">https://colab.research.google.com/drive/12G4cSJkdYAE6tLjilZ90ou_YfP1xXij8?usp=sharing</a></p>\n\n<p>Datasets -&nbsp;<a href=\"https://drive.google.com/drive/folders/15WZn-YqSRbEAMM3ErlDdm3zDu6m47tUb?usp=share_link\">https://drive.google.com/drive/folders/15WZn-YqSRbEAMM3ErlDdm3zDu6m47tUb?usp=share_link</a></p>\n",
+    "totalTime": 147.68266,
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/12G4cSJkdYAE6tLjilZ90ou_YfP1xXij8?usp=sharing\">https://colab.research.google.com/drive/12G4cSJkdYAE6tLjilZ90ou_YfP1xXij8?usp=sharing</a></p>",
+      "drive.google.com": "https://drive.google.com/drive/folders/15WZn-YqSRbEAMM3ErlDdm3zDu6m47tUb?usp=share_link\">https://drive.google.com/drive/folders/15WZn-YqSRbEAMM3ErlDdm3zDu6m47tUb?usp=share_link</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://www.kaggle.com/campusx/pandas-on-nlp-data\">https://www.kaggle.com/campusx/pandas-on-nlp-data</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews\">https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews</a></p>\n",
+    "id": "63b9ab4ae4b0b52856b61bea",
+    "totalTime": 160.13467,
+    "topicId": "g0ox7laja8h",
+    "isDescriptionHtml": true,
+    "title": "Pandas Case Study 2 - Working with textual data",
+    "type": "video",
+    "links": {
+      "www.kaggle.com": "https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews\">https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews</a></p>"
+    }
+  },
+  {
+    "topicId": "9i84mcqktlj",
+    "isDescriptionHtml": true,
+    "totalTime": 127,
+    "id": "63bcb91ce4b04cd45e269d70",
+    "title": "Session 23 - Plotting using Matplotlib",
+    "description": "<p>Datasets used in the session - <a href=\"https://drive.google.com/drive/folders/1_TyTVEMxhEoIs1nsU4V_p1rH5x4jLSiW?usp=share_link\">https://drive.google.com/drive/folders/1_TyTVEMxhEoIs1nsU4V_p1rH5x4jLSiW?usp=share_link</a> Notebook Links -<a href=\"https://colab.research.google.com/drive/1ksmroQtN_KoCeJzpzPgGAbLv0UG_6G_a?usp=sharing\">https://colab.research.google.com/drive/1ksmroQtN_KoCeJzpzPgGAbLv0UG_6G_a?usp=sharing</a></p>\n",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/1_TyTVEMxhEoIs1nsU4V_p1rH5x4jLSiW?usp=share_link\">https://drive.google.com/drive/folders/1_TyTVEMxhEoIs1nsU4V_p1rH5x4jLSiW?usp=share_link</a>",
+      "colab.research.google.com": "https://colab.research.google.com/drive/1ksmroQtN_KoCeJzpzPgGAbLv0UG_6G_a?usp=sharing\">https://colab.research.google.com/drive/1ksmroQtN_KoCeJzpzPgGAbLv0UG_6G_a?usp=sharing</a></p>"
+    }
+  },
+  {
+    "title": "Task 23 Solutions",
+    "topicId": "9i84mcqktlj",
+    "isDescriptionHtml": true,
+    "type": "video",
+    "id": "63d20b48e4b06b216683d3d3",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1ssQKshkqJvIKnphx0JQfClJqt_vS67rb?usp=sharing\">https://colab.research.google.com/drive/1ssQKshkqJvIKnphx0JQfClJqt_vS67rb?usp=sharing</a></p>\n",
+    "totalTime": 43.168335,
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1ssQKshkqJvIKnphx0JQfClJqt_vS67rb?usp=sharing\">https://colab.research.google.com/drive/1ssQKshkqJvIKnphx0JQfClJqt_vS67rb?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63bf669ce4b001561b1f6738",
+    "title": "Session 24 - Advanced Matplotlib",
+    "topicId": "9i84mcqktlj",
+    "isDescriptionHtml": true,
+    "description": "<p>Datasets used in the session - <a href=\"https://drive.google.com/drive/folders/17q7WRLJ7hdkA7nk8J_GUTEcZ7WHgPKUg?usp=share_link\">https://drive.google.com/drive/folders/17q7WRLJ7hdkA7nk8J_GUTEcZ7WHgPKUg?usp=share_link</a></p>\n\n<p>Notebook Links - <a href=\"https://colab.research.google.com/drive/14TP6tNzUT5M0YfgzwTMF_6WBuQkLUgXp?usp=sharing\">https://colab.research.google.com/drive/14TP6tNzUT5M0YfgzwTMF_6WBuQkLUgXp?usp=sharing</a></p>\n",
+    "totalTime": 133,
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/17q7WRLJ7hdkA7nk8J_GUTEcZ7WHgPKUg?usp=share_link\">https://drive.google.com/drive/folders/17q7WRLJ7hdkA7nk8J_GUTEcZ7WHgPKUg?usp=share_link</a></p>",
+      "colab.research.google.com": "https://colab.research.google.com/drive/14TP6tNzUT5M0YfgzwTMF_6WBuQkLUgXp?usp=sharing\">https://colab.research.google.com/drive/14TP6tNzUT5M0YfgzwTMF_6WBuQkLUgXp?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "9i84mcqktlj",
+    "title": "Task 24 Solutions",
+    "isDescriptionHtml": true,
+    "id": "63dcfccae4b037e33c9b5fb5",
+    "totalTime": 40.178333,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1TXxHzzrAgXCrbzp3kkqsf8OBnuQlZzI3?usp=sharing\">https://colab.research.google.com/drive/1TXxHzzrAgXCrbzp3kkqsf8OBnuQlZzI3?usp=sharing</a></p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1TXxHzzrAgXCrbzp3kkqsf8OBnuQlZzI3?usp=sharing\">https://colab.research.google.com/drive/1TXxHzzrAgXCrbzp3kkqsf8OBnuQlZzI3?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/11Ya6Pi2pNoHT3yLr2fGbl-Zd6cz67x4M?usp=sharing\">https://colab.research.google.com/drive/11Ya6Pi2pNoHT3yLr2fGbl-Zd6cz67x4M?usp=sharing</a></p>\n",
+    "totalTime": 134.91667,
+    "topicId": "9i84mcqktlj",
+    "isDescriptionHtml": true,
+    "id": "63c18e18e4b021234eba7d56",
+    "title": "Session on Plotly(Express)",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/11Ya6Pi2pNoHT3yLr2fGbl-Zd6cz67x4M?usp=sharing\">https://colab.research.google.com/drive/11Ya6Pi2pNoHT3yLr2fGbl-Zd6cz67x4M?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63c20485e4b012865b6d87da",
+    "topicId": "9i84mcqktlj",
+    "description": "",
+    "title": "Session on Plotly Graph Objects",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "title": "Dash basic introduction",
+    "id": "63c2049de4b012865b6d87db",
+    "topicId": "9i84mcqktlj",
+    "description": "",
+    "totalTime": 31.963333,
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "description": "You can get the code and datasets from here: https://github.com/campusx-official/campusx-official\n\nDataset : https://github.com/NitRookies/COVID19_Codechef/",
+    "title": "Making a Corona virus(Covid-19) Dashboard using Plotly and Dash",
+    "totalTime": 115,
+    "topicId": "9i84mcqktlj",
+    "isDescriptionHtml": false,
+    "id": "63c2052ae4b012865b6d888f",
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/NitRookies/COVID19_Codechef/"
+    }
+  },
+  {
+    "id": "63c20543e4b012865b6d889a",
+    "topicId": "9i84mcqktlj",
+    "description": "",
+    "title": "Deploying a Dash application on Heroku",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "totalTime": 129.544,
+    "topicId": "9i84mcqktlj",
+    "description": "<p>Datasets - <a href=\"https://www.kaggle.com/datasets/sirpunch/indian-census-data-with-geospatial-indexing\">https://www.kaggle.com/datasets/sirpunch/indian-census-data-with-geospatial-indexing</a></p>\n\n<p><a href=\"https://www.kaggle.com/datasets/danofer/india-census?select=india-districts-census-2011.csv\">https://www.kaggle.com/datasets/danofer/india-census?select=india-districts-census-2011.csv</a></p>\n\n<p>Kaggle Notebook - <a href=\"https://www.kaggle.com/code/campusx/notebook1f43313be3\">https://www.kaggle.com/code/campusx/notebook1f43313be3</a></p>\n\n<p>Project Files - <a href=\"https://github.com/campusx-official/india-data-viz-mini-project\">https://github.com/campusx-official/india-data-viz-mini-project</a></p>\n\n<p>&nbsp;</p>\n\n<p>For ModuleNotFoundError in <strong>Session Indian Startup Funding</strong> at timestamp : 2:13:00 :<br />\n&nbsp;-&gt; Similar Issue been resolved in this&nbsp;session from Timestamp 1:54:35</p>\n",
+    "isDescriptionHtml": true,
+    "id": "63c2de64e4b0b3b0fa0715fb",
+    "title": "Project using Plotly",
+    "type": "video",
+    "links": {
+      "www.kaggle.com": "https://www.kaggle.com/code/campusx/notebook1f43313be3\">https://www.kaggle.com/code/campusx/notebook1f43313be3</a></p>",
+      "github.com": "https://github.com/campusx-official/india-data-viz-mini-project\">https://github.com/campusx-official/india-data-viz-mini-project</a></p>"
+    }
+  },
+  {
+    "id": "63c5f69fe4b04397e25d84d4",
+    "isDescriptionHtml": true,
+    "title": "Session 25 - Plotting using Seaborn",
+    "topicId": "ml3thfmh3l",
+    "totalTime": 110,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1_Mk2NWYBzNxICokEtJFxsf6haq_1YIDA?usp=sharing\">https://colab.research.google.com/drive/1_Mk2NWYBzNxICokEtJFxsf6haq_1YIDA?usp=sharing</a></p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1_Mk2NWYBzNxICokEtJFxsf6haq_1YIDA?usp=sharing\">https://colab.research.google.com/drive/1_Mk2NWYBzNxICokEtJFxsf6haq_1YIDA?usp=sharing</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1uWh7VoNYpBDzkeOhOfWiDT_fvYGxHN8B?usp=sharing\">https://colab.research.google.com/drive/1uWh7VoNYpBDzkeOhOfWiDT_fvYGxHN8B?usp=sharing</a></p>\n",
+    "totalTime": 20.697222,
+    "id": "63db27dfe4b0a98afc112807",
+    "isDescriptionHtml": true,
+    "title": "Task 25 Solutions",
+    "topicId": "ml3thfmh3l",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1uWh7VoNYpBDzkeOhOfWiDT_fvYGxHN8B?usp=sharing\">https://colab.research.google.com/drive/1uWh7VoNYpBDzkeOhOfWiDT_fvYGxHN8B?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63c9ecade4b0890d80c66067",
+    "title": "Session 26 - Plotting using Seaborn Part 2",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/18GuhOaBBhaBJ9RtVNHRJQzNxNPPSKBrD?usp=sharing\">https://colab.research.google.com/drive/18GuhOaBBhaBJ9RtVNHRJQzNxNPPSKBrD?usp=sharing</a><br />\n<br />\nSeaborn Theming and Color Palette:&nbsp;<a href=\"https://colab.research.google.com/drive/1FjKejgCJwUsxm_XYiRf25-jCvW4rDK64?usp=sharing\">https://colab.research.google.com/drive/1FjKejgCJwUsxm_XYiRf25-jCvW4rDK64?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "totalTime": 101,
+    "topicId": "ml3thfmh3l",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1FjKejgCJwUsxm_XYiRf25-jCvW4rDK64?usp=sharing\">https://colab.research.google.com/drive/1FjKejgCJwUsxm_XYiRf25-jCvW4rDK64?usp=sharing</a></p>"
+    }
+  },
+  {
+    "title": "Task 26 Solutions",
+    "totalTime": 30.24,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/19MufvB3-9Owf72SZFheBwnqu0_yU_8VW?usp=sharing\">https://colab.research.google.com/drive/19MufvB3-9Owf72SZFheBwnqu0_yU_8VW?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "topicId": "ml3thfmh3l",
+    "id": "63db9b17e4b0f02d44c10118",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/19MufvB3-9Owf72SZFheBwnqu0_yU_8VW?usp=sharing\">https://colab.research.google.com/drive/19MufvB3-9Owf72SZFheBwnqu0_yU_8VW?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63cd46b4e4b0ee3393111820",
+    "isDescriptionHtml": true,
+    "title": "Session on Open Source Software Part 1",
+    "topicId": "ml3thfmh3l",
+    "description": "<p>Github discussions -&nbsp;<a href=\"https://resources.github.com/devops/process/planning/discussions/\">https://resources.github.com/devops/process/planning/discussions/</a></p>\n\n<p>Github Projects -&nbsp;<a href=\"https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects\">https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects</a></p>\n\n<p>Github Actions -&nbsp;<a href=\"https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions\">https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions</a></p>\n\n<p>&nbsp;</p>\n",
+    "totalTime": 60.15222,
+    "type": "video",
+    "links": {
+      "resources.github.com": "https://resources.github.com/devops/process/planning/discussions/\">https://resources.github.com/devops/process/planning/discussions/</a></p>",
+      "docs.github.com": "https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions\">https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions</a></p>"
+    }
+  },
+  {
+    "totalTime": 69.628334,
+    "isDescriptionHtml": true,
+    "topicId": "ml3thfmh3l",
+    "id": "63cfd54ee4b01bbcb2c76bc3",
+    "description": "<p>Websites</p>\n\n<p><a href=\"https://github.com/explore\">https://github.com/explore</a></p>\n\n<p><a href=\"https://www.codetriage.com/?language=Python\">https://www.codetriage.com/?language=Python</a></p>\n\n<p><a href=\"https://firstcontributions.github.io/#project-list\">https://firstcontributions.github.io/#project-list</a></p>\n\n<p><a href=\"https://www.firsttimersonly.com/\">https://www.firsttimersonly.com/</a></p>\n\n<p><a href=\"https://24pullrequests.com/\">https://24pullrequests.com/</a></p>\n\n<p><a href=\"https://summerofcode.withgoogle.com/archive/2022/organizations\">https://summerofcode.withgoogle.com/archive/2022/organizations</a></p>\n\n<p><a href=\"https://hacktoberfest.com/\">https://hacktoberfest.com/</a></p>\n",
+    "title": "Session on Open Source Software Part 2",
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/explore\">https://github.com/explore</a></p>",
+      "www.codetriage.com": "https://www.codetriage.com/?language=Python\">https://www.codetriage.com/?language=Python</a></p>",
+      "firstcontributions.github.io": "https://firstcontributions.github.io/#project-list\">https://firstcontributions.github.io/#project-list</a></p>",
+      "www.firsttimersonly.com": "https://www.firsttimersonly.com/\">https://www.firsttimersonly.com/</a></p>",
+      "24pullrequests.com": "https://24pullrequests.com/\">https://24pullrequests.com/</a></p>",
+      "summerofcode.withgoogle.com": "https://summerofcode.withgoogle.com/archive/2022/organizations\">https://summerofcode.withgoogle.com/archive/2022/organizations</a></p>",
+      "hacktoberfest.com": "https://hacktoberfest.com/\">https://hacktoberfest.com/</a></p>"
+    }
+  },
+  {
+    "totalTime": 170,
+    "title": "Session 27 - Data Gathering | Data Analysis Process",
+    "id": "63cfd66fe4b0b6b830cd3786",
+    "description": "<p>Codes:</p>\n\n<p><a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day15%20-%20working%20with%20csv%20files\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day15%20-%20working%20with%20csv%20files</a></p>\n\n<p><a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day16%20-%20working-with-json-and-sql\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day16%20-%20working-with-json-and-sql</a></p>\n\n<p><a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day17-api-to-dataframe\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day17-api-to-dataframe</a></p>\n\n<p><a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day18-pandas-dataframe-using-web-scraping\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day18-pandas-dataframe-using-web-scraping</a></p>\n\n<p><a href=\"https://github.com/campusx-official/pandas-io\">https://github.com/campusx-official/pandas-io</a></p>\n\n<p>&nbsp;</p>\n\n<p>Update:<br />\n@55:45 : Below screenshot is or similar example. There is a mistake in the video, instead of&nbsp;<strong>chunks</strong></p>\n\n<p>in the for loop, it is <strong>chunk.</strong></p>\n\n<p><img alt=\"image.png\" src=\"https://mail.google.com/mail/u/1?ui=2&amp;ik=68caf9154b&amp;attid=0.1&amp;permmsgid=msg-a:r-8228710238440130969&amp;th=18d7f77b681ce84b&amp;view=fimg&amp;fur=ip&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ9AMkdOQ9DN-xcuAq0BOYrgfeWdRBLgzWo0hsqtvEp14yH6BOtSTbEfoiBRXny6Jca5PeICyu4GMOPQS8lxgG-PjdzCOcZMWcQ5GHNeoi66spx9qBPD0JXdzwI&amp;disp=emb&amp;realattid=ii_lsamrppg0\" /></p>\n",
+    "isDescriptionHtml": true,
+    "topicId": "j5kodpnubdg",
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/campusx-official/pandas-io\">https://github.com/campusx-official/pandas-io</a></p>",
+      "mail.google.com": "https://mail.google.com/mail/u/1?ui=2&amp;ik=68caf9154b&amp;attid=0.1&amp;permmsgid=msg-a:r-8228710238440130969&amp;th=18d7f77b681ce84b&amp;view=fimg&amp;fur=ip&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ9AMkdOQ9DN-xcuAq0BOYrgfeWdRBLgzWo0hsqtvEp14yH6BOtSTbEfoiBRXny6Jca5PeICyu4GMOPQS8lxgG-PjdzCOcZMWcQ5GHNeoi66spx9qBPD0JXdzwI&amp;disp=emb&amp;realattid=ii_lsamrppg0\""
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1rTHjrE289QWSHD_I8UL_DAw_WzYMS5bh?usp=sharing\">https://colab.research.google.com/drive/1rTHjrE289QWSHD_I8UL_DAw_WzYMS5bh?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "id": "63e98a85e4b037057eb26072",
+    "title": "Task 27 Solutions",
+    "totalTime": 56.73,
+    "topicId": "j5kodpnubdg",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1rTHjrE289QWSHD_I8UL_DAw_WzYMS5bh?usp=sharing\">https://colab.research.google.com/drive/1rTHjrE289QWSHD_I8UL_DAw_WzYMS5bh?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 147,
+    "isDescriptionHtml": true,
+    "title": "Session 28 - Data Assessing and Cleaning",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1ca-jlBvJ4uqpbCHFFgCFp9akIY7FSmGc?usp=sharing\">https://colab.research.google.com/drive/1ca-jlBvJ4uqpbCHFFgCFp9akIY7FSmGc?usp=sharing</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://github.com/campusx-official/data-wrangling\">https://github.com/campusx-official/data-wrangling</a></p>\n\n<p>&nbsp;</p>\n\n<p>For error at 2:03:00 : &#39;float&#39; type is not subscriptable while extracting Phone number and email, use below code.</p>\n\n<p># For Phone Number</p>\n\n<p>patients_df[&quot;contact&quot;].apply(lambda x: find_contact_details(x)).apply(lambda x:&#39;No data&#39; if type(x[0])==float else x[0][-1])</p>\n\n<p># For Email:</p>\n\n<p>patients_df[&quot;contact&quot;].apply(lambda x: find_contact_details(x)).apply(lambda x:x[1])</p>\n",
+    "topicId": "j5kodpnubdg",
+    "id": "63d1d4b1e4b061f963af5bea",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1ca-jlBvJ4uqpbCHFFgCFp9akIY7FSmGc?usp=sharing\">https://colab.research.google.com/drive/1ca-jlBvJ4uqpbCHFFgCFp9akIY7FSmGc?usp=sharing</a></p>",
+      "github.com": "https://github.com/campusx-official/data-wrangling\">https://github.com/campusx-official/data-wrangling</a></p>"
+    }
+  },
+  {
+    "totalTime": 133.778,
+    "title": "Session on ETL using AWS RDS",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing\">https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020\">https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020</a></p>\n\n<p><a href=\"https://www.kaggle.com/datasets/harsha547/indian-premier-league-csv-dataset\">https://www.kaggle.com/datasets/harsha547/indian-premier-league-csv-dataset</a></p>\n\n<p>Dream11 -&nbsp;<a href=\"https://www.dream11.com/games/point-system\">https://www.dream11.com/games/point-system</a></p>\n",
+    "topicId": "j5kodpnubdg",
+    "id": "63d40658e4b048d3a94e98fd",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing\">https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing</a></p>",
+      "www.kaggle.com": "https://www.kaggle.com/datasets/harsha547/indian-premier-league-csv-dataset\">https://www.kaggle.com/datasets/harsha547/indian-premier-league-csv-dataset</a></p>",
+      "www.dream11.com": "https://www.dream11.com/games/point-system\">https://www.dream11.com/games/point-system</a></p>"
+    }
+  },
+  {
+    "isDescriptionHtml": true,
+    "type": "video",
+    "title": "Session on Advanced Web Scraping using Selenium",
+    "id": "63d56204e4b03e18a7760572",
+    "topicId": "j5kodpnubdg",
+    "description": "<p>Code - <a href=\"https://github.com/campusx-official/advanced-web-scraping\">https://github.com/campusx-official/advanced-web-scraping</a></p>\n\n<p>Chrome Driver - <a href=\"https://chromedriver.chromium.org/downloads\">https://chromedriver.chromium.org/downloads</a></p>\n\n<p>Selenium docs - <a href=\"https://selenium-python.readthedocs.io/\">https://selenium-python.readthedocs.io/</a></p>\n",
+    "totalTime": 186.20734,
+    "links": {
+      "github.com": "https://github.com/campusx-official/advanced-web-scraping\">https://github.com/campusx-official/advanced-web-scraping</a></p>",
+      "chromedriver.chromium.org": "https://chromedriver.chromium.org/downloads\">https://chromedriver.chromium.org/downloads</a></p>",
+      "selenium-python.readthedocs.io": "https://selenium-python.readthedocs.io/\">https://selenium-python.readthedocs.io/</a></p>"
+    }
+  },
+  {
+    "topicId": "9nm2mhby94",
+    "id": "63d7f8dae4b08084f0a4ffeb",
+    "title": "Session on Data Cleaning Case Study - Smartphone dataset",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing\">https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://docs.google.com/spreadsheets/d/1oBG0ZtYiWzehWa1K6pV8huMtVEJxCY4C9vPaGCt1_gU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1oBG0ZtYiWzehWa1K6pV8huMtVEJxCY4C9vPaGCt1_gU/edit?usp=sharing</a></p>\n",
+    "totalTime": 130.81134,
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing\">https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing</a></p>",
+      "docs.google.com": "https://docs.google.com/spreadsheets/d/1oBG0ZtYiWzehWa1K6pV8huMtVEJxCY4C9vPaGCt1_gU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1oBG0ZtYiWzehWa1K6pV8huMtVEJxCY4C9vPaGCt1_gU/edit?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63db1768e4b0a98afc1121f1",
+    "totalTime": 150,
+    "topicId": "9nm2mhby94",
+    "isDescriptionHtml": true,
+    "title": "Session 29 - Exploratory Data Analysis (Titanic Dataset)",
+    "description": "<p>Notebook Link:&nbsp;<a href=\"https://colab.research.google.com/drive/13rFqQJqU5RgxSdtUARZAUrzAoweE3rbQ?usp=sharing\">https://colab.research.google.com/drive/13rFqQJqU5RgxSdtUARZAUrzAoweE3rbQ?usp=sharing</a></p>\n\n<p>---------------------------------------------------------------------------------------------------------------------------------------- Dataset Link : <a href=\"https://drive.google.com/drive/folders/1oFZxHRuAw_JI7soe46mmO61s-WM7jtQg?usp=share_link\">https://drive.google.com/drive/folders/1oFZxHRuAw_JI7soe46mmO61s-WM7jtQg?usp=share_link</a></p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/13rFqQJqU5RgxSdtUARZAUrzAoweE3rbQ?usp=sharing\">https://colab.research.google.com/drive/13rFqQJqU5RgxSdtUARZAUrzAoweE3rbQ?usp=sharing</a></p>",
+      "drive.google.com": "https://drive.google.com/drive/folders/1oFZxHRuAw_JI7soe46mmO61s-WM7jtQg?usp=share_link\">https://drive.google.com/drive/folders/1oFZxHRuAw_JI7soe46mmO61s-WM7jtQg?usp=share_link</a></p>"
+    }
+  },
+  {
+    "title": "How to build a LinkedIn Profile",
+    "topicId": "9nm2mhby94",
+    "description": "",
+    "id": "63e1a1c7e4b047acccba1118",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing\">https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing</a></p>\n",
+    "totalTime": 148.942,
+    "topicId": "9nm2mhby94",
+    "isDescriptionHtml": true,
+    "title": "Session on Data Cleaning Part 2",
+    "id": "63dd4280e4b0774b499babc6",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing\">https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63de92e3e4b0225b7fe76191",
+    "topicId": "9nm2mhby94",
+    "isDescriptionHtml": true,
+    "totalTime": 149.59933,
+    "title": "Session on EDA Case Study - Smartphones Dataset",
+    "description": "<p>EDA code -&nbsp;<a href=\"https://colab.research.google.com/drive/1CLkCDQAFZfNmLO0MRf14bTKbnV-1NtMs?usp=sharing\">https://colab.research.google.com/drive/1CLkCDQAFZfNmLO0MRf14bTKbnV-1NtMs?usp=sharing</a></p>\n\n<p>Data Cleaning round 1 code -&nbsp;<a href=\"https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing\">https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing</a></p>\n\n<p>Data Cleaning round 2 code -&nbsp;<a href=\"https://colab.research.google.com/drive/1E7nUdvyKpm6C-4oIw67rV6EufLEeCTrx?usp=sharing\">https://colab.research.google.com/drive/1E7nUdvyKpm6C-4oIw67rV6EufLEeCTrx?usp=sharing</a></p>\n\n<p>Dataset (v3 &amp; v5): <a href=\"https://drive.google.com/drive/folders/1xujCj-9CAwtenyPdtU07bMPXomarOSoV?usp=share_link\">https://drive.google.com/drive/folders/1xujCj-9CAwtenyPdtU07bMPXomarOSoV?usp=share_link</a></p>\n",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1E7nUdvyKpm6C-4oIw67rV6EufLEeCTrx?usp=sharing\">https://colab.research.google.com/drive/1E7nUdvyKpm6C-4oIw67rV6EufLEeCTrx?usp=sharing</a></p>",
+      "drive.google.com": "https://drive.google.com/drive/folders/1xujCj-9CAwtenyPdtU07bMPXomarOSoV?usp=share_link\">https://drive.google.com/drive/folders/1xujCj-9CAwtenyPdtU07bMPXomarOSoV?usp=share_link</a></p>"
+    }
+  },
+  {
+    "description": "<p><a href=\"https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/\" target=\"_blank\">https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/</a></p>\n\n<p><a href=\"https://www.crio.do/blog/what-is-redis/\" target=\"_blank\">https://www.crio.do/blog/what-is-redis/</a></p>\n\n<p><strong>Handwritten Note used in this session:</strong> <a href=\"https://drive.google.com/file/d/1mSKBgj5OoQrEbGoV1cSabaHtNNLZIf_n/view?usp=share_link\" target=\"_blank\">drive.google.com/file/d/1mSKBgj5OoQrEbGoV1cSabaHtNNLZIf_n/view?usp=share_link</a></p>\n",
+    "totalTime": 135,
+    "title": "Session 30 - Database Fundamentals",
+    "isDescriptionHtml": true,
+    "topicId": "j5rzvyd1g2",
+    "id": "63e1a291e4b0617e7b1ab44a",
+    "type": "video",
+    "links": {
+      "dataschool.com": "https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/</a></p>",
+      "www.crio.do": "https://www.crio.do/blog/what-is-redis/</a></p>",
+      "drive.google.com": "https://drive.google.com/file/d/1mSKBgj5OoQrEbGoV1cSabaHtNNLZIf_n/view?usp=share_link\""
+    }
+  },
+  {
+    "id": "63e438dfe4b0694fa487b37d",
+    "totalTime": 125,
+    "isDescriptionHtml": true,
+    "description": "<p>Notebook pdf :&nbsp;<a href=\"https://drive.google.com/file/d/146GPq4K7135qOVwggYZ4zjbWhX8J0p8W/view\">https://drive.google.com/file/d/146GPq4K7135qOVwggYZ4zjbWhX8J0p8W/view</a></p>\n",
+    "title": "Session 31 - SQL DDL Commands",
+    "topicId": "j5rzvyd1g2",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/file/d/146GPq4K7135qOVwggYZ4zjbWhX8J0p8W/view\">https://drive.google.com/file/d/146GPq4K7135qOVwggYZ4zjbWhX8J0p8W/view</a></p>"
+    }
+  },
+  {
+    "title": "Session 1 on Tableau - Olympics Dataset",
+    "isDescriptionHtml": true,
+    "totalTime": 103.95611,
+    "id": "63e72fe4e4b0a9434cc4adc1",
+    "description": "<p>Data -&nbsp;<a href=\"https://drive.google.com/drive/folders/1aq6Xmi3KQ6uQfejOSVGl1IMRwd9OQDHc?usp=share_link\">https://drive.google.com/drive/folders/1aq6Xmi3KQ6uQfejOSVGl1IMRwd9OQDHc?usp=share_link</a></p>\n",
+    "topicId": "j5rzvyd1g2",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/1aq6Xmi3KQ6uQfejOSVGl1IMRwd9OQDHc?usp=share_link\">https://drive.google.com/drive/folders/1aq6Xmi3KQ6uQfejOSVGl1IMRwd9OQDHc?usp=share_link</a></p>"
+    }
+  },
+  {
+    "description": "<p>SQL Operators:&nbsp;<a href=\"https://drive.google.com/file/d/13Cu0VUqbENcUX76bx_aoBS0EAtzDPDrE/view\" target=\"_blank\">https://drive.google.com/file/d/13Cu0VUqbENcUX76bx_aoBS0EAtzDPDrE/view</a></p>\n\n<p>Dataset :&nbsp;<a href=\"https://drive.google.com/drive/folders/1rN2AkOfuJEhroHqRuECshxBKhz0gJBeJ\" target=\"_blank\">https://drive.google.com/drive/folders/1rN2AkOfuJEhroHqRuECshxBKhz0gJBeJ</a></p>\n",
+    "title": "Session 32 - SQL DML Commands",
+    "totalTime": 124,
+    "isDescriptionHtml": true,
+    "id": "63ec3f95e4b0b4764e55b60c",
+    "topicId": "brhi74oeaai",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/1rN2AkOfuJEhroHqRuECshxBKhz0gJBeJ</a></p>"
+    }
+  },
+  {
+    "title": "Task 32 Solutions",
+    "id": "63f6fb82e4b088889d94e967",
+    "isDescriptionHtml": true,
+    "description": "<p>Solution - <a href=\"https://docs.google.com/document/d/1vYRCL6rKlUi07hlNPZH2I48om65XZKuLl3h-6APfbFM/edit?usp=sharing\">https://docs.google.com/document/d/1vYRCL6rKlUi07hlNPZH2I48om65XZKuLl3h-6APfbFM/edit?usp=sharing</a></p>\n",
+    "topicId": "brhi74oeaai",
+    "totalTime": 14.339723,
+    "type": "video",
+    "links": {
+      "docs.google.com": "https://docs.google.com/document/d/1vYRCL6rKlUi07hlNPZH2I48om65XZKuLl3h-6APfbFM/edit?usp=sharing\">https://docs.google.com/document/d/1vYRCL6rKlUi07hlNPZH2I48om65XZKuLl3h-6APfbFM/edit?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63ed7bade4b05d7f4ef1c6d9",
+    "description": "<p>Dataset -&nbsp;<a href=\"https://drive.google.com/file/d/1FQ_rZm_fvak-rVd85jlWLe1XFT_BpcMZ/view?usp=share_link\" target=\"_blank\">https://drive.google.com/file/d/1FQ_rZm_fvak-rVd85jlWLe1XFT_BpcMZ/view?usp=share_link</a></p>\n",
+    "title": "Session 33 - SQL Grouping + Sorting",
+    "totalTime": 125,
+    "isDescriptionHtml": true,
+    "topicId": "brhi74oeaai",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/file/d/1FQ_rZm_fvak-rVd85jlWLe1XFT_BpcMZ/view?usp=share_link</a></p>"
+    }
+  },
+  {
+    "totalTime": 34.83972,
+    "id": "63fde180e4b04b26bfec7f15",
+    "isDescriptionHtml": true,
+    "description": "<p>Solutions -&nbsp;<a href=\"https://docs.google.com/document/d/1gRhJp2OY3UqHQ3Cs5812zddHM3zxa5gerERS2ZoboZU/edit?usp=sharing\">https://docs.google.com/document/d/1gRhJp2OY3UqHQ3Cs5812zddHM3zxa5gerERS2ZoboZU/edit?usp=sharing</a></p>\n",
+    "title": "Task 33 Solutions",
+    "topicId": "brhi74oeaai",
+    "type": "video",
+    "links": {
+      "docs.google.com": "https://docs.google.com/document/d/1gRhJp2OY3UqHQ3Cs5812zddHM3zxa5gerERS2ZoboZU/edit?usp=sharing\">https://docs.google.com/document/d/1gRhJp2OY3UqHQ3Cs5812zddHM3zxa5gerERS2ZoboZU/edit?usp=sharing</a></p>"
+    }
+  },
+  {
+    "title": "Career Pe Charcha - Soft Skills Masterclass",
+    "description": "",
+    "topicId": "brhi74oeaai",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "id": "63ee5ddbe4b0d648decc3a4f",
+    "type": "video",
+    "links": {}
+  },
+  {
+    "totalTime": 108.12,
+    "id": "63efada5e4b076261dcf2f75",
+    "title": "Career QnA",
+    "isDescriptionHtml": true,
+    "topicId": "brhi74oeaai",
+    "description": "<p>Code -&nbsp;<a href=\"https://www.kaggle.com/datasets/benroshan/ecommerce-data\">https://www.kaggle.com/datasets/benroshan/ecommerce-data</a></p>\n",
+    "type": "video",
+    "links": {
+      "www.kaggle.com": "https://www.kaggle.com/datasets/benroshan/ecommerce-data\">https://www.kaggle.com/datasets/benroshan/ecommerce-data</a></p>"
+    }
+  },
+  {
+    "id": "63f1055fe4b0f75d2fa72709",
+    "title": "Session 2 on Tableau - Sales Dataset",
+    "isDescriptionHtml": true,
+    "totalTime": 136.70467,
+    "topicId": "brhi74oeaai",
+    "description": "<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/benroshan/ecommerce-data\">https://www.kaggle.com/datasets/benroshan/ecommerce-data</a></p>\n",
+    "type": "video",
+    "links": {
+      "www.kaggle.com": "https://www.kaggle.com/datasets/benroshan/ecommerce-data\">https://www.kaggle.com/datasets/benroshan/ecommerce-data</a></p>"
+    }
+  },
+  {
+    "id": "63f41dffe4b036e4130e2574",
+    "isDescriptionHtml": true,
+    "description": "<p>Dataset -&nbsp;<a href=\"https://drive.google.com/drive/folders/1RAo7rKbbnzt5Zrek1sq1pb3OJ7-IbQ5f?usp=share_link\">https://drive.google.com/drive/folders/1RAo7rKbbnzt5Zrek1sq1pb3OJ7-IbQ5f?usp=share_link</a></p>\n\n<p>Animation -&nbsp;<a href=\"https://infytq.onwingspan.com/web/en/app/toc/lex_auth_01275806667282022456_shared/overview\">https://infytq.onwingspan.com/web/en/app/toc/lex_auth_01275806667282022456_shared/overview</a></p>\n",
+    "title": "Session 34 - SQL Joins",
+    "totalTime": 130,
+    "topicId": "kr4l424mse",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/1RAo7rKbbnzt5Zrek1sq1pb3OJ7-IbQ5f?usp=share_link\">https://drive.google.com/drive/folders/1RAo7rKbbnzt5Zrek1sq1pb3OJ7-IbQ5f?usp=share_link</a></p>",
+      "infytq.onwingspan.com": "https://infytq.onwingspan.com/web/en/app/toc/lex_auth_01275806667282022456_shared/overview\">https://infytq.onwingspan.com/web/en/app/toc/lex_auth_01275806667282022456_shared/overview</a></p>"
+    }
+  },
+  {
+    "totalTime": 29.353611,
+    "title": "Task 34 Solutions",
+    "isDescriptionHtml": true,
+    "description": "<p>Code -&nbsp;<a href=\"https://docs.google.com/document/d/1Qic8ZU2Ek5a2PBQ52-P4VQzoh4aCl3Zpmc1484ZTzsE/edit?usp=sharing\">https://docs.google.com/document/d/1Qic8ZU2Ek5a2PBQ52-P4VQzoh4aCl3Zpmc1484ZTzsE/edit?usp=sharing</a></p>\n",
+    "topicId": "kr4l424mse",
+    "id": "6405be33e4b0ce52e571ff45",
+    "type": "video",
+    "links": {
+      "docs.google.com": "https://docs.google.com/document/d/1Qic8ZU2Ek5a2PBQ52-P4VQzoh4aCl3Zpmc1484ZTzsE/edit?usp=sharing\">https://docs.google.com/document/d/1Qic8ZU2Ek5a2PBQ52-P4VQzoh4aCl3Zpmc1484ZTzsE/edit?usp=sharing</a></p>"
+    }
+  },
+  {
+    "id": "63f4ff01e4b0176e69884e12",
+    "isDescriptionHtml": true,
+    "totalTime": 130.00267,
+    "description": "<p>Queries -&nbsp;<a href=\"https://docs.google.com/document/d/1H0DjShcScLvrKde5ePTKQ11AM1y1mr_IS4B1Yxl9UUQ/edit?usp=sharing\">https://docs.google.com/document/d/1H0DjShcScLvrKde5ePTKQ11AM1y1mr_IS4B1Yxl9UUQ/edit?usp=sharing</a></p>\n\n<p>Data -&nbsp;<a href=\"https://docs.google.com/spreadsheets/d/1JgNHxTixDA50W1l6pNFmHKRaX1a9QnXrpGLsJtzo6Gg/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1JgNHxTixDA50W1l6pNFmHKRaX1a9QnXrpGLsJtzo6Gg/edit?usp=sharing</a></p>\n",
+    "title": "SQL Case Study 1 | Zomato Dataset",
+    "topicId": "kr4l424mse",
+    "type": "video",
+    "links": {
+      "docs.google.com": "https://docs.google.com/spreadsheets/d/1JgNHxTixDA50W1l6pNFmHKRaX1a9QnXrpGLsJtzo6Gg/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1JgNHxTixDA50W1l6pNFmHKRaX1a9QnXrpGLsJtzo6Gg/edit?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 138,
+    "description": "<p>Dataset Link - <a href=\"https://drive.google.com/drive/folders/1xCNbO_LJIkr7bi9YDa7hUFYgJ-IZ01A-?usp=share_link\">https://drive.google.com/drive/folders/1xCNbO_LJIkr7bi9YDa7hUFYgJ-IZ01A-?usp=share_link</a><br />\n<br />\nFor reading movies.csv in Python :&nbsp;</p>\n\n<p><b>df = pd.read_csv(&#39;movies.csv&#39;, delimiter=&#39;;&#39;, encoding_errors=&#39;ignore&#39;)</b></p>\n",
+    "id": "63f8181ae4b097b8eb355726",
+    "isDescriptionHtml": true,
+    "title": "Session 35 - Subqueries in SQL",
+    "topicId": "kr4l424mse",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/drive/folders/1xCNbO_LJIkr7bi9YDa7hUFYgJ-IZ01A-?usp=share_link\">https://drive.google.com/drive/folders/1xCNbO_LJIkr7bi9YDa7hUFYgJ-IZ01A-?usp=share_link</a><br"
+    }
+  },
+  {
+    "totalTime": 36.023056,
+    "description": "<p>Code -&nbsp;<a href=\"https://docs.google.com/document/d/1DI1obZn5y-wa5KIVAJIePtFssbtMfwjcEkkB1xKNH78/edit?usp=sharing\">https://docs.google.com/document/d/1DI1obZn5y-wa5KIVAJIePtFssbtMfwjcEkkB1xKNH78/edit?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "title": "Task 35 Solutions",
+    "topicId": "kr4l424mse",
+    "id": "6406ede3e4b0ae34d9c92c26",
+    "type": "video",
+    "links": {
+      "docs.google.com": "https://docs.google.com/document/d/1DI1obZn5y-wa5KIVAJIePtFssbtMfwjcEkkB1xKNH78/edit?usp=sharing\">https://docs.google.com/document/d/1DI1obZn5y-wa5KIVAJIePtFssbtMfwjcEkkB1xKNH78/edit?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 123.43,
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/flights-sql-app\">https://github.com/campusx-official/flights-sql-app</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://docs.google.com/spreadsheets/d/1xuKHmRuCiCXIa1m2f7cX8PqLTTQXVtV1dky0zgnrSlU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1xuKHmRuCiCXIa1m2f7cX8PqLTTQXVtV1dky0zgnrSlU/edit?usp=sharing</a></p>\n\n<p>AWS upload -&nbsp;<a href=\"https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing\">https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing</a></p>\n",
+    "id": "63f8ec87e4b0d435b99c9268",
+    "isDescriptionHtml": true,
+    "title": "Making a Flights Dashboard using Python and SQL",
+    "topicId": "kr4l424mse",
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/campusx-official/flights-sql-app\">https://github.com/campusx-official/flights-sql-app</a></p>",
+      "docs.google.com": "https://docs.google.com/spreadsheets/d/1xuKHmRuCiCXIa1m2f7cX8PqLTTQXVtV1dky0zgnrSlU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1xuKHmRuCiCXIa1m2f7cX8PqLTTQXVtV1dky0zgnrSlU/edit?usp=sharing</a></p>",
+      "colab.research.google.com": "https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing\">https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing</a></p>"
+    }
+  },
+  {
+    "isDescriptionHtml": true,
+    "type": "video",
+    "description": "<p>PDF -&nbsp;<a href=\"https://drive.google.com/file/d/1hz6Sijm-RWQ8g_mSAlllxrcjMbE7UG8V/view?usp=share_link\">https://drive.google.com/file/d/1hz6Sijm-RWQ8g_mSAlllxrcjMbE7UG8V/view?usp=share_link</a></p>\n\n<p>SQL Joins -&nbsp;<a href=\"https://learnsql.com/blog/sql-joins/\">https://learnsql.com/blog/sql-joins/</a></p>\n\n<p>&nbsp;</p>\n",
+    "title": "SQL Interview Questions Part 1",
+    "topicId": "kr4l424mse",
+    "totalTime": 124.513336,
+    "id": "63fa3eeee4b0b73ad213d425",
+    "links": {
+      "drive.google.com": "https://drive.google.com/file/d/1hz6Sijm-RWQ8g_mSAlllxrcjMbE7UG8V/view?usp=share_link\">https://drive.google.com/file/d/1hz6Sijm-RWQ8g_mSAlllxrcjMbE7UG8V/view?usp=share_link</a></p>",
+      "learnsql.com": "https://learnsql.com/blog/sql-joins/\">https://learnsql.com/blog/sql-joins/</a></p>"
+    }
+  },
+  {
+    "id": "63fd59a1e4b04cc084eb707e",
+    "title": "Session 36 - Window Functions in SQL",
+    "description": "",
+    "topicId": "ymwka7rr7z",
+    "totalTime": "0",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "title": "Task 36 Solutions",
+    "totalTime": 35.78,
+    "isDescriptionHtml": true,
+    "topicId": "ymwka7rr7z",
+    "description": "<p>Code -&nbsp;<a href=\"https://docs.google.com/document/d/1rJXV6c-qoTwYL91zA-ajrveHjpx6ldvA2ZQFQcqEICY/edit?usp=sharing\">https://docs.google.com/document/d/1rJXV6c-qoTwYL91zA-ajrveHjpx6ldvA2ZQFQcqEICY/edit?usp=sharing</a></p>\n",
+    "id": "641af0cbe4b0320b5d5ce487",
+    "type": "video",
+    "links": {
+      "docs.google.com": "https://docs.google.com/document/d/1rJXV6c-qoTwYL91zA-ajrveHjpx6ldvA2ZQFQcqEICY/edit?usp=sharing\">https://docs.google.com/document/d/1rJXV6c-qoTwYL91zA-ajrveHjpx6ldvA2ZQFQcqEICY/edit?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 25.658888,
+    "id": "63fe051be4b0829930cca6e7",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1-v-RUuQlaVUKiVvvEjpsiK2sw-BovjlB?usp=sharing\">https://colab.research.google.com/drive/1-v-RUuQlaVUKiVvvEjpsiK2sw-BovjlB?usp=sharing</a></p>\n\n<p>Links -&nbsp;<a href=\"https://github-readme-streak-stats.herokuapp.com/?user=campusx-official\">https://github-readme-streak-stats.herokuapp.com/?user=campusx-official</a></p>\n\n<p><a href=\"https://github-readme-stats.vercel.app/api/top-langs/?username=campusx-official\">https://github-readme-stats.vercel.app/api/top-langs/?username=campusx-official</a></p>\n\n<p><a href=\"https://github-readme-stats.vercel.app/api?username=campusx-official\">https://github-readme-stats.vercel.app/api?username=campusx-official</a></p>\n",
+    "title": "Career Pe Charcha - Markdown Basics + How to improve Github Profile",
+    "isDescriptionHtml": true,
+    "topicId": "ymwka7rr7z",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1-v-RUuQlaVUKiVvvEjpsiK2sw-BovjlB?usp=sharing\">https://colab.research.google.com/drive/1-v-RUuQlaVUKiVvvEjpsiK2sw-BovjlB?usp=sharing</a></p>",
+      "github-readme-streak-stats.herokuapp.com": "https://github-readme-streak-stats.herokuapp.com/?user=campusx-official\">https://github-readme-streak-stats.herokuapp.com/?user=campusx-official</a></p>",
+      "github-readme-stats.vercel.app": "https://github-readme-stats.vercel.app/api?username=campusx-official\">https://github-readme-stats.vercel.app/api?username=campusx-official</a></p>"
+    }
+  },
+  {
+    "id": "659c2893e4b0a47ccf0cd04d",
+    "topicId": "tst9kpv89q",
+    "title": "MLOps Doubt Clearance Session 6",
+    "description": "",
+    "type": "video",
+    "isDescriptionHtml": false,
+    "totalTime": 67.326,
+    "links": {}
+  },
+  {
+    "topicId": "tst9kpv89q",
+    "description": "<p>Notebook -&nbsp;<a href=\"https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing\">https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing</a></p>\n",
+    "id": "659ef38ce4b0e8047a7bc111",
+    "title": "Session 14 on MLOps - Deployment on Kubernetes",
+    "isDescriptionHtml": true,
+    "totalTime": 140.02533,
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing\">https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "tst9kpv89q",
+    "description": "<p>Notebook -&nbsp;<a href=\"https://drive.google.com/file/d/1FJYzGxTc-sg3-GMc35cjSr7CxUhXSoPp/view?usp=sharing\">https://drive.google.com/file/d/1FJYzGxTc-sg3-GMc35cjSr7CxUhXSoPp/view?usp=sharing</a></p>\n",
+    "title": "Session 15 on MLOps - Seldon Deployments",
+    "id": "65a2e2bbe4b0734843b6fdc2",
+    "totalTime": 125.654,
+    "isDescriptionHtml": true,
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/file/d/1FJYzGxTc-sg3-GMc35cjSr7CxUhXSoPp/view?usp=sharing\">https://drive.google.com/file/d/1FJYzGxTc-sg3-GMc35cjSr7CxUhXSoPp/view?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "tst9kpv89q",
+    "id": "65a563c5e4b05c5ab894dbe2",
+    "totalTime": 67.222,
+    "title": "MLOps Doubt Clearance Session 7",
+    "description": "",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "topicId": "tst9kpv89q",
+    "description": "<p>Notebook -&nbsp;<a href=\"https://drive.google.com/file/d/1JnkgIkiNFUXlow_uF82-jiZ61cl329xW/view?usp=sharing\">https://drive.google.com/file/d/1JnkgIkiNFUXlow_uF82-jiZ61cl329xW/view?usp=sharing</a></p>\n",
+    "isDescriptionHtml": true,
+    "title": "Session 16 on MLOps - Monitoring & Alerting",
+    "id": "65a9757be4b0ce3aaa921cdf",
+    "totalTime": 137.198,
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/file/d/1JnkgIkiNFUXlow_uF82-jiZ61cl329xW/view?usp=sharing\">https://drive.google.com/file/d/1JnkgIkiNFUXlow_uF82-jiZ61cl329xW/view?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "tst9kpv89q",
+    "totalTime": 135.618,
+    "title": "Session 17 on Rollout & Rollback Strategies",
+    "isDescriptionHtml": true,
+    "description": "<p>Notebook -&nbsp;<a href=\"https://drive.google.com/file/d/14kTAejx1lj_B9JaupF6kFSXO51KraYJj/view?usp=sharing\">https://drive.google.com/file/d/14kTAejx1lj_B9JaupF6kFSXO51KraYJj/view?usp=sharing</a></p>\n",
+    "id": "65ac1ff3e4b0e4b15f84f73b",
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/file/d/14kTAejx1lj_B9JaupF6kFSXO51KraYJj/view?usp=sharing\">https://drive.google.com/file/d/14kTAejx1lj_B9JaupF6kFSXO51KraYJj/view?usp=sharing</a></p>"
+    }
+  },
+  {
+    "totalTime": 101.544,
+    "topicId": "tst9kpv89q",
+    "description": "<p>Notebook -&nbsp;<a href=\"https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing\">https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing</a></p>\n",
+    "title": "Session on MLOps Interview Questions",
+    "id": "65aeac90e4b0eec67c60416b",
+    "isDescriptionHtml": true,
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing\">https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing</a></p>"
+    }
+  },
+  {
+    "title": "Session 18 on MLOps - ML Technical Debt",
+    "topicId": "tst9kpv89q",
+    "description": "<p>Notebook -&nbsp;<a href=\"https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing\">https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing</a></p>\n",
+    "id": "65b15b75e4b0ea99ac96abb1",
+    "isDescriptionHtml": true,
+    "totalTime": 125.58667,
+    "type": "video",
+    "links": {
+      "drive.google.com": "https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing\">https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "tst9kpv89q",
+    "id": "65b369a7e4b0bd588ab84ed3",
+    "totalTime": 66.704,
+    "description": "",
+    "title": "MLOps Doubt Clearance Session 8",
+    "isDescriptionHtml": false,
+    "type": "video",
+    "links": {}
+  },
+  {
+    "id": "655ce884e4b066beb9dc017e",
+    "topicId": "olh5gfqpjt",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing\">https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1Am4db3eUVhw_wpPG-R_dqiewZxoB5xRn/view?usp=sharing\">https://drive.google.com/file/d/1Am4db3eUVhw_wpPG-R_dqiewZxoB5xRn/view?usp=sharing</a></p>\n",
+    "totalTime": 137.906,
+    "isDescriptionHtml": true,
+    "title": "Session 1 on K Means Clustering",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing\">https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing</a></p>",
+      "drive.google.com": "https://drive.google.com/file/d/1Am4db3eUVhw_wpPG-R_dqiewZxoB5xRn/view?usp=sharing\">https://drive.google.com/file/d/1Am4db3eUVhw_wpPG-R_dqiewZxoB5xRn/view?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "olh5gfqpjt",
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing\">https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing</a></p>\n\n<p>Assignment -&nbsp;<a href=\"https://www.kaggle.com/code/campusx/ipl-kmeans-clustering\">https://www.kaggle.com/code/campusx/ipl-kmeans-clustering</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/11rBoavT2eGWzElwEkNrgh4PpoZ2MP-mF/view?usp=sharing\">https://drive.google.com/file/d/11rBoavT2eGWzElwEkNrgh4PpoZ2MP-mF/view?usp=sharing</a></p>\n\n<p>Research Papers</p>\n\n<p><a href=\"https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf\">https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf</a></p>\n\n<p><a href=\"https://www.cse.iitd.ac.in/~rjaiswal/2015/col870/Project/Nipun.pdf\">https://www.cse.iitd.ac.in/~rjaiswal/2015/col870/Project/Nipun.pdf</a></p>\n\n<p><a href=\"https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf\">https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf</a></p>\n",
+    "isDescriptionHtml": true,
+    "totalTime": 148.10667,
+    "title": "Session 2 on KMeans Clustering",
+    "id": "65677c44e4b01ae71e8b8835",
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing\">https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing</a></p>",
+      "www.kaggle.com": "https://www.kaggle.com/code/campusx/ipl-kmeans-clustering\">https://www.kaggle.com/code/campusx/ipl-kmeans-clustering</a></p>",
+      "drive.google.com": "https://drive.google.com/file/d/11rBoavT2eGWzElwEkNrgh4PpoZ2MP-mF/view?usp=sharing\">https://drive.google.com/file/d/11rBoavT2eGWzElwEkNrgh4PpoZ2MP-mF/view?usp=sharing</a></p>",
+      "citeseerx.ist.psu.edu": "https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf\">https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf</a></p>",
+      "www.cse.iitd.ac.in": "https://www.cse.iitd.ac.in/~rjaiswal/2015/col870/Project/Nipun.pdf\">https://www.cse.iitd.ac.in/~rjaiswal/2015/col870/Project/Nipun.pdf</a></p>",
+      "theory.stanford.edu": "https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf\">https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf</a></p>"
+    }
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1j5fLdvQU5-phpm8L5Su6ydGrXbeUMG8a?usp=sharing\">https://colab.research.google.com/drive/1j5fLdvQU5-phpm8L5Su6ydGrXbeUMG8a?usp=sharing</a></p>\n\n<p>Task Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2015-01.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2015-01.csv</a></p>\n\n<p>Research Paper -&nbsp;<a href=\"https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf\">https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1sUtu0DOa9DEIuIA41gRarE5Qb4utXyWm/view?usp=sharing\">https://drive.google.com/file/d/1sUtu0DOa9DEIuIA41gRarE5Qb4utXyWm/view?usp=sharing</a></p>\n",
+    "topicId": "olh5gfqpjt",
+    "title": "Session 3 on KMeans Clustering",
+    "id": "656f6004e4b089b08e687b3b",
+    "isDescriptionHtml": true,
+    "totalTime": 133.398,
+    "type": "video",
+    "links": {
+      "colab.research.google.com": "https://colab.research.google.com/drive/1j5fLdvQU5-phpm8L5Su6ydGrXbeUMG8a?usp=sharing\">https://colab.research.google.com/drive/1j5fLdvQU5-phpm8L5Su6ydGrXbeUMG8a?usp=sharing</a></p>",
+      "www.kaggle.com": "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2015-01.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2015-01.csv</a></p>",
+      "citeseerx.ist.psu.edu": "https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf\">https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf</a></p>",
+      "drive.google.com": "https://drive.google.com/file/d/1sUtu0DOa9DEIuIA41gRarE5Qb4utXyWm/view?usp=sharing\">https://drive.google.com/file/d/1sUtu0DOa9DEIuIA41gRarE5Qb4utXyWm/view?usp=sharing</a></p>"
+    }
+  },
+  {
+    "topicId": "olh5gfqpjt",
+    "title": "K-Means Clustering Algorithm From Scratch In Python",
+    "id": "656fe8e4e4b0c0f9fdcafc52",
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/kmeans\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/kmeans</a></p>\n",
+    "totalTime": 34,
+    "isDescriptionHtml": true,
+    "type": "video",
+    "links": {
+      "github.com": "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/kmeans\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/kmeans</a></p>"
+    }
+  }
+]
