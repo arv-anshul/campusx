@@ -1,0 +1,29 @@
+name: Build Docs
+on:
+  push:
+    paths:
+      - docs/**
+      - mkdocs.yaml
+      - .github/workflows/**
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python 3.x
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - name: Setup cache for CI
+        uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - name: Install mkdocs
+        run: pip install mkdocs-material==9.5.8 mkdocs-markdownextradata-plugin==0.2.5
+      - name: Finally build docs and publish
+        env:
+          GOOGLE_ANALYTICS_PROPERTY: ${{ secrets.GOOGLE_ANALYTICS_PROPERTY }}
+        run: mkdocs gh-deploy --force
