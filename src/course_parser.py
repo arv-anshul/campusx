@@ -4,8 +4,9 @@ import json
 import os
 import re
 from dataclasses import asdict, dataclass, field
+from enum import StrEnum, auto
 from pathlib import Path
-from typing import TYPE_CHECKING, Iterable, Literal, Self
+from typing import TYPE_CHECKING, Iterable, Self
 
 from bs4 import BeautifulSoup, Tag
 
@@ -28,15 +29,15 @@ COURSE_TOPICS_PATH = Path("data/courseTopics.json")
 COURSE_SUB_TOPICS_PATH = Path("data/courseSubTopics.json")
 SUB_TOPIC_RESOURCES_PATH = Path("data/subTopicResources.json")
 
-ResourceType = Literal[
-    "article",
-    "assessment",
-    "assignment",
-    "link",
-    "livetest",
-    "pdf",
-    "video",
-]
+
+class ResourceType(StrEnum):
+    article = auto()
+    assessment = auto()
+    assignment = auto()
+    link = auto()
+    livetest = auto()
+    pdf = auto()
+    video = auto()
 
 
 def fetch_sub_topic_resource(
@@ -60,7 +61,7 @@ def fetch_sub_topic_resource(
     """
     if not client.cookies:
         raise ValueError("Client does not have cookies.")
-    res = client.get(f"/{resource_type}s/{sub_topic_id}/get")
+    res = client.get(f"/{resource_type.name}s/{sub_topic_id}/get")
     res.raise_for_status()
     return res.content
 
@@ -210,7 +211,7 @@ class CourseVideoResource(CourseSubTopic):
         response = fetch_sub_topic_resource(
             client=client,
             sub_topic_id=sub_topic.id,
-            resource_type="video",
+            resource_type=ResourceType.video,
         )
         try:
             data = json.loads(response)
@@ -257,7 +258,7 @@ class CourseAssignmentResource(CourseSubTopic):
         response = fetch_sub_topic_resource(
             client=client,
             sub_topic_id=sub_topic.id,
-            resource_type="assignment",
+            resource_type=ResourceType.assignment,
         )
 
         def parse_assignment_link(source: str | bytes) -> str:
@@ -274,8 +275,8 @@ class CourseAssignmentResource(CourseSubTopic):
 
 
 _RESOURCE_TYPE_MAPPING: dict[ResourceType, type[CourseSubTopic]] = {
-    "video": CourseVideoResource,
-    "assignment": CourseAssignmentResource,
+    ResourceType.video: CourseVideoResource,
+    ResourceType.assignment: CourseAssignmentResource,
 }
 
 
@@ -283,7 +284,7 @@ def load_resources() -> list[CourseSubTopic]:
     inferred_resources = []
     resources = json.loads(SUB_TOPIC_RESOURCES_PATH.read_bytes())
     for i in resources:
-        _class = _RESOURCE_TYPE_MAPPING.get(i["type"])
+        _class = _RESOURCE_TYPE_MAPPING.get(getattr(ResourceType, i["type"]))
         if _class:
             inferred_resources.append(_class(**i))
     return inferred_resources
