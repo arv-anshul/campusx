@@ -16,6 +16,15 @@
 
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/CampusX-F00?logo=youtube&logoColor=fff" alt="CampusX YouTube Channel">
+    <img src="https://img.shields.io/badge/CampusX_DSMP-0056D2?logo=curl&logoColor=fff" alt="CampusX DSMP Website">
+    </br>
+    <a href="https://squidfunk.github.io/mkdocs-material/"><img src="https://img.shields.io/badge/Material_for_MkDocs-526CFE?logo=MaterialForMkDocs&logoColor=white" alt="Built with Material for MkDocs"></a>
+    <a href="https://arv-anshul.github.io/campusx-dsmp"><img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=github&logoColor=fff" alt="GitHub Badge"></a>
+    <a href="https://github.com/arv-anshul/campusx-dsmp/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff" alt="GitHub Actions Badge"></a>
+</p>
+
 > \[!WARNING\]
 >
 > The listed resource is not suitable for the **Unpaid/Free User (who have not bought the course)** because it **only consists the paid lecture's notes and links** which are provided in the description **by The Mentor**.
