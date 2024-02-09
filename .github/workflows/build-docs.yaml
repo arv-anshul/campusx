@@ -5,6 +5,7 @@ on:
       - docs/**
       - mkdocs.yaml
       - .github/workflows/**
+      - data/**
 permissions:
   contents: write
 jobs:
