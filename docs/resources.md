@@ -11,6 +11,8 @@ hide:
     :material-book-open-page-variant:{ .lg .warning } :material-equal: **Main Topic** of the Course.
 
     :material-book:{ .lg .primary } :material-equal: **Sub Topic** of the Main Topic.
+
+    :material-video:{ .lg .secondary } :material-equal: **Sub Topic** session is Video.
 </figure>
 
 {% set printed_topic_ids = [] %}
@@ -25,7 +27,11 @@ hide:
 ## :material-book-open-page-variant:{ title="Main Topic" .warning } {{ topic.title }}
             {% endif %}
 
+            {% if sub_topic.type == "video" %}
+### :material-{{ sub_topic.type }}:{ title="Sub Topic: {{ sub_topic.type | title }}" .secondary } {{ sub_topic.title }}
+            {% else %}
 ### :material-book:{ title="Sub Topic" .primary } {{ sub_topic.title }}
+            {% endif %}
 
 <details style="border-color: #448aff33;">
     <summary>Description</summary>
