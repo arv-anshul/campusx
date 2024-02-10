@@ -271,7 +271,7 @@ class CourseAssignmentResource(CourseSubTopic):
         )
 
 
-_RESOURCE_TYPE_MAPPING: dict[ResourceType, type[CourseSubTopic]] = {
+_RESOURCE_TYPE_MAPPING: dict[ResourceType, type] = {
     ResourceType.video: CourseVideoResource,
     ResourceType.assignment: CourseAssignmentResource,
 }
