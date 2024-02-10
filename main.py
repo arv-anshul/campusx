@@ -39,13 +39,20 @@ def get_resources_to_fetch() -> list[cp.CourseSubTopic]:
 
 def fetch_resources(
     resources_to_fetch: list[cp.CourseSubTopic],
+    resource_type: cp.ResourceType,
+    *,
+    n_resources: int = 30,
 ) -> list[cp.CourseVideoResource]:
     fetched_resources = []
     counter = 1
 
     for sub_topic in reversed(resources_to_fetch):
-        if sub_topic.type != "video":
-            logger.debug("👎 subtopic id=%s is not a video resource.", sub_topic.id)
+        if sub_topic.type != resource_type:
+            logger.debug(
+                "👎 subtopic id=%s is not a %s resource.",
+                sub_topic.id,
+                resource_type,
+            )
             continue
         if counter % 10 == 0:
             t_ = 5
@@ -62,10 +69,10 @@ def fetch_resources(
                 cookies=cp.get_cookies(),
             ) as client:
                 fetched_resources.append(
-                    cp.CourseVideoResource.fetch(client, sub_topic)
+                    cp._RESOURCE_TYPE_MAPPING[resource_type].fetch(client, sub_topic)
                 )
             # After fetching 50 video resources it stops.
-            if counter == 30:
+            if counter == n_resources:
                 raise httpx.HTTPError("Intensional Error")
         except (httpx.HTTPError, ValueError) as e:
             logger.error("❌ Error Occurred: %s: %s", type(e).__name__, e)
@@ -82,7 +89,11 @@ def fetch_resources(
 def main():
     resources_to_fetch = get_resources_to_fetch()
     logger.info("❗ Resources to fetch: %d", len(resources_to_fetch))
-    fetched_resources = fetch_resources(resources_to_fetch)
+    fetched_resources = fetch_resources(
+        resources_to_fetch,
+        cp.ResourceType.assignment,
+        n_resources=30,
+    )
     # Store the data into a JSON file
     cp.dump_resources(fetched_resources)
     logger.info("🐸 Data has been stored into file.")
