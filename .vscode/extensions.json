@@ -1,0 +1,7 @@
+{
+  "recommendations": ["bierner.emojisense", "redhat.vscode-yaml"],
+  "unwantedRecommendations": [
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
