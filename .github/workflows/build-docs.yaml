@@ -1,11 +1,8 @@
 name: Build Docs
 on:
-  push:
-    paths:
-      - docs/**
-      - mkdocs.yaml
-      - .github/workflows/**
-      - data/**
+  release:
+    types:
+      - published
 permissions:
   contents: write
 jobs:
