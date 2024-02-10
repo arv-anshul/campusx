@@ -5,16 +5,19 @@ hide:
 
 # CampusX - DSMP Resources
 
-<figure style="min-width: 35%" markdown>
-???+ example "Reference"
+<style>
+#campusx-dsmp-resources {
+    display: none;
+}
+</style>
 
-    :material-book-open-page-variant:{ .lg .warning } :material-equal: **Main Topic** of the Course.
-
-    :material-book:{ .lg .primary } :material-equal: **Sub Topic** of the Main Topic.
-
-    :memo:{ .lg } :material-equal: Sub Topic is **Assignment**.
-
-    :material-video:{ .lg .secondary } :material-equal: Sub Topic is **Video**.
+<figure style="min-width: 40%" markdown>
+??? example "Reference"
+    | Icon                | Description                   |
+    | :-----------------: | :---------------------------- |
+    | :bookmark:{ .lg } | **Main Topic** of the Course. |
+    |   :memo:{ .lg }   | Sub Topic is **Assignment**.  |
+    |  :camera:{ .lg }  | Sub Topic is **Video**.       |
 </figure>
 
 {% set printed_topic_ids = [] %}
@@ -23,16 +26,15 @@ hide:
     {% for sub_topic in cleanedResources %}
         {% if topic.id == sub_topic.topicId %}
 
-<!-- Video Resources -->
 {% if sub_topic.type == "video" %}
     {% if sub_topic.description %}
         {% if topic.id not in printed_topic_ids %}
             {% set _ = printed_topic_ids.append(topic.id) %}
 
-## :material-book-open-page-variant:{ title="Main Topic" .warning } {{ topic.title }}
+## :bookmark:{ title="Main Topic" } **{{ topic.title }}**
         {% endif %}
 
-### :material-{{ sub_topic.type }}:{ title="Sub Topic: {{ sub_topic.type | title }}" .secondary } {{ sub_topic.title }}
+### :camera:{ title="Sub Topic: Video" } {{ sub_topic.title }}
 
 <details style="border-color: #448aff33;">
     <summary>Description</summary>
@@ -48,13 +50,12 @@ hide:
     {% endif %}
 {% endif %}
 
-<!-- Assignment Resources -->
 {% if sub_topic.type == "assignment" %}
 
 <figure style="min-width: 35%" markdown>
 <div class="grid cards" markdown>
 
-- ### :memo:{ title="Sub Topic: {{ sub_topic.type | title }}" .info } {{ sub_topic.title }}
+- ### :memo:{ title="Sub Topic: Assignment" } {{ sub_topic.title }}
 
     [Assignment Link]({{ sub_topic.assignmentLink }}){ .md-button }
 
