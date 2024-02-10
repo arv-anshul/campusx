@@ -61,6 +61,7 @@ def clean_videos_resources() -> None:
     cleaned_resources = []
     for resource in resources:
         if resource["type"] != "video":
+            cleaned_resources.append(resource)
             continue
         resource["links"] = parse_description(resource["description"])
         cleaned_resources.append(resource)
