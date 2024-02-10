@@ -49,8 +49,9 @@ def clean_videos_resources() -> None:
     resources: list[dict] = json.loads(cp.SUB_TOPIC_RESOURCES_PATH.read_bytes())
 
     def parse_description(description: str) -> dict[str, str]:
-        links = re.findall(r"https?://\S+", description)
-        return {urlparse(link).netloc: link for link in links}
+        __s = re.sub(r"[\"<]", " ", description)
+        links = re.findall(r"https?://\S+", __s)
+        return {link: urlparse(link).netloc for link in links}
 
     cleaned_resources = []
     for resource in resources:

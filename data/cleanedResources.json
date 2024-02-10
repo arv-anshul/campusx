@@ -68,8 +68,9 @@
     "id": "63f84469e4b009d2effa3abf",
     "type": "video",
     "links": {
-      "resources.github.com": "https://resources.github.com/devops/process/planning/discussions/",
-      "docs.github.com": "https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects"
+      "https://resources.github.com/devops/process/planning/discussions/": "resources.github.com",
+      "https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions": "docs.github.com",
+      "https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects": "docs.github.com"
     }
   },
   {
@@ -131,7 +132,7 @@
     "title": "Session 1 - Python Basics",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/10jVbuKq2Owsz_hIIrXA9Y09DMLdDt_21?usp=sharing\">https://colab.research.google.com/drive/10jVbuKq2Owsz_hIIrXA9Y09DMLdDt_21?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/10jVbuKq2Owsz_hIIrXA9Y09DMLdDt_21?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -143,7 +144,8 @@
     "topicId": "t7z3or0ssw",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1He-CC_4GUaswgQ2NFg8exc23A-mChTwK?usp=sharing\">https://colab.research.google.com/drive/1He-CC_4GUaswgQ2NFg8exc23A-mChTwK?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1dJIncqudN2wFNZ1P3_1sdJX76pzw-s-4?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1He-CC_4GUaswgQ2NFg8exc23A-mChTwK?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -155,7 +157,8 @@
     "title": "Week 1 - Task 1 + Task 2 Solutions",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1mkBnQb0IELTQCpQ9nhtEYhqOgG84DTVd?usp=share_link\">https://colab.research.google.com/drive/1mkBnQb0IELTQCpQ9nhtEYhqOgG84DTVd?usp=share_link</a></p>"
+      "https://colab.research.google.com/drive/15ouziM6EkwvOYIJM_Z4kX9AUJ6TmmZnh?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1mkBnQb0IELTQCpQ9nhtEYhqOgG84DTVd?usp=share_link": "colab.research.google.com"
     }
   },
   {
@@ -167,7 +170,7 @@
     "topicId": "t7z3or0ssw",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing\">https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -179,7 +182,7 @@
     "totalTime": 29,
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing\">https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1l1TCiGQM_fyRLX-kM2HZhKdrNY7aZHKA?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -191,7 +194,7 @@
     "topicId": "t7z3or0ssw",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1HLKrP34x9ypGXqN44XcAvlwuEmWZ7idg?usp=sharing\">https://colab.research.google.com/drive/1HLKrP34x9ypGXqN44XcAvlwuEmWZ7idg?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1HLKrP34x9ypGXqN44XcAvlwuEmWZ7idg?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -203,8 +206,9 @@
     "topicId": "t7z3or0ssw",
     "type": "video",
     "links": {
-      "www.kunalgohrani.info": "https://www.kunalgohrani.info/\">https://www.kunalgohrani.info/</a></p>",
-      "www.youtube.com": "https://www.youtube.com/watch?v=4d79CMy5-LI&amp;list=PLKnIA16_RmvYz9J-59mtVWLQuPbsWd56P&amp;index=1&amp;t=0s&amp;ab_channel=CampusX\">https://www.youtube.com/watch?v=4d79CMy5-LI&amp;list=PLKnIA16_RmvYz9J-59mtVWLQuPbsWd56P&amp;index=1&amp;t=0s&amp;ab_channel=CampusX</a></p>"
+      "https://www.kunalgohrani.info/": "www.kunalgohrani.info",
+      "https://www.youtube.com/watch?v=jp3gE2Ow6Fw&amp;list=PLKnIA16_RmvaPjreiKXncoLCLQKE0I_9D&amp;index=1&amp;t=0s&amp;ab_channel=CampusX": "www.youtube.com",
+      "https://www.youtube.com/watch?v=4d79CMy5-LI&amp;list=PLKnIA16_RmvYz9J-59mtVWLQuPbsWd56P&amp;index=1&amp;t=0s&amp;ab_channel=CampusX": "www.youtube.com"
     }
   },
   {
@@ -216,8 +220,8 @@
     "id": "637d636ce4b07e057038d204",
     "type": "video",
     "links": {
-      "docs.google.com": "https://docs.google.com/presentation/d/1oz_Uq3EvDzSJTi7uDUDSGDxRvXHxtNE_6fxvAYeGUnY/edit?usp=sharing\">https://docs.google.com/presentation/d/1oz_Uq3EvDzSJTi7uDUDSGDxRvXHxtNE_6fxvAYeGUnY/edit?usp=sharing</a></p>",
-      "colab.research.google.com": "https://colab.research.google.com/drive/1tZn_tsleyYYh-_fOB3fDpaSIoNg4BmJI?usp=sharing\">https://colab.research.google.com/drive/1tZn_tsleyYYh-_fOB3fDpaSIoNg4BmJI?usp=sharing</a></p>"
+      "https://docs.google.com/presentation/d/1oz_Uq3EvDzSJTi7uDUDSGDxRvXHxtNE_6fxvAYeGUnY/edit?usp=sharing": "docs.google.com",
+      "https://colab.research.google.com/drive/1tZn_tsleyYYh-_fOB3fDpaSIoNg4BmJI?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -229,7 +233,7 @@
     "topicId": "t7z3or0ssw",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1Qh4SPnaqWXC3tA3EwzcV6BSKOEM0e9E4?usp=sharing\">https://colab.research.google.com/drive/1Qh4SPnaqWXC3tA3EwzcV6BSKOEM0e9E4?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1Qh4SPnaqWXC3tA3EwzcV6BSKOEM0e9E4?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -241,7 +245,7 @@
     "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1VUb_lXKIcypsWkKiMJ_NDwX2msdgEVGH?usp=sharing\">https://colab.research.google.com/drive/1VUb_lXKIcypsWkKiMJ_NDwX2msdgEVGH?usp=sharing</a></p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1VUb_lXKIcypsWkKiMJ_NDwX2msdgEVGH?usp=sharing\">https://colab.research.google.com/drive/1VUb_lXKIcypsWkKiMJ_NDwX2msdgEVGH?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1VUb_lXKIcypsWkKiMJ_NDwX2msdgEVGH?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -253,7 +257,7 @@
     "totalTime": 46.12533,
     "id": "637effeae4b02c7bb21ffaf4",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1uBqC9zOZH3e26WWc-R4dplohg2uvR-Xs?usp=sharing\">https://colab.research.google.com/drive/1uBqC9zOZH3e26WWc-R4dplohg2uvR-Xs?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1uBqC9zOZH3e26WWc-R4dplohg2uvR-Xs?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -265,7 +269,7 @@
     "type": "video",
     "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1PtRoTO1A4HwZudf0ZqCq-sqiDpamVeyH?usp=sharing\">https://colab.research.google.com/drive/1PtRoTO1A4HwZudf0ZqCq-sqiDpamVeyH?usp=sharing</a></p>\n",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1PtRoTO1A4HwZudf0ZqCq-sqiDpamVeyH?usp=sharing\">https://colab.research.google.com/drive/1PtRoTO1A4HwZudf0ZqCq-sqiDpamVeyH?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1PtRoTO1A4HwZudf0ZqCq-sqiDpamVeyH?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -277,7 +281,7 @@
     "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/17h1BUmK2qb9YZCCZKhUXsf6hRJuO42_t?usp=sharing\">https://colab.research.google.com/drive/17h1BUmK2qb9YZCCZKhUXsf6hRJuO42_t?usp=sharing</a></p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/17h1BUmK2qb9YZCCZKhUXsf6hRJuO42_t?usp=sharing\">https://colab.research.google.com/drive/17h1BUmK2qb9YZCCZKhUXsf6hRJuO42_t?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/17h1BUmK2qb9YZCCZKhUXsf6hRJuO42_t?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -289,7 +293,7 @@
     "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1DfnVcPYRGJDDrKcpYmEAuPHAR7XeTaKH?usp=sharing\">https://colab.research.google.com/drive/1DfnVcPYRGJDDrKcpYmEAuPHAR7XeTaKH?usp=sharing</a></p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1DfnVcPYRGJDDrKcpYmEAuPHAR7XeTaKH?usp=sharing\">https://colab.research.google.com/drive/1DfnVcPYRGJDDrKcpYmEAuPHAR7XeTaKH?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1DfnVcPYRGJDDrKcpYmEAuPHAR7XeTaKH?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -301,7 +305,7 @@
     "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1r5De6VqloVnqqR94x2jz23JS2q9e2mQ2?usp=sharing\">https://colab.research.google.com/drive/1r5De6VqloVnqqR94x2jz23JS2q9e2mQ2?usp=sharing</a></p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1r5De6VqloVnqqR94x2jz23JS2q9e2mQ2?usp=sharing\">https://colab.research.google.com/drive/1r5De6VqloVnqqR94x2jz23JS2q9e2mQ2?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1r5De6VqloVnqqR94x2jz23JS2q9e2mQ2?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -323,7 +327,7 @@
     "id": "637f0605e4b04a687338abdc",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1xUoy5AW_vlI92xbIcfEbnx0ZnGb7IKbj?usp=sharing\">https://colab.research.google.com/drive/1xUoy5AW_vlI92xbIcfEbnx0ZnGb7IKbj?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1xUoy5AW_vlI92xbIcfEbnx0ZnGb7IKbj?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -335,7 +339,7 @@
     "description": "<p>Question List - <a href=\"https://colab.research.google.com/drive/198UqZ59bcyluNKgIyw9K20uToSaHSjT5?usp=sharing\">https://colab.research.google.com/drive/198UqZ59bcyluNKgIyw9K20uToSaHSjT5?usp=sharing</a></p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/198UqZ59bcyluNKgIyw9K20uToSaHSjT5?usp=sharing\">https://colab.research.google.com/drive/198UqZ59bcyluNKgIyw9K20uToSaHSjT5?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/198UqZ59bcyluNKgIyw9K20uToSaHSjT5?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -347,7 +351,7 @@
     "topicId": "7xpqy4bgny",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1bzZ5WiHXcnsxZThKEefsM8HOuBPwCany?usp=sharing\">https://colab.research.google.com/drive/1bzZ5WiHXcnsxZThKEefsM8HOuBPwCany?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1bzZ5WiHXcnsxZThKEefsM8HOuBPwCany?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -359,7 +363,7 @@
     "topicId": "7xpqy4bgny",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1r_jeTn2XoKLaWq70QYhtLCNnr2FYCaYr?usp=sharing\">https://colab.research.google.com/drive/1r_jeTn2XoKLaWq70QYhtLCNnr2FYCaYr?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1r_jeTn2XoKLaWq70QYhtLCNnr2FYCaYr?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -371,7 +375,7 @@
     "topicId": "7xpqy4bgny",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1F3Y_zoZH0BDdvcFwrHS46YXj8CCNDRqn?usp=sharing\">https://colab.research.google.com/drive/1F3Y_zoZH0BDdvcFwrHS46YXj8CCNDRqn?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1F3Y_zoZH0BDdvcFwrHS46YXj8CCNDRqn?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -383,7 +387,7 @@
     "topicId": "7xpqy4bgny",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1Ia10uit7iguGlWjwG7gMF7h3AwNRL2KX?usp=sharing\">https://colab.research.google.com/drive/1Ia10uit7iguGlWjwG7gMF7h3AwNRL2KX?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1Ia10uit7iguGlWjwG7gMF7h3AwNRL2KX?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -395,7 +399,7 @@
     "topicId": "7xpqy4bgny",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing\">https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -407,7 +411,7 @@
     "topicId": "7xpqy4bgny",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing\">https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1_Pd9W1yltcfPNGPj6oDqIM5m7sadegcY?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -419,7 +423,7 @@
     "topicId": "7xpqy4bgny",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1knllPL_sSnfqTrrqh0Ru9VpqLbGvPNjS?usp=sharing\">https://colab.research.google.com/drive/1knllPL_sSnfqTrrqh0Ru9VpqLbGvPNjS?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1knllPL_sSnfqTrrqh0Ru9VpqLbGvPNjS?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -431,7 +435,7 @@
     "topicId": "7xpqy4bgny",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1WyFLxv8gs5nK1YeAx7oO3IU7qev8PYDP?usp=sharing\">https://colab.research.google.com/drive/1WyFLxv8gs5nK1YeAx7oO3IU7qev8PYDP?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1WyFLxv8gs5nK1YeAx7oO3IU7qev8PYDP?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -443,7 +447,8 @@
     "topicId": "7xpqy4bgny",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1LlTdY0LeYdI893EtSN3CqZOFg_bFxrPu?usp=sharing\">https://colab.research.google.com/drive/1LlTdY0LeYdI893EtSN3CqZOFg_bFxrPu?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1pFSCaenXUtrWRPgP4zTOcM_2GQIMjU4z?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1LlTdY0LeYdI893EtSN3CqZOFg_bFxrPu?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -455,7 +460,7 @@
     "title": "Session 10 - File Handling + Serialization & Deserialization",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1TP7ks1pnEzJwwzHtswkSYvMWwo2HeRxM?usp=sharing\">https://colab.research.google.com/drive/1TP7ks1pnEzJwwzHtswkSYvMWwo2HeRxM?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1TP7ks1pnEzJwwzHtswkSYvMWwo2HeRxM?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -477,7 +482,7 @@
     "id": "6386ae6fe4b058e60e60d5a9",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1-yYl5wagPH1ctS_x-RBDyMFj-ez8hWvS?usp=sharing\">https://colab.research.google.com/drive/1-yYl5wagPH1ctS_x-RBDyMFj-ez8hWvS?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1-yYl5wagPH1ctS_x-RBDyMFj-ez8hWvS?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -489,7 +494,7 @@
     "totalTime": 119,
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1P5jtGzaVkIjEFFr6WSrzs0capal32QPn?usp=sharing\">https://colab.research.google.com/drive/1P5jtGzaVkIjEFFr6WSrzs0capal32QPn?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1P5jtGzaVkIjEFFr6WSrzs0capal32QPn?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -501,7 +506,7 @@
     "title": "Supplementary Session on Iterators",
     "type": "video",
     "links": {
-      "github.com": "https://github.com/campusx-official/python-iterators-and-iterables\">https://github.com/campusx-official/python-iterators-and-iterables</a></p>"
+      "https://github.com/campusx-official/python-iterators-and-iterables": "github.com"
     }
   },
   {
@@ -513,7 +518,7 @@
     "title": "Supplementary Session on Generators",
     "type": "video",
     "links": {
-      "github.com": "https://github.com/campusx-official/python-generators\">https://github.com/campusx-official/python-generators</a></p>"
+      "https://github.com/campusx-official/python-generators": "github.com"
     }
   },
   {
@@ -525,8 +530,8 @@
     "id": "638dee1ee4b026269e027ec6",
     "type": "video",
     "links": {
-      "docs.google.com": "https://docs.google.com/presentation/d/1hpsmCqwk6cxqulpDmPvnbYdYxzW83msvofIGn77Bczo/edit?usp=sharing\">https://docs.google.com/presentation/d/1hpsmCqwk6cxqulpDmPvnbYdYxzW83msvofIGn77Bczo/edit?usp=sharing</a></p>",
-      "zety.com": "https://zety.com/blog/data-scientist-resume-example\">https://zety.com/blog/data-scientist-resume-example</a></p>"
+      "https://docs.google.com/presentation/d/1hpsmCqwk6cxqulpDmPvnbYdYxzW83msvofIGn77Bczo/edit?usp=sharing": "docs.google.com",
+      "https://zety.com/blog/data-scientist-resume-example": "zety.com"
     }
   },
   {
@@ -538,7 +543,7 @@
     "id": "638aa979e4b0c33615fec70b",
     "type": "video",
     "links": {
-      "github.com": "https://github.com/campusx-official/nlpapp/tree/master\">https://github.com/campusx-official/nlpapp/tree/master</a><br"
+      "https://github.com/campusx-official/nlpapp/tree/master": "github.com"
     }
   },
   {
@@ -550,7 +555,7 @@
     "title": "Week 4 - Interview Questions",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/19YHAGgm5856CuJyGmtO5kpewmXJzbUcK?usp=sharing\">https://colab.research.google.com/drive/19YHAGgm5856CuJyGmtO5kpewmXJzbUcK?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/19YHAGgm5856CuJyGmtO5kpewmXJzbUcK?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -562,7 +567,7 @@
     "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/file/d/1vz4rlbZS1y9onWq6S3YQ6a0MbyTS0-3y/view?usp=sharing\">https://drive.google.com/file/d/1vz4rlbZS1y9onWq6S3YQ6a0MbyTS0-3y/view?usp=sharing</a></p>\n",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/file/d/1vz4rlbZS1y9onWq6S3YQ6a0MbyTS0-3y/view?usp=sharing\">https://drive.google.com/file/d/1vz4rlbZS1y9onWq6S3YQ6a0MbyTS0-3y/view?usp=sharing</a></p>"
+      "https://drive.google.com/file/d/1vz4rlbZS1y9onWq6S3YQ6a0MbyTS0-3y/view?usp=sharing": "drive.google.com"
     }
   },
   {
@@ -574,7 +579,7 @@
     "title": "Task 11 Solutions",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1DhvCxLlAduDxP3k7SVfwsmFL9ZKbDPsU\">https://colab.research.google.com/drive/1DhvCxLlAduDxP3k7SVfwsmFL9ZKbDPsU</a></p>"
+      "https://colab.research.google.com/drive/1DhvCxLlAduDxP3k7SVfwsmFL9ZKbDPsU": "colab.research.google.com"
     }
   },
   {
@@ -586,7 +591,7 @@
     "totalTime": 35.143333,
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1IHLZkKHJY6YBTB2aOVtfT5WVV_KJ9pqV?usp=sharing\">https://colab.research.google.com/drive/1IHLZkKHJY6YBTB2aOVtfT5WVV_KJ9pqV?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1IHLZkKHJY6YBTB2aOVtfT5WVV_KJ9pqV?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -598,7 +603,7 @@
     "title": "Session 13 - Numpy Fundamentals",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing\">https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1GEkNfxnCPfzX8TCymkZJvWbkpGKZRgiK?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -610,7 +615,7 @@
     "title": "Session 14 - Advanced Numpy",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1RVe07-2VU4Jft8GLFyf10PrQIOVfffaR?usp=sharing\">https://colab.research.google.com/drive/1RVe07-2VU4Jft8GLFyf10PrQIOVfffaR?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1RVe07-2VU4Jft8GLFyf10PrQIOVfffaR?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -622,7 +627,7 @@
     "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1PUW-yXxbkSYgvlhC5_zf30aOVyKYo9AC?usp=sharing\">https://colab.research.google.com/drive/1PUW-yXxbkSYgvlhC5_zf30aOVyKYo9AC?usp=sharing</a></p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1PUW-yXxbkSYgvlhC5_zf30aOVyKYo9AC?usp=sharing\">https://colab.research.google.com/drive/1PUW-yXxbkSYgvlhC5_zf30aOVyKYo9AC?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1PUW-yXxbkSYgvlhC5_zf30aOVyKYo9AC?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -634,8 +639,10 @@
     "id": "63937114e4b0b01e572aba38",
     "type": "video",
     "links": {
-      "github.com": "https://github.com/campusx-official/nlp-web-app\">https://github.com/campusx-official/nlp-web-app</a></p>",
-      "www.youtube.com": "https://www.youtube.com/watch?v=XEq5gEhqPNE&amp;list=PLKnIA16_RmvaAtO498fZOVVomyx01yZhx&amp;ab_channel=CampusX\">https://www.youtube.com/watch?v=XEq5gEhqPNE&amp;list=PLKnIA16_RmvaAtO498fZOVVomyx01yZhx&amp;ab_channel=CampusX</a></p>"
+      "https://github.com/campusx-official/nlp-web-app": "github.com",
+      "https://www.youtube.com/watch?v=jp3gE2Ow6Fw&amp;list=PLKnIA16_RmvaPjreiKXncoLCLQKE0I_9D&amp;ab_channel=CampusX": "www.youtube.com",
+      "https://www.youtube.com/watch?v=4d79CMy5-LI&amp;list=PLKnIA16_RmvYz9J-59mtVWLQuPbsWd56P&amp;ab_channel=CampusX": "www.youtube.com",
+      "https://www.youtube.com/watch?v=XEq5gEhqPNE&amp;list=PLKnIA16_RmvaAtO498fZOVVomyx01yZhx&amp;ab_channel=CampusX": "www.youtube.com"
     }
   },
   {
@@ -647,7 +654,7 @@
     "id": "6393d9e0e4b08ae9b057a065",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/15sGD09W5CVrYxuayY_81vDXlv6a7f-PB?usp=sharing\">https://colab.research.google.com/drive/15sGD09W5CVrYxuayY_81vDXlv6a7f-PB?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/15sGD09W5CVrYxuayY_81vDXlv6a7f-PB?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -659,7 +666,7 @@
     "totalTime": 24.277779,
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1UFnFdlSnm2wGcLFKE8mOifgcpfSICoKJ?usp=sharing\">https://colab.research.google.com/drive/1UFnFdlSnm2wGcLFKE8mOifgcpfSICoKJ?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1UFnFdlSnm2wGcLFKE8mOifgcpfSICoKJ?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -671,7 +678,7 @@
     "id": "6396dc29e4b020bc7b0d4455",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1tesod4lk55ZgC2a4xB0fUhUAD0nz1cTT?usp=sharing\">https://colab.research.google.com/drive/1tesod4lk55ZgC2a4xB0fUhUAD0nz1cTT?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1tesod4lk55ZgC2a4xB0fUhUAD0nz1cTT?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -683,8 +690,8 @@
     "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing\">https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing</a></p>\n\n<p>Download Datasets - <a href=\"https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link\">https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link</a></p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing\">https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing</a></p>",
-      "drive.google.com": "https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link\">https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link</a></p>"
+      "https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link": "drive.google.com"
     }
   },
   {
@@ -696,8 +703,8 @@
     "id": "63995bb4e4b08da5946b275b",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing\">https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing</a></p>",
-      "drive.google.com": "https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link\">https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link</a></p>"
+      "https://colab.research.google.com/drive/1Te483lmZDDKzzU0YFnuHiSy87AHquJKF?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/drive/folders/1aUJ85Ea-TxVWSQNvtKjkz75fqEAqFHk6?usp=share_link": "drive.google.com"
     }
   },
   {
@@ -709,8 +716,8 @@
     "title": "Session 17 - Pandas DataFrame",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8\">https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8</a></p>",
-      "colab.research.google.com": "https://colab.research.google.com/drive/1k_CV931NE4_jMxmu3k2ASPMmIA4g5Wcn?usp=sharing\">https://colab.research.google.com/drive/1k_CV931NE4_jMxmu3k2ASPMmIA4g5Wcn?usp=sharing</a></p>"
+      "https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8": "drive.google.com",
+      "https://colab.research.google.com/drive/1k_CV931NE4_jMxmu3k2ASPMmIA4g5Wcn?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -722,8 +729,8 @@
     "description": "<p>Datasets - <a href=\"https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8?usp=share_link\">https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8?usp=share_link</a></p>\n\n<p>Code - <a href=\"https://colab.research.google.com/drive/1a5Yii5DmHtaNH2QyMInegixa26pLWHo7?usp=sharing\">https://colab.research.google.com/drive/1a5Yii5DmHtaNH2QyMInegixa26pLWHo7?usp=sharing</a></p>\n",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8?usp=share_link\">https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8?usp=share_link</a></p>",
-      "colab.research.google.com": "https://colab.research.google.com/drive/1a5Yii5DmHtaNH2QyMInegixa26pLWHo7?usp=sharing\">https://colab.research.google.com/drive/1a5Yii5DmHtaNH2QyMInegixa26pLWHo7?usp=sharing</a></p>"
+      "https://drive.google.com/drive/folders/18ZsL5K8PiFT9GS1631lpGIE3HMR0n1G8?usp=share_link": "drive.google.com",
+      "https://colab.research.google.com/drive/1a5Yii5DmHtaNH2QyMInegixa26pLWHo7?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -735,7 +742,7 @@
     "totalTime": 163.04933,
     "type": "video",
     "links": {
-      "github.com": "https://github.com/campusx-official/ipl-api-service\">https://github.com/campusx-official/ipl-api-service</a></p>"
+      "https://github.com/campusx-official/ipl-api-service": "github.com"
     }
   },
   {
@@ -747,8 +754,8 @@
     "totalTime": 154.108,
     "type": "video",
     "links": {
-      "github.com": "https://github.com/campusx-official/ipl-web-app\">https://github.com/campusx-official/ipl-web-app</a></p>",
-      "colab.research.google.com": "https://colab.research.google.com/drive/1_QkzCawz5aofyLJXbGXF-vNsTAxjnNgG?usp=sharing\">https://colab.research.google.com/drive/1_QkzCawz5aofyLJXbGXF-vNsTAxjnNgG?usp=sharing</a></p>"
+      "https://github.com/campusx-official/ipl-web-app": "github.com",
+      "https://colab.research.google.com/drive/1_QkzCawz5aofyLJXbGXF-vNsTAxjnNgG?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -760,7 +767,7 @@
     "isDescriptionHtml": true,
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/16F_MMON9J1fFDYrxtyYaQDP80SQjj8x0?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/16F_MMON9J1fFDYrxtyYaQDP80SQjj8x0?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -772,7 +779,7 @@
     "title": "Task 17 Solutions",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1GrYEtG87mn5-_MH7rWPTZJJxJ8jl5mWI?usp=sharing\">https://colab.research.google.com/drive/1GrYEtG87mn5-_MH7rWPTZJJxJ8jl5mWI?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1GrYEtG87mn5-_MH7rWPTZJJxJ8jl5mWI?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -784,7 +791,7 @@
     "title": "Task 18 Solutions",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1NcOunueBaiVEkj2Y4DcGyf2jBIHlE9QQ?usp=sharing\">https://colab.research.google.com/drive/1NcOunueBaiVEkj2Y4DcGyf2jBIHlE9QQ?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1NcOunueBaiVEkj2Y4DcGyf2jBIHlE9QQ?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -796,8 +803,8 @@
     "totalTime": 129,
     "id": "63a26018e4b0646213f38cf6",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/1IiMIOGCv-giUV_rtF02sImgkaVuAQxkz?usp=share_link\">https://drive.google.com/drive/folders/1IiMIOGCv-giUV_rtF02sImgkaVuAQxkz?usp=share_link</a></p>",
-      "colab.research.google.com": "https://colab.research.google.com/drive/1JZwTCZp2kbiTACzcuXmWq_FL-GRNo9ym?usp=sharing\">https://colab.research.google.com/drive/1JZwTCZp2kbiTACzcuXmWq_FL-GRNo9ym?usp=sharing</a></p>"
+      "https://drive.google.com/drive/folders/1IiMIOGCv-giUV_rtF02sImgkaVuAQxkz?usp=share_link": "drive.google.com",
+      "https://colab.research.google.com/drive/1JZwTCZp2kbiTACzcuXmWq_FL-GRNo9ym?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -809,8 +816,8 @@
     "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/157g2UZM9StxNMz-dUw2uPH-JeKn6z269?usp=sharing\">https://colab.research.google.com/drive/157g2UZM9StxNMz-dUw2uPH-JeKn6z269?usp=sharing</a></p>\n\n<p>IPL Delevries Dataset (for Q5 - to Q8, ) :&nbsp;<a href=\"https://docs.google.com/spreadsheets/d/1ROM5oTEEMXfnBHAmz3XC5lwGMgnQaw80PiXadKHRgGU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1ROM5oTEEMXfnBHAmz3XC5lwGMgnQaw80PiXadKHRgGU/edit?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/157g2UZM9StxNMz-dUw2uPH-JeKn6z269?usp=sharing\">https://colab.research.google.com/drive/157g2UZM9StxNMz-dUw2uPH-JeKn6z269?usp=sharing</a></p>",
-      "docs.google.com": "https://docs.google.com/spreadsheets/d/1ROM5oTEEMXfnBHAmz3XC5lwGMgnQaw80PiXadKHRgGU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1ROM5oTEEMXfnBHAmz3XC5lwGMgnQaw80PiXadKHRgGU/edit?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/157g2UZM9StxNMz-dUw2uPH-JeKn6z269?usp=sharing": "colab.research.google.com",
+      "https://docs.google.com/spreadsheets/d/1ROM5oTEEMXfnBHAmz3XC5lwGMgnQaw80PiXadKHRgGU/edit?usp=sharing": "docs.google.com"
     }
   },
   {
@@ -822,8 +829,8 @@
     "title": "Session 20 - Merging, Joining & Concatenating",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/1tE0LxbzsVX70y8Br_VxiZas288ODDBup?usp=share_link\">https://drive.google.com/drive/folders/1tE0LxbzsVX70y8Br_VxiZas288ODDBup?usp=share_link</a></p>",
-      "colab.research.google.com": "https://colab.research.google.com/drive/1Xs7On5fr6ZZnrwGxgMXWld2XUrniqXGj?usp=sharing\">https://colab.research.google.com/drive/1Xs7On5fr6ZZnrwGxgMXWld2XUrniqXGj?usp=sharing</a></p>"
+      "https://drive.google.com/drive/folders/1tE0LxbzsVX70y8Br_VxiZas288ODDBup?usp=share_link": "drive.google.com",
+      "https://colab.research.google.com/drive/1Xs7On5fr6ZZnrwGxgMXWld2XUrniqXGj?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -835,7 +842,7 @@
     "id": "63ab4ebde4b0bab50da8f96b",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1aLK7SUm8v2rRhJSU-wXyWERFMcBWC1mK?usp=sharing\">https://colab.research.google.com/drive/1aLK7SUm8v2rRhJSU-wXyWERFMcBWC1mK?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1aLK7SUm8v2rRhJSU-wXyWERFMcBWC1mK?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -847,12 +854,12 @@
     "title": "Session on Streamlit",
     "type": "video",
     "links": {
-      "github.com": "https://github.com/campusx-official/streamlit-basics\">https://github.com/campusx-official/streamlit-basics</a></p>",
-      "www.overleaf.com": "https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F\">https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F</a></p>",
-      "www.markdownguide.org": "https://www.markdownguide.org/basic-syntax/#images-1\">https://www.markdownguide.org/basic-syntax/#images-1</a></p>",
-      "docs.streamlit.io": "https://docs.streamlit.io/library/api-reference\">https://docs.streamlit.io/library/api-reference</a></p>",
-      "www.kaggle.com": "https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding\">https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding</a></p>",
-      "docs.google.com": "https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing\">https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing</a></p>"
+      "https://github.com/campusx-official/streamlit-basics": "github.com",
+      "https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F": "www.overleaf.com",
+      "https://www.markdownguide.org/basic-syntax/#images-1": "www.markdownguide.org",
+      "https://docs.streamlit.io/library/api-reference": "docs.streamlit.io",
+      "https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding": "www.kaggle.com",
+      "https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing": "docs.google.com"
     }
   },
   {
@@ -864,9 +871,10 @@
     "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/streamlit-basics\" target=\"_blank\">https://github.com/campusx-official/streamlit-basics</a></p>\n\n<p>Kaggle code -&nbsp;<a href=\"https://www.kaggle.com/campusx/startup-data-analysis\" target=\"_blank\">https://www.kaggle.com/campusx/startup-data-analysis</a></p>\n\n<p>Plan of Action -&nbsp;<a href=\"https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing\" target=\"_blank\">https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding\" target=\"_blank\">https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding</a></p>\n\n<p>&nbsp;</p>\n\n<p>Timestamp -&gt;&nbsp;0:40:50&nbsp;</p>\n\n<p># Converting date column datatype</p>\n\n<p><span style=\"background-color:#bdc3c7;\">df[&#39;date&#39;] = df[&#39;date&#39;].replace({&#39;05/072018&#39;:&#39;05/07/2018&#39;, &#39;01/07/015&#39;:&#39;01/07/2015&#39;, &#39;22/01//2015&#39;:&#39;22/01/2015&#39;})</span></p>\n\n<p><span style=\"background-color:#bdc3c7;\">df[&#39;date&#39;] = pd.to_datetime(df[&#39;date&#39;])</span></p>\n\n<p>For Issue at time 2:03:58 :<br />\nUse session state for option:<br />\n# Like below, the rest codes are&nbsp;the same as of sir&#39;s GitHub repo.</p>\n\n<p>st.session_state.option = st.sidebar.selectbox(</p>\n\n<p>&nbsp; &nbsp; &#39;Select One&#39;, [&#39;Overall Analysis&#39;, &#39;StartUp&#39;, &#39;Investor&#39;], key=&#39;analysis&#39;)</p>\n\n<p>option = st.session_state.option</p>\n\n<p>if option == &#39;Overall Analysis&#39;:</p>\n\n<p>&nbsp; &nbsp; load_overall_analysis()</p>\n\n<p>&nbsp;</p>\n\n<p>For ModuleNotFoundError at 2:13:00 :<br />\n&nbsp;-&gt; Similar Issue been resolved in&nbsp;<strong>Week 9: Project Using Plotly</strong> session from Timestamp 1:54:35</p>\n\n<p>&nbsp;</p>\n",
     "type": "video",
     "links": {
-      "github.com": "https://github.com/campusx-official/streamlit-basics</a></p>",
-      "www.kaggle.com": "https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding</a></p>",
-      "docs.google.com": "https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing</a></p>"
+      "https://github.com/campusx-official/streamlit-basics": "github.com",
+      "https://www.kaggle.com/campusx/startup-data-analysis": "www.kaggle.com",
+      "https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit?usp=sharing": "docs.google.com",
+      "https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding": "www.kaggle.com"
     }
   },
   {
@@ -878,8 +886,8 @@
     "id": "63a9d178e4b06e3957f6f9fc",
     "type": "video",
     "links": {
-      "git-scm.com": "https://git-scm.com/download/win\">https://git-scm.com/download/win</a></p>",
-      "drive.google.com": "https://drive.google.com/file/d/1jmialN0Jhhuj5fl2K1N7R9LosoIjrtDb/view?usp=sharing</a></p>"
+      "https://git-scm.com/download/win": "git-scm.com",
+      "https://drive.google.com/file/d/1jmialN0Jhhuj5fl2K1N7R9LosoIjrtDb/view?usp=sharing": "drive.google.com"
     }
   },
   {
@@ -891,7 +899,7 @@
     "id": "63ab2410e4b01220335fe5f7",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/file/d/1jmialN0Jhhuj5fl2K1N7R9LosoIjrtDb/view?usp=sharing</a></p>"
+      "https://drive.google.com/file/d/1jmialN0Jhhuj5fl2K1N7R9LosoIjrtDb/view?usp=sharing": "drive.google.com"
     }
   },
   {
@@ -913,8 +921,8 @@
     "type": "video",
     "title": "Session 21 - MultiIndex Series and DataFrames",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/1AP_M96SnIe985aQQp9SmDkz69AXHrs5t?usp=share_link\">https://drive.google.com/drive/folders/1AP_M96SnIe985aQQp9SmDkz69AXHrs5t?usp=share_link</a>",
-      "colab.research.google.com": "https://colab.research.google.com/drive/17l8EddlrS2Ed35frmeS6cHAvdf5Fbw-g?usp=sharing\">https://colab.research.google.com/drive/17l8EddlrS2Ed35frmeS6cHAvdf5Fbw-g?usp=sharing</a></p>"
+      "https://drive.google.com/drive/folders/1AP_M96SnIe985aQQp9SmDkz69AXHrs5t?usp=share_link": "drive.google.com",
+      "https://colab.research.google.com/drive/17l8EddlrS2Ed35frmeS6cHAvdf5Fbw-g?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -926,7 +934,7 @@
     "totalTime": 25.767334,
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1v3YVApNLyFyK3VucW08MYg6G8Lmf2yUw?usp=sharing\">https://colab.research.google.com/drive/1v3YVApNLyFyK3VucW08MYg6G8Lmf2yUw?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1v3YVApNLyFyK3VucW08MYg6G8Lmf2yUw?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -938,8 +946,10 @@
     "title": "Session 22 - Vectorized String Operations | DateTime in Pandas | Pivot Table",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/1Vy1LilxgmyBiDg-UAnrBnJ5R1XBvwHGx?usp=share_link\">https://drive.google.com/drive/folders/1Vy1LilxgmyBiDg-UAnrBnJ5R1XBvwHGx?usp=share_link</a></p>",
-      "colab.research.google.com": "https://colab.research.google.com/drive/1zkfBGu48iLfJWNzAosD_qbCjzi7dYf8-?usp=sharing\">https://colab.research.google.com/drive/1zkfBGu48iLfJWNzAosD_qbCjzi7dYf8-?usp=sharing</a></p>"
+      "https://drive.google.com/drive/folders/1Vy1LilxgmyBiDg-UAnrBnJ5R1XBvwHGx?usp=share_link": "drive.google.com",
+      "https://colab.research.google.com/drive/17l8EddlrS2Ed35frmeS6cHAvdf5Fbw-g?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1IbvN3BABXN2sgxNr3EckyB_WO4tP0EpE?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1zkfBGu48iLfJWNzAosD_qbCjzi7dYf8-?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -951,7 +961,7 @@
     "title": "Task 22 Solutions",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1EV72ez6mbkzdyJvJdq3fFS0KmXAxYfGx?usp=sharing\">https://colab.research.google.com/drive/1EV72ez6mbkzdyJvJdq3fFS0KmXAxYfGx?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1EV72ez6mbkzdyJvJdq3fFS0KmXAxYfGx?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -963,8 +973,8 @@
     "totalTime": 147.68266,
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/12G4cSJkdYAE6tLjilZ90ou_YfP1xXij8?usp=sharing\">https://colab.research.google.com/drive/12G4cSJkdYAE6tLjilZ90ou_YfP1xXij8?usp=sharing</a></p>",
-      "drive.google.com": "https://drive.google.com/drive/folders/15WZn-YqSRbEAMM3ErlDdm3zDu6m47tUb?usp=share_link\">https://drive.google.com/drive/folders/15WZn-YqSRbEAMM3ErlDdm3zDu6m47tUb?usp=share_link</a></p>"
+      "https://colab.research.google.com/drive/12G4cSJkdYAE6tLjilZ90ou_YfP1xXij8?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/drive/folders/15WZn-YqSRbEAMM3ErlDdm3zDu6m47tUb?usp=share_link": "drive.google.com"
     }
   },
   {
@@ -976,7 +986,8 @@
     "title": "Pandas Case Study 2 - Working with textual data",
     "type": "video",
     "links": {
-      "www.kaggle.com": "https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews\">https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews</a></p>"
+      "https://www.kaggle.com/campusx/pandas-on-nlp-data": "www.kaggle.com",
+      "https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews": "www.kaggle.com"
     }
   },
   {
@@ -988,8 +999,8 @@
     "description": "<p>Datasets used in the session - <a href=\"https://drive.google.com/drive/folders/1_TyTVEMxhEoIs1nsU4V_p1rH5x4jLSiW?usp=share_link\">https://drive.google.com/drive/folders/1_TyTVEMxhEoIs1nsU4V_p1rH5x4jLSiW?usp=share_link</a> Notebook Links -<a href=\"https://colab.research.google.com/drive/1ksmroQtN_KoCeJzpzPgGAbLv0UG_6G_a?usp=sharing\">https://colab.research.google.com/drive/1ksmroQtN_KoCeJzpzPgGAbLv0UG_6G_a?usp=sharing</a></p>\n",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/1_TyTVEMxhEoIs1nsU4V_p1rH5x4jLSiW?usp=share_link\">https://drive.google.com/drive/folders/1_TyTVEMxhEoIs1nsU4V_p1rH5x4jLSiW?usp=share_link</a>",
-      "colab.research.google.com": "https://colab.research.google.com/drive/1ksmroQtN_KoCeJzpzPgGAbLv0UG_6G_a?usp=sharing\">https://colab.research.google.com/drive/1ksmroQtN_KoCeJzpzPgGAbLv0UG_6G_a?usp=sharing</a></p>"
+      "https://drive.google.com/drive/folders/1_TyTVEMxhEoIs1nsU4V_p1rH5x4jLSiW?usp=share_link": "drive.google.com",
+      "https://colab.research.google.com/drive/1ksmroQtN_KoCeJzpzPgGAbLv0UG_6G_a?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1001,7 +1012,7 @@
     "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1ssQKshkqJvIKnphx0JQfClJqt_vS67rb?usp=sharing\">https://colab.research.google.com/drive/1ssQKshkqJvIKnphx0JQfClJqt_vS67rb?usp=sharing</a></p>\n",
     "totalTime": 43.168335,
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1ssQKshkqJvIKnphx0JQfClJqt_vS67rb?usp=sharing\">https://colab.research.google.com/drive/1ssQKshkqJvIKnphx0JQfClJqt_vS67rb?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1ssQKshkqJvIKnphx0JQfClJqt_vS67rb?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1013,8 +1024,8 @@
     "totalTime": 133,
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/17q7WRLJ7hdkA7nk8J_GUTEcZ7WHgPKUg?usp=share_link\">https://drive.google.com/drive/folders/17q7WRLJ7hdkA7nk8J_GUTEcZ7WHgPKUg?usp=share_link</a></p>",
-      "colab.research.google.com": "https://colab.research.google.com/drive/14TP6tNzUT5M0YfgzwTMF_6WBuQkLUgXp?usp=sharing\">https://colab.research.google.com/drive/14TP6tNzUT5M0YfgzwTMF_6WBuQkLUgXp?usp=sharing</a></p>"
+      "https://drive.google.com/drive/folders/17q7WRLJ7hdkA7nk8J_GUTEcZ7WHgPKUg?usp=share_link": "drive.google.com",
+      "https://colab.research.google.com/drive/14TP6tNzUT5M0YfgzwTMF_6WBuQkLUgXp?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1026,7 +1037,7 @@
     "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1TXxHzzrAgXCrbzp3kkqsf8OBnuQlZzI3?usp=sharing\">https://colab.research.google.com/drive/1TXxHzzrAgXCrbzp3kkqsf8OBnuQlZzI3?usp=sharing</a></p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1TXxHzzrAgXCrbzp3kkqsf8OBnuQlZzI3?usp=sharing\">https://colab.research.google.com/drive/1TXxHzzrAgXCrbzp3kkqsf8OBnuQlZzI3?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1TXxHzzrAgXCrbzp3kkqsf8OBnuQlZzI3?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1038,7 +1049,7 @@
     "title": "Session on Plotly(Express)",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/11Ya6Pi2pNoHT3yLr2fGbl-Zd6cz67x4M?usp=sharing\">https://colab.research.google.com/drive/11Ya6Pi2pNoHT3yLr2fGbl-Zd6cz67x4M?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/11Ya6Pi2pNoHT3yLr2fGbl-Zd6cz67x4M?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1070,7 +1081,8 @@
     "id": "63c2052ae4b012865b6d888f",
     "type": "video",
     "links": {
-      "github.com": "https://github.com/NitRookies/COVID19_Codechef/"
+      "https://github.com/campusx-official/campusx-official": "github.com",
+      "https://github.com/NitRookies/COVID19_Codechef/": "github.com"
     }
   },
   {
@@ -1092,8 +1104,10 @@
     "title": "Project using Plotly",
     "type": "video",
     "links": {
-      "www.kaggle.com": "https://www.kaggle.com/code/campusx/notebook1f43313be3\">https://www.kaggle.com/code/campusx/notebook1f43313be3</a></p>",
-      "github.com": "https://github.com/campusx-official/india-data-viz-mini-project\">https://github.com/campusx-official/india-data-viz-mini-project</a></p>"
+      "https://www.kaggle.com/datasets/sirpunch/indian-census-data-with-geospatial-indexing": "www.kaggle.com",
+      "https://www.kaggle.com/datasets/danofer/india-census?select=india-districts-census-2011.csv": "www.kaggle.com",
+      "https://www.kaggle.com/code/campusx/notebook1f43313be3": "www.kaggle.com",
+      "https://github.com/campusx-official/india-data-viz-mini-project": "github.com"
     }
   },
   {
@@ -1105,7 +1119,7 @@
     "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1_Mk2NWYBzNxICokEtJFxsf6haq_1YIDA?usp=sharing\">https://colab.research.google.com/drive/1_Mk2NWYBzNxICokEtJFxsf6haq_1YIDA?usp=sharing</a></p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1_Mk2NWYBzNxICokEtJFxsf6haq_1YIDA?usp=sharing\">https://colab.research.google.com/drive/1_Mk2NWYBzNxICokEtJFxsf6haq_1YIDA?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1_Mk2NWYBzNxICokEtJFxsf6haq_1YIDA?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1117,7 +1131,7 @@
     "topicId": "ml3thfmh3l",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1uWh7VoNYpBDzkeOhOfWiDT_fvYGxHN8B?usp=sharing\">https://colab.research.google.com/drive/1uWh7VoNYpBDzkeOhOfWiDT_fvYGxHN8B?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1uWh7VoNYpBDzkeOhOfWiDT_fvYGxHN8B?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1129,7 +1143,8 @@
     "topicId": "ml3thfmh3l",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1FjKejgCJwUsxm_XYiRf25-jCvW4rDK64?usp=sharing\">https://colab.research.google.com/drive/1FjKejgCJwUsxm_XYiRf25-jCvW4rDK64?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/18GuhOaBBhaBJ9RtVNHRJQzNxNPPSKBrD?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1FjKejgCJwUsxm_XYiRf25-jCvW4rDK64?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1141,7 +1156,7 @@
     "id": "63db9b17e4b0f02d44c10118",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/19MufvB3-9Owf72SZFheBwnqu0_yU_8VW?usp=sharing\">https://colab.research.google.com/drive/19MufvB3-9Owf72SZFheBwnqu0_yU_8VW?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/19MufvB3-9Owf72SZFheBwnqu0_yU_8VW?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1153,8 +1168,9 @@
     "totalTime": 60.15222,
     "type": "video",
     "links": {
-      "resources.github.com": "https://resources.github.com/devops/process/planning/discussions/\">https://resources.github.com/devops/process/planning/discussions/</a></p>",
-      "docs.github.com": "https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions\">https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions</a></p>"
+      "https://resources.github.com/devops/process/planning/discussions/": "resources.github.com",
+      "https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects": "docs.github.com",
+      "https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions": "docs.github.com"
     }
   },
   {
@@ -1166,13 +1182,13 @@
     "title": "Session on Open Source Software Part 2",
     "type": "video",
     "links": {
-      "github.com": "https://github.com/explore\">https://github.com/explore</a></p>",
-      "www.codetriage.com": "https://www.codetriage.com/?language=Python\">https://www.codetriage.com/?language=Python</a></p>",
-      "firstcontributions.github.io": "https://firstcontributions.github.io/#project-list\">https://firstcontributions.github.io/#project-list</a></p>",
-      "www.firsttimersonly.com": "https://www.firsttimersonly.com/\">https://www.firsttimersonly.com/</a></p>",
-      "24pullrequests.com": "https://24pullrequests.com/\">https://24pullrequests.com/</a></p>",
-      "summerofcode.withgoogle.com": "https://summerofcode.withgoogle.com/archive/2022/organizations\">https://summerofcode.withgoogle.com/archive/2022/organizations</a></p>",
-      "hacktoberfest.com": "https://hacktoberfest.com/\">https://hacktoberfest.com/</a></p>"
+      "https://github.com/explore": "github.com",
+      "https://www.codetriage.com/?language=Python": "www.codetriage.com",
+      "https://firstcontributions.github.io/#project-list": "firstcontributions.github.io",
+      "https://www.firsttimersonly.com/": "www.firsttimersonly.com",
+      "https://24pullrequests.com/": "24pullrequests.com",
+      "https://summerofcode.withgoogle.com/archive/2022/organizations": "summerofcode.withgoogle.com",
+      "https://hacktoberfest.com/": "hacktoberfest.com"
     }
   },
   {
@@ -1184,8 +1200,12 @@
     "topicId": "j5kodpnubdg",
     "type": "video",
     "links": {
-      "github.com": "https://github.com/campusx-official/pandas-io\">https://github.com/campusx-official/pandas-io</a></p>",
-      "mail.google.com": "https://mail.google.com/mail/u/1?ui=2&amp;ik=68caf9154b&amp;attid=0.1&amp;permmsgid=msg-a:r-8228710238440130969&amp;th=18d7f77b681ce84b&amp;view=fimg&amp;fur=ip&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ9AMkdOQ9DN-xcuAq0BOYrgfeWdRBLgzWo0hsqtvEp14yH6BOtSTbEfoiBRXny6Jca5PeICyu4GMOPQS8lxgG-PjdzCOcZMWcQ5GHNeoi66spx9qBPD0JXdzwI&amp;disp=emb&amp;realattid=ii_lsamrppg0\""
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day15%20-%20working%20with%20csv%20files": "github.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day16%20-%20working-with-json-and-sql": "github.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day17-api-to-dataframe": "github.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day18-pandas-dataframe-using-web-scraping": "github.com",
+      "https://github.com/campusx-official/pandas-io": "github.com",
+      "https://mail.google.com/mail/u/1?ui=2&amp;ik=68caf9154b&amp;attid=0.1&amp;permmsgid=msg-a:r-8228710238440130969&amp;th=18d7f77b681ce84b&amp;view=fimg&amp;fur=ip&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ9AMkdOQ9DN-xcuAq0BOYrgfeWdRBLgzWo0hsqtvEp14yH6BOtSTbEfoiBRXny6Jca5PeICyu4GMOPQS8lxgG-PjdzCOcZMWcQ5GHNeoi66spx9qBPD0JXdzwI&amp;disp=emb&amp;realattid=ii_lsamrppg0": "mail.google.com"
     }
   },
   {
@@ -1197,7 +1217,7 @@
     "topicId": "j5kodpnubdg",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1rTHjrE289QWSHD_I8UL_DAw_WzYMS5bh?usp=sharing\">https://colab.research.google.com/drive/1rTHjrE289QWSHD_I8UL_DAw_WzYMS5bh?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1rTHjrE289QWSHD_I8UL_DAw_WzYMS5bh?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1209,8 +1229,8 @@
     "id": "63d1d4b1e4b061f963af5bea",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1ca-jlBvJ4uqpbCHFFgCFp9akIY7FSmGc?usp=sharing\">https://colab.research.google.com/drive/1ca-jlBvJ4uqpbCHFFgCFp9akIY7FSmGc?usp=sharing</a></p>",
-      "github.com": "https://github.com/campusx-official/data-wrangling\">https://github.com/campusx-official/data-wrangling</a></p>"
+      "https://colab.research.google.com/drive/1ca-jlBvJ4uqpbCHFFgCFp9akIY7FSmGc?usp=sharing": "colab.research.google.com",
+      "https://github.com/campusx-official/data-wrangling": "github.com"
     }
   },
   {
@@ -1222,9 +1242,10 @@
     "id": "63d40658e4b048d3a94e98fd",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing\">https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing</a></p>",
-      "www.kaggle.com": "https://www.kaggle.com/datasets/harsha547/indian-premier-league-csv-dataset\">https://www.kaggle.com/datasets/harsha547/indian-premier-league-csv-dataset</a></p>",
-      "www.dream11.com": "https://www.dream11.com/games/point-system\">https://www.dream11.com/games/point-system</a></p>"
+      "https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing": "colab.research.google.com",
+      "https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020": "www.kaggle.com",
+      "https://www.kaggle.com/datasets/harsha547/indian-premier-league-csv-dataset": "www.kaggle.com",
+      "https://www.dream11.com/games/point-system": "www.dream11.com"
     }
   },
   {
@@ -1236,9 +1257,9 @@
     "description": "<p>Code - <a href=\"https://github.com/campusx-official/advanced-web-scraping\">https://github.com/campusx-official/advanced-web-scraping</a></p>\n\n<p>Chrome Driver - <a href=\"https://chromedriver.chromium.org/downloads\">https://chromedriver.chromium.org/downloads</a></p>\n\n<p>Selenium docs - <a href=\"https://selenium-python.readthedocs.io/\">https://selenium-python.readthedocs.io/</a></p>\n",
     "totalTime": 186.20734,
     "links": {
-      "github.com": "https://github.com/campusx-official/advanced-web-scraping\">https://github.com/campusx-official/advanced-web-scraping</a></p>",
-      "chromedriver.chromium.org": "https://chromedriver.chromium.org/downloads\">https://chromedriver.chromium.org/downloads</a></p>",
-      "selenium-python.readthedocs.io": "https://selenium-python.readthedocs.io/\">https://selenium-python.readthedocs.io/</a></p>"
+      "https://github.com/campusx-official/advanced-web-scraping": "github.com",
+      "https://chromedriver.chromium.org/downloads": "chromedriver.chromium.org",
+      "https://selenium-python.readthedocs.io/": "selenium-python.readthedocs.io"
     }
   },
   {
@@ -1250,8 +1271,8 @@
     "totalTime": 130.81134,
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing\">https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing</a></p>",
-      "docs.google.com": "https://docs.google.com/spreadsheets/d/1oBG0ZtYiWzehWa1K6pV8huMtVEJxCY4C9vPaGCt1_gU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1oBG0ZtYiWzehWa1K6pV8huMtVEJxCY4C9vPaGCt1_gU/edit?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing": "colab.research.google.com",
+      "https://docs.google.com/spreadsheets/d/1oBG0ZtYiWzehWa1K6pV8huMtVEJxCY4C9vPaGCt1_gU/edit?usp=sharing": "docs.google.com"
     }
   },
   {
@@ -1263,8 +1284,8 @@
     "description": "<p>Notebook Link:&nbsp;<a href=\"https://colab.research.google.com/drive/13rFqQJqU5RgxSdtUARZAUrzAoweE3rbQ?usp=sharing\">https://colab.research.google.com/drive/13rFqQJqU5RgxSdtUARZAUrzAoweE3rbQ?usp=sharing</a></p>\n\n<p>---------------------------------------------------------------------------------------------------------------------------------------- Dataset Link : <a href=\"https://drive.google.com/drive/folders/1oFZxHRuAw_JI7soe46mmO61s-WM7jtQg?usp=share_link\">https://drive.google.com/drive/folders/1oFZxHRuAw_JI7soe46mmO61s-WM7jtQg?usp=share_link</a></p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/13rFqQJqU5RgxSdtUARZAUrzAoweE3rbQ?usp=sharing\">https://colab.research.google.com/drive/13rFqQJqU5RgxSdtUARZAUrzAoweE3rbQ?usp=sharing</a></p>",
-      "drive.google.com": "https://drive.google.com/drive/folders/1oFZxHRuAw_JI7soe46mmO61s-WM7jtQg?usp=share_link\">https://drive.google.com/drive/folders/1oFZxHRuAw_JI7soe46mmO61s-WM7jtQg?usp=share_link</a></p>"
+      "https://colab.research.google.com/drive/13rFqQJqU5RgxSdtUARZAUrzAoweE3rbQ?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/drive/folders/1oFZxHRuAw_JI7soe46mmO61s-WM7jtQg?usp=share_link": "drive.google.com"
     }
   },
   {
@@ -1286,7 +1307,7 @@
     "id": "63dd4280e4b0774b499babc6",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing\">https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1298,8 +1319,10 @@
     "description": "<p>EDA code -&nbsp;<a href=\"https://colab.research.google.com/drive/1CLkCDQAFZfNmLO0MRf14bTKbnV-1NtMs?usp=sharing\">https://colab.research.google.com/drive/1CLkCDQAFZfNmLO0MRf14bTKbnV-1NtMs?usp=sharing</a></p>\n\n<p>Data Cleaning round 1 code -&nbsp;<a href=\"https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing\">https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing</a></p>\n\n<p>Data Cleaning round 2 code -&nbsp;<a href=\"https://colab.research.google.com/drive/1E7nUdvyKpm6C-4oIw67rV6EufLEeCTrx?usp=sharing\">https://colab.research.google.com/drive/1E7nUdvyKpm6C-4oIw67rV6EufLEeCTrx?usp=sharing</a></p>\n\n<p>Dataset (v3 &amp; v5): <a href=\"https://drive.google.com/drive/folders/1xujCj-9CAwtenyPdtU07bMPXomarOSoV?usp=share_link\">https://drive.google.com/drive/folders/1xujCj-9CAwtenyPdtU07bMPXomarOSoV?usp=share_link</a></p>\n",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1E7nUdvyKpm6C-4oIw67rV6EufLEeCTrx?usp=sharing\">https://colab.research.google.com/drive/1E7nUdvyKpm6C-4oIw67rV6EufLEeCTrx?usp=sharing</a></p>",
-      "drive.google.com": "https://drive.google.com/drive/folders/1xujCj-9CAwtenyPdtU07bMPXomarOSoV?usp=share_link\">https://drive.google.com/drive/folders/1xujCj-9CAwtenyPdtU07bMPXomarOSoV?usp=share_link</a></p>"
+      "https://colab.research.google.com/drive/1CLkCDQAFZfNmLO0MRf14bTKbnV-1NtMs?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1TGYxt3X2YN7SlfocQg_-6A9pakp-WXZX?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1E7nUdvyKpm6C-4oIw67rV6EufLEeCTrx?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/drive/folders/1xujCj-9CAwtenyPdtU07bMPXomarOSoV?usp=share_link": "drive.google.com"
     }
   },
   {
@@ -1311,9 +1334,9 @@
     "id": "63e1a291e4b0617e7b1ab44a",
     "type": "video",
     "links": {
-      "dataschool.com": "https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/</a></p>",
-      "www.crio.do": "https://www.crio.do/blog/what-is-redis/</a></p>",
-      "drive.google.com": "https://drive.google.com/file/d/1mSKBgj5OoQrEbGoV1cSabaHtNNLZIf_n/view?usp=share_link\""
+      "https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/": "dataschool.com",
+      "https://www.crio.do/blog/what-is-redis/": "www.crio.do",
+      "https://drive.google.com/file/d/1mSKBgj5OoQrEbGoV1cSabaHtNNLZIf_n/view?usp=share_link": "drive.google.com"
     }
   },
   {
@@ -1325,7 +1348,7 @@
     "topicId": "j5rzvyd1g2",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/file/d/146GPq4K7135qOVwggYZ4zjbWhX8J0p8W/view\">https://drive.google.com/file/d/146GPq4K7135qOVwggYZ4zjbWhX8J0p8W/view</a></p>"
+      "https://drive.google.com/file/d/146GPq4K7135qOVwggYZ4zjbWhX8J0p8W/view": "drive.google.com"
     }
   },
   {
@@ -1337,7 +1360,7 @@
     "topicId": "j5rzvyd1g2",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/1aq6Xmi3KQ6uQfejOSVGl1IMRwd9OQDHc?usp=share_link\">https://drive.google.com/drive/folders/1aq6Xmi3KQ6uQfejOSVGl1IMRwd9OQDHc?usp=share_link</a></p>"
+      "https://drive.google.com/drive/folders/1aq6Xmi3KQ6uQfejOSVGl1IMRwd9OQDHc?usp=share_link": "drive.google.com"
     }
   },
   {
@@ -1349,7 +1372,8 @@
     "topicId": "brhi74oeaai",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/1rN2AkOfuJEhroHqRuECshxBKhz0gJBeJ</a></p>"
+      "https://drive.google.com/file/d/13Cu0VUqbENcUX76bx_aoBS0EAtzDPDrE/view": "drive.google.com",
+      "https://drive.google.com/drive/folders/1rN2AkOfuJEhroHqRuECshxBKhz0gJBeJ": "drive.google.com"
     }
   },
   {
@@ -1361,7 +1385,7 @@
     "totalTime": 14.339723,
     "type": "video",
     "links": {
-      "docs.google.com": "https://docs.google.com/document/d/1vYRCL6rKlUi07hlNPZH2I48om65XZKuLl3h-6APfbFM/edit?usp=sharing\">https://docs.google.com/document/d/1vYRCL6rKlUi07hlNPZH2I48om65XZKuLl3h-6APfbFM/edit?usp=sharing</a></p>"
+      "https://docs.google.com/document/d/1vYRCL6rKlUi07hlNPZH2I48om65XZKuLl3h-6APfbFM/edit?usp=sharing": "docs.google.com"
     }
   },
   {
@@ -1373,7 +1397,7 @@
     "topicId": "brhi74oeaai",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/file/d/1FQ_rZm_fvak-rVd85jlWLe1XFT_BpcMZ/view?usp=share_link</a></p>"
+      "https://drive.google.com/file/d/1FQ_rZm_fvak-rVd85jlWLe1XFT_BpcMZ/view?usp=share_link": "drive.google.com"
     }
   },
   {
@@ -1385,7 +1409,7 @@
     "topicId": "brhi74oeaai",
     "type": "video",
     "links": {
-      "docs.google.com": "https://docs.google.com/document/d/1gRhJp2OY3UqHQ3Cs5812zddHM3zxa5gerERS2ZoboZU/edit?usp=sharing\">https://docs.google.com/document/d/1gRhJp2OY3UqHQ3Cs5812zddHM3zxa5gerERS2ZoboZU/edit?usp=sharing</a></p>"
+      "https://docs.google.com/document/d/1gRhJp2OY3UqHQ3Cs5812zddHM3zxa5gerERS2ZoboZU/edit?usp=sharing": "docs.google.com"
     }
   },
   {
@@ -1407,7 +1431,7 @@
     "description": "<p>Code -&nbsp;<a href=\"https://www.kaggle.com/datasets/benroshan/ecommerce-data\">https://www.kaggle.com/datasets/benroshan/ecommerce-data</a></p>\n",
     "type": "video",
     "links": {
-      "www.kaggle.com": "https://www.kaggle.com/datasets/benroshan/ecommerce-data\">https://www.kaggle.com/datasets/benroshan/ecommerce-data</a></p>"
+      "https://www.kaggle.com/datasets/benroshan/ecommerce-data": "www.kaggle.com"
     }
   },
   {
@@ -1419,7 +1443,7 @@
     "description": "<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/benroshan/ecommerce-data\">https://www.kaggle.com/datasets/benroshan/ecommerce-data</a></p>\n",
     "type": "video",
     "links": {
-      "www.kaggle.com": "https://www.kaggle.com/datasets/benroshan/ecommerce-data\">https://www.kaggle.com/datasets/benroshan/ecommerce-data</a></p>"
+      "https://www.kaggle.com/datasets/benroshan/ecommerce-data": "www.kaggle.com"
     }
   },
   {
@@ -1431,8 +1455,8 @@
     "topicId": "kr4l424mse",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/1RAo7rKbbnzt5Zrek1sq1pb3OJ7-IbQ5f?usp=share_link\">https://drive.google.com/drive/folders/1RAo7rKbbnzt5Zrek1sq1pb3OJ7-IbQ5f?usp=share_link</a></p>",
-      "infytq.onwingspan.com": "https://infytq.onwingspan.com/web/en/app/toc/lex_auth_01275806667282022456_shared/overview\">https://infytq.onwingspan.com/web/en/app/toc/lex_auth_01275806667282022456_shared/overview</a></p>"
+      "https://drive.google.com/drive/folders/1RAo7rKbbnzt5Zrek1sq1pb3OJ7-IbQ5f?usp=share_link": "drive.google.com",
+      "https://infytq.onwingspan.com/web/en/app/toc/lex_auth_01275806667282022456_shared/overview": "infytq.onwingspan.com"
     }
   },
   {
@@ -1444,7 +1468,7 @@
     "id": "6405be33e4b0ce52e571ff45",
     "type": "video",
     "links": {
-      "docs.google.com": "https://docs.google.com/document/d/1Qic8ZU2Ek5a2PBQ52-P4VQzoh4aCl3Zpmc1484ZTzsE/edit?usp=sharing\">https://docs.google.com/document/d/1Qic8ZU2Ek5a2PBQ52-P4VQzoh4aCl3Zpmc1484ZTzsE/edit?usp=sharing</a></p>"
+      "https://docs.google.com/document/d/1Qic8ZU2Ek5a2PBQ52-P4VQzoh4aCl3Zpmc1484ZTzsE/edit?usp=sharing": "docs.google.com"
     }
   },
   {
@@ -1456,7 +1480,8 @@
     "topicId": "kr4l424mse",
     "type": "video",
     "links": {
-      "docs.google.com": "https://docs.google.com/spreadsheets/d/1JgNHxTixDA50W1l6pNFmHKRaX1a9QnXrpGLsJtzo6Gg/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1JgNHxTixDA50W1l6pNFmHKRaX1a9QnXrpGLsJtzo6Gg/edit?usp=sharing</a></p>"
+      "https://docs.google.com/document/d/1H0DjShcScLvrKde5ePTKQ11AM1y1mr_IS4B1Yxl9UUQ/edit?usp=sharing": "docs.google.com",
+      "https://docs.google.com/spreadsheets/d/1JgNHxTixDA50W1l6pNFmHKRaX1a9QnXrpGLsJtzo6Gg/edit?usp=sharing": "docs.google.com"
     }
   },
   {
@@ -1468,7 +1493,7 @@
     "topicId": "kr4l424mse",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/drive/folders/1xCNbO_LJIkr7bi9YDa7hUFYgJ-IZ01A-?usp=share_link\">https://drive.google.com/drive/folders/1xCNbO_LJIkr7bi9YDa7hUFYgJ-IZ01A-?usp=share_link</a><br"
+      "https://drive.google.com/drive/folders/1xCNbO_LJIkr7bi9YDa7hUFYgJ-IZ01A-?usp=share_link": "drive.google.com"
     }
   },
   {
@@ -1480,7 +1505,7 @@
     "id": "6406ede3e4b0ae34d9c92c26",
     "type": "video",
     "links": {
-      "docs.google.com": "https://docs.google.com/document/d/1DI1obZn5y-wa5KIVAJIePtFssbtMfwjcEkkB1xKNH78/edit?usp=sharing\">https://docs.google.com/document/d/1DI1obZn5y-wa5KIVAJIePtFssbtMfwjcEkkB1xKNH78/edit?usp=sharing</a></p>"
+      "https://docs.google.com/document/d/1DI1obZn5y-wa5KIVAJIePtFssbtMfwjcEkkB1xKNH78/edit?usp=sharing": "docs.google.com"
     }
   },
   {
@@ -1492,9 +1517,9 @@
     "topicId": "kr4l424mse",
     "type": "video",
     "links": {
-      "github.com": "https://github.com/campusx-official/flights-sql-app\">https://github.com/campusx-official/flights-sql-app</a></p>",
-      "docs.google.com": "https://docs.google.com/spreadsheets/d/1xuKHmRuCiCXIa1m2f7cX8PqLTTQXVtV1dky0zgnrSlU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1xuKHmRuCiCXIa1m2f7cX8PqLTTQXVtV1dky0zgnrSlU/edit?usp=sharing</a></p>",
-      "colab.research.google.com": "https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing\">https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing</a></p>"
+      "https://github.com/campusx-official/flights-sql-app": "github.com",
+      "https://docs.google.com/spreadsheets/d/1xuKHmRuCiCXIa1m2f7cX8PqLTTQXVtV1dky0zgnrSlU/edit?usp=sharing": "docs.google.com",
+      "https://colab.research.google.com/drive/1qBH_ZfTanr4N9QPQHfH0k9lbHpRa6EMx?usp=sharing": "colab.research.google.com"
     }
   },
   {
@@ -1506,8 +1531,8 @@
     "totalTime": 124.513336,
     "id": "63fa3eeee4b0b73ad213d425",
     "links": {
-      "drive.google.com": "https://drive.google.com/file/d/1hz6Sijm-RWQ8g_mSAlllxrcjMbE7UG8V/view?usp=share_link\">https://drive.google.com/file/d/1hz6Sijm-RWQ8g_mSAlllxrcjMbE7UG8V/view?usp=share_link</a></p>",
-      "learnsql.com": "https://learnsql.com/blog/sql-joins/\">https://learnsql.com/blog/sql-joins/</a></p>"
+      "https://drive.google.com/file/d/1hz6Sijm-RWQ8g_mSAlllxrcjMbE7UG8V/view?usp=share_link": "drive.google.com",
+      "https://learnsql.com/blog/sql-joins/": "learnsql.com"
     }
   },
   {
@@ -1529,7 +1554,7 @@
     "id": "641af0cbe4b0320b5d5ce487",
     "type": "video",
     "links": {
-      "docs.google.com": "https://docs.google.com/document/d/1rJXV6c-qoTwYL91zA-ajrveHjpx6ldvA2ZQFQcqEICY/edit?usp=sharing\">https://docs.google.com/document/d/1rJXV6c-qoTwYL91zA-ajrveHjpx6ldvA2ZQFQcqEICY/edit?usp=sharing</a></p>"
+      "https://docs.google.com/document/d/1rJXV6c-qoTwYL91zA-ajrveHjpx6ldvA2ZQFQcqEICY/edit?usp=sharing": "docs.google.com"
     }
   },
   {
@@ -1541,9 +1566,10 @@
     "topicId": "ymwka7rr7z",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1-v-RUuQlaVUKiVvvEjpsiK2sw-BovjlB?usp=sharing\">https://colab.research.google.com/drive/1-v-RUuQlaVUKiVvvEjpsiK2sw-BovjlB?usp=sharing</a></p>",
-      "github-readme-streak-stats.herokuapp.com": "https://github-readme-streak-stats.herokuapp.com/?user=campusx-official\">https://github-readme-streak-stats.herokuapp.com/?user=campusx-official</a></p>",
-      "github-readme-stats.vercel.app": "https://github-readme-stats.vercel.app/api?username=campusx-official\">https://github-readme-stats.vercel.app/api?username=campusx-official</a></p>"
+      "https://colab.research.google.com/drive/1-v-RUuQlaVUKiVvvEjpsiK2sw-BovjlB?usp=sharing": "colab.research.google.com",
+      "https://github-readme-streak-stats.herokuapp.com/?user=campusx-official": "github-readme-streak-stats.herokuapp.com",
+      "https://github-readme-stats.vercel.app/api/top-langs/?username=campusx-official": "github-readme-stats.vercel.app",
+      "https://github-readme-stats.vercel.app/api?username=campusx-official": "github-readme-stats.vercel.app"
     }
   },
   {
@@ -1565,7 +1591,7 @@
     "totalTime": 140.02533,
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing\">https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing</a></p>"
+      "https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing": "drive.google.com"
     }
   },
   {
@@ -1577,7 +1603,7 @@
     "isDescriptionHtml": true,
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/file/d/1FJYzGxTc-sg3-GMc35cjSr7CxUhXSoPp/view?usp=sharing\">https://drive.google.com/file/d/1FJYzGxTc-sg3-GMc35cjSr7CxUhXSoPp/view?usp=sharing</a></p>"
+      "https://drive.google.com/file/d/1FJYzGxTc-sg3-GMc35cjSr7CxUhXSoPp/view?usp=sharing": "drive.google.com"
     }
   },
   {
@@ -1599,7 +1625,7 @@
     "totalTime": 137.198,
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/file/d/1JnkgIkiNFUXlow_uF82-jiZ61cl329xW/view?usp=sharing\">https://drive.google.com/file/d/1JnkgIkiNFUXlow_uF82-jiZ61cl329xW/view?usp=sharing</a></p>"
+      "https://drive.google.com/file/d/1JnkgIkiNFUXlow_uF82-jiZ61cl329xW/view?usp=sharing": "drive.google.com"
     }
   },
   {
@@ -1611,7 +1637,7 @@
     "id": "65ac1ff3e4b0e4b15f84f73b",
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/file/d/14kTAejx1lj_B9JaupF6kFSXO51KraYJj/view?usp=sharing\">https://drive.google.com/file/d/14kTAejx1lj_B9JaupF6kFSXO51KraYJj/view?usp=sharing</a></p>"
+      "https://drive.google.com/file/d/14kTAejx1lj_B9JaupF6kFSXO51KraYJj/view?usp=sharing": "drive.google.com"
     }
   },
   {
@@ -1623,7 +1649,7 @@
     "isDescriptionHtml": true,
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing\">https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing</a></p>"
+      "https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing": "drive.google.com"
     }
   },
   {
@@ -1635,7 +1661,7 @@
     "totalTime": 125.58667,
     "type": "video",
     "links": {
-      "drive.google.com": "https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing\">https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing</a></p>"
+      "https://drive.google.com/file/d/1C41fY26JDCk8QUGHGt9pKGLdD7XBwdsz/view?usp=sharing": "drive.google.com"
     }
   },
   {
@@ -1657,8 +1683,8 @@
     "title": "Session 1 on K Means Clustering",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing\">https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing</a></p>",
-      "drive.google.com": "https://drive.google.com/file/d/1Am4db3eUVhw_wpPG-R_dqiewZxoB5xRn/view?usp=sharing\">https://drive.google.com/file/d/1Am4db3eUVhw_wpPG-R_dqiewZxoB5xRn/view?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1Am4db3eUVhw_wpPG-R_dqiewZxoB5xRn/view?usp=sharing": "drive.google.com"
     }
   },
   {
@@ -1670,12 +1696,12 @@
     "id": "65677c44e4b01ae71e8b8835",
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing\">https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing</a></p>",
-      "www.kaggle.com": "https://www.kaggle.com/code/campusx/ipl-kmeans-clustering\">https://www.kaggle.com/code/campusx/ipl-kmeans-clustering</a></p>",
-      "drive.google.com": "https://drive.google.com/file/d/11rBoavT2eGWzElwEkNrgh4PpoZ2MP-mF/view?usp=sharing\">https://drive.google.com/file/d/11rBoavT2eGWzElwEkNrgh4PpoZ2MP-mF/view?usp=sharing</a></p>",
-      "citeseerx.ist.psu.edu": "https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf\">https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf</a></p>",
-      "www.cse.iitd.ac.in": "https://www.cse.iitd.ac.in/~rjaiswal/2015/col870/Project/Nipun.pdf\">https://www.cse.iitd.ac.in/~rjaiswal/2015/col870/Project/Nipun.pdf</a></p>",
-      "theory.stanford.edu": "https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf\">https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf</a></p>"
+      "https://colab.research.google.com/drive/18CynErsHaQ_BanYv0ruq2mFF9Hncmu2V?usp=sharing": "colab.research.google.com",
+      "https://www.kaggle.com/code/campusx/ipl-kmeans-clustering": "www.kaggle.com",
+      "https://drive.google.com/file/d/11rBoavT2eGWzElwEkNrgh4PpoZ2MP-mF/view?usp=sharing": "drive.google.com",
+      "https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf": "citeseerx.ist.psu.edu",
+      "https://www.cse.iitd.ac.in/~rjaiswal/2015/col870/Project/Nipun.pdf": "www.cse.iitd.ac.in",
+      "https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf": "theory.stanford.edu"
     }
   },
   {
@@ -1687,10 +1713,10 @@
     "totalTime": 133.398,
     "type": "video",
     "links": {
-      "colab.research.google.com": "https://colab.research.google.com/drive/1j5fLdvQU5-phpm8L5Su6ydGrXbeUMG8a?usp=sharing\">https://colab.research.google.com/drive/1j5fLdvQU5-phpm8L5Su6ydGrXbeUMG8a?usp=sharing</a></p>",
-      "www.kaggle.com": "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2015-01.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2015-01.csv</a></p>",
-      "citeseerx.ist.psu.edu": "https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf\">https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf</a></p>",
-      "drive.google.com": "https://drive.google.com/file/d/1sUtu0DOa9DEIuIA41gRarE5Qb4utXyWm/view?usp=sharing\">https://drive.google.com/file/d/1sUtu0DOa9DEIuIA41gRarE5Qb4utXyWm/view?usp=sharing</a></p>"
+      "https://colab.research.google.com/drive/1j5fLdvQU5-phpm8L5Su6ydGrXbeUMG8a?usp=sharing": "colab.research.google.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2015-01.csv": "www.kaggle.com",
+      "https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=b452a856a3e3d4d37b1de837996aa6813bedfdcf": "citeseerx.ist.psu.edu",
+      "https://drive.google.com/file/d/1sUtu0DOa9DEIuIA41gRarE5Qb4utXyWm/view?usp=sharing": "drive.google.com"
     }
   },
   {
@@ -1702,7 +1728,7 @@
     "isDescriptionHtml": true,
     "type": "video",
     "links": {
-      "github.com": "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/kmeans\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/kmeans</a></p>"
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/kmeans": "github.com"
     }
   }
 ]
