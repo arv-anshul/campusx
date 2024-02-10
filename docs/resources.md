@@ -40,8 +40,8 @@ hide:
     </div>
 </details>
 
-            {% for netloc, link in sub_topic.links.items() %}
-- [{{ netloc }}]({{ link }})
+            {% for link, netloc in sub_topic.links.items() %}
+- [{{ netloc }}]({{ link }}){ title="{{ link }}" }
             {% endfor %}
 
             {% endif %}
