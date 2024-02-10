@@ -15,7 +15,12 @@ def export_course_topics() -> None:
     course_topic_tag = cp.CourseTopic.search(cp.COURSE_HTML_PATH)
     topics = cp.CourseTopic.parse(course_topic_tag)
     with cp.COURSE_TOPICS_PATH.open("w") as f:
-        json.dump([{"id": i.id, "title": i.title} for i in topics], f, indent=2)
+        json.dump(
+            [{"id": i.id, "title": i.title} for i in topics],
+            f,
+            indent=2,
+            sort_keys=True,
+        )
 
 
 def export_course_sub_topics() -> None:
@@ -24,7 +29,7 @@ def export_course_sub_topics() -> None:
     topics = cp.CourseTopic.parse(course_topic_tag)
     sub_topics = [asdict(j) for i in topics for j in cp.CourseSubTopic.parse(i)]
     with cp.COURSE_SUB_TOPICS_PATH.open("w") as f:
-        json.dump(sub_topics, f, indent=2)
+        json.dump(sub_topics, f, indent=2, sort_keys=True)
 
 
 def sort_sub_topics_resources():
@@ -42,7 +47,7 @@ def sort_sub_topics_resources():
     )
 
     with cp.SUB_TOPIC_RESOURCES_PATH.open("w") as file2:
-        json.dump(sorted_data_file2, file2, indent=2)
+        json.dump(sorted_data_file2, file2, indent=2, sort_keys=True)
 
 
 def clean_videos_resources() -> None:
@@ -61,7 +66,7 @@ def clean_videos_resources() -> None:
         cleaned_resources.append(resource)
 
     with cp.CLEANED_RESOURCES_PATH.open("w") as f:
-        json.dump(cleaned_resources, f, indent=2)
+        json.dump(cleaned_resources, f, indent=2, sort_keys=True)
 
 
 if __name__ == "__main__":
