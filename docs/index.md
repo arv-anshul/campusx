@@ -1,11 +1,16 @@
 ---
 hide:
-  - feedback
   - navigation
   - toc
 ---
 
 # DSMP by CampusX
+
+<style>
+#dsmp-by-campusx {
+  display: none;
+}
+</style>
 
 <p align="center">
   <a href="https://learnwith.campusx.in" title="Go to Website">
