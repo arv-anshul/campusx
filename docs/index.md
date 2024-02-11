@@ -23,6 +23,11 @@ hide:
 
 </p>
 
+<figure markdown>
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7162317353244905472?compact=1" height="399" width="710" frameborder="0"></iframe>
+  <caption>🧑‍🏫 Nitish Sir, Praises this Project</caption>
+</figure>
+
 !!! warning
     <div style="font-family: monospace; font-size: 0.7rem">
     The listed resource is not suitable for the **Unpaid/Free User (who have not bought the course)** because it **only consists the paid lecture's notes and links** which are provided in the description **by The Mentor**.
