@@ -39,6 +39,14 @@
 >
 > The listed resource is not suitable for the **Unpaid/Free User (who have not bought the course)** because it **only consists the paid lecture's notes and links** which are provided in the description **by The Mentor**.
 
+### 🙌 Praise for this Project
+
+<p align="center">
+  
+https://github.com/arv-anshul/campusx-dsmp/assets/111767754/3414dc8e-d474-4751-b504-317d7d719d3e
+
+</p>
+
 ### ♻️ Project Workflows
 
 1. **Data Collection:** Gathered data from the HTML structure of the course's website.
