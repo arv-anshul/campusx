@@ -5,6 +5,7 @@ __rough__/
 .env
 .ipynb_checkpoints/
 .venv/
+*.lock
 *__rough__*.*
 *.arv.*
 *.arv

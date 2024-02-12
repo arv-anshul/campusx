@@ -33,6 +33,9 @@
   <a href="https://github.com/arv-anshul/campusx-dsmp/actions" title="Build and Deploy with GitHub Actions">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff" alt="GitHub Actions Badge">
   </a>
+  <a href="https://rye-up.com" title="Project Management Tool">
+    <img src="https://img.shields.io/badge/Rye-000?logo=rye&logoColor=fff" alt="Rye Badge">
+  </a>
 </p>
 
 > \[!WARNING\]
@@ -59,3 +62,53 @@ https://github.com/arv-anshul/campusx-dsmp/assets/111767754/3414dc8e-d474-4751-b
 8. **Web Hosting:** Leveraged **Github Pages** as a reliable hosting solution to make the web page accessible to a wider audience.
 
 By following these workflows, the project ensures efficient data extraction, robust testing, proper documentation, and automated deployment, ultimately resulting in a well-maintained and accessible web page hosted on Github Pages.
+
+## ⚙️ Project Setup
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/arv-anshul/campusx-dsmp
+```
+
+2. This project is managed using [`rye`](https://rye-up.com). So, install it using:
+
+```bash
+curl -sSf https://rye-up.com/get | bash
+```
+
+3. Rename `example.env` to `.env` and define the required environment variables.
+
+<details>
+<summary>🔥 Prerequisites</summary>
+
+1. You have to purchase the course.
+2. Open the course's website and developer tools of browser.
+3. Go to Networks Tab.
+4. Select the request where the website makes a call for the data to display.
+   - In the "Networks" tab, find the request that corresponds to the data retrieval call. You may filter the requests by XHR or fetch type for AJAX requests.
+   - Look for the request URL related to fetching data or making an API call.
+5. Copy `c_ujwt` and `SESSIONID` values from the `cookies` headers of that request.
+   - Within the selected request, locate the "Headers" tab.
+   - Look for the "Cookies" section under "Request Headers" or "Response Headers."
+   - Copy the values of `c_ujwt` and `SESSIONID`. These are essential for authenticating your requests.
+
+</details>
+
+```toml
+# Define these to construct cookies for making requests
+C_UJWT=""
+SESSION_ID=""
+```
+
+4. If you want to fetch resources from the website then run the `main.py` script. I have written all the steps to fetch the resources of the sub-topics.
+
+> You can configure the `main.py` to fetch different type of resources like `"video", "assignment"`.
+
+```bash
+rye run fetch
+```
+
+### Issues
+
+If you have any issue or query related to this project you can raise [here](https://github.com/arv-anshul/campusx-dsmp/issues "Project's Issues Tab").
