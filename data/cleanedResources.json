@@ -1811,11 +1811,125 @@
     "type": "video"
   },
   {
+    "description": "<p>Code - <a href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa3VUVTdTS1FhWG5MSnppZGhYazRaNDJsQkNEZ3xBQ3Jtc0tsTU1EdzNvUHNoYXgwanUxTkxFUFlJMFJCQWVfOTJJaEpZNGpzWmJUQ2FDZ0Vrb0xIa1paR2I0R1ROcGZyOXNxbU45VGpna3dnNTJMOXBRQ3VtUWcwVlpuX2lJaW1TT05YUVUyaVZnT1RHM085RHdQUQ&amp;q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1PyAU4tBcBxUR5Vn4GEZngPJXkKArAHqUBZgCCu1fFk4%2Fedit%3Fusp%3Dsharing&amp;v=YgizUxmBFK8\" target=\"_blank\">https://docs.google.com/document/d/1PyAU4tBcBxUR5Vn4GEZngPJXkKArAHqUBZgCCu1fFk4/edit?usp=sharing</a></p>\n\n<p>Datasets: <a href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbGlJNF81R2l3WTdjMXkxMHdZYk1Jb3dFRklId3xBQ3Jtc0ttZm9PTTZESGNjak9Ya0NGRHJJaHNiWTNGSkMxREotUGI3RGFMeG0yMUY4a3E0c1ppVnpsYXVsRDVQdUNaM3FSLXJlT1l5V3piMlYtOEFRY01zbEFfTkNJQUoyWGhseGd5OTBsZ1hJUnc2NEtjOVhsSQ&amp;q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1N3WzcWpwiYwxobFIlNn9sOHVRZ-tpBdc%3Fusp%3Dshare_link&amp;v=YgizUxmBFK8\" target=\"_blank\">https://drive.google.com/drive/folders/1N3WzcWpwiYwxobFIlNn9sOHVRZ-tpBdc?usp=share_link</a></p>\n\n<p>Window Functions Part-1 Pdf :&nbsp;<a href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbkZ0bld4Vm9UOXFWQ3pyRHhVTkRxMkw1TS1ud3xBQ3Jtc0tteEYya0RlSXZma1E2VkJzamdCYjJILTAxbl8wM2x3X0N2YUM5M3kxNW1LUHpCMWp5M1J2eDlDT1prZGxGdllTdDVKNXUteThSQXE2VVN3SEJEbmtway0ya3lEcmZKMVMycVg4NzEtaWsxSVRwSzd3Yw&amp;q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F12P7vW2VBq0_4Nm3j1aQDB599HOy0OGtk%2Fview%3Fusp%3Dshare_link&amp;v=YgizUxmBFK8\" target=\"_blank\">https://drive.google.com/file/d/12P7vW2VBq0_4Nm3j1aQDB599HOy0OGtk/view?usp=share_link</a></p>\n\n<p>Window Functions Part-2&amp;3 Pdf :&nbsp;<a href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbkJteGJYTjYwR2RPMURmVFlPemJFRk8xSUxNZ3xBQ3Jtc0trMVl2NFAtV1FyM3c3TGdObGpIbHcycGUtMDY4MzBqNDdqczN6VHNPRkE2VkpjRTJwRmVmN2ZuQ0VWSU55SW8tRHNJUXNrRWhRamQyUTJsQlIxVmo3bDN4eTJhSVFjLU0wdEFaQWJNV2hNNFhZTEYyTQ&amp;q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1pTPslw_dOMwkK06Cu-lcHX5NzRtmNPW5%2Fview%3Fusp%3Dshare_link&amp;v=YgizUxmBFK8\" target=\"_blank\">https://drive.google.com/file/d/1pTPslw_dOMwkK06Cu-lcHX5NzRtmNPW5/view?usp=share_link</a></p>\n",
+    "id": "640007cee4b0449407baa8c4",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://docs.google.com/document/d/1PyAU4tBcBxUR5Vn4GEZngPJXkKArAHqUBZgCCu1fFk4/edit?usp=sharing": "docs.google.com",
+      "https://drive.google.com/drive/folders/1N3WzcWpwiYwxobFIlNn9sOHVRZ-tpBdc?usp=share_link": "drive.google.com",
+      "https://drive.google.com/file/d/12P7vW2VBq0_4Nm3j1aQDB599HOy0OGtk/view?usp=share_link": "drive.google.com",
+      "https://drive.google.com/file/d/1pTPslw_dOMwkK06Cu-lcHX5NzRtmNPW5/view?usp=share_link": "drive.google.com",
+      "https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa3VUVTdTS1FhWG5MSnppZGhYazRaNDJsQkNEZ3xBQ3Jtc0tsTU1EdzNvUHNoYXgwanUxTkxFUFlJMFJCQWVfOTJJaEpZNGpzWmJUQ2FDZ0Vrb0xIa1paR2I0R1ROcGZyOXNxbU45VGpna3dnNTJMOXBRQ3VtUWcwVlpuX2lJaW1TT05YUVUyaVZnT1RHM085RHdQUQ&amp;q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1PyAU4tBcBxUR5Vn4GEZngPJXkKArAHqUBZgCCu1fFk4%2Fedit%3Fusp%3Dsharing&amp;v=YgizUxmBFK8": "www.youtube.com",
+      "https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbGlJNF81R2l3WTdjMXkxMHdZYk1Jb3dFRklId3xBQ3Jtc0ttZm9PTTZESGNjak9Ya0NGRHJJaHNiWTNGSkMxREotUGI3RGFMeG0yMUY4a3E0c1ppVnpsYXVsRDVQdUNaM3FSLXJlT1l5V3piMlYtOEFRY01zbEFfTkNJQUoyWGhseGd5OTBsZ1hJUnc2NEtjOVhsSQ&amp;q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1N3WzcWpwiYwxobFIlNn9sOHVRZ-tpBdc%3Fusp%3Dshare_link&amp;v=YgizUxmBFK8": "www.youtube.com",
+      "https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbkJteGJYTjYwR2RPMURmVFlPemJFRk8xSUxNZ3xBQ3Jtc0trMVl2NFAtV1FyM3c3TGdObGpIbHcycGUtMDY4MzBqNDdqczN6VHNPRkE2VkpjRTJwRmVmN2ZuQ0VWSU55SW8tRHNJUXNrRWhRamQyUTJsQlIxVmo3bDN4eTJhSVFjLU0wdEFaQWJNV2hNNFhZTEYyTQ&amp;q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1pTPslw_dOMwkK06Cu-lcHX5NzRtmNPW5%2Fview%3Fusp%3Dshare_link&amp;v=YgizUxmBFK8": "www.youtube.com",
+      "https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbkZ0bld4Vm9UOXFWQ3pyRHhVTkRxMkw1TS1ud3xBQ3Jtc0tteEYya0RlSXZma1E2VkJzamdCYjJILTAxbl8wM2x3X0N2YUM5M3kxNW1LUHpCMWp5M1J2eDlDT1prZGxGdllTdDVKNXUteThSQXE2VVN3SEJEbmtway0ya3lEcmZKMVMycVg4NzEtaWsxSVRwSzd3Yw&amp;q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F12P7vW2VBq0_4Nm3j1aQDB599HOy0OGtk%2Fview%3Fusp%3Dshare_link&amp;v=YgizUxmBFK8": "www.youtube.com"
+    },
+    "title": "Session 37 - Window Functions Part 2",
+    "topicId": "ymwka7rr7z",
+    "totalTime": 47,
+    "type": "video"
+  },
+  {
+    "description": "<p>Window Functions Part-1 Pdf :&nbsp;<a href=\"https://drive.google.com/file/d/12P7vW2VBq0_4Nm3j1aQDB599HOy0OGtk/view?usp=share_link\">https://drive.google.com/file/d/12P7vW2VBq0_4Nm3j1aQDB599HOy0OGtk/view?usp=share_link</a><br />\nWindow Functions Part-2&amp;3 Pdf :&nbsp;<a href=\"https://drive.google.com/file/d/1pTPslw_dOMwkK06Cu-lcHX5NzRtmNPW5/view?usp=share_link\">https://drive.google.com/file/d/1pTPslw_dOMwkK06Cu-lcHX5NzRtmNPW5/view?usp=share_link</a></p>\n\n<p>&nbsp;</p>\n\n<p>Timestamp 19:30 : percentile_disc and&nbsp;percentile_cont<br />\nThese functtions are not there in MySQL(InoDB) (Workbench default server).<br />\nIn the sessions I have&nbsp;connected Xampp&nbsp;MySQL server with workbench.</p>\n",
+    "id": "6401511ee4b030f3df8f9c55",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/12P7vW2VBq0_4Nm3j1aQDB599HOy0OGtk/view?usp=share_link": "drive.google.com",
+      "https://drive.google.com/file/d/1pTPslw_dOMwkK06Cu-lcHX5NzRtmNPW5/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session 37 - Window Functions Part 3",
+    "topicId": "ymwka7rr7z",
+    "totalTime": 53,
+    "type": "video"
+  },
+  {
     "assignmentLink": "https://colab.research.google.com/drive/1YpfaSlmAg8NPqTJzR0piPOIzKk0ZWZx0?usp=sharing",
     "id": "64054a71e4b0896a260f2639",
     "title": "Task 37",
     "topicId": "ymwka7rr7z",
     "type": "assignment"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://docs.google.com/document/d/1_urkFSBPwEzHnZuycGlcjz_S5ofGLXynxKC0cPHP-uM/edit?usp=sharing\">https://docs.google.com/document/d/1_urkFSBPwEzHnZuycGlcjz_S5ofGLXynxKC0cPHP-uM/edit?usp=sharing</a></p>\n\n<p>PDF -&nbsp;<a href=\"https://drive.google.com/file/d/1bsIjjciJMHLjagopBX-YJN8eoJaVITsr/view?usp=share_link\">https://drive.google.com/file/d/1bsIjjciJMHLjagopBX-YJN8eoJaVITsr/view?usp=share_link</a></p>\n\n<p>Laptop dataset Uncleaned: <a href=\"https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset\" target=\"_blank\">https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset</a></p>\n\n<p><meta charset=\"utf-8\" /><b id=\"docs-internal-guid-919a41a4-7fff-46f3-851c-d9d0102d2c71\">&quot;Error Code: 1093 Resolution&quot;:&nbsp;</b><a href=\"https://docs.google.com/document/d/1-z5GmHsSpRWBa2_hvswMxDUO4f-ozsPTG-4mtyExhk8/edit?usp=sharing\">https://docs.google.com/document/d/1-z5GmHsSpRWBa2_hvswMxDUO4f-ozsPTG-4mtyExhk8/edit?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n\n<p>1:22:00 : There are duplicate data in the datasets.</p>\n",
+    "id": "64022dd8e4b0896a260e54ee",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://docs.google.com/document/d/1-z5GmHsSpRWBa2_hvswMxDUO4f-ozsPTG-4mtyExhk8/edit?usp=sharing": "docs.google.com",
+      "https://docs.google.com/document/d/1_urkFSBPwEzHnZuycGlcjz_S5ofGLXynxKC0cPHP-uM/edit?usp=sharing": "docs.google.com",
+      "https://drive.google.com/file/d/1bsIjjciJMHLjagopBX-YJN8eoJaVITsr/view?usp=share_link": "drive.google.com",
+      "https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset": "www.kaggle.com"
+    },
+    "title": "Session on Data Cleaning using SQL | Laptops Dataset",
+    "topicId": "ymwka7rr7z",
+    "totalTime": 138.73933,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code Data Cleaning -&nbsp;<a href=\"https://docs.google.com/document/d/1_urkFSBPwEzHnZuycGlcjz_S5ofGLXynxKC0cPHP-uM/edit?usp=sharing\">https://docs.google.com/document/d/1_urkFSBPwEzHnZuycGlcjz_S5ofGLXynxKC0cPHP-uM/edit?usp=sharing</a></p>\n\n<p>Code EDA -&nbsp;<a href=\"https://docs.google.com/document/d/1Izh0o3ZTsVcSw5ZHsX5uB7v7IGxJ7hbX7a3VfIuFv1c/edit?usp=sharing\">https://docs.google.com/document/d/1Izh0o3ZTsVcSw5ZHsX5uB7v7IGxJ7hbX7a3VfIuFv1c/edit?usp=sharing</a></p>\n\n<p>Laptop dataset Uncleaned: <a href=\"https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset\" target=\"_blank\">https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset</a><br clear=\"all\" />\n&nbsp;</p>\n\n<p><b id=\"docs-internal-guid-919a41a4-7fff-46f3-851c-d9d0102d2c71\">&quot;Error Code: 1093 Resolution&quot;:&nbsp;</b><a href=\"https://docs.google.com/document/d/1-z5GmHsSpRWBa2_hvswMxDUO4f-ozsPTG-4mtyExhk8/edit?usp=sharing\">https://docs.google.com/document/d/1-z5GmHsSpRWBa2_hvswMxDUO4f-ozsPTG-4mtyExhk8/edit?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n\n<p>EDA Plan</p>\n\n<p><br />\n1. head -&gt; tail -&gt; sample<br />\n2. for numerical cols<br />\n&nbsp;&nbsp; &nbsp;- 8 number summary[count,min,max,mean,std,q1,q2,q3]<br />\n&nbsp;&nbsp; &nbsp;- missing values<br />\n&nbsp;&nbsp; &nbsp;- outliers<br />\n&nbsp;&nbsp; &nbsp;-&gt; horizontal/vertical histograms<br />\n3. for categorical cols<br />\n&nbsp;&nbsp; &nbsp;- value counts -&gt; pie chart<br />\n&nbsp;&nbsp; &nbsp;- missing value<br />\n4. numerical - numerical<br />\n&nbsp;&nbsp; &nbsp;- side by side 8 number analysis--<br />\n&nbsp;&nbsp; &nbsp;- scatterplot<br />\n&nbsp;&nbsp; &nbsp;- correlation<br />\n5. categorical-categorical<br />\n&nbsp;&nbsp; &nbsp;- contigency table -&gt; stacked bar chart<br />\n6. numerical-categorical<br />\n&nbsp;&nbsp; &nbsp;-&gt; compare distribution across categories<br />\n8. missing value treatment<br />\n9. feature engineering<br />\n- ppi<br />\n- price_bracket<br />\n10. one hot encoding<br />\n&nbsp;</p>\n",
+    "id": "64037917e4b00e64a4d02f5c",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://docs.google.com/document/d/1-z5GmHsSpRWBa2_hvswMxDUO4f-ozsPTG-4mtyExhk8/edit?usp=sharing": "docs.google.com",
+      "https://docs.google.com/document/d/1Izh0o3ZTsVcSw5ZHsX5uB7v7IGxJ7hbX7a3VfIuFv1c/edit?usp=sharing": "docs.google.com",
+      "https://docs.google.com/document/d/1_urkFSBPwEzHnZuycGlcjz_S5ofGLXynxKC0cPHP-uM/edit?usp=sharing": "docs.google.com",
+      "https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset": "www.kaggle.com"
+    },
+    "title": "Session on EDA using SQL | Laptops Dataset",
+    "topicId": "ymwka7rr7z",
+    "totalTime": 129.29933,
+    "type": "video"
+  },
+  {
+    "description": "<p>Session-38 Notebook: <a href=\"https://drive.google.com/file/d/1da0Wj1KyUxLtGVnFcPTpgWvKQsWjZly-/view?usp=share_link\">https://drive.google.com/file/d/1da0Wj1KyUxLtGVnFcPTpgWvKQsWjZly-/view?usp=share_link</a></p>\n",
+    "id": "640bde22e4b09d8eecf4e837",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1da0Wj1KyUxLtGVnFcPTpgWvKQsWjZly-/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session 38 - Descriptive Statistics Part 1",
+    "topicId": "95i4c5rj6v",
+    "totalTime": 112,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://docs.google.com/document/d/1Izh0o3ZTsVcSw5ZHsX5uB7v7IGxJ7hbX7a3VfIuFv1c/edit?usp=sharing\">https://docs.google.com/document/d/1Izh0o3ZTsVcSw5ZHsX5uB7v7IGxJ7hbX7a3VfIuFv1c/edit?usp=sharing</a></p>\n\n<p>PDF -&nbsp;<a href=\"https://drive.google.com/file/d/11s40kbk56ZaA56f7c34SEGmZmy-_GNOa/view?usp=share_link\">https://drive.google.com/file/d/11s40kbk56ZaA56f7c34SEGmZmy-_GNOa/view?usp=share_link</a></p>\n\n<p>Documentation -&nbsp;<a href=\"https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html#function_date-format\">https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html#function_date-format</a></p>\n",
+    "id": "640cb458e4b0080be01720ba",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://dev.mysql.com/doc/refman/8.0/en/date-and-time-functions.html#function_date-format": "dev.mysql.com",
+      "https://docs.google.com/document/d/1Izh0o3ZTsVcSw5ZHsX5uB7v7IGxJ7hbX7a3VfIuFv1c/edit?usp=sharing": "docs.google.com",
+      "https://drive.google.com/file/d/11s40kbk56ZaA56f7c34SEGmZmy-_GNOa/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session on Datetime in SQL",
+    "topicId": "95i4c5rj6v",
+    "totalTime": 134.09866,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/19YlpW_N7idyQQvmpgrZg8KNSvIjCPk-8?usp=sharing\">https://colab.research.google.com/drive/19YlpW_N7idyQQvmpgrZg8KNSvIjCPk-8?usp=sharing</a></p>\n\n<p>Session-39 Notebook: <a href=\"https://drive.google.com/file/d/1edN9LSbMP3lPh4YMem4n9K0Y6lSeFaP1/view?usp=share_link\">https://drive.google.com/file/d/1edN9LSbMP3lPh4YMem4n9K0Y6lSeFaP1/view?usp=share_link</a></p>\n",
+    "id": "640fccc1e4b040a090fd6a3b",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/19YlpW_N7idyQQvmpgrZg8KNSvIjCPk-8?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1edN9LSbMP3lPh4YMem4n9K0Y6lSeFaP1/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session 39 - Descriptive Statistics Part 2",
+    "topicId": "h05sms91c2",
+    "totalTime": 116,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1N_T0_w5vpT1k1Z4pSf4IMhAxYT1nRKLU?usp=sharing\">session-40.ipynb - Colaboratory (google.com)</a></p>\n\n<p>Session 40 Notes :&nbsp;<a href=\"https://drive.google.com/file/d/1FQ65CTmMLK-PYZ6NT9txGcGmJHobtNYl/view?usp=share_link\">https://drive.google.com/file/d/1FQ65CTmMLK-PYZ6NT9txGcGmJHobtNYl/view?usp=share_link</a></p>\n",
+    "id": "6413b9bde4b0742435c1c073",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1N_T0_w5vpT1k1Z4pSf4IMhAxYT1nRKLU?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1FQ65CTmMLK-PYZ6NT9txGcGmJHobtNYl/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session 40 - Probability Distribution Functions - PDF, PMF & CDF",
+    "topicId": "h05sms91c2",
+    "totalTime": 130,
+    "type": "video"
   },
   {
     "assignmentLink": "https://colab.research.google.com/drive/1DVbUfnTYcHQXYOJHKoulQCedYHAXQwWD?usp=sharing",
@@ -1825,11 +1939,115 @@
     "type": "assignment"
   },
   {
+    "description": "<p>Code -&nbsp;<a href=\"https://docs.google.com/document/d/1g67XZ96yhIz6mqfzXJRhVvZXP26VVbYE4YX51Ck4c84/edit?usp=sharing\">https://docs.google.com/document/d/1g67XZ96yhIz6mqfzXJRhVvZXP26VVbYE4YX51Ck4c84/edit?usp=sharing</a></p>\n\n<p>Dateset -&nbsp;<a href=\"https://docs.google.com/spreadsheets/d/13_PAiduepzVBMU-WYp_10NBMfMH12A9D2KgzieOtk1o/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/13_PAiduepzVBMU-WYp_10NBMfMH12A9D2KgzieOtk1o/edit?usp=sharing</a></p>\n\n<p>EDA question Pdf :&nbsp;<a href=\"https://drive.google.com/file/d/1DPA__10bpvte9wtvgLqehpZ9w31HZm2g/view?usp=share_link\">https://drive.google.com/file/d/1DPA__10bpvte9wtvgLqehpZ9w31HZm2g/view?usp=share_link</a><br />\n<br />\nFor Q6: During Updation you would be getting error, like same as sir got warnings : Truncate invalid double value &#39;5m&#39;, This is coming because of row no 5975.</p>\n\n<p>Updated Query :<br />\n<strong><em>UPDATE flights<br />\nSET duration_mins =&nbsp;<br />\nCASE<br />\n&nbsp; &nbsp; &nbsp; &nbsp; WHEN duration LIKE &#39;%h %m&#39; THEN<br />\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SUBSTRING_INDEX(duration, &#39;h&#39;, 1) * 60 +<br />\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SUBSTRING_INDEX(SUBSTRING_INDEX(duration, &#39; &#39;, -1), &#39;m&#39;, 1)<br />\n&nbsp; &nbsp; &nbsp; &nbsp; WHEN duration LIKE &#39;%h&#39; THEN<br />\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SUBSTRING_INDEX(duration, &#39;h&#39;, 1) * 60<br />\n&nbsp; &nbsp; &nbsp; &nbsp; WHEN duration LIKE &#39;%m&#39; THEN<br />\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SUBSTRING_INDEX(duration, &#39;m&#39;, 1)<br />\nEND ;</em></strong></p>\n",
+    "id": "64149856e4b0084db18515a7",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://docs.google.com/document/d/1g67XZ96yhIz6mqfzXJRhVvZXP26VVbYE4YX51Ck4c84/edit?usp=sharing": "docs.google.com",
+      "https://docs.google.com/spreadsheets/d/13_PAiduepzVBMU-WYp_10NBMfMH12A9D2KgzieOtk1o/edit?usp=sharing": "docs.google.com",
+      "https://drive.google.com/file/d/1DPA__10bpvte9wtvgLqehpZ9w31HZm2g/view?usp=share_link": "drive.google.com"
+    },
+    "title": "SQL Datetime Case Study on Flights dataset",
+    "topicId": "h05sms91c2",
+    "totalTime": 112.242,
+    "type": "video"
+  },
+  {
+    "description": "<p>Session On Database Design Notebook Pdf :&nbsp;&nbsp;<a href=\"https://drive.google.com/file/d/1sQj7UJrSX_Y74qWgmez84Pv3oH6z6TCg/view?usp=share_link\">https://drive.google.com/file/d/1sQj7UJrSX_Y74qWgmez84Pv3oH6z6TCg/view?usp=share_link</a></p>\n",
+    "id": "6415faafe4b0e9496dbbfd6a",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1sQj7UJrSX_Y74qWgmez84Pv3oH6z6TCg/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session on Database Design | SQL Data Types | Database Normalization",
+    "topicId": "h05sms91c2",
+    "totalTime": 145.63266,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1N_T0_w5vpT1k1Z4pSf4IMhAxYT1nRKLU?usp=sharing\">https://colab.research.google.com/drive/1N_T0_w5vpT1k1Z4pSf4IMhAxYT1nRKLU?usp=sharing</a></p>\n\n<p>Viz tool -&nbsp;<a href=\"https://samp-suman-normal-dist-visualize-app-lkntug.streamlit.app/\">https://samp-suman-normal-dist-visualize-app-lkntug.streamlit.app/</a></p>\n\n<p>Z-table -&nbsp;<a href=\"https://www.ztable.net/\">https://www.ztable.net/</a><br />\n<br />\nNotebook Pdf :&nbsp;<a href=\"https://drive.google.com/file/d/11V7c5D80UDteolb_DVgS0em72pfMB-i0/view?usp=share_link\">https://drive.google.com/file/d/11V7c5D80UDteolb_DVgS0em72pfMB-i0/view?usp=share_link</a></p>\n",
+    "id": "641a501de4b03020e4b466d9",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1N_T0_w5vpT1k1Z4pSf4IMhAxYT1nRKLU?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/11V7c5D80UDteolb_DVgS0em72pfMB-i0/view?usp=share_link": "drive.google.com",
+      "https://samp-suman-normal-dist-visualize-app-lkntug.streamlit.app/": "samp-suman-normal-dist-visualize-app-lkntug.streamlit.app",
+      "https://www.ztable.net/": "www.ztable.net"
+    },
+    "title": "Session 41 - Normal Distribution",
+    "topicId": "bbjvs72zzpk",
+    "totalTime": 121,
+    "type": "video"
+  },
+  {
     "assignmentLink": "https://colab.research.google.com/drive/1aW78C6sC8Sddq1S5Ze-VyyRC1eUztFrW?usp=sharing",
     "id": "641a5efde4b0c181bffcafa9",
     "title": "Task 41",
     "topicId": "bbjvs72zzpk",
     "type": "assignment"
+  },
+  {
+    "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1Q2ug8BXogFqYY_6e04dmHk0Tn5_yfObo?usp=sharing\">https://colab.research.google.com/drive/1Q2ug8BXogFqYY_6e04dmHk0Tn5_yfObo?usp=sharing</a> <a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day30-function-transformer\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day30-function-transformer</a> <a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day31-power-transformer\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day31-power-transformer</a></p>\n\n<p>Session 42 Notebook PDF: <a href=\"https://drive.google.com/file/d/1sd4nz8PNsGc334ng86V8uKvJNqhWyRZ2/view?usp=share_link\">https://drive.google.com/file/d/1sd4nz8PNsGc334ng86V8uKvJNqhWyRZ2/view?usp=share_link</a></p>\n",
+    "id": "641e4a0fe4b066e2ee617f78",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1Q2ug8BXogFqYY_6e04dmHk0Tn5_yfObo?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1sd4nz8PNsGc334ng86V8uKvJNqhWyRZ2/view?usp=share_link": "drive.google.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day30-function-transformer": "github.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day31-power-transformer": "github.com"
+    },
+    "title": "Session 42 - Non-Gaussian Probability Distributions",
+    "topicId": "bbjvs72zzpk",
+    "totalTime": 136,
+    "type": "video"
+  },
+  {
+    "description": "<p>Session Notebook PDF (View and User Defined Function):&nbsp;<a href=\"https://drive.google.com/file/d/1NxvHiK-NJBIAzKMfFwf2ibgDRzYadqpS/view?usp=share_link\">https://drive.google.com/file/d/1NxvHiK-NJBIAzKMfFwf2ibgDRzYadqpS/view?usp=share_link</a></p>\n",
+    "id": "641dd27ee4b0167fcfcad5c8",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1NxvHiK-NJBIAzKMfFwf2ibgDRzYadqpS/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session on Views and User Defined Functions in SQL",
+    "topicId": "bbjvs72zzpk",
+    "totalTime": 114.294,
+    "type": "video"
+  },
+  {
+    "description": "<p>Session Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1EbU6gv0xLmllHRvnpHkp4HEmqHGDt7qx/view?usp=share_link\">https://drive.google.com/file/d/1EbU6gv0xLmllHRvnpHkp4HEmqHGDt7qx/view?usp=share_link</a></p>\n",
+    "id": "641f2d09e4b05c064a31ae2c",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1EbU6gv0xLmllHRvnpHkp4HEmqHGDt7qx/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session on Transactions & Stored Procedures",
+    "topicId": "bbjvs72zzpk",
+    "totalTime": 141.27266,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1W--4mte3uaDD8rReLAt4OWEoLXrb5Ij7?usp=sharing\" target=\"_blank\">https://colab.research.google.com/drive/1W--4mte3uaDD8rReLAt4OWEoLXrb5Ij7?usp=sharing</a></p>\n\n<p>Dataset Link: <a href=\"https://www.kaggle.com/campusx/titanic-clt\" target=\"_blank\">https://www.kaggle.com/campusx/titanic-clt</a></p>\n\n<p>Session 43 Notebook PDF : <a href=\"https://drive.google.com/file/d/14izghg0Aw5v3ed1rq9xEHZVcG_x0hMD-/view?usp=share_link\" target=\"_blank\">https://drive.google.com/file/d/14izghg0Aw5v3ed1rq9xEHZVcG_x0hMD-/view?usp=share_link</a></p>\n",
+    "id": "64239166e4b047fcb859a7f5",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1W--4mte3uaDD8rReLAt4OWEoLXrb5Ij7?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/14izghg0Aw5v3ed1rq9xEHZVcG_x0hMD-/view?usp=share_link": "drive.google.com",
+      "https://www.kaggle.com/campusx/titanic-clt": "www.kaggle.com"
+    },
+    "title": "Session 43 - Central Limit Theorem",
+    "topicId": "a1wproiefll",
+    "totalTime": 111,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "6428daaae4b0ee8e1b1f372d",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Central Limit Theorem - Proof",
+    "topicId": "a1wproiefll",
+    "totalTime": "0",
+    "type": "video"
   },
   {
     "assignmentLink": "https://colab.research.google.com/drive/1exk7yG2QURG2m3vPWXjbTDlAfxHNzQjS?usp=sharing",
@@ -1839,11 +2057,50 @@
     "type": "assignment"
   },
   {
+    "description": "<p>Session 44 Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1nskWHtR1ePmrje76k71gdUc2-fcVWvMH/view?usp=share_link\">https://drive.google.com/file/d/1nskWHtR1ePmrje76k71gdUc2-fcVWvMH/view?usp=share_link</a></p>\n",
+    "id": "64278ab4e4b0010a362a2cb2",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1nskWHtR1ePmrje76k71gdUc2-fcVWvMH/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session 44 - Confidence Intervals",
+    "topicId": "a1wproiefll",
+    "totalTime": 130,
+    "type": "video"
+  },
+  {
     "assignmentLink": "https://colab.research.google.com/drive/1_9aqkvsegDmNv3KSWA4no0gLXpElC209?usp=sharing",
     "id": "6428d832e4b0a45fc1e458ba",
     "title": "Task 44",
     "topicId": "a1wproiefll",
     "type": "assignment"
+  },
+  {
+    "description": "<p>Session 45 PDF Notebook:&nbsp;<a href=\"https://drive.google.com/file/d/1J6TWERqWu1-98n2b8uBKdU8j0aCVgyuN/view?usp=share_link\">https://drive.google.com/file/d/1J6TWERqWu1-98n2b8uBKdU8j0aCVgyuN/view?usp=share_link</a></p>\n",
+    "id": "642cc47fe4b0ba06d840a845",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1J6TWERqWu1-98n2b8uBKdU8j0aCVgyuN/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session 45 - Hypothesis Testing Part 1",
+    "topicId": "2o5w2d6cv7",
+    "totalTime": 119,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code - <a href=\"https://colab.research.google.com/drive/1W2ts8cTUwnAQL47QHZI3iWoE6KJz4bHf?usp=sharing\">https://colab.research.google.com/drive/1W2ts8cTUwnAQL47QHZI3iWoE6KJz4bHf?usp=sharing</a></p>\n\n<p><a href=\"https://www.kaggle.com/campusx/titanic-single-sample-t-test\">https://www.kaggle.com/campusx/titanic-single-sample-t-test</a></p>\n\n<p><a href=\"https://www.kaggle.com/campusx/titanic-2-sample-t-test\">https://www.kaggle.com/campusx/titanic-2-sample-t-test</a></p>\n\n<p>Notebook PDF Link:&nbsp;<a href=\"https://drive.google.com/file/d/17rN645-blGEO59vA6Jkvieh-IbFeOP8t/view?usp=share_link\">https://drive.google.com/file/d/17rN645-blGEO59vA6Jkvieh-IbFeOP8t/view?usp=share_link</a></p>\n",
+    "id": "642f6d2be4b04e750c12824a",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1W2ts8cTUwnAQL47QHZI3iWoE6KJz4bHf?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/17rN645-blGEO59vA6Jkvieh-IbFeOP8t/view?usp=share_link": "drive.google.com",
+      "https://www.kaggle.com/campusx/titanic-2-sample-t-test": "www.kaggle.com",
+      "https://www.kaggle.com/campusx/titanic-single-sample-t-test": "www.kaggle.com"
+    },
+    "title": "Session 46 - Hypothesis Testing Part 2 | p-values | t-tests",
+    "topicId": "2o5w2d6cv7",
+    "totalTime": 132,
+    "type": "video"
   },
   {
     "assignmentLink": "https://colab.research.google.com/drive/1wMEwTDRqLLSt9mttHjufZzq2wGWtl_bH?usp=sharing",
@@ -1853,11 +2110,285 @@
     "type": "assignment"
   },
   {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/113wsZhFcUDa-QnOeY3KmIBsJToyzE80e?usp=sharing\">https://colab.research.google.com/drive/113wsZhFcUDa-QnOeY3KmIBsJToyzE80e?usp=sharing</a></p>\n\n<p>PDF -&nbsp;<a href=\"https://drive.google.com/file/d/1nmxMlse95CE0it612u55s9hudL2Xef4K/view?usp=share_link\">https://drive.google.com/file/d/1nmxMlse95CE0it612u55s9hudL2Xef4K/view?usp=share_link</a></p>\n\n<p>&nbsp;</p>\n\n<p>@TimeStamp 02:01:00 :<br />\n<br />\nFormlua for Chi-Square is : <strong>(Observed - Expected)^2 / Expected</strong>, not&nbsp;&nbsp; <s><strong>(Observed - Expected)^2 / Observed</strong></s></p>\n\n<p>Calculation would go like :&nbsp;</p>\n\n<p>(15-12)^2 / 12 + (20-19)^2 / 19 + ... + (40 - 12)^2 / 12</p>\n",
+    "id": "6430503de4b044308d09a0ab",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/113wsZhFcUDa-QnOeY3KmIBsJToyzE80e?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1nmxMlse95CE0it612u55s9hudL2Xef4K/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session on Chi Square Tests",
+    "topicId": "2o5w2d6cv7",
+    "totalTime": 135.346,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1RKIB0EqIc1kWJNlwYqMfUEohqVqq-yaa?usp=sharing\">https://colab.research.google.com/drive/1RKIB0EqIc1kWJNlwYqMfUEohqVqq-yaa?usp=sharing</a></p>\n\n<p>PDF -&nbsp;<a href=\"https://drive.google.com/file/d/1gQAeNqaL2sBFSpAtONhtn9oBzWFh7c6h/view?usp=share_link\">https://drive.google.com/file/d/1gQAeNqaL2sBFSpAtONhtn9oBzWFh7c6h/view?usp=share_link</a></p>\n",
+    "id": "6431998fe4b03502559e6f02",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1RKIB0EqIc1kWJNlwYqMfUEohqVqq-yaa?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1gQAeNqaL2sBFSpAtONhtn9oBzWFh7c6h/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session on ANOVA",
+    "topicId": "2o5w2d6cv7",
+    "totalTime": 118.154,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "643b5043e4b044198bfda183",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Linear Algebra - Part 0 | Tensors",
+    "topicId": "oegbsl9qa4j",
+    "totalTime": "0",
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1WfshZ-tT4XOFAuYK6dvQaEvsqpesELq0?usp=sharing\">https://colab.research.google.com/drive/1WfshZ-tT4XOFAuYK6dvQaEvsqpesELq0?usp=sharing</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1E3Q2_omNtvE6sydWTahYsysEcyVQn8EG/view?usp=share_link\">https://drive.google.com/file/d/1E3Q2_omNtvE6sydWTahYsysEcyVQn8EG/view?usp=share_link</a></p>\n",
+    "id": "643910cee4b09e1d058e2d79",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1WfshZ-tT4XOFAuYK6dvQaEvsqpesELq0?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1E3Q2_omNtvE6sydWTahYsysEcyVQn8EG/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Linear Algebra - Part 1 | Vectors",
+    "topicId": "oegbsl9qa4j",
+    "totalTime": 92,
+    "type": "video"
+  },
+  {
     "assignmentLink": "https://colab.research.google.com/drive/1RubYBse67iHABfbK1SVuUFUTbh5OhQyF?usp=sharing",
     "id": "643b4dfbe4b06d455f33e14c",
     "title": "Task 47",
     "topicId": "oegbsl9qa4j",
     "type": "assignment"
+  },
+  {
+    "description": "<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1yZvM8rpKVLHCKjYCanu4tFktabumIeZv/view?usp=share_link\" target=\"_blank\">https://drive.google.com/file/d/1yZvM8rpKVLHCKjYCanu4tFktabumIeZv/view?usp=share_link</a></p>\n",
+    "id": "64398abfe4b0a2685a5d48c1",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1yZvM8rpKVLHCKjYCanu4tFktabumIeZv/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Linear Algebra Part 2 | Matrices (Computation)",
+    "topicId": "oegbsl9qa4j",
+    "totalTime": 146.55533,
+    "type": "video"
+  },
+  {
+    "description": "<p>Tools</p>\n\n<p><a href=\"https://campusx-official-matrix-linear-transformation-viz-linear-x7jwva.streamlit.app/\">https://campusx-official-matrix-linear-transformation-viz-linear-x7jwva.streamlit.app/</a></p>\n\n<p><a href=\"https://campusx-official-matrix-linear-transformation-v-multiply-5a32p1.streamlit.app/\">https://campusx-official-matrix-linear-transformation-v-multiply-5a32p1.streamlit.app/</a></p>\n\n<p><a href=\"https://campusx-official-matrix-linear-transformatio-determinant-96ncsg.streamlit.app/\">https://campusx-official-matrix-linear-transformatio-determinant-96ncsg.streamlit.app/</a></p>\n\n<p>&nbsp;</p>\n\n<p>PDF:&nbsp;<a href=\"https://drive.google.com/file/d/1XCIpJ-vPuuMniSipujE4GNXXOuVK1W6y/view?usp=share_link\">https://drive.google.com/file/d/1XCIpJ-vPuuMniSipujE4GNXXOuVK1W6y/view?usp=share_link</a></p>\n",
+    "id": "643ad729e4b02cf3db1fbf4d",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://campusx-official-matrix-linear-transformatio-determinant-96ncsg.streamlit.app/": "campusx-official-matrix-linear-transformatio-determinant-96ncsg.streamlit.app",
+      "https://campusx-official-matrix-linear-transformation-v-multiply-5a32p1.streamlit.app/": "campusx-official-matrix-linear-transformation-v-multiply-5a32p1.streamlit.app",
+      "https://campusx-official-matrix-linear-transformation-viz-linear-x7jwva.streamlit.app/": "campusx-official-matrix-linear-transformation-viz-linear-x7jwva.streamlit.app",
+      "https://drive.google.com/file/d/1XCIpJ-vPuuMniSipujE4GNXXOuVK1W6y/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Linear Algebra Part 3 | Matrices (Intuition)",
+    "topicId": "oegbsl9qa4j",
+    "totalTime": 130.004,
+    "type": "video"
+  },
+  {
+    "description": "<p>PDF:&nbsp;<a href=\"https://drive.google.com/file/d/1N_9GqQjWSWzX4BDXUJK-q4FwuEVuEKtn/view\">https://drive.google.com/file/d/1N_9GqQjWSWzX4BDXUJK-q4FwuEVuEKtn/view</a></p>\n",
+    "id": "643e843ce4b050337238ccd5",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1N_9GqQjWSWzX4BDXUJK-q4FwuEVuEKtn/view": "drive.google.com"
+    },
+    "title": "Session 48 - Introduction to Machine Learning",
+    "topicId": "v9tfqqxdls",
+    "totalTime": 206,
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day48-simple-linear-regression\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day48-simple-linear-regression</a></p>\n\n<p><a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day49-regression-metrics\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day49-regression-metrics</a></p>\n\n<p>PDF:&nbsp;<a href=\"https://drive.google.com/file/d/18oSjN8aEztz_m-_CoKb5i_kGHvKccjdp/view?usp=share_link\">https://drive.google.com/file/d/18oSjN8aEztz_m-_CoKb5i_kGHvKccjdp/view?usp=share_link</a></p>\n",
+    "id": "643fdcfbe4b099f041401eb2",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/18oSjN8aEztz_m-_CoKb5i_kGHvKccjdp/view?usp=share_link": "drive.google.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day48-simple-linear-regression": "github.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day49-regression-metrics": "github.com"
+    },
+    "title": "Session 49 - Simple Linear Regression",
+    "topicId": "v9tfqqxdls",
+    "totalTime": 132,
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day50-multiple-linear-regression/multiple_linear_regression.ipynb#scrollTo=NpAvnU-t3yV0\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day50-multiple-linear-regression/multiple_linear_regression.ipynb#scrollTo=NpAvnU-t3yV0</a></p>\n\n<p>&nbsp;</p>\n\n<p><a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day50-multiple-linear-regression/code-from-scratch.ipynb#scrollTo=afc9a715\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day50-multiple-linear-regression/code-from-scratch.ipynb#scrollTo=afc9a715</a></p>\n\n<p>PDF:&nbsp;<a href=\"https://drive.google.com/file/d/1fYGa7wXCirq8Tvo2YqfHsQSlhs1DXXwo/view?usp=share_link\">https://drive.google.com/file/d/1fYGa7wXCirq8Tvo2YqfHsQSlhs1DXXwo/view?usp=share_link</a></p>\n",
+    "id": "64409540e4b0c4378b62275e",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day50-multiple-linear-regression/code-from-scratch.ipynb#scrollTo=afc9a715": "colab.research.google.com",
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day50-multiple-linear-regression/multiple_linear_regression.ipynb#scrollTo=NpAvnU-t3yV0": "colab.research.google.com",
+      "https://drive.google.com/file/d/1fYGa7wXCirq8Tvo2YqfHsQSlhs1DXXwo/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session 50 - Multiple Linear Regression",
+    "topicId": "v9tfqqxdls",
+    "totalTime": 110,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "64426885e4b0863a71865d56",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "CPC - Level Up Your Data Science Skills with ChatGPT",
+    "topicId": "v9tfqqxdls",
+    "totalTime": "0",
+    "type": "video"
+  },
+  {
+    "description": "<p>PDF: <a href=\"https://drive.google.com/file/d/11jO22cqMyGcmvunqJ_nkRdrSgcJkmJR1/view?usp=share_link\">https://drive.google.com/file/d/11jO22cqMyGcmvunqJ_nkRdrSgcJkmJR1/view?usp=share_link</a></p>\n",
+    "id": "6442c0e7e4b059f32717f0e3",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/11jO22cqMyGcmvunqJ_nkRdrSgcJkmJR1/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session on Optimization The Big Picture",
+    "topicId": "v9tfqqxdls",
+    "totalTime": 129.15533,
+    "type": "video"
+  },
+  {
+    "description": "<p>PDF: <a href=\"https://drive.google.com/file/d/18whooe9qIj32ypW3LKKgatJDisO8AtKn/view?usp=share_link\" target=\"_blank\">https://drive.google.com/file/d/18whooe9qIj32ypW3LKKgatJDisO8AtKn/view?usp=share_link</a></p>\n",
+    "id": "644414ebe4b095077278566c",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/18whooe9qIj32ypW3LKKgatJDisO8AtKn/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session on Differential Calculus",
+    "topicId": "v9tfqqxdls",
+    "totalTime": 145.79266,
+    "type": "video"
+  },
+  {
+    "description": "<p>&nbsp;</p>\n\n<p>Code used: <a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day51-gradient-descent\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day51-gradient-descent</a></p>\n\n<p>Google Tool used: <a href=\"https://developers.google.com/machine-learning/crash-course/fitter/graph\">https://developers.google.com/machine-learning/crash-course/fitter/graph</a></p>\n\n<p>PDF of 100 Days of ML :&nbsp;<a href=\"https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view\">https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view</a></p>\n",
+    "id": "64463d99e4b065ed6c615767",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://developers.google.com/machine-learning/crash-course/fitter/graph": "developers.google.com",
+      "https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view": "drive.google.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day51-gradient-descent": "github.com"
+    },
+    "title": "Session 51 - Gradient Descent From Scratch",
+    "topicId": "c6ijor2md4",
+    "totalTime": 118,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code : <a href=\"http://Code : https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day52-types-of-gradient-descent\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day52-types-of-gradient-descent</a></p>\n",
+    "id": "6447af8de4b066db5b7042ab",
+    "isDescriptionHtml": true,
+    "links": {
+      "http://Code": "Code",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day52-types-of-gradient-descent": "github.com"
+    },
+    "title": "Session 52 (Part 1) - Batch Gradient Descent",
+    "topicId": "c6ijor2md4",
+    "totalTime": 65,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code used : <a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day52-types-of-gradient-descent\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day52-types-of-gradient-descent</a></p>\n",
+    "id": "6447afd2e4b086e37829945e",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day52-types-of-gradient-descent": "github.com"
+    },
+    "title": "Session 52 (Part 2) - Stochastic Gradient Descent",
+    "topicId": "c6ijor2md4",
+    "totalTime": 50,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code used : <a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day52-types-of-gradient-descent\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day52-types-of-gradient-descent</a></p>\n",
+    "id": "6447b017e4b01b84ce003fb7",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day52-types-of-gradient-descent": "github.com"
+    },
+    "title": "Session 52 (Part 3) - Mini-Batch Gradient Descent",
+    "topicId": "c6ijor2md4",
+    "totalTime": 22,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "644aa9c1e4b0576c5381c4ad",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Doubt Clearance Session on Linear Regression",
+    "topicId": "c6ijor2md4",
+    "totalTime": 129.25534,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1kHcIPKnRaJeBjVkEv3e6DIpzVQdqW2Iy?usp=sharing\">https://colab.research.google.com/drive/1kHcIPKnRaJeBjVkEv3e6DIpzVQdqW2Iy?usp=sharing</a></p>\n",
+    "id": "644d4dcbe4b0f3df037e79ca",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1kHcIPKnRaJeBjVkEv3e6DIpzVQdqW2Iy?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session 1 on Regression Analysis",
+    "topicId": "nhs6sn6nvt",
+    "totalTime": 136.918,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1kHcIPKnRaJeBjVkEv3e6DIpzVQdqW2Iy?usp=sharing\">https://colab.research.google.com/drive/1kHcIPKnRaJeBjVkEv3e6DIpzVQdqW2Iy?usp=sharing</a></p>\n\n<p>PDF -&nbsp;<a href=\"https://drive.google.com/file/d/1iBcf8Ma5Ueqc0ZIvQeFFltKSVWqBKYoX/view?usp=sharing\">https://drive.google.com/file/d/1iBcf8Ma5Ueqc0ZIvQeFFltKSVWqBKYoX/view?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n",
+    "id": "64513ccfe4b0249993da66ec",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1kHcIPKnRaJeBjVkEv3e6DIpzVQdqW2Iy?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1iBcf8Ma5Ueqc0ZIvQeFFltKSVWqBKYoX/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 2 on Regression Analysis",
+    "topicId": "nhs6sn6nvt",
+    "totalTime": 114.141335,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day53-polynomial-regression\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day53-polynomial-regression</a></p>\n",
+    "id": "64523f70e4b01a504fe2b19d",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day53-polynomial-regression": "github.com"
+    },
+    "title": "Polynomial Regression",
+    "topicId": "nhs6sn6nvt",
+    "totalTime": 27,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/10NHeEW_xeuOHloDWgrb6U2osJAbUOxSD?usp=sharing\">https://colab.research.google.com/drive/10NHeEW_xeuOHloDWgrb6U2osJAbUOxSD?usp=sharing</a></p>\n\n<p>PDF -&nbsp;<a href=\"https://drive.google.com/file/d/1-hJ51wKAYguczZ44WxdpblNrZNy7VaWY/view?usp=share_link\">https://drive.google.com/file/d/1-hJ51wKAYguczZ44WxdpblNrZNy7VaWY/view?usp=share_link</a></p>\n",
+    "id": "64553d0ee4b0419ba4306825",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/10NHeEW_xeuOHloDWgrb6U2osJAbUOxSD?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1-hJ51wKAYguczZ44WxdpblNrZNy7VaWY/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session on Assumptions of Linear Regression",
+    "topicId": "nhs6sn6nvt",
+    "totalTime": 145.73134,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1bCaiuxiKShosnKhaqDAE1lWXAi-_Fbb2?usp=sharing\">https://colab.research.google.com/drive/1bCaiuxiKShosnKhaqDAE1lWXAi-_Fbb2?usp=sharing</a></p>\n\n<p>PDF -&nbsp;<a href=\"https://drive.google.com/file/d/131sJUu335FSldQmdP4qTbp4qdSG4jYN8/view?usp=sharing\">https://drive.google.com/file/d/131sJUu335FSldQmdP4qTbp4qdSG4jYN8/view?usp=sharing</a></p>\n",
+    "id": "6459aabfe4b0483a4a229504",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1bCaiuxiKShosnKhaqDAE1lWXAi-_Fbb2?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/131sJUu335FSldQmdP4qTbp4qdSG4jYN8/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 53 - Session on Multicollinearity",
+    "topicId": "nhs6sn6nvt",
+    "totalTime": 132,
+    "type": "video"
   },
   {
     "assignmentLink": "https://colab.research.google.com/drive/1CU4xmpzk1xs4RUofGELifRuebmBBAWtZ?usp=sharing",
@@ -1867,11 +2398,37 @@
     "type": "assignment"
   },
   {
+    "description": "<p>Code -&nbsp;<a href=\"https://www.kaggle.com/campusx/filter-based-feature-selection\">https://www.kaggle.com/campusx/filter-based-feature-selection</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1CZPRLuSBmyPw7ftQVIyS7sreoemJGGn-/view?usp=sharing\">https://drive.google.com/file/d/1CZPRLuSBmyPw7ftQVIyS7sreoemJGGn-/view?usp=sharing</a></p>\n",
+    "id": "645d95c0e4b0cc6b89a7b658",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1CZPRLuSBmyPw7ftQVIyS7sreoemJGGn-/view?usp=sharing": "drive.google.com",
+      "https://www.kaggle.com/campusx/filter-based-feature-selection": "www.kaggle.com"
+    },
+    "title": "Session 54 - Feature Selection Part 1 | Filter Methods",
+    "topicId": "4zvz3bka7uk",
+    "totalTime": 126,
+    "type": "video"
+  },
+  {
     "assignmentLink": "https://colab.research.google.com/drive/1ODt8qWKf6fSkIbBGNK3IvyNLuZOYGsOm?usp=sharing",
     "id": "6462dd85e4b0bf92a6f619eb",
     "title": "Task 54",
     "topicId": "4zvz3bka7uk",
     "type": "assignment"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1asS5x04z2La1uAqpkHkz4NVvySWKZ7V6?usp=sharing\">https://colab.research.google.com/drive/1asS5x04z2La1uAqpkHkz4NVvySWKZ7V6?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1l0D_YMFkVM8z3I3INn6ou2aCxrHSoeGK/view?usp=sharing\">https://drive.google.com/file/d/1l0D_YMFkVM8z3I3INn6ou2aCxrHSoeGK/view?usp=sharing</a></p>\n",
+    "id": "64604a52e4b0d047610f7394",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1asS5x04z2La1uAqpkHkz4NVvySWKZ7V6?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1l0D_YMFkVM8z3I3INn6ou2aCxrHSoeGK/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 55 - Feature Selection Part 2 | Wrapper Methods",
+    "topicId": "4zvz3bka7uk",
+    "totalTime": 114,
+    "type": "video"
   },
   {
     "assignmentLink": "https://colab.research.google.com/drive/1miGanp0aDUqJ3DZ7s3fR53BofMkpX-Nl?usp=share_link",
@@ -1881,11 +2438,196 @@
     "type": "assignment"
   },
   {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/11RD671YkUNJsDaQm06kSNXpCdeDZE5US?usp=sharing\">https://colab.research.google.com/drive/11RD671YkUNJsDaQm06kSNXpCdeDZE5US?usp=sharing</a></p>\n\n<p>PDF -&nbsp;<a href=\"https://drive.google.com/file/d/1WnIiMTWZA7ZBAhzYsjNTACinrTgH7pUl/view?usp=share_link\">https://drive.google.com/file/d/1WnIiMTWZA7ZBAhzYsjNTACinrTgH7pUl/view?usp=share_link</a></p>\n",
+    "id": "646266bde4b0504171c16ba1",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/11RD671YkUNJsDaQm06kSNXpCdeDZE5US?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1WnIiMTWZA7ZBAhzYsjNTACinrTgH7pUl/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Session 3 on Feature Selection | Embedded Methods",
+    "topicId": "4zvz3bka7uk",
+    "totalTime": 119.47733,
+    "type": "video"
+  },
+  {
+    "description": "<p>PDF -&nbsp;<a href=\"https://drive.google.com/file/d/17YPjz8n3M1upSAWVQSmKvqZ8OXiHUQeX/view?usp=sharing\">https://drive.google.com/file/d/17YPjz8n3M1upSAWVQSmKvqZ8OXiHUQeX/view?usp=sharing</a></p>\n",
+    "id": "64650d84e4b0e730569b3304",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/17YPjz8n3M1upSAWVQSmKvqZ8OXiHUQeX/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Regularization Part 1 | Bias Variance Trade-off",
+    "topicId": "2dq0mjtgsz",
+    "totalTime": 122.836,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1fco0kYZaU8wPbfSaX4DHPNI_vZwB48AN?usp=sharing\">https://colab.research.google.com/drive/1fco0kYZaU8wPbfSaX4DHPNI_vZwB48AN?usp=sharing</a></p>\n\n<p>PDF -&nbsp;<a href=\"https://drive.google.com/file/d/17YPjz8n3M1upSAWVQSmKvqZ8OXiHUQeX/view?usp=share_link\">https://drive.google.com/file/d/17YPjz8n3M1upSAWVQSmKvqZ8OXiHUQeX/view?usp=share_link</a></p>\n",
+    "id": "64672850e4b0903ea349a219",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1fco0kYZaU8wPbfSaX4DHPNI_vZwB48AN?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/17YPjz8n3M1upSAWVQSmKvqZ8OXiHUQeX/view?usp=share_link": "drive.google.com"
+    },
+    "title": "Regularization Part 2 | What is Regularization | Paid Zoom Session | 19th May",
+    "topicId": "2dq0mjtgsz",
+    "totalTime": 116.37867,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models</a></p>\n\n<p>100 Days of ML Notes :&nbsp;<a href=\"https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view\">https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view</a></p>\n",
+    "id": "6466ce0de4b08c67ea659751",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view": "drive.google.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models": "github.com"
+    },
+    "title": "Ridge Regression Part 1 | Geometric Intuition and Code | Regularized Linear Models",
+    "topicId": "2dq0mjtgsz",
+    "totalTime": 20,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models</a></p>\n\n<p>100 Days of ML Notes :&nbsp;<a href=\"https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view\">https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view</a></p>\n",
+    "id": "6466ce52e4b08c67ea659753",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view": "drive.google.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models": "github.com"
+    },
+    "title": "Ridge Regression Part 2 | Mathematical Formulation & Code from scratch | Regularized Linear Models",
+    "topicId": "2dq0mjtgsz",
+    "totalTime": 44,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models</a></p>\n\n<p>&nbsp;</p>\n\n<p>100 Days of ML Notes :&nbsp;<a href=\"https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view\">https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view</a></p>\n",
+    "id": "6466ce8ee4b0903ea3499097",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view": "drive.google.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models": "github.com"
+    },
+    "title": "Ridge Regression Part 3 | Gradient Descent | Regularized Linear Models",
+    "topicId": "2dq0mjtgsz",
+    "totalTime": 19,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models</a></p>\n\n<p>&nbsp;</p>\n\n<p>100 Days of ML Notes :&nbsp;<a href=\"https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view\">https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view</a></p>\n",
+    "id": "6466cedae4b025ff1f300f7f",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view": "drive.google.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day55-regularized-linear-models": "github.com"
+    },
+    "title": "Ridge Regression Part 4 | 5 Key Points | Regularized Linear Models",
+    "topicId": "2dq0mjtgsz",
+    "totalTime": 30,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day56-lasso-regression\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day56-lasso-regression</a></p>\n\n<p>100 Days of ML Notes :&nbsp;<a href=\"https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view\">https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view</a></p>\n",
+    "id": "6466d100e4b08020d9825adb",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1MENZBaet8y7PHjLbn8NpwitUZpIOFpCd/view": "drive.google.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day56-lasso-regression": "github.com"
+    },
+    "title": "Lasso Regression | Intuition and Code Sample | Regularized Linear Models",
+    "topicId": "2dq0mjtgsz",
+    "totalTime": 29,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;</p>\n",
+    "id": "6466d126e4b03c90acacdd8f",
+    "isDescriptionHtml": true,
+    "links": {},
+    "title": "Why Lasso Regression creates sparsity?",
+    "topicId": "2dq0mjtgsz",
+    "totalTime": 25,
+    "type": "video"
+  },
+  {
     "assignmentLink": "https://colab.research.google.com/drive/1lawAfu5pfC8xCouy3lWYcnaAkEMvMBaF?usp=sharing",
     "id": "6479c365e4b035c9e4aa2d73",
     "title": "Task-Regularisation",
     "topicId": "2dq0mjtgsz",
     "type": "assignment"
+  },
+  {
+    "description": "<p><a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day57-elasticnet-regression\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day57-elasticnet-regression</a></p>\n",
+    "id": "6466d150e4b099bf36931b80",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day57-elasticnet-regression": "github.com"
+    },
+    "title": "ElasticNet Regression | Intuition and Code Example | Regularized Linear Models",
+    "topicId": "2dq0mjtgsz",
+    "totalTime": 12,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "646ce2f8e4b0cde209a8d1cb",
+    "isDescriptionHtml": true,
+    "links": {},
+    "title": "Doubt Clearance Session on Regularization | Paid Zoom Session | 23 May",
+    "topicId": "2dq0mjtgsz",
+    "totalTime": 69.281334,
+    "type": "video"
+  },
+  {
+    "description": "<p>&nbsp;</p>\n\n<p>Code - <a href=\"https://www.kaggle.com/code/campusx/knn-on-breast-cancer-dataset\">https://www.kaggle.com/code/campusx/knn-on-breast-cancer-dataset</a></p>\n\n<p>PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1nGa-6YW7SISVroOd8GAY_kzSARERSZjL/view?usp=share_link\">https://drive.google.com/file/d/1nGa-6YW7SISVroOd8GAY_kzSARERSZjL/view?usp=share_link</a></p>\n",
+    "id": "646c86d0e4b047483243411d",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1nGa-6YW7SISVroOd8GAY_kzSARERSZjL/view?usp=share_link": "drive.google.com",
+      "https://www.kaggle.com/code/campusx/knn-on-breast-cancer-dataset": "www.kaggle.com"
+    },
+    "title": "Session 1 on K-Nearest Neighbors",
+    "topicId": "ha1j2b6oczi",
+    "totalTime": 52,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/knn-from-scratch\">https://github.com/campusx-official/knn-from-scratch</a></p>\n",
+    "id": "646c870fe4b01ad19e491ca4",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/knn-from-scratch": "github.com"
+    },
+    "title": "Coding K Nearest Neighbors from Scratch",
+    "topicId": "ha1j2b6oczi",
+    "totalTime": 57,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/K-Nearest-Neighbors\">https://github.com/campusx-official/K-Nearest-Neighbors</a></p>\n",
+    "id": "646deb21e4b0b536ead54e1c",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/K-Nearest-Neighbors": "github.com"
+    },
+    "title": "How to draw Decision Boundary for classification algorithms",
+    "topicId": "ha1j2b6oczi",
+    "totalTime": 41,
+    "type": "video"
+  },
+  {
+    "description": "<p>PDF :&nbsp;<a href=\"https://drive.google.com/file/d/10i4EYgzngNIVVkeOBwdPWZpo8Nqj2w_S/view?usp=share_link\">https://drive.google.com/file/d/10i4EYgzngNIVVkeOBwdPWZpo8Nqj2w_S/view?usp=share_link</a></p>\n\n<p>Visualizer Code :&nbsp;<a href=\"https://github.com/samp-suman/KNN-Visualizer\">https://github.com/samp-suman/KNN-Visualizer</a></p>\n",
+    "id": "646e495be4b0815aa2abb6d3",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/10i4EYgzngNIVVkeOBwdPWZpo8Nqj2w_S/view?usp=share_link": "drive.google.com",
+      "https://github.com/samp-suman/KNN-Visualizer": "github.com"
+    },
+    "title": "Session on Advanced KNN",
+    "topicId": "ha1j2b6oczi",
+    "totalTime": 126.00733,
+    "type": "video"
   },
   {
     "assignmentLink": "https://colab.research.google.com/drive/19RMdVeUX18KMnvDBpMWHMR9YvavlTFf7?usp=sharing",
@@ -1895,11 +2637,1072 @@
     "type": "assignment"
   },
   {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day59-classification-metrics\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day59-classification-metrics</a><br />\n<br />\nAccuracy is not reliable measure in case of imbalanced data :&nbsp;<a href=\"https://colab.research.google.com/drive/12hFmzcyfQetk5MUlTMNrrl1VCoYDGNfT?usp=sharing\">https://colab.research.google.com/drive/12hFmzcyfQetk5MUlTMNrrl1VCoYDGNfT?usp=sharing</a></p>\n",
+    "id": "646eab59e4b059713b71fdfe",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/12hFmzcyfQetk5MUlTMNrrl1VCoYDGNfT?usp=sharing": "colab.research.google.com",
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day59-classification-metrics": "github.com"
+    },
+    "title": "Classification Metrics Part 1 | Accuracy and Confusion Matrix | Type 1 and Type 2 Errors",
+    "topicId": "ha1j2b6oczi",
+    "totalTime": 34,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day59-classification-metrics\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day59-classification-metrics</a></p>\n",
+    "id": "646eaba4e4b0c642d6b9ba7d",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day59-classification-metrics": "github.com"
+    },
+    "title": "Classification Metrics Part 2 | Precision, Recall and F1 Score",
+    "topicId": "ha1j2b6oczi",
+    "totalTime": 43,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "646eaf77e4b04e01d7d5759c",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Curse of Dimensionality",
+    "topicId": "0qm7odma13",
+    "totalTime": "0",
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "646eac19e4b0e2409f04a512",
+    "isDescriptionHtml": true,
+    "links": {},
+    "title": "PCA Part 1 | Geometric Intuition",
+    "topicId": "0qm7odma13",
+    "totalTime": 34,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "646eac47e4b0e2409f04a517",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "PCA Part 2 | Problem Formulation and Step by Step Solution",
+    "topicId": "0qm7odma13",
+    "totalTime": "0",
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day47-pca\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day47-pca</a></p>\n",
+    "id": "646eac6be4b0c642d6b9ba92",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day47-pca": "github.com"
+    },
+    "title": "PCA Part 3 | Code Example and Visualization",
+    "topicId": "0qm7odma13",
+    "totalTime": 43,
+    "type": "video"
+  },
+  {
     "assignmentLink": "https://colab.research.google.com/drive/19AtHlobDsFzsOSXKl8K9qlsqNu2McXza?usp=sharing",
     "id": "6479c30ae4b035c9e4aa2d57",
     "title": "Task - 57 (PCA)",
     "topicId": "0qm7odma13",
     "type": "assignment"
+  },
+  {
+    "description": "<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1uuHklMvFbMlTRBhosis4OFfaK-FHGAyr/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1uuHklMvFbMlTRBhosis4OFfaK-FHGAyr/view?usp=sharing</a></p>\n",
+    "id": "647626d8e4b08b3cacef47a4",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1uuHklMvFbMlTRBhosis4OFfaK-FHGAyr/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on Eigen Vectors and Eigen Values",
+    "topicId": "0qm7odma13",
+    "totalTime": 100.712,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1AsPuskXViToTGHu6377GgWRbtyjdDLli?usp=sharing\">https://colab.research.google.com/drive/1AsPuskXViToTGHu6377GgWRbtyjdDLli?usp=sharing</a></p>\n\n<p>PDF:&nbsp;<a href=\"https://drive.google.com/file/d/1X414H0nFrWy96Qh2qXadL_b01j5aVn8O/view?usp=sharing\">https://drive.google.com/file/d/1X414H0nFrWy96Qh2qXadL_b01j5aVn8O/view?usp=sharing</a></p>\n",
+    "id": "647a2840e4b0c23ba1541455",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1AsPuskXViToTGHu6377GgWRbtyjdDLli?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1X414H0nFrWy96Qh2qXadL_b01j5aVn8O/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on Eigen Decomposition +  PCA Variants",
+    "topicId": "0qm7odma13",
+    "totalTime": 127.438,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1JiPh_ImSfbclRpwCTnMYz5yh8fGR6wC6?usp=sharing\">https://colab.research.google.com/drive/1JiPh_ImSfbclRpwCTnMYz5yh8fGR6wC6?usp=sharing</a></p>\n\n<p>PDF:&nbsp;<a href=\"https://drive.google.com/file/d/1qNIEcxK8Cq9CFPfJ47eVbb3ht6pPN67e/view?usp=sharing\">https://drive.google.com/file/d/1qNIEcxK8Cq9CFPfJ47eVbb3ht6pPN67e/view?usp=sharing</a></p>\n",
+    "id": "647e18efe4b0e445441a8db4",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1JiPh_ImSfbclRpwCTnMYz5yh8fGR6wC6?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1qNIEcxK8Cq9CFPfJ47eVbb3ht6pPN67e/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on Singular Value Decomposition",
+    "topicId": "0qm7odma13",
+    "totalTime": 133.01666,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1nPPKRtmtoVf-GNEpJVAHmEQhXNwXOlXV?usp=sharing\" target=\"_blank\">https://colab.research.google.com/drive/1nPPKRtmtoVf-GNEpJVAHmEQhXNwXOlXV?usp=sharing</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1Ql1vwGgDfPy7b5nXQPqtRltpyx1NUGHT/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1Ql1vwGgDfPy7b5nXQPqtRltpyx1NUGHT/view?usp=sharing</a></p>\n",
+    "id": "64829d79e4b0279ac41740a1",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1nPPKRtmtoVf-GNEpJVAHmEQhXNwXOlXV?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1Ql1vwGgDfPy7b5nXQPqtRltpyx1NUGHT/view?usp=sharing": "drive.google.com"
+    },
+    "title": "ROC Curve in Machine Learning",
+    "topicId": "ubzsn81h84",
+    "totalTime": 71,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1p6b3Wlt7r8gRK4OhHUrGMDQqpWRM66x9?usp=sharing\" target=\"_blank\">https://colab.research.google.com/drive/1p6b3Wlt7r8gRK4OhHUrGMDQqpWRM66x9?usp=sharing</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1Xye1BmIcFBl9aNp_B4Dkmx2bHRtwyqWx/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1Xye1BmIcFBl9aNp_B4Dkmx2bHRtwyqWx/view?usp=sharing</a></p>\n",
+    "id": "64849921e4b0bf5dde4a596b",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1p6b3Wlt7r8gRK4OhHUrGMDQqpWRM66x9?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1Xye1BmIcFBl9aNp_B4Dkmx2bHRtwyqWx/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on Cross Validation",
+    "topicId": "ubzsn81h84",
+    "totalTime": 68.72667,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1p6b3Wlt7r8gRK4OhHUrGMDQqpWRM66x9?usp=sharing\" target=\"_blank\">https://colab.research.google.com/drive/1p6b3Wlt7r8gRK4OhHUrGMDQqpWRM66x9?usp=sharing</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1EPB0JfGo6orB4ndEy5A5UroLKtNBL4XU/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1EPB0JfGo6orB4ndEy5A5UroLKtNBL4XU/view?usp=sharing</a></p>\n",
+    "id": "64874fbee4b07783f7725e01",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1p6b3Wlt7r8gRK4OhHUrGMDQqpWRM66x9?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1EPB0JfGo6orB4ndEy5A5UroLKtNBL4XU/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on Data Leakage",
+    "topicId": "ubzsn81h84",
+    "totalTime": 145.41867,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1AWo5sjSZw3EgehYnuNLTPoPO08g8yU_O?usp=sharing\" target=\"_blank\">https://colab.research.google.com/drive/1AWo5sjSZw3EgehYnuNLTPoPO08g8yU_O?usp=sharing</a></p>\n\n<p>Notebook Pdf :&nbsp;<a href=\"https://drive.google.com/file/d/1_LpP5xdrnZn842FyxdAkI5oGCS9t5TQU/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1_LpP5xdrnZn842FyxdAkI5oGCS9t5TQU/view?usp=sharing</a></p>\n",
+    "id": "6489f1f7e4b015f2c47c5447",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1AWo5sjSZw3EgehYnuNLTPoPO08g8yU_O?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1_LpP5xdrnZn842FyxdAkI5oGCS9t5TQU/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on Hyperparameter Tuning",
+    "topicId": "ubzsn81h84",
+    "totalTime": 106.95267,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1tH8hrTpU3SG-b6v3ecWxwSu1FRENeP6S/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1tH8hrTpU3SG-b6v3ecWxwSu1FRENeP6S/view?usp=sharing</a></p>\n",
+    "id": "648c9677e4b0614afeecd579",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1tH8hrTpU3SG-b6v3ecWxwSu1FRENeP6S/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Crash Course on Probability Part 1",
+    "topicId": "dzyg7ykeva",
+    "totalTime": 125.38067,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1q0yJ-6pTLkXyETwS41uFf5ggOagxydvt?usp=sharing\" target=\"_blank\">https://colab.research.google.com/drive/1q0yJ-6pTLkXyETwS41uFf5ggOagxydvt?usp=sharing</a></p>\n\n<p>Notebook PDF Probability part - 2:&nbsp;<a href=\"https://drive.google.com/file/d/1ygZT5izsUcp8AsmmqDjj8CcP_5WpKnFP/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1ygZT5izsUcp8AsmmqDjj8CcP_5WpKnFP/view?usp=sharing</a></p>\n",
+    "id": "6493262ce4b091f843974846",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1q0yJ-6pTLkXyETwS41uFf5ggOagxydvt?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1ygZT5izsUcp8AsmmqDjj8CcP_5WpKnFP/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Crash Course on Probability Part 2",
+    "topicId": "dzyg7ykeva",
+    "totalTime": 115.821335,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1lbqkDb-3TQn4xKu3yUzMeS8tjgZLwd4k?usp=sharing\">https://colab.research.google.com/drive/1lbqkDb-3TQn4xKu3yUzMeS8tjgZLwd4k?usp=sharing</a></p>\n\n<p><a href=\"https://www.kaggle.com/campusx/sentiment-analysis-using-naive-bayes\">https://www.kaggle.com/campusx/sentiment-analysis-using-naive-bayes</a></p>\n\n<p>PDF:&nbsp;<a href=\"https://drive.google.com/file/d/1UqadGJVXFZEPD4YOUAZ2t15mJCpJYghS/view?usp=sharing\">https://drive.google.com/file/d/1UqadGJVXFZEPD4YOUAZ2t15mJCpJYghS/view?usp=sharing</a></p>\n",
+    "id": "64947e8ee4b0d4a8efcd7696",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1lbqkDb-3TQn4xKu3yUzMeS8tjgZLwd4k?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1UqadGJVXFZEPD4YOUAZ2t15mJCpJYghS/view?usp=sharing": "drive.google.com",
+      "https://www.kaggle.com/campusx/sentiment-analysis-using-naive-bayes": "www.kaggle.com"
+    },
+    "title": "Session 1 on Naive Bayes",
+    "topicId": "dzyg7ykeva",
+    "totalTime": 120.81467,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1ocyl8UZi3qS-ARaw7_Ot9qUGLhA20f9n/view?usp=sharing\">https://drive.google.com/file/d/1ocyl8UZi3qS-ARaw7_Ot9qUGLhA20f9n/view?usp=sharing</a></p>\n",
+    "id": "649723cfe4b03468c5146913",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1ocyl8UZi3qS-ARaw7_Ot9qUGLhA20f9n/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 2 on Naive Bayes",
+    "topicId": "dzyg7ykeva",
+    "totalTime": 133.94333,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook PDF :&nbsp;&nbsp;<a href=\"https://drive.google.com/file/d/13DrpcVdFMZJv9G6GghF6Wpghr_WykVMW/view?usp=sharing\">https://drive.google.com/file/d/13DrpcVdFMZJv9G6GghF6Wpghr_WykVMW/view?usp=sharing</a></p>\n",
+    "id": "649b12fbe4b005c1fdaf763e",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/13DrpcVdFMZJv9G6GghF6Wpghr_WykVMW/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 3 on Naive Bayes",
+    "topicId": "dzyg7ykeva",
+    "totalTime": 118.87067,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/sms-spam-classifier\">https://github.com/campusx-official/sms-spam-classifier</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset\">https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset</a></p>\n",
+    "id": "649b944ee4b09b3f8861cae9",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/sms-spam-classifier": "github.com",
+      "https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset": "www.kaggle.com"
+    },
+    "title": "Email Spam Classifier | End to End Project",
+    "topicId": "dzyg7ykeva",
+    "totalTime": 100,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1L2AY78TgqOlf7rlsRDZhQABAThqsRQRz/view?usp=sharing\">https://drive.google.com/file/d/1L2AY78TgqOlf7rlsRDZhQABAThqsRQRz/view?usp=sharing</a></p>\n",
+    "id": "649c6a61e4b0cc6e7bc5749c",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1L2AY78TgqOlf7rlsRDZhQABAThqsRQRz/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 1 on Logistic Regression",
+    "topicId": "yi0t5uao1s",
+    "totalTime": 128.456,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day60-logistic-regression-contd/softmax-demo.ipynb\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day60-logistic-regression-contd/softmax-demo.ipynb</a></p>\n\n<p>&nbsp;</p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1neEFkUXbXx5RktYKoPe2qW8CV460G_rX/view?usp=sharing\">https://drive.google.com/file/d/1neEFkUXbXx5RktYKoPe2qW8CV460G_rX/view?usp=sharing</a></p>\n",
+    "id": "649f0959e4b0e51bdf451031",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day60-logistic-regression-contd/softmax-demo.ipynb": "colab.research.google.com",
+      "https://drive.google.com/file/d/1neEFkUXbXx5RktYKoPe2qW8CV460G_rX/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on Multiclass Classification using Logistic Regression",
+    "topicId": "yi0t5uao1s",
+    "totalTime": 112.894,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1rWU7rM-aQBN4YyFyq-iJZ8d8dVar7HlU/view?usp=drive_link\">https://drive.google.com/file/d/1rWU7rM-aQBN4YyFyq-iJZ8d8dVar7HlU/view?usp=drive_link</a></p>\n",
+    "id": "64a2ff04e4b063271779845a",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1rWU7rM-aQBN4YyFyq-iJZ8d8dVar7HlU/view?usp=drive_link": "drive.google.com"
+    },
+    "title": "Session on Maximum Likelihood Estimation",
+    "topicId": "yi0t5uao1s",
+    "totalTime": 127.791336,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/14yneTfvrXQLC_drOPCme1lWKMnxLGN5d?usp=sharing\" target=\"_blank\">https://colab.research.google.com/drive/14yneTfvrXQLC_drOPCme1lWKMnxLGN5d?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day60-logistic-regression-contd/polynomial-logistic-regression.ipynb\" target=\"_blank\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day60-logistic-regression-contd/polynomial-logistic-regression.ipynb</a><br />\n<br />\nNotebook PDF :&nbsp;&nbsp;<a href=\"https://drive.google.com/file/d/1A4KTY5onEMazPXLnRxQiJOMBnyfZoGj6/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1A4KTY5onEMazPXLnRxQiJOMBnyfZoGj6/view?usp=sharing</a></p>\n",
+    "id": "64a5a3d4e4b0674e659427af",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/14yneTfvrXQLC_drOPCme1lWKMnxLGN5d?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day60-logistic-regression-contd/polynomial-logistic-regression.ipynb": "colab.research.google.com",
+      "https://drive.google.com/file/d/1A4KTY5onEMazPXLnRxQiJOMBnyfZoGj6/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 3 on Logistic Regression",
+    "topicId": "yi0t5uao1s",
+    "totalTime": 126.658,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day60-logistic-regression-contd\" target=\"_blank\">https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day60-logistic-regression-contd</a><br />\n<br />\nThis link contains all notebook PDFs used in&nbsp;<b>100&nbsp;Days&nbsp;of ML Playlist</b>.<br />\n<a data-saferedirecturl=\"https://www.google.com/url?q=https://lnkd.in/gxv947TB&amp;source=gmail&amp;ust=1689003495050000&amp;usg=AOvVaw2rojj4DKCqB6M-XVfncVOJ\" href=\"https://lnkd.in/gxv947TB\" target=\"_blank\">https://lnkd.in/gxv947TB</a></p>\n",
+    "id": "64a61913e4b0b3f5a4d503a3",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/100-days-of-machine-learning/tree/main/day60-logistic-regression-contd": "github.com",
+      "https://lnkd.in/gxv947TB": "lnkd.in",
+      "https://www.google.com/url?q=https://lnkd.in/gxv947TB&amp;source=gmail&amp;ust=1689003495050000&amp;usg=AOvVaw2rojj4DKCqB6M-XVfncVOJ": "www.google.com"
+    },
+    "title": "Logistic Regression Hyperparameters",
+    "topicId": "yi0t5uao1s",
+    "totalTime": 13,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/github/campusx-official/Support-Vector-Machines-SVM-/blob/master/SVM%20Demo.ipynb\" target=\"_blank\">https://colab.research.google.com/github/campusx-official/Support-Vector-Machines-SVM-/blob/master/SVM%20Demo.ipynb</a><br />\n<br />\nNotebook PDF : <a href=\"https://drive.google.com/file/d/10-cpW7zDF91m1I4Otb2o9h4MVLnQ7CaP/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/10-cpW7zDF91m1I4Otb2o9h4MVLnQ7CaP/view?usp=sharing</a></p>\n",
+    "id": "64a6f16fe4b06934320cd5e3",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/github/campusx-official/Support-Vector-Machines-SVM-/blob/master/SVM%20Demo.ipynb": "colab.research.google.com",
+      "https://drive.google.com/file/d/10-cpW7zDF91m1I4Otb2o9h4MVLnQ7CaP/view?usp=sharing": "drive.google.com"
+    },
+    "title": "SVM Part 1 - Hard Margin SVM",
+    "topicId": "zku6dq433qh",
+    "totalTime": 102.234665,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/github/campusx-official/Support-Vector-Machines-SVM-/blob/master/SVM%20Demo.ipynb\">https://colab.research.google.com/github/campusx-official/Support-Vector-Machines-SVM-/blob/master/SVM%20Demo.ipynb</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1M2fdMaMp8fKHZRf4HTkpx7OpdrIOQXeO/view?usp=sharing\">https://drive.google.com/file/d/1M2fdMaMp8fKHZRf4HTkpx7OpdrIOQXeO/view?usp=sharing</a></p>\n",
+    "id": "64ad8bfbe4b0b3d6b72b9293",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/github/campusx-official/Support-Vector-Machines-SVM-/blob/master/SVM%20Demo.ipynb": "colab.research.google.com",
+      "https://drive.google.com/file/d/1M2fdMaMp8fKHZRf4HTkpx7OpdrIOQXeO/view?usp=sharing": "drive.google.com"
+    },
+    "title": "SVM Part 2 | Soft Margin SVM",
+    "topicId": "zku6dq433qh",
+    "totalTime": 106.65466,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1QYO4i5H3amkUyFEYxyVcv1u79Y4x4bVh?usp=sharing\">https://colab.research.google.com/drive/1QYO4i5H3amkUyFEYxyVcv1u79Y4x4bVh?usp=sharing</a></p>\n\n<p>Code -&nbsp;<a href=\"https://colab.research.google.com/github/campusx-official/Support-Vector-Machines-SVM-/blob/master/Kernel%20Trick%20SVM.ipynb\">https://colab.research.google.com/github/campusx-official/Support-Vector-Machines-SVM-/blob/master/Kernel%20Trick%20SVM.ipynb</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1t0iKw5AoVcxFmlKldNTjuteFiWEMQe5n/view?usp=sharing\">https://drive.google.com/file/d/1t0iKw5AoVcxFmlKldNTjuteFiWEMQe5n/view?usp=sharing</a></p>\n",
+    "id": "64b17dd9e4b007968d39fbca",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1QYO4i5H3amkUyFEYxyVcv1u79Y4x4bVh?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/github/campusx-official/Support-Vector-Machines-SVM-/blob/master/Kernel%20Trick%20SVM.ipynb": "colab.research.google.com",
+      "https://drive.google.com/file/d/1t0iKw5AoVcxFmlKldNTjuteFiWEMQe5n/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on Constrained Optimization Problem",
+    "topicId": "zku6dq433qh",
+    "totalTime": 120.56734,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook PDF : <a href=\"https://drive.google.com/file/d/1eN3a76-ZS8IEBMc4kCwRaDDKeofQd9Ip/view?usp=sharing\">https://drive.google.com/file/d/1eN3a76-ZS8IEBMc4kCwRaDDKeofQd9Ip/view?usp=sharing</a></p>\n",
+    "id": "64b41b71e4b001bd685c7e8f",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1eN3a76-ZS8IEBMc4kCwRaDDKeofQd9Ip/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on SVM Dual Problem",
+    "topicId": "zku6dq433qh",
+    "totalTime": 105.838,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1yn8tnyqx284XWQqtSFhKJmaKhci9pdR3/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1yn8tnyqx284XWQqtSFhKJmaKhci9pdR3/view?usp=sharing</a></p>\n\n<p>Code:&nbsp;<a href=\"https://colab.research.google.com/drive/1NCmy1ivmanc_fN0IwqQDWO1Z_X_QToBs?usp=sharing\">https://colab.research.google.com/drive/1NCmy1ivmanc_fN0IwqQDWO1Z_X_QToBs?usp=sharing</a></p>\n",
+    "id": "64b81703e4b0223f0c3764e9",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1NCmy1ivmanc_fN0IwqQDWO1Z_X_QToBs?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1yn8tnyqx284XWQqtSFhKJmaKhci9pdR3/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on Maths Behind SVM Kernels",
+    "topicId": "zku6dq433qh",
+    "totalTime": 119.05067,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/10nSMmbHuaehgd7TdgcTVsS8isPq8bJqY?usp=sharing\">https://colab.research.google.com/drive/10nSMmbHuaehgd7TdgcTVsS8isPq8bJqY?usp=sharing</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1EaPkxw5I0KstZARjQMq_J8yOQYt82Hb0/view?usp=sharing\">https://drive.google.com/file/d/1EaPkxw5I0KstZARjQMq_J8yOQYt82Hb0/view?usp=sharing</a></p>\n",
+    "id": "64bc0f76e4b005ff26f1bba6",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/10nSMmbHuaehgd7TdgcTVsS8isPq8bJqY?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1EaPkxw5I0KstZARjQMq_J8yOQYt82Hb0/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 1 on Decision Trees",
+    "topicId": "qpwm16bdv2",
+    "totalTime": 127.698,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/10nSMmbHuaehgd7TdgcTVsS8isPq8bJqY?usp=sharing\">https://colab.research.google.com/drive/10nSMmbHuaehgd7TdgcTVsS8isPq8bJqY?usp=sharing</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1yzsKHIMMeOztAK1Jcg5dy9OvVAJjMMun/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1yzsKHIMMeOztAK1Jcg5dy9OvVAJjMMun/view?usp=sharing</a></p>\n",
+    "id": "64c000ebe4b0c90453dc8d67",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/10nSMmbHuaehgd7TdgcTVsS8isPq8bJqY?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1yzsKHIMMeOztAK1Jcg5dy9OvVAJjMMun/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 2 on Decision Trees",
+    "topicId": "qpwm16bdv2",
+    "totalTime": 118.888664,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/10nSMmbHuaehgd7TdgcTVsS8isPq8bJqY?usp=sharing\">https://colab.research.google.com/drive/10nSMmbHuaehgd7TdgcTVsS8isPq8bJqY?usp=sharing</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1yU-tkH1KMGu7pXHsHmPz5I94NNw7W2wj/view?usp=sharing\">https://drive.google.com/file/d/1yU-tkH1KMGu7pXHsHmPz5I94NNw7W2wj/view?usp=sharing</a></p>\n",
+    "id": "64c29de4e4b02f2dcaa6d278",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/10nSMmbHuaehgd7TdgcTVsS8isPq8bJqY?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1yU-tkH1KMGu7pXHsHmPz5I94NNw7W2wj/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 3 on Decision Trees | Pruning",
+    "topicId": "qpwm16bdv2",
+    "totalTime": 100.924,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/dtreeviz-demo\">https://github.com/campusx-official/dtreeviz-demo</a></p>\n",
+    "id": "64c4f958e4b071afb3b531f3",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/dtreeviz-demo": "github.com"
+    },
+    "title": "Awesome Decision Tree Visualization using dtreeviz library",
+    "topicId": "qpwm16bdv2",
+    "totalTime": 19,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing\">https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing</a></p>\n\n<p>Notes + Dataset -&nbsp;<a href=\"https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link\">https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link</a></p>\n",
+    "id": "64aaf332e4b08bdad9392973",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link": "drive.google.com"
+    },
+    "title": "Session on Handling Missing Values Part 1",
+    "topicId": "y0za3t5tgi",
+    "totalTime": 153.56934,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6\">https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6</a></p>\n",
+    "id": "64b5786ce4b017bd75bfb76c",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6": "drive.google.com"
+    },
+    "title": "Session 2 on Handling Missing Data",
+    "topicId": "y0za3t5tgi",
+    "totalTime": 133.108,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "64beb074e4b0537e95689e09",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Session 3 on Handling Missing Values",
+    "topicId": "y0za3t5tgi",
+    "totalTime": 128.65866,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "64c4fa2ee4b027f08c52d017",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Introduction to Ensemble Learning",
+    "topicId": "yqkczjdcta",
+    "totalTime": "0",
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://github.com/campusx-official/bagging-ensemble\">https://github.com/campusx-official/bagging-ensemble</a></p>\n",
+    "id": "64c4fa4ae4b027f08c52d030",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/bagging-ensemble": "github.com"
+    },
+    "title": "Bagging | Introduction | Part 1",
+    "topicId": "yqkczjdcta",
+    "totalTime": 31,
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://github.com/campusx-official/bagging-ensemble\">https://github.com/campusx-official/bagging-ensemble</a></p>\n",
+    "id": "64c4fa62e4b027f08c52d049",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/bagging-ensemble": "github.com"
+    },
+    "title": "Bagging Ensemble | Part 2 | Bagging Classifiers",
+    "topicId": "yqkczjdcta",
+    "totalTime": 23,
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://github.com/campusx-official/bagging-ensemble\">https://github.com/campusx-official/bagging-ensemble</a></p>\n",
+    "id": "64c4fa78e4b027f08c52d04e",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/bagging-ensemble": "github.com"
+    },
+    "title": "Bagging Ensemble | Part 3 | Bagging Regressor",
+    "topicId": "yqkczjdcta",
+    "totalTime": 11,
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/rf_learning_tool.ipynb\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/rf_learning_tool.ipynb</a></p>\n\n<p><a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/random_forest_demo.ipynb\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/random_forest_demo.ipynb</a></p>\n\n<p><a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/feature-importance-in-sklearn.ipynb\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/feature-importance-in-sklearn.ipynb</a></p>\n\n<p><a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/bagging_vs_random_forest.ipynb\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/bagging_vs_random_forest.ipynb</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1EK3u-hyEiK0wMMsy07fI0Dn-jwOicbEU/view?usp=sharing\">https://drive.google.com/file/d/1EK3u-hyEiK0wMMsy07fI0Dn-jwOicbEU/view?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n",
+    "id": "64c54575e4b001e0e5e164c6",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/bagging_vs_random_forest.ipynb": "colab.research.google.com",
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/feature-importance-in-sklearn.ipynb": "colab.research.google.com",
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/random_forest_demo.ipynb": "colab.research.google.com",
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/rf_learning_tool.ipynb": "colab.research.google.com",
+      "https://drive.google.com/file/d/1EK3u-hyEiK0wMMsy07fI0Dn-jwOicbEU/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 1 on Random Forest",
+    "topicId": "yqkczjdcta",
+    "totalTime": 123.12133,
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://colab.research.google.com/drive/1_9MoZF1Vxa5AKGo0VNBK8qE1qL45pmua?usp=sharing\">https://colab.research.google.com/drive/1_9MoZF1Vxa5AKGo0VNBK8qE1qL45pmua?usp=sharing</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1sV_PG8PNCzXNvN73cvSxw3NDiwh1Y7bc/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1sV_PG8PNCzXNvN73cvSxw3NDiwh1Y7bc/view?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n",
+    "id": "64c7e4ede4b01259bc83fbc7",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1_9MoZF1Vxa5AKGo0VNBK8qE1qL45pmua?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1sV_PG8PNCzXNvN73cvSxw3NDiwh1Y7bc/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 2 on Random Forest",
+    "topicId": "yqkczjdcta",
+    "totalTime": 105.16333,
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://colab.research.google.com/drive/1GSeBSO22uMbCvlN10x0mxtBbx9Ap2nqM?usp=sharing\">https://colab.research.google.com/drive/1GSeBSO22uMbCvlN10x0mxtBbx9Ap2nqM?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/gradient-boosting/gradient_boost_step_by_step.ipynb\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/gradient-boosting/gradient_boost_step_by_step.ipynb</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1-MO6IasyTlk2jWX61SPuQ_4I1MsLJ0-a/view?usp=sharing\">https://drive.google.com/file/d/1-MO6IasyTlk2jWX61SPuQ_4I1MsLJ0-a/view?usp=sharing</a></p>\n",
+    "id": "64ca94a0e4b06bd935d80b2b",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1GSeBSO22uMbCvlN10x0mxtBbx9Ap2nqM?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/gradient-boosting/gradient_boost_step_by_step.ipynb": "colab.research.google.com",
+      "https://drive.google.com/file/d/1-MO6IasyTlk2jWX61SPuQ_4I1MsLJ0-a/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 1 on Gradient Boosting for Regression",
+    "topicId": "i1a0q7qp1h",
+    "totalTime": 139.278,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1wIBrSzZhbf1DSkqlzXHtBXBt-Oc1YmhC/view?usp=sharing\">https://drive.google.com/file/d/1wIBrSzZhbf1DSkqlzXHtBXBt-Oc1YmhC/view?usp=sharing</a></p>\n\n<p>Blog :&nbsp;<a href=\"https://explained.ai/gradient-boosting/L2-loss.html\">https://explained.ai/gradient-boosting/L2-loss.html</a></p>\n\n<p>Paper:&nbsp;<a href=\"https://jerryfriedman.su.domains/ftp/trebst.pdf\">https://jerryfriedman.su.domains/ftp/trebst.pdf</a></p>\n",
+    "id": "64ce8b70e4b01dc030c2b73e",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1wIBrSzZhbf1DSkqlzXHtBXBt-Oc1YmhC/view?usp=sharing": "drive.google.com",
+      "https://explained.ai/gradient-boosting/L2-loss.html": "explained.ai",
+      "https://jerryfriedman.su.domains/ftp/trebst.pdf": "jerryfriedman.su.domains"
+    },
+    "title": "Session 2 on Gradient Boosting | Perspectives",
+    "topicId": "i1a0q7qp1h",
+    "totalTime": 134.28334,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "65322467e4b041f8a0fb458c",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Gradient Boosting Regression Part 2 | Regression Maths Formulation",
+    "topicId": "i1a0q7qp1h",
+    "totalTime": "0",
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/15G44KBuSgHs7hdSIuhwh-LR7Qur4xRyD?usp=sharing\">https://colab.research.google.com/drive/15G44KBuSgHs7hdSIuhwh-LR7Qur4xRyD?usp=sharing</a></p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1i6AsjCJtfilbhNxkG39kmQsJNRtuMwKq/view?usp=sharing\">https://drive.google.com/file/d/1i6AsjCJtfilbhNxkG39kmQsJNRtuMwKq/view?usp=sharing</a></p>\n",
+    "id": "64d0c3ade4b033493b14b5cc",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/15G44KBuSgHs7hdSIuhwh-LR7Qur4xRyD?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1i6AsjCJtfilbhNxkG39kmQsJNRtuMwKq/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Gradient Boosting for Classification Part 1",
+    "topicId": "i1a0q7qp1h",
+    "totalTime": 47.79889,
+    "type": "video"
+  },
+  {
+    "description": "<p>Blog Link - <a href=\"https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-2-classification-d3ed8f56541e\">https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-2-classification-d3ed8f56541e</a></p>\n\n<p>Codes - <a href=\"https://colab.research.google.com/drive/13p46IFhg3h6BIdjxUcfXPco13jIOCV6I?usp=sharing\">https://colab.research.google.com/drive/13p46IFhg3h6BIdjxUcfXPco13jIOCV6I?usp=sharing</a></p>\n",
+    "id": "64d1f895e4b0ace73b99186f",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/13p46IFhg3h6BIdjxUcfXPco13jIOCV6I?usp=sharing": "colab.research.google.com",
+      "https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-2-classification-d3ed8f56541e": "towardsdatascience.com"
+    },
+    "title": "Gradient Boosting for Classification | Geometric Intuition",
+    "topicId": "i1a0q7qp1h",
+    "totalTime": 14.858334,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1i6AsjCJtfilbhNxkG39kmQsJNRtuMwKq/view?usp=sharing\">https://drive.google.com/file/d/1i6AsjCJtfilbhNxkG39kmQsJNRtuMwKq/view?usp=sharing</a></p>\n",
+    "id": "64d4b836e4b0ac7f2f02591a",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1i6AsjCJtfilbhNxkG39kmQsJNRtuMwKq/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Gradient Boosting Classification | Maths Formulation",
+    "topicId": "i1a0q7qp1h",
+    "totalTime": 54.154446,
+    "type": "video"
+  },
+  {
+    "description": "<p>Datasets</p>\n\n<p><a href=\"https://docs.google.com/spreadsheets/d/1mFNBKFgwFnCXvRsLps5FbsPt_WNnFYyOvBGwSFHZHRU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1mFNBKFgwFnCXvRsLps5FbsPt_WNnFYyOvBGwSFHZHRU/edit?usp=sharing</a></p>\n\n<p><a href=\"https://docs.google.com/spreadsheets/d/19Uw-4uktVEQKFzVHTRkd0DMJ4v3lQJsiCH63PlHwQdw/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/19Uw-4uktVEQKFzVHTRkd0DMJ4v3lQJsiCH63PlHwQdw/edit?usp=sharing</a></p>\n\n<p><a href=\"https://docs.google.com/spreadsheets/d/1z55UOBr3nfFYf5JXkCAcTGameKrOm2a0irRfjKrpdSs/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1z55UOBr3nfFYf5JXkCAcTGameKrOm2a0irRfjKrpdSs/edit?usp=sharing</a></p>\n\n<p><a href=\"https://docs.google.com/spreadsheets/d/1FzCcUbzBKG78snWFg3tAAD4E1sIjCClD9cfsA2DWAjg/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1FzCcUbzBKG78snWFg3tAAD4E1sIjCClD9cfsA2DWAjg/edit?usp=sharing</a></p>\n\n<p>Web Scraping Codes</p>\n\n<p>Flats/Appartments : -&nbsp;<a href=\"https://colab.research.google.com/drive/1bKT92iRVecazQcc3eJmpZH7HZyCLk-oO?usp=sharing\">https://colab.research.google.com/drive/1bKT92iRVecazQcc3eJmpZH7HZyCLk-oO?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1IclV7RVZSVNe3fo5WapspW6uo9uWLTU5?usp=sharing\">https://colab.research.google.com/drive/1IclV7RVZSVNe3fo5WapspW6uo9uWLTU5?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1cmJ9xbSvErNXnfVP0xVBpcvf2hRz3fmp?usp=sharing\">https://colab.research.google.com/drive/1cmJ9xbSvErNXnfVP0xVBpcvf2hRz3fmp?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n\n<p>Notebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/179HLl-HQVoAFUKcGUtUujW72T1QJpcCJ/view?usp=sharing\">https://drive.google.com/file/d/179HLl-HQVoAFUKcGUtUujW72T1QJpcCJ/view?usp=sharing</a></p>\n",
+    "id": "64d7b41fe4b056d26db3a975",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1IclV7RVZSVNe3fo5WapspW6uo9uWLTU5?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1bKT92iRVecazQcc3eJmpZH7HZyCLk-oO?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1cmJ9xbSvErNXnfVP0xVBpcvf2hRz3fmp?usp=sharing": "colab.research.google.com",
+      "https://docs.google.com/spreadsheets/d/19Uw-4uktVEQKFzVHTRkd0DMJ4v3lQJsiCH63PlHwQdw/edit?usp=sharing": "docs.google.com",
+      "https://docs.google.com/spreadsheets/d/1FzCcUbzBKG78snWFg3tAAD4E1sIjCClD9cfsA2DWAjg/edit?usp=sharing": "docs.google.com",
+      "https://docs.google.com/spreadsheets/d/1mFNBKFgwFnCXvRsLps5FbsPt_WNnFYyOvBGwSFHZHRU/edit?usp=sharing": "docs.google.com",
+      "https://docs.google.com/spreadsheets/d/1z55UOBr3nfFYf5JXkCAcTGameKrOm2a0irRfjKrpdSs/edit?usp=sharing": "docs.google.com",
+      "https://drive.google.com/file/d/179HLl-HQVoAFUKcGUtUujW72T1QJpcCJ/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 1 on Capstone Project | Data Gathering",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 94.012665,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/dsmp-capstone-project\">https://github.com/campusx-official/dsmp-capstone-project</a></p>\n\n<p>Onenote PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1AsiyoyiMttez-Y35bJkD7sXiPVtcm5ub/view?usp=sharing\">https://drive.google.com/file/d/1AsiyoyiMttez-Y35bJkD7sXiPVtcm5ub/view?usp=sharing</a></p>\n",
+    "id": "64db81dfe4b03b493cb44eb4",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1AsiyoyiMttez-Y35bJkD7sXiPVtcm5ub/view?usp=sharing": "drive.google.com",
+      "https://github.com/campusx-official/dsmp-capstone-project": "github.com"
+    },
+    "title": "Session 2 on Capstone Project | Data Cleaning",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 48.260555,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/dsmp-capstone-project\">https://github.com/campusx-official/dsmp-capstone-project</a><br />\nOnenote PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1_HsADKK-wsHBOPPIhNoxxTB6n_TioKRM/view?usp=sharing\">https://drive.google.com/file/d/1_HsADKK-wsHBOPPIhNoxxTB6n_TioKRM/view?usp=sharing</a></p>\n",
+    "id": "64de0b49e4b001d51485dfb0",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1_HsADKK-wsHBOPPIhNoxxTB6n_TioKRM/view?usp=sharing": "drive.google.com",
+      "https://github.com/campusx-official/dsmp-capstone-project": "github.com"
+    },
+    "title": "Session 3 on Capstone Project | Feature Engineering",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 51.718933,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code :&nbsp;<a href=\"https://github.com/campusx-official/dsmp-capstone-project\">https://github.com/campusx-official/dsmp-capstone-project</a></p>\n\n<p>NOtebook PDF :&nbsp;<a href=\"https://drive.google.com/file/d/1M_nBre0L50HtiqQxW791syyJVvSOaJWG/view?usp=sharing\">https://drive.google.com/file/d/1M_nBre0L50HtiqQxW791syyJVvSOaJWG/view?usp=sharing</a></p>\n",
+    "id": "64e0efd0e4b0d10b72583629",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1M_nBre0L50HtiqQxW791syyJVvSOaJWG/view?usp=sharing": "drive.google.com",
+      "https://github.com/campusx-official/dsmp-capstone-project": "github.com"
+    },
+    "title": "Session 4 on Capstone Project | EDA",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 115.896,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/dsmp-capstone-project\">https://github.com/campusx-official/dsmp-capstone-project</a></p>\n\n<p>Notebook PDF Session 4 Onwards:&nbsp;<a href=\"https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing\">https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing</a></p>\n",
+    "id": "64e4d231e4b0fb9068ca389f",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing": "drive.google.com",
+      "https://github.com/campusx-official/dsmp-capstone-project": "github.com"
+    },
+    "title": "Session 5 on Capstone Project | Outlier Detection and Removal",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 33.87522,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/dsmp-capstone-project\">https://github.com/campusx-official/dsmp-capstone-project</a></p>\n\n<p>Notebook PDF Session 4 Onwards:&nbsp;<a href=\"https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing\">https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing</a></p>\n",
+    "id": "64e74f9de4b0533c880f8167",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing": "drive.google.com",
+      "https://github.com/campusx-official/dsmp-capstone-project": "github.com"
+    },
+    "title": "Session 6 on Capstone Project | Missing Value Imputation",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 36.296665,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/dsmp-capstone-project\">https://github.com/campusx-official/dsmp-capstone-project</a></p>\n\n<p>Notebook PDF Session 4 Onwards:&nbsp;<a href=\"https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing\">https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing</a></p>\n",
+    "id": "64ea2b09e4b0993508550fa9",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing": "drive.google.com",
+      "https://github.com/campusx-official/dsmp-capstone-project": "github.com"
+    },
+    "title": "Session 7 on Capstone Project | Feature Selection",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 89.99333,
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://github.com/campusx-official/dsmp-capstone-project\">https://github.com/campusx-official/dsmp-capstone-project</a></p>\n\n<p>Website Code -&nbsp;<a href=\"https://github.com/campusx-official/real-estate-app\">https://github.com/campusx-official/real-estate-app</a></p>\n\n<p>Notebook PDF Session 4 Onwards:&nbsp;<a href=\"https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing\">https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing</a></p>\n",
+    "id": "6501eb0de4b046a66c7cbf98",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing": "drive.google.com",
+      "https://github.com/campusx-official/dsmp-capstone-project": "github.com",
+      "https://github.com/campusx-official/real-estate-app": "github.com"
+    },
+    "title": "Session 8 on Capstone Project | Model Selection & Productionalization",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 116.113335,
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://github.com/campusx-official/real-estate-app\">https://github.com/campusx-official/real-estate-app</a></p>\n\n<p><a href=\"https://github.com/campusx-official/dsmp-capstone-project\">https://github.com/campusx-official/dsmp-capstone-project</a></p>\n\n<p>Notebook PDF Session 4 Onwards:&nbsp;<a href=\"https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing\">https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing</a></p>\n",
+    "id": "65048c66e4b0f934838c8ef9",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing": "drive.google.com",
+      "https://github.com/campusx-official/dsmp-capstone-project": "github.com",
+      "https://github.com/campusx-official/real-estate-app": "github.com"
+    },
+    "title": "Session 9 on Capstone Project | Building the Analytics Module",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 98.48534,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/dsmp-capstone-project\">https://github.com/campusx-official/dsmp-capstone-project</a></p>\n\n<p>Apartment Data :&nbsp;<a href=\"https://colab.research.google.com/drive/1Ms-86hbsFojEG_0lXdeI5wiFzm5T0xUM?usp=sharing\">https://colab.research.google.com/drive/1Ms-86hbsFojEG_0lXdeI5wiFzm5T0xUM?usp=sharing</a></p>\n\n<p>Notebook PDF Session 4 Onwards:&nbsp;<a href=\"https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing\">https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing</a></p>\n",
+    "id": "6509d0cde4b03569c0e39c15",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1Ms-86hbsFojEG_0lXdeI5wiFzm5T0xUM?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing": "drive.google.com",
+      "https://github.com/campusx-official/dsmp-capstone-project": "github.com"
+    },
+    "title": "Session 10 on Capstone Project | Building the Recommender System",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 93.05933,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/real-estate-app/blob/master/pages/3_Recommend%20Appartments.py\">https://github.com/campusx-official/real-estate-app/blob/master/pages/3_Recommend%20Appartments.py</a></p>\n\n<p>Notebook PDF Session 4 Onwards:&nbsp;<a href=\"https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing\">https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing</a></p>\n",
+    "id": "650c6943e4b01edf87630bb2",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1PS-M1pWgfU_wMKDJNQq1iNNSBb_iRsuG/view?usp=sharing": "drive.google.com",
+      "https://github.com/campusx-official/real-estate-app/blob/master/pages/3_Recommend%20Appartments.py": "github.com"
+    },
+    "title": "Session 11 on Capstone Project | Building the Recommender System Part 2",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 73.62933,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/dsmp-capstone-project/blob/master/insights-module.ipynb\">https://github.com/campusx-official/dsmp-capstone-project/blob/master/insights-module.ipynb</a></p>\n",
+    "id": "651305aee4b0a61f98638c88",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/dsmp-capstone-project/blob/master/insights-module.ipynb": "github.com"
+    },
+    "title": "Session 12 on Capstone Project | Building the Insights Module",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 76.56333,
+    "type": "video"
+  },
+  {
+    "description": "<p>Blog link -&nbsp;<a href=\"https://learnwith.campusx.in/blog/deploying-a-streamlit-app-on-aws-ec2\">https://learnwith.campusx.in/blog/deploying-a-streamlit-app-on-aws-ec2</a></p>\n",
+    "id": "6515ab89e4b084d88d5546bb",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://learnwith.campusx.in/blog/deploying-a-streamlit-app-on-aws-ec2": "learnwith.campusx.in"
+    },
+    "title": "Session 13 on Capstone Project | Deploying the application on AWS",
+    "topicId": "wiytw6x6g6",
+    "totalTime": 86.183334,
+    "type": "video"
+  },
+  {
+    "description": "<p>Paper -&nbsp;<a href=\"https://youtu.be/C6aDw4y8qJ0\">https://youtu.be/C6aDw4y8qJ0</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1ytqdl3DZBPMcyOKLjSuy_NEYQgJMr9zE/view?usp=sharing\">https://drive.google.com/file/d/1ytqdl3DZBPMcyOKLjSuy_NEYQgJMr9zE/view?usp=sharing</a></p>\n",
+    "id": "652a710ae4b08759338b19ea",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1ytqdl3DZBPMcyOKLjSuy_NEYQgJMr9zE/view?usp=sharing": "drive.google.com",
+      "https://youtu.be/C6aDw4y8qJ0": "youtu.be"
+    },
+    "title": "Introduction to XGBoost | XGBoost Part 1",
+    "topicId": "ebnkr86ag5",
+    "totalTime": 0,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/17uGCjrDNfTLF7lYloXgIKDmkrlpBZyuI/view?usp=sharing\">https://drive.google.com/file/d/17uGCjrDNfTLF7lYloXgIKDmkrlpBZyuI/view?usp=sharing</a></p>\n",
+    "id": "6537c199e4b0c8044f21c7ad",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/17uGCjrDNfTLF7lYloXgIKDmkrlpBZyuI/view?usp=sharing": "drive.google.com"
+    },
+    "title": "XGBoost for Regression | XGBoost Part 2",
+    "topicId": "ebnkr86ag5",
+    "totalTime": 47,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/18It-0bZiSdjTDONkfmBUXqdbRHn3ZUss/view?usp=sharing\">https://drive.google.com/file/d/18It-0bZiSdjTDONkfmBUXqdbRHn3ZUss/view?usp=sharing</a></p>\n",
+    "id": "65538c36e4b0bf9d254d486f",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/18It-0bZiSdjTDONkfmBUXqdbRHn3ZUss/view?usp=sharing": "drive.google.com"
+    },
+    "title": "XGBoost For Classification | XGBoost Part 3",
+    "topicId": "ebnkr86ag5",
+    "totalTime": 39,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/11Qx05XC6vUNvG5LvalWKSlNwY2knuNcr/view?usp=sharing\">https://drive.google.com/file/d/11Qx05XC6vUNvG5LvalWKSlNwY2knuNcr/view?usp=sharing</a></p>\n",
+    "id": "656ac873e4b071d49268265f",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/11Qx05XC6vUNvG5LvalWKSlNwY2knuNcr/view?usp=sharing": "drive.google.com"
+    },
+    "title": "The Complete Maths of XGBoost | XGBoost Part 3",
+    "topicId": "ebnkr86ag5",
+    "totalTime": 117,
+    "type": "video"
+  },
+  {
+    "description": "<p>Webpage -&nbsp;<a href=\"https://drive.google.com/file/d/1Qh09qB1hAWM2ViFnuQRPG1TSLqdum4Yp/view?usp=sharing\">https://drive.google.com/file/d/1Qh09qB1hAWM2ViFnuQRPG1TSLqdum4Yp/view?usp=sharing</a></p>\n\n<p>Notebook -&nbsp;<a href=\"https://drive.google.com/file/d/1PWFkoj_o4akglbGVlxnSQYar6xOZiAmv/view?usp=sharing\">https://drive.google.com/file/d/1PWFkoj_o4akglbGVlxnSQYar6xOZiAmv/view?usp=sharing</a></p>\n",
+    "id": "6558f4a4e4b05735a0f020f0",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1PWFkoj_o4akglbGVlxnSQYar6xOZiAmv/view?usp=sharing": "drive.google.com",
+      "https://drive.google.com/file/d/1Qh09qB1hAWM2ViFnuQRPG1TSLqdum4Yp/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 1 on MLOPs - Introduction to MLOps",
+    "topicId": "tst9kpv89q",
+    "totalTime": 130.15334,
+    "type": "video"
+  },
+  {
+    "description": "<p>ML Pipeline Code -&nbsp;<a href=\"https://drive.google.com/file/d/1CK9TajkCSjZRGmHh32LkOvFv_mSrpR9q/view?usp=sharing\">https://drive.google.com/file/d/1CK9TajkCSjZRGmHh32LkOvFv_mSrpR9q/view?usp=sharing</a></p>\n\n<p>Week 1 notebook -&nbsp;<a href=\"https://drive.google.com/file/d/1PWFkoj_o4akglbGVlxnSQYar6xOZiAmv/view?usp=sharing\">https://drive.google.com/file/d/1PWFkoj_o4akglbGVlxnSQYar6xOZiAmv/view?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n",
+    "id": "655ba094e4b0ccbd042b18b8",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1CK9TajkCSjZRGmHh32LkOvFv_mSrpR9q/view?usp=sharing": "drive.google.com",
+      "https://drive.google.com/file/d/1PWFkoj_o4akglbGVlxnSQYar6xOZiAmv/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 2 on MLOps - Version Control",
+    "topicId": "tst9kpv89q",
+    "totalTime": 138.018,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "655f9fb7e4b009fc3c203d20",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "MLOps Doubt Clearance Session 1",
+    "topicId": "tst9kpv89q",
+    "totalTime": 98.78933,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook -&nbsp;<a href=\"https://drive.google.com/file/d/1ShYun3a-n1RNcvO_AD659O-0rsD8WSM-/view?usp=sharing\">https://drive.google.com/file/d/1ShYun3a-n1RNcvO_AD659O-0rsD8WSM-/view?usp=sharing</a></p>\n",
+    "id": "65625a92e4b0d3988600b805",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1ShYun3a-n1RNcvO_AD659O-0rsD8WSM-/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 3 on MLOps - Reproducibility",
+    "topicId": "tst9kpv89q",
+    "totalTime": 135.26134,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/file/d/1RUHrttSmQu0a1RGvFXw3OKyYmx0YVwH-/view?usp=sharing\">https://drive.google.com/file/d/1RUHrttSmQu0a1RGvFXw3OKyYmx0YVwH-/view?usp=sharing</a></p>\n",
+    "id": "6563920fe4b070dd54b264da",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1RUHrttSmQu0a1RGvFXw3OKyYmx0YVwH-/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 4 on MLOps - Data Version Control (DVC)",
+    "topicId": "tst9kpv89q",
+    "totalTime": 133.09666,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "6568ca28e4b0ae909271837f",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "MLOps Doubt Clearance Session 2",
+    "topicId": "tst9kpv89q",
+    "totalTime": 78.82467,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook -&nbsp;<a href=\"https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing\">https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing</a></p>\n",
+    "id": "656b81f3e4b0c8074bb637c7",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 5 on MLOps - ML Pipelines and Experimentation Tracking",
+    "topicId": "tst9kpv89q",
+    "totalTime": 139.89333,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook -&nbsp;<a href=\"https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing\">https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing</a></p>\n",
+    "id": "656cd00ce4b07eebf00c0d44",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 6 on MLOps",
+    "topicId": "tst9kpv89q",
+    "totalTime": 144.69867,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "6571ef0de4b005915a8d39bf",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "MLOps Doubt Clearance Session 3",
+    "topicId": "tst9kpv89q",
+    "totalTime": 66.59133,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing\">https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing</a></p>\n",
+    "id": "65760fe9e4b07116cfc5419e",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 7 on MLOps | Continuous Integration",
+    "topicId": "tst9kpv89q",
+    "totalTime": 140.648,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing\">https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing</a></p>\n",
+    "id": "657a0a5ce4b01ac67a841595",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1niffrZBNnPbYIMFkCcFVjsrZFeuP7kQC/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 8 on MLOps - Dockers",
+    "topicId": "tst9kpv89q",
+    "totalTime": 135.53133,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/file/d/1qYUEKjCAy19llr5wlAnK76Bfn2FhjeW2/view?usp=sharing\" target=\"_blank\">https://drive.google.com/file/d/1qYUEKjCAy19llr5wlAnK76Bfn2FhjeW2/view?usp=sharing</a></p>\n",
+    "id": "657de06de4b0a7900f1d4e96",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1qYUEKjCAy19llr5wlAnK76Bfn2FhjeW2/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 9 on MLOPs - Continuous Deployment",
+    "topicId": "tst9kpv89q",
+    "totalTime": 112.01933,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "65829188e4b0cc8e8ae4c921",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "MLOps Doubt Clearance Session 4",
+    "topicId": "tst9kpv89q",
+    "totalTime": 65.322,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/file/d/1Sh1zsLvbZex0WnAYqVpaVAtTv9MRHO34/view?usp=drive_link\">https://drive.google.com/file/d/1Sh1zsLvbZex0WnAYqVpaVAtTv9MRHO34/view?usp=drive_link</a></p>\n",
+    "id": "6583dbc3e4b0ad3d73372ea9",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1Sh1zsLvbZex0WnAYqVpaVAtTv9MRHO34/view?usp=drive_link": "drive.google.com"
+    },
+    "title": "Session 10 on MLOps - Introduction to AWS",
+    "topicId": "tst9kpv89q",
+    "totalTime": 131.87534,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "65893d53e4b040b6ae0a2340",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Session 11 on MLOps - Deployment on AWS",
+    "topicId": "tst9kpv89q",
+    "totalTime": 138.322,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "657d823de4b05a4d3390d974",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "MLOps End-to-End Project Part 1",
+    "topicId": "tst9kpv89q",
+    "totalTime": 45.234,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "658b1bede4b065b0351169db",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "MLOps End-to-End Project Part 2",
+    "topicId": "tst9kpv89q",
+    "totalTime": 56.593334,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "658d73ade4b03f37c7742c3b",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "MLOps End-to-End Project Part 3",
+    "topicId": "tst9kpv89q",
+    "totalTime": 81.29467,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "659445a6e4b020ab5d45917b",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "MLOps Doubt Clearance Session 5",
+    "topicId": "tst9kpv89q",
+    "totalTime": 75.21733,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing\">https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing</a></p>\n",
+    "id": "6597041ee4b0743722a88269",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 12 on MLOps - Distributed Infrastructure",
+    "topicId": "tst9kpv89q",
+    "totalTime": 131.87,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notebook -&nbsp;<a href=\"https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing\">https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing</a></p>\n",
+    "id": "6599a2dbe4b02b5ef22ad71a",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1Iwf4RXf0Ap48V3JTZqU1c4TWjuFSlerC/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 13 on MLOps - Kubernetes Internals",
+    "topicId": "tst9kpv89q",
+    "totalTime": 113.03467,
+    "type": "video"
   },
   {
     "description": "",
@@ -2058,6 +3861,100 @@
     "title": "K-Means Clustering Algorithm From Scratch In Python",
     "topicId": "olh5gfqpjt",
     "totalTime": 34,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://www.kaggle.com/code/sampsuman/minibatchclustering-nyc-yellowtaxi\">https://www.kaggle.com/code/sampsuman/minibatchclustering-nyc-yellowtaxi</a></p>\n",
+    "id": "65a0e908e4b058c11d169a35",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://www.kaggle.com/code/sampsuman/minibatchclustering-nyc-yellowtaxi": "www.kaggle.com"
+    },
+    "title": "MiniBatch KMeans Task Solution",
+    "topicId": "olh5gfqpjt",
+    "totalTime": 31.949144,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1yZ0bg0cK6X84u6rawgRgoPzlgAmhVy2E?usp=sharing\">https://colab.research.google.com/drive/1yZ0bg0cK6X84u6rawgRgoPzlgAmhVy2E?usp=sharing</a></p>\n\n<p>Visualization -&nbsp;<a href=\"https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/\">https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1plNghtufMn7uj1cQTQVRzy4Ss8xiXOE9/view?usp=sharing\">https://drive.google.com/file/d/1plNghtufMn7uj1cQTQVRzy4Ss8xiXOE9/view?usp=sharing</a></p>\n",
+    "id": "657d3107e4b0720cbf880d3e",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1yZ0bg0cK6X84u6rawgRgoPzlgAmhVy2E?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1plNghtufMn7uj1cQTQVRzy4Ss8xiXOE9/view?usp=sharing": "drive.google.com",
+      "https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/": "www.naftaliharris.com"
+    },
+    "title": "Session on DBSCAN",
+    "topicId": "yq6ljm4zv",
+    "totalTime": 121.742226,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/github/campusx-official/agglomerative-hierarchical-clustering-demo/blob/main/agglomerative-clustering.ipynb\">https://colab.research.google.com/github/campusx-official/agglomerative-hierarchical-clustering-demo/blob/main/agglomerative-clustering.ipynb</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data/code?datasetId=721951&amp;sortBy=voteCount\">https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data/code?datasetId=721951&amp;sortBy=voteCount</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1kTc7WPCXgVZywaHfyFwKQA9NTvZA9Wy9/view?usp=sharing\">https://drive.google.com/file/d/1kTc7WPCXgVZywaHfyFwKQA9NTvZA9Wy9/view?usp=sharing</a></p>\n",
+    "id": "6586735de4b0e6189f11d7ce",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/github/campusx-official/agglomerative-hierarchical-clustering-demo/blob/main/agglomerative-clustering.ipynb": "colab.research.google.com",
+      "https://drive.google.com/file/d/1kTc7WPCXgVZywaHfyFwKQA9NTvZA9Wy9/view?usp=sharing": "drive.google.com",
+      "https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data/code?datasetId=721951&amp;sortBy=voteCount": "www.kaggle.com"
+    },
+    "title": "Session on Hierarchical Clustering",
+    "topicId": "yq6ljm4zv",
+    "totalTime": 130.11934,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1pT8C8wSzCC3NmfIQaXBiAJrcsxxTYnF1?usp=sharing\">https://colab.research.google.com/drive/1pT8C8wSzCC3NmfIQaXBiAJrcsxxTYnF1?usp=sharing</a></p>\n",
+    "id": "6598425fe4b019bc749a6424",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1pT8C8wSzCC3NmfIQaXBiAJrcsxxTYnF1?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session on Gaussian Mixture Models",
+    "topicId": "yq6ljm4zv",
+    "totalTime": 141.88066,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1BFwJJfbSPQaf5R8WBWv7QtrVtBQd6SeN/view?usp=sharing\">https://drive.google.com/file/d/1BFwJJfbSPQaf5R8WBWv7QtrVtBQd6SeN/view?usp=sharing</a></p>\n\n<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1pT8C8wSzCC3NmfIQaXBiAJrcsxxTYnF1?usp=sharing\">https://colab.research.google.com/drive/1pT8C8wSzCC3NmfIQaXBiAJrcsxxTYnF1?usp=sharing</a></p>\n",
+    "id": "65aab55ae4b0d55924e33d11",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1pT8C8wSzCC3NmfIQaXBiAJrcsxxTYnF1?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1BFwJJfbSPQaf5R8WBWv7QtrVtBQd6SeN/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 2 on Gaussian Mixture Models",
+    "topicId": "yq6ljm4zv",
+    "totalTime": 136.97,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1N2kGH2U73JkMbD_OPp4H0QgHE066GlwG?usp=sharing\">https://colab.research.google.com/drive/1N2kGH2U73JkMbD_OPp4H0QgHE066GlwG?usp=sharing</a></p>\n\n<p>Blog 1 -&nbsp;<a href=\"https://distill.pub/2016/misread-tsne/\">https://distill.pub/2016/misread-tsne/</a></p>\n\n<p>Blog 2 -&nbsp;<a href=\"https://colah.github.io/posts/2014-10-Visualizing-MNIST/\">https://colah.github.io/posts/2014-10-Visualizing-MNIST/</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1FqmADKeMxbrbH2oPGW-m9wZ5fcfkoPWF/view?usp=sharing\">https://drive.google.com/file/d/1FqmADKeMxbrbH2oPGW-m9wZ5fcfkoPWF/view?usp=sharing</a></p>\n\n<p>Research Paper -&nbsp;<span style=\"font-size:16.0pt\"><span style=\"font-family:Calibri\"><span style=\"color:#1e4e79\"><a href=\"https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf\">https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf</a></span></span></span></p>\n",
+    "id": "65b92f73e4b0cb7fcc9d111d",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1N2kGH2U73JkMbD_OPp4H0QgHE066GlwG?usp=sharing": "colab.research.google.com",
+      "https://colah.github.io/posts/2014-10-Visualizing-MNIST/": "colah.github.io",
+      "https://distill.pub/2016/misread-tsne/": "distill.pub",
+      "https://drive.google.com/file/d/1FqmADKeMxbrbH2oPGW-m9wZ5fcfkoPWF/view?usp=sharing": "drive.google.com",
+      "https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf": "www.jmlr.org"
+    },
+    "title": "Session on T-SNE",
+    "topicId": "yq6ljm4zv",
+    "totalTime": 131.15134,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/16txXFIzU1MUOmnqVkCDgjUzue4VSTqWZ/view?usp=sharing\">https://drive.google.com/file/d/16txXFIzU1MUOmnqVkCDgjUzue4VSTqWZ/view?usp=sharing</a></p>\n\n<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1N2kGH2U73JkMbD_OPp4H0QgHE066GlwG?usp=sharing\">https://colab.research.google.com/drive/1N2kGH2U73JkMbD_OPp4H0QgHE066GlwG?usp=sharing</a></p>\n",
+    "id": "65bd1f08e4b0090c60dbe9b5",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1N2kGH2U73JkMbD_OPp4H0QgHE066GlwG?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/16txXFIzU1MUOmnqVkCDgjUzue4VSTqWZ/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 2 on T-SNE",
+    "topicId": "yq6ljm4zv",
+    "totalTime": 115.11667,
     "type": "video"
   }
 ]
