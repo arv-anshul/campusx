@@ -11,18 +11,14 @@ hide:
 }
 </style>
 
-<figure style="min-width: 40%" markdown>
-??? example "Reference"
-    | Icon                | Description                   |
-    | :-----------------: | :---------------------------- |
-    | :bookmark:{ .lg } | **Main Topic** of the Course. |
-    |   :memo:{ .lg }   | Sub Topic is **Assignment**.  |
-    |  :camera:{ .lg }  | Sub Topic is **Video**.       |
-</figure>
+<p align="center" style="margin: 0;" markdown>
+[:material-sync:{ .lg .middle } Reverse Elements](#){ .md-button style="border-radius: 2rem;" onclick="reverseContainers()" }
+</p>
 
+<article id="resourceContainer" markdown>
 {% set printed_topic_ids = [] %}
 
-{% for topic in courseTopics %}
+{% for topic in courseTopics|reverse %}
     {% for sub_topic in cleanedResources %}
         {% if topic.id == sub_topic.topicId %}
 
@@ -30,6 +26,7 @@ hide:
     {% if sub_topic.description %}
         {% if topic.id not in printed_topic_ids %}
             {% set _ = printed_topic_ids.append(topic.id) %}
+<section class="hi" markdown>
 
 ## :bookmark:{ title="Main Topic" } **{{ topic.title }}**
         {% endif %}
@@ -66,4 +63,26 @@ hide:
 
         {% endif %}
     {% endfor %}
+</section>
 {% endfor %}
+</article>
+
+<script>
+    function reverseContainers() {
+        var container1 = document.getElementById('resourceContainer');
+        var container2 = document.querySelector(
+            'div.md-sidebar.md-sidebar--secondary > div > div > nav > ul'
+        );
+        reverseChildren(container1);
+        reverseChildren(container2);
+    }
+
+    function reverseChildren(container) {
+        var children = Array.from(container.children);
+        children.reverse();
+        container.innerHTML = '';
+        children.forEach(function(child) {
+            container.appendChild(child);
+        });
+    }
+</script>
