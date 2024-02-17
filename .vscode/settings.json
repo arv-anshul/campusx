@@ -13,6 +13,10 @@
       "mkdocs.yml"
     ]
   },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.formatOnSave": false
+  },
   "[markdown]": {
     "editor.defaultFormatter": null,
     "editor.formatOnSave": false

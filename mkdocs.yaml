@@ -8,6 +8,7 @@ site_url: https://arv-anshul.github.io/campusx-dsmp
 theme:
   language: en
   name: material
+  custom_dir: material/overrides
   font:
     text: Shantell Sans
   logo: data/assets/favicon.jpg
