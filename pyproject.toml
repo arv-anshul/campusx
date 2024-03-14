@@ -1,6 +1,6 @@
 [project]
 name = "campusx-dsmp"
-version = "0.1.0"
+version = "0.6.1"
 license = "MIT"
 authors = [{ name = "Anshul Raj Verma", email = "arv.anshul.1864@gmail.com" }]
 requires-python = ">=3.11"
