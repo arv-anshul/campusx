@@ -45,7 +45,7 @@
 ### 🙌 Praise for this Project
 
 <p align="center">
-  
+
 https://github.com/arv-anshul/campusx-dsmp/assets/111767754/3414dc8e-d474-4751-b504-317d7d719d3e
 
 </p>
