@@ -47,6 +47,18 @@ class BaseDownloader(ABC):
     @abstractmethod
     def _infer_conditions(self, url: str) -> tuple[bool, ...]: ...
 
+    @property
+    @abstractmethod
+    def filename(self) -> str:
+        """
+        Decide the filename for the downloaded bytes.
+
+        🤯 TODO: Write a function to infer files extension.
+
+        Returns filename and file's extension.
+        """
+        ...
+
 
 class ColabNotebookDownloader(BaseDownloader):
     @property
@@ -56,6 +68,10 @@ class ColabNotebookDownloader(BaseDownloader):
 
     def _infer_conditions(self, url: str) -> tuple[bool, ...]:
         return (_check_url_netloc(url, "colab.research.google.com"),)
+
+    @property
+    def filename(self) -> str:
+        return "notebook.ipynb"
 
 
 class GithubFileDownloader(BaseDownloader):
@@ -74,6 +90,16 @@ class GithubFileDownloader(BaseDownloader):
             url.endswith((".py", ".pdf", ".ipynb")),
         )
 
+    @property
+    def filename(self) -> str:
+        ext = self.url.rsplit(".", 1)[-1]
+        filename = {
+            "py": "python",
+            "pdf": "document",
+            "ipynb": "notebook",
+        }
+        return filename.get(ext, "github_file") + f".{ext}"
+
 
 class GoogleDriveFileDownloader(BaseDownloader):
     @property
@@ -88,6 +114,10 @@ class GoogleDriveFileDownloader(BaseDownloader):
             "/file/d/" in url,
         )
 
+    @property
+    def filename(self) -> str:
+        return "drive_file.txt"
+
 
 class GoogleDocsDownloader(GoogleDriveFileDownloader):
     def _infer_conditions(self, url: str) -> tuple[bool, ...]:
@@ -95,6 +125,16 @@ class GoogleDocsDownloader(GoogleDriveFileDownloader):
             _check_url_netloc(url, "docs.google.com"),
             "/edit" in url,
         )
+
+    @property
+    def filename(self) -> str:
+        filename = self.url.split(".com/")[-1].split("/")[0]
+        ext = {
+            "spreadsheets": ".xlsx",
+            "presentation": ".pptx",
+            "document": ".docx",
+        }
+        return f"drive_{filename}" + ext.get(filename, ".txt")
 
 
 ALL_DOWNLOADERS: list[type[BaseDownloader]] = [
@@ -112,6 +152,4 @@ def infer_downloader(url: str) -> BaseDownloader:
         except TypeError:
             continue
     else:
-        raise TypeError(
-            f"url not inferred for any defined `{type(BaseDownloader).__name__}`"
-        )
+        raise TypeError(f"{url = } not inferred for any defined `BaseDownloader`")
