@@ -2,6 +2,7 @@
 🗂️ Sort the stored Course's data so that it can be present neatly.
 It only works when you have the website's HTML.
 """
+
 import json
 import re
 from dataclasses import asdict

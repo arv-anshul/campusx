@@ -45,7 +45,7 @@
 ### 🙌 Praise for this Project
 
 <p align="center">
-  
+
 https://github.com/arv-anshul/campusx-dsmp/assets/111767754/3414dc8e-d474-4751-b504-317d7d719d3e
 
 </p>
@@ -62,6 +62,34 @@ https://github.com/arv-anshul/campusx-dsmp/assets/111767754/3414dc8e-d474-4751-b
 8. **Web Hosting:** Leveraged **Github Pages** as a reliable hosting solution to make the web page accessible to a wider audience.
 
 By following these workflows, the project ensures efficient data extraction, robust testing, proper documentation, and automated deployment, ultimately resulting in a well-maintained and accessible web page hosted on Github Pages.
+
+## Resources File Structure
+
+🥳 You can get all the course's resources like `.pdf`, `.ipynb`, `.docx`, `.pptx`, `.xlsx` and `.py` files in 🗂️ [`resources`](./resources/) directory.
+
+I have downloaded these using Python in a automated way.
+
+> \[!WARNING]
+>
+> If you get any problem while opening a file then try to change its file extension. My program is not good at inferring file extension 😞. Otherwise, [raise issue](https://github.com/arv-anshul/campusx-dsmp/issues).
+
+```bash
+./resources
+├── README.md
+├── DSMP
+│   ├── Parent Session1
+│   │   ├── Lecture1
+│   │   │   ├── Resource1
+│   │   │   └── Resource2
+│   │   └── Lecture2
+│   │       ├── Resource1
+│   │       └── Resource2
+│   └── Parent Session2
+│       └── Lecture1
+│           ├── Resource1
+│           └── Resource2
+└── Extra  # Some extra stuffs from course (added manually)
+```
 
 ## ⚙️ Project Setup
 
