@@ -29,7 +29,7 @@ hide:
 </p>
 
 <figure markdown>
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7162317353244905472?compact=1" height="399" width="710" frameborder="0"></iframe>
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7162317353244905472?compact=1" height="399" width="710" frameborder="0" allowfullscreen=""></iframe>
   <caption>🧑‍🏫 Nitish Sir, Praises this Project</caption>
 </figure>
 
