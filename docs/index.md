@@ -33,11 +33,6 @@ hide:
   <caption>🧑‍🏫 Nitish Sir, Praises this Project</caption>
 </figure>
 
-!!! warning
-    <div style="font-family: monospace; font-size: 0.7rem">
-    The listed resource is not suitable for the **Unpaid/Free User (who have not bought the course)** because it **only consists the paid lecture's notes and links** which are provided in the description **by The Mentor**.
-    </div>
-
 <p align="center" markdown>
 [:material-database:{ .lg .bounce } &nbsp;Downloaded Resources](https://github.com/arv-anshul/campusx-dsmp/tree/main/resources/DSMP){ .md-button .md-button--primary title="Resources downloaded as files on GitHub" }
 <br><br>
