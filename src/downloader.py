@@ -1,8 +1,9 @@
 from __future__ import annotations
 
+import re
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
-from typing import TYPE_CHECKING
+from typing import TYPE_CHECKING, ClassVar
 from urllib.parse import urlparse
 
 import httpx
@@ -21,11 +22,12 @@ def _check_url_netloc(url: str, *netloc: str) -> bool:
 @dataclass(frozen=True)
 class BaseDownloader(ABC):
     url: str
+    _DEFAULT_FILENAME: ClassVar[str] = "file.txt"
 
-    def _request(self, url: str, client: httpx.Client) -> bytes:
+    def request(self, url: str, client: httpx.Client) -> httpx.Response:
         res = client.get(url)
         if res.status_code == 200:
-            return res.content
+            return res
         raise httpx.HTTPStatusError(
             f"Response has not required status code 200 instead got {res.status_code}",
             request=res.request,
@@ -41,26 +43,25 @@ class BaseDownloader(ABC):
     @abstractmethod
     def download_url(self) -> str: ...
 
-    def download(self, client: httpx.Client) -> bytes:
-        return self._request(self.download_url, client)
+    def download(self, client: httpx.Client) -> tuple[str, bytes]:
+        print(type(self).__name__, self.url)
+        response = self.request(self.download_url, client)
+        return self.filename(response), response.content
 
     @abstractmethod
     def _infer_conditions(self, url: str) -> tuple[bool, ...]: ...
 
-    @property
-    @abstractmethod
-    def filename(self) -> str:
-        """
-        Decide the filename for the downloaded bytes.
-
-        🤯 TODO: Write a function to infer files extension.
-
-        Returns filename and file's extension.
-        """
-        ...
+    def filename(self, response: httpx.Response, /) -> str:
+        filename = response.headers.get("content-disposition")
+        if filename is None:
+            return self._DEFAULT_FILENAME
+        result = re.search(r"filename=\"(.*?)\"", filename)
+        return self._DEFAULT_FILENAME if result is None else result.group(1)
 
 
 class ColabNotebookDownloader(BaseDownloader):
+    _DEFAULT_FILENAME = "notebook.ipynb"
+
     @property
     def download_url(self) -> str:
         _, file_id = self.url.split("?", 1)[0].rsplit("/", 1)
@@ -68,10 +69,6 @@ class ColabNotebookDownloader(BaseDownloader):
 
     def _infer_conditions(self, url: str) -> tuple[bool, ...]:
         return (_check_url_netloc(url, "colab.research.google.com"),)
-
-    @property
-    def filename(self) -> str:
-        return "notebook.ipynb"
 
 
 class GithubFileDownloader(BaseDownloader):
@@ -90,18 +87,18 @@ class GithubFileDownloader(BaseDownloader):
             url.endswith((".py", ".pdf", ".ipynb")),
         )
 
-    @property
-    def filename(self) -> str:
-        ext = self.url.rsplit(".", 1)[-1]
-        filename = {
-            "py": "python",
-            "pdf": "document",
-            "ipynb": "notebook",
-        }
-        return filename.get(ext, "github_file") + f".{ext}"
+    def filename(self, response: httpx.Response, /) -> str:
+        filename = super().filename(response)
+        return (
+            filename
+            if filename != self._DEFAULT_FILENAME
+            else self.url.rsplit("/", 1)[-1]
+        )
 
 
 class GoogleDriveFileDownloader(BaseDownloader):
+    _DEFAULT_FILENAME = "drive_file.txt"
+
     @property
     def download_url(self) -> str:
         base_url, *_ = self.url.split("/d/", 1)
@@ -114,27 +111,15 @@ class GoogleDriveFileDownloader(BaseDownloader):
             "/file/d/" in url,
         )
 
-    @property
-    def filename(self) -> str:
-        return "drive_file.txt"
-
 
 class GoogleDocsDownloader(GoogleDriveFileDownloader):
+    _DEFAULT_FILENAME = "gdoc_file.txt"
+
     def _infer_conditions(self, url: str) -> tuple[bool, ...]:
         return (
             _check_url_netloc(url, "docs.google.com"),
             "/edit" in url,
         )
-
-    @property
-    def filename(self) -> str:
-        filename = self.url.split(".com/")[-1].split("/")[0]
-        ext = {
-            "spreadsheets": ".xlsx",
-            "presentation": ".pptx",
-            "document": ".docx",
-        }
-        return f"drive_{filename}" + ext.get(filename, ".txt")
 
 
 ALL_DOWNLOADERS: list[type[BaseDownloader]] = [

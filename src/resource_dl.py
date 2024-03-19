@@ -20,7 +20,7 @@ from .downloader import infer_downloader
 RESOURCES_PATH = Path("resources")
 DSMP_RESOURCES_PATH = RESOURCES_PATH / "DSMP"
 
-ResourceDict = dict[str, dict[str, dict[str, bytes]]]
+ResourceDict = dict[str, dict[str, list[tuple[str, bytes]]]]
 
 
 def _infer_path_from_title(title: str) -> Path:
@@ -32,21 +32,22 @@ def _infer_path_from_title(title: str) -> Path:
 
 def _dl_video_resource(
     resource: dict[str, Any], client: httpx.Client
-) -> dict[str, bytes]:
-    resources = {}
-    for i, url in enumerate(resource["links"]):
-        dl = infer_downloader(url)
-        filename, ext = dl.filename.split(".", 1)
-        filenum = f"_{i}." if i != 0 else "."
-        resources[filename + filenum + ext] = dl.download(client)
+) -> list[tuple[str, bytes]]:
+    resources = []
+    for url in resource["links"]:
+        try:
+            dl = infer_downloader(url)
+        except TypeError:
+            continue
+        resources.append(dl.download(client))
     return resources
 
 
 def _dl_assignment_resource(
     resource: dict[str, Any], client: httpx.Client
-) -> dict[str, bytes]:
+) -> tuple[str, bytes]:
     dl = infer_downloader(resource["assignmentLink"])
-    return {dl.filename: dl.download(client)}
+    return dl.download(client)
 
 
 def download_resources(
@@ -55,10 +56,11 @@ def download_resources(
     if resource["type"] == ResourceType.video and resource.get("links"):
         temp = _dl_video_resource(resource, client)
     elif resource["type"] == ResourceType.assignment and resource.get("assignmentLink"):
-        temp = _dl_assignment_resource(resource, client)
+        temp = [_dl_assignment_resource(resource, client)]
     else:
         return None
-    return {resource["topicId"]: {resource["title"]: temp}}
+    if temp:
+        return {resource["topicId"]: {resource["title"]: temp}}
 
 
 def topic_title_from_topic_id(topic_id: str) -> str:
@@ -70,6 +72,11 @@ def topic_title_from_topic_id(topic_id: str) -> str:
         raise ValueError(f"{topic_id = } not found")
 
 
+def _infer_existed_file_path(fp: Path, /) -> Path:
+    """Checks whether the file path exists if yes then append `"_1"` and returns."""
+    return fp.with_name(fp.name + "_1") if fp.exists() else fp
+
+
 def store_resources(dl_resources: ResourceDict) -> None:
     for topic_id, resource in dl_resources.items():
         topic_dir = DSMP_RESOURCES_PATH / _infer_path_from_title(
@@ -78,8 +85,9 @@ def store_resources(dl_resources: ResourceDict) -> None:
         for parent_title, contents in resource.items():
             parent_dir = topic_dir / _infer_path_from_title(parent_title)
             parent_dir.mkdir(exist_ok=True, parents=True)
-            for filename, content in contents.items():
-                (parent_dir / filename).write_bytes(content)
+            for filename, content in contents:
+                print("Storing at:", parent_dir / filename)
+                _infer_existed_file_path(parent_dir / filename).write_bytes(content)
 
 
 def filter_stored_resources(
