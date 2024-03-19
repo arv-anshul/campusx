@@ -72,7 +72,7 @@ By following these workflows, the project ensures efficient data extraction, rob
 > If you get any problem while opening a file then try to change its file extension. My program is not good at inferring file extension 😞. Otherwise, [raise issue](https://github.com/arv-anshul/campusx-dsmp/issues).
 
 <details>
-<summary><h3>Resources File Structure</h3></summary>
+<summary>Resources File Structure</summary>
 
 ```bash
 ./resources
