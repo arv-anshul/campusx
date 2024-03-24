@@ -28,10 +28,10 @@ hide:
             {% set _ = printed_topic_ids.append(topic.id) %}
 <section class="hi" markdown>
 
-## :bookmark:{ title="Main Topic" } **{{ topic.title }}**
+## [:bookmark:](https://learnwith.campusx.in/s/courses/653f50d1e4b0d2eae855480a/take#{{ topic.id }}){ .middle target="_blank" title="Go to Website" } **{{ topic.title }}**
         {% endif %}
 
-### :camera:{ title="Sub Topic: Video" } {{ sub_topic.title }}
+### [:camera:](https://learnwith.campusx.in/s/courses/653f50d1e4b0d2eae855480a/take#{{ sub_topic.id }}){ .middle target="_blank" title="Go to Website" } {{ sub_topic.title }}
 
 <details style="border-color: #448aff33;">
     <summary>Description</summary>
@@ -52,7 +52,7 @@ hide:
 <figure style="min-width: 35%" markdown>
 <div class="grid cards" markdown>
 
-- ### :memo:{ title="Sub Topic: Assignment" } {{ sub_topic.title }}
+- ### [:memo:](https://learnwith.campusx.in/s/courses/653f50d1e4b0d2eae855480a/take#{{ sub_topic.id }}){ .middle target="_blank" title="Go to Website" } {{ sub_topic.title }}
 
     [Assignment Link]({{ sub_topic.assignmentLink }}){ .md-button }
 
