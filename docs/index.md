@@ -34,7 +34,7 @@ hide:
 </figure>
 
 <p align="center" markdown>
-[:material-database:{ .lg .bounce } &nbsp;Downloaded Resources](https://github.com/arv-anshul/campusx-dsmp/tree/main/resources/DSMP){ .md-button .md-button--primary title="Resources downloaded as files on GitHub" }
+[:material-database:{ .lg .bounce } &nbsp;Downloaded Resources](https://github.com/arv-anshul/campusx-dsmp/tree/main/resources/DSMP){ .md-button .md-button--primary target="_blank" title="Resources downloaded as files on GitHub" }
 <br><br>
 [:material-book-open-page-variant:{ .lg .bounce } &nbsp;See Resources](./resources.md){ .md-button .md-button--primary title="Resources links listed on webpage" }
 </p>

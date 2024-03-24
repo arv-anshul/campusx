@@ -41,7 +41,7 @@ hide:
 </details>
 
             {% for link, netloc in sub_topic.links.items() %}
-- [{{ netloc }}]({{ link }}){ title="{{ link }}" }
+- [{{ netloc }}]({{ link }}){ target="_blank" title="{{ link }}" }
             {% endfor %}
 
     {% endif %}
@@ -54,7 +54,7 @@ hide:
 
 - ### [:memo:](https://learnwith.campusx.in/s/courses/653f50d1e4b0d2eae855480a/take#{{ sub_topic.id }}){ .middle target="_blank" title="Go to Website" } {{ sub_topic.title }}
 
-    [Assignment Link]({{ sub_topic.assignmentLink }}){ .md-button }
+    [Assignment Link]({{ sub_topic.assignmentLink }}){ target="_blank" .md-button }
 
 </div>
 </figure>
