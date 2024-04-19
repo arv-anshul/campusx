@@ -140,6 +140,8 @@ SESSION_ID=""
 rye run fetch
 ```
 
+5. Organise `data/` files using `rye run organise` command. This sorted all the data files as require.
+
 ### Issues
 
 If you have any issue or query related to this project you can raise [here](https://github.com/arv-anshul/campusx-dsmp/issues "Project's Issues Tab").
