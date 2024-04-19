@@ -1914,24 +1914,6 @@
     "type": "video"
   },
   {
-    "id": "64aaf332e4b08bdad9392973",
-    "title": "Session on Handling Missing Values Part 1",
-    "topicId": "y0za3t5tgi",
-    "type": "video"
-  },
-  {
-    "id": "64b5786ce4b017bd75bfb76c",
-    "title": "Session 2 on Handling Missing Data",
-    "topicId": "y0za3t5tgi",
-    "type": "video"
-  },
-  {
-    "id": "64beb074e4b0537e95689e09",
-    "title": "Session 3 on Handling Missing Values",
-    "topicId": "y0za3t5tgi",
-    "type": "video"
-  },
-  {
     "id": "64c4fa2ee4b027f08c52d017",
     "title": "Introduction to Ensemble Learning",
     "topicId": "yqkczjdcta",
@@ -2349,6 +2331,264 @@
     "id": "65bd1f08e4b0090c60dbe9b5",
     "title": "Session 2 on T-SNE",
     "topicId": "yq6ljm4zv",
+    "type": "video"
+  },
+  {
+    "id": "65c3ba50e4b096c93763f76f",
+    "title": "Session 1 on Encoding Categorical Features",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65c50dc2e4b04e5710a3de99",
+    "title": "Session on Sklearn ColumnTransformer & Pipeline",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65c7b232e4b0863875655ec0",
+    "title": "Session on Sklearn Deep Dive",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65ccfa6fe4b06bb9e10f685a",
+    "title": "Session 2 on Encoding Categorical Features",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65cf9014e4b09e403d720d91",
+    "title": "Session 1 on Discretization",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65d0e9bfe4b0d7ac3135abda",
+    "title": "Session 2 on Discretization",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65d63320e4b0b19bda416b8d",
+    "title": "Session 1 on Handling Missing Data",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65d8d343e4b06750122971db",
+    "title": "Session 2 on Handling Missing Data",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65dcc9d6e4b0fd998a75397a",
+    "title": "Session 3 on Handling Missing Values",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65e0af8ee4b09fe1f51e3c18",
+    "title": "Session on Feature Scaling",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65e75746930f8b5f644f524d",
+    "title": "Session 2 on Feature Scaling",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65e9fa77d5beaa158d403197",
+    "title": "Session 1 on Outlier Detection",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65f090564feb1a09559662ce",
+    "title": "Session 2 on Outlier Detection",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65f32f36e0edf51df863833c",
+    "title": "Session 3 on Outlier Detection",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65fc71e8a5619e4ef6929ff6",
+    "title": "Session on Feature Transformation",
+    "topicId": "3d3qbfrgg6",
+    "type": "video"
+  },
+  {
+    "id": "65ffe5eaa1061c7820851b25",
+    "title": "Session on Revisiting XGBoost",
+    "topicId": "jqino8qjge",
+    "type": "video"
+  },
+  {
+    "id": "660c447f435e7f0e2ff18cf8",
+    "title": "Session on XGBoost Regularization",
+    "topicId": "jqino8qjge",
+    "type": "video"
+  },
+  {
+    "id": "660ee4f4ea83940aa81f13fd",
+    "title": "Session 2 on XGBoost Regularization",
+    "topicId": "jqino8qjge",
+    "type": "video"
+  },
+  {
+    "id": "66157cce40a0713dddcf5ebe",
+    "title": "Session on XGBoost Optimizations",
+    "topicId": "jqino8qjge",
+    "type": "video"
+  },
+  {
+    "id": "6618cb6243bf493d6bcd72cd",
+    "title": "How XGBoost Handles Missing Values",
+    "topicId": "jqino8qjge",
+    "type": "video"
+  },
+  {
+    "id": "661ac4b1a49c9d131880cac4",
+    "title": "Session 1 on Introduction to LightGBM",
+    "topicId": "6lombee8ya",
+    "type": "video"
+  },
+  {
+    "id": "66200cc0e27b604023e45f05",
+    "title": "Session 2 on LightGBM (GOSS & EFB)",
+    "topicId": "6lombee8ya",
+    "type": "video"
+  },
+  {
+    "id": "6612d4000e2ff95544311617",
+    "title": "Session 1 on Interview Questions on Statistics",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "661d5a5bc1991b45d93f2d8a",
+    "title": "Session 2 on Interview Questions on Statistics",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "65f6991ac79e3d5b1cb81613",
+    "title": "Important Note",
+    "topicId": "lwquglhl18",
+    "type": "article"
+  },
+  {
+    "id": "65e203edebf2d4699e58cfa6",
+    "title": "Interview Questions on Statistics",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65e60aacab9d893699bb3b38",
+    "title": "Model Explainability",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65eb465875f0ba375f29dc5b",
+    "title": "Interview Questions on Regression",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65ed7fb6ce69a32bf157551f",
+    "title": "How to Solve a Banking Problem using ML",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65edef1b4e1e7227f12cca27",
+    "title": "Session on ResNET Paper Discussion",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65ef4c376ce9f46992aca10c",
+    "title": "Introduction to PyTorch",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65f1e520c6970966597dec6e",
+    "title": "Named Entity Recognition using NLTK & Spacy",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65f481aec0a401523b6411d2",
+    "title": "Latent Dirichlet Allocation (LDA)",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65f5752ae19e380b0a319651",
+    "title": "Introduction to PowerBI",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65f6c845bbd7bc36420cc59a",
+    "title": "Anomaly Detection",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65f72d45fcf6373779d04865",
+    "title": "Prompt Engineering",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65f887f4ca6b1d7497bdacea",
+    "title": "Interview Questions on Tree Based Models",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65fdadf66b058c7a39e214c7",
+    "title": "Multioutput and Multiclass Classification Problem",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "65fea822cd84ab3678fc3700",
+    "title": "EKYC Using Computer Vision",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "66006e9a40c9544fbe1f30d0",
+    "title": "Time Series Forecasting",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "660313f7ce98b908cb391e2a",
+    "title": "A/B Testing",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "6604601adc22960cad26924c",
+    "title": "Langchain",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "6608532e8580077896bb560a",
+    "title": "FastAPI",
+    "topicId": "lwquglhl18",
     "type": "video"
   }
 ]

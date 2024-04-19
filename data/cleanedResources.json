@@ -3058,41 +3058,6 @@
     "type": "video"
   },
   {
-    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing\">https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing</a></p>\n\n<p>Notes + Dataset -&nbsp;<a href=\"https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link\">https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link</a></p>\n",
-    "id": "64aaf332e4b08bdad9392973",
-    "isDescriptionHtml": true,
-    "links": {
-      "https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing": "colab.research.google.com",
-      "https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link": "drive.google.com"
-    },
-    "title": "Session on Handling Missing Values Part 1",
-    "topicId": "y0za3t5tgi",
-    "totalTime": 153.56934,
-    "type": "video"
-  },
-  {
-    "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6\">https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6</a></p>\n",
-    "id": "64b5786ce4b017bd75bfb76c",
-    "isDescriptionHtml": true,
-    "links": {
-      "https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6": "drive.google.com"
-    },
-    "title": "Session 2 on Handling Missing Data",
-    "topicId": "y0za3t5tgi",
-    "totalTime": 133.108,
-    "type": "video"
-  },
-  {
-    "description": "",
-    "id": "64beb074e4b0537e95689e09",
-    "isDescriptionHtml": false,
-    "links": {},
-    "title": "Session 3 on Handling Missing Values",
-    "topicId": "y0za3t5tgi",
-    "totalTime": 128.65866,
-    "type": "video"
-  },
-  {
     "description": "",
     "id": "64c4fa2ee4b027f08c52d017",
     "isDescriptionHtml": false,
@@ -3955,6 +3920,564 @@
     "title": "Session 2 on T-SNE",
     "topicId": "yq6ljm4zv",
     "totalTime": 115.11667,
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://colab.research.google.com/drive/1PIZQpOTZgXMpQUQ0SUT51RpfvH-jVSFi?usp=sharing\">https://colab.research.google.com/drive/1PIZQpOTZgXMpQUQ0SUT51RpfvH-jVSFi?usp=sharing</a></p>\n\n<p>Dataset 1 -&nbsp;<a href=\"https://drive.google.com/file/d/1B0YNqPgjTat67SAc5nIpeNSDWRJQRz9e/view?usp=sharing\">https://drive.google.com/file/d/1B0YNqPgjTat67SAc5nIpeNSDWRJQRz9e/view?usp=sharing</a></p>\n\n<p>Dataset 2 -&nbsp;<a href=\"https://drive.google.com/file/d/1a9kmZni3NJqEP2-7v4oHbPMr9UgoUnnQ/view?usp=sharing\">https://drive.google.com/file/d/1a9kmZni3NJqEP2-7v4oHbPMr9UgoUnnQ/view?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1yueCF-CJU7p8lag9GTAumiuVE4pDOXXu/view?usp=sharing\">https://drive.google.com/file/d/1yueCF-CJU7p8lag9GTAumiuVE4pDOXXu/view?usp=sharing</a></p>\n",
+    "id": "65c3ba50e4b096c93763f76f",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1PIZQpOTZgXMpQUQ0SUT51RpfvH-jVSFi?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1B0YNqPgjTat67SAc5nIpeNSDWRJQRz9e/view?usp=sharing": "drive.google.com",
+      "https://drive.google.com/file/d/1a9kmZni3NJqEP2-7v4oHbPMr9UgoUnnQ/view?usp=sharing": "drive.google.com",
+      "https://drive.google.com/file/d/1yueCF-CJU7p8lag9GTAumiuVE4pDOXXu/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 1 on Encoding Categorical Features",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 126.30067,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1M5NhzUn5QjXQKfdFWpbZwUBrT0bCAZpY?usp=sharing\">https://colab.research.google.com/drive/1M5NhzUn5QjXQKfdFWpbZwUBrT0bCAZpY?usp=sharing</a></p>\n",
+    "id": "65c50dc2e4b04e5710a3de99",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1M5NhzUn5QjXQKfdFWpbZwUBrT0bCAZpY?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session on Sklearn ColumnTransformer & Pipeline",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 118.62067,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1loDInKlSYJffsLo0HoZ9TZuJ87RCk07j?usp=sharing\">https://colab.research.google.com/drive/1loDInKlSYJffsLo0HoZ9TZuJ87RCk07j?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1BQQXt-l7_rQ9SJlc7my77GyRk_fuIlYM/view?usp=sharing\">https://drive.google.com/file/d/1BQQXt-l7_rQ9SJlc7my77GyRk_fuIlYM/view?usp=sharing</a></p>\n",
+    "id": "65c7b232e4b0863875655ec0",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1loDInKlSYJffsLo0HoZ9TZuJ87RCk07j?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1BQQXt-l7_rQ9SJlc7my77GyRk_fuIlYM/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on Sklearn Deep Dive",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 122.662,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1PIZQpOTZgXMpQUQ0SUT51RpfvH-jVSFi?usp=sharing\">https://colab.research.google.com/drive/1PIZQpOTZgXMpQUQ0SUT51RpfvH-jVSFi?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1bkrsPkLBm2LGyh1auF1eZmP5SQ5BgfOW/view?usp=sharing\">https://drive.google.com/file/d/1bkrsPkLBm2LGyh1auF1eZmP5SQ5BgfOW/view?usp=sharing</a></p>\n",
+    "id": "65ccfa6fe4b06bb9e10f685a",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1PIZQpOTZgXMpQUQ0SUT51RpfvH-jVSFi?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1bkrsPkLBm2LGyh1auF1eZmP5SQ5BgfOW/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 2 on Encoding Categorical Features",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 123.398,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1LINzV5JO6pHHuYdfL7JzGZAL2F6TI0bU?usp=sharing\">https://colab.research.google.com/drive/1LINzV5JO6pHHuYdfL7JzGZAL2F6TI0bU?usp=sharing</a></p>\n",
+    "id": "65cf9014e4b09e403d720d91",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1LINzV5JO6pHHuYdfL7JzGZAL2F6TI0bU?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session 1 on Discretization",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 108.08733,
+    "type": "video"
+  },
+  {
+    "description": "<p><a href=\"https://colab.research.google.com/drive/1HnjOqgejNIuTLH4UycmiUrUaR8AWKUUv?usp=sharing\">https://colab.research.google.com/drive/1HnjOqgejNIuTLH4UycmiUrUaR8AWKUUv?usp=sharing</a></p>\n\n<p><a href=\"https://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization_strategies.html#sphx-glr-auto-examples-preprocessing-plot-discretization-strategies-py\">https://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization_strategies.html#sphx-glr-auto-examples-preprocessing-plot-discretization-strategies-py</a></p>\n\n<p>&nbsp;</p>\n\n<p><a href=\"https://drive.google.com/file/d/15qXxo_w6YXqjwJzR0Yfc7ux0DBXuU7dR/view?usp=sharing\">https://drive.google.com/file/d/15qXxo_w6YXqjwJzR0Yfc7ux0DBXuU7dR/view?usp=sharing</a></p>\n",
+    "id": "65d0e9bfe4b0d7ac3135abda",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1HnjOqgejNIuTLH4UycmiUrUaR8AWKUUv?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/15qXxo_w6YXqjwJzR0Yfc7ux0DBXuU7dR/view?usp=sharing": "drive.google.com",
+      "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization_strategies.html#sphx-glr-auto-examples-preprocessing-plot-discretization-strategies-py": "scikit-learn.org"
+    },
+    "title": "Session 2 on Discretization",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 111.096664,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1ssz2Gd2YrwYFdPu824K0ypNMWouiigNH?usp=sharing\">https://colab.research.google.com/drive/1ssz2Gd2YrwYFdPu824K0ypNMWouiigNH?usp=sharing</a></p>\n\n<p><a href=\"https://github.com/ResidentMario/missingno\">https://github.com/ResidentMario/missingno</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1HD5G6u54Yc5K3oY6pW0wJKtD18ccJEda/view?usp=sharing\">https://drive.google.com/file/d/1HD5G6u54Yc5K3oY6pW0wJKtD18ccJEda/view?usp=sharing</a></p>\n",
+    "id": "65d63320e4b0b19bda416b8d",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1ssz2Gd2YrwYFdPu824K0ypNMWouiigNH?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1HD5G6u54Yc5K3oY6pW0wJKtD18ccJEda/view?usp=sharing": "drive.google.com",
+      "https://github.com/ResidentMario/missingno": "github.com"
+    },
+    "title": "Session 1 on Handling Missing Data",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 121.92067,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1ssz2Gd2YrwYFdPu824K0ypNMWouiigNH?usp=sharing\">https://colab.research.google.com/drive/1ssz2Gd2YrwYFdPu824K0ypNMWouiigNH?usp=sharing</a></p>\n\n<p>Code -&nbsp;<a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day38-missing-indicator/automatically-select-imputer-parameters.ipynb\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day38-missing-indicator/automatically-select-imputer-parameters.ipynb</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1tPv7bp3QpAgBGmKf6LNHeQtq0v1r3vpp/view?usp=sharing\">https://drive.google.com/file/d/1tPv7bp3QpAgBGmKf6LNHeQtq0v1r3vpp/view?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n",
+    "id": "65d8d343e4b06750122971db",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1ssz2Gd2YrwYFdPu824K0ypNMWouiigNH?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day38-missing-indicator/automatically-select-imputer-parameters.ipynb": "colab.research.google.com",
+      "https://drive.google.com/file/d/1tPv7bp3QpAgBGmKf6LNHeQtq0v1r3vpp/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 2 on Handling Missing Data",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 116.29667,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1XEb6W8Fwy7dXhGKSfUGeMBwSz9W8fI9N?usp=sharing\">https://colab.research.google.com/drive/1XEb6W8Fwy7dXhGKSfUGeMBwSz9W8fI9N?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day40-iterative-imputer/step-by-step.ipynb\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day40-iterative-imputer/step-by-step.ipynb</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1WpPutTwFqxw-nONiqZStqEO6CH0Proo4?usp=sharing\">https://colab.research.google.com/drive/1WpPutTwFqxw-nONiqZStqEO6CH0Proo4?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1Qgayi8feSqj2E4kZvLyGu3ENu51qXN6p/view?usp=sharing\">https://drive.google.com/file/d/1Qgayi8feSqj2E4kZvLyGu3ENu51qXN6p/view?usp=sharing</a></p>\n",
+    "id": "65dcc9d6e4b0fd998a75397a",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1WpPutTwFqxw-nONiqZStqEO6CH0Proo4?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1XEb6W8Fwy7dXhGKSfUGeMBwSz9W8fI9N?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day40-iterative-imputer/step-by-step.ipynb": "colab.research.google.com",
+      "https://drive.google.com/file/d/1Qgayi8feSqj2E4kZvLyGu3ENu51qXN6p/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 3 on Handling Missing Values",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 136.39867,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1pWB7wzkizH_6p9bhZqhE2K6R5CKiEa2V?usp=sharing\">https://colab.research.google.com/drive/1pWB7wzkizH_6p9bhZqhE2K6R5CKiEa2V?usp=sharing</a></p>\n",
+    "id": "65e0af8ee4b09fe1f51e3c18",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1pWB7wzkizH_6p9bhZqhE2K6R5CKiEa2V?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session on Feature Scaling",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 78.569336,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1hnN2EccC5lQpV33yXO0HHFwdY4F2QsdM?usp=sharing\">https://colab.research.google.com/drive/1hnN2EccC5lQpV33yXO0HHFwdY4F2QsdM?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1OMUgHQTrsxZK6etU09KImUotRTbdpvhx/view?usp=sharing\">https://drive.google.com/file/d/1OMUgHQTrsxZK6etU09KImUotRTbdpvhx/view?usp=sharing</a></p>\n",
+    "id": "65e75746930f8b5f644f524d",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1hnN2EccC5lQpV33yXO0HHFwdY4F2QsdM?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1OMUgHQTrsxZK6etU09KImUotRTbdpvhx/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 2 on Feature Scaling",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 126.524,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day42-outlier-removal-using-zscore/day42.ipynb#scrollTo=SW3_GmfYRdZ2\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day42-outlier-removal-using-zscore/day42.ipynb#scrollTo=SW3_GmfYRdZ2</a></p>\n\n<p><a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day43-outlier-removal-using-iqr-method/day43.ipynb#scrollTo=Y_YfE9gfRdEF\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day43-outlier-removal-using-iqr-method/day43.ipynb#scrollTo=Y_YfE9gfRdEF</a></p>\n",
+    "id": "65e9fa77d5beaa158d403197",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day42-outlier-removal-using-zscore/day42.ipynb#scrollTo=SW3_GmfYRdZ2": "colab.research.google.com",
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day43-outlier-removal-using-iqr-method/day43.ipynb#scrollTo=Y_YfE9gfRdEF": "colab.research.google.com"
+    },
+    "title": "Session 1 on Outlier Detection",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 129.32933,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1mhBMpq2q_8i0VRr0TGpFBm3IFcCdFt0n?usp=sharing\">https://colab.research.google.com/drive/1mhBMpq2q_8i0VRr0TGpFBm3IFcCdFt0n?usp=sharing</a></p>\n",
+    "id": "65f090564feb1a09559662ce",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1mhBMpq2q_8i0VRr0TGpFBm3IFcCdFt0n?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session 2 on Outlier Detection",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 124.076,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1B2-KJxcrh5s640D_BXGrXjP_uU-cCpIY/view?usp=drive_link\">https://drive.google.com/file/d/1B2-KJxcrh5s640D_BXGrXjP_uU-cCpIY/view?usp=drive_link</a></p>\n\n<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1mhBMpq2q_8i0VRr0TGpFBm3IFcCdFt0n?usp=sharing\">https://colab.research.google.com/drive/1mhBMpq2q_8i0VRr0TGpFBm3IFcCdFt0n?usp=sharing</a></p>\n",
+    "id": "65f32f36e0edf51df863833c",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1mhBMpq2q_8i0VRr0TGpFBm3IFcCdFt0n?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1B2-KJxcrh5s640D_BXGrXjP_uU-cCpIY/view?usp=drive_link": "drive.google.com"
+    },
+    "title": "Session 3 on Outlier Detection",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 112.18467,
+    "type": "video"
+  },
+  {
+    "description": "<p>Codes -&nbsp;<a href=\"https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day30-function-transformer/day30.ipynb\">https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day30-function-transformer/day30.ipynb</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1uIM7IPLlqCZUndpynUuYo1be2qG52Hcx?usp=sharing\">https://colab.research.google.com/drive/1uIM7IPLlqCZUndpynUuYo1be2qG52Hcx?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1azMCEj2D2PSHhbPjgxlfYep4I7tS5BvW/view?usp=sharing\">https://drive.google.com/file/d/1azMCEj2D2PSHhbPjgxlfYep4I7tS5BvW/view?usp=sharing</a></p>\n",
+    "id": "65fc71e8a5619e4ef6929ff6",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1uIM7IPLlqCZUndpynUuYo1be2qG52Hcx?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/github/campusx-official/100-days-of-machine-learning/blob/main/day30-function-transformer/day30.ipynb": "colab.research.google.com",
+      "https://drive.google.com/file/d/1azMCEj2D2PSHhbPjgxlfYep4I7tS5BvW/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on Feature Transformation",
+    "topicId": "3d3qbfrgg6",
+    "totalTime": 136.836,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "65ffe5eaa1061c7820851b25",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Session on Revisiting XGBoost",
+    "topicId": "jqino8qjge",
+    "totalTime": 89.15667,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1LA93NSEyfLhjwMTVHy5o7sbU97mfhLdt?usp=sharing\">https://colab.research.google.com/drive/1LA93NSEyfLhjwMTVHy5o7sbU97mfhLdt?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1yvsTgKBmqgwnAswr15lagQe8d9UJGnlE/view?usp=sharing\">https://drive.google.com/file/d/1yvsTgKBmqgwnAswr15lagQe8d9UJGnlE/view?usp=sharing</a></p>\n",
+    "id": "660c447f435e7f0e2ff18cf8",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1LA93NSEyfLhjwMTVHy5o7sbU97mfhLdt?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1yvsTgKBmqgwnAswr15lagQe8d9UJGnlE/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on XGBoost Regularization",
+    "topicId": "jqino8qjge",
+    "totalTime": 138.31734,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1LA93NSEyfLhjwMTVHy5o7sbU97mfhLdt?usp=sharing\">https://colab.research.google.com/drive/1LA93NSEyfLhjwMTVHy5o7sbU97mfhLdt?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1yvsTgKBmqgwnAswr15lagQe8d9UJGnlE/view?usp=sharing\">https://drive.google.com/file/d/1yvsTgKBmqgwnAswr15lagQe8d9UJGnlE/view?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n",
+    "id": "660ee4f4ea83940aa81f13fd",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1LA93NSEyfLhjwMTVHy5o7sbU97mfhLdt?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1yvsTgKBmqgwnAswr15lagQe8d9UJGnlE/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 2 on XGBoost Regularization",
+    "topicId": "jqino8qjge",
+    "totalTime": 128.18,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1P3B0X6Vahs6NNxovCG8cdH2ETARMkXym/view?usp=sharing\">https://drive.google.com/file/d/1P3B0X6Vahs6NNxovCG8cdH2ETARMkXym/view?usp=sharing</a></p>\n\n<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1yLdcPwZMFTcz7xLlgGfULbw3sj_UgG2g?usp=sharing\">https://colab.research.google.com/drive/1yLdcPwZMFTcz7xLlgGfULbw3sj_UgG2g?usp=sharing</a></p>\n",
+    "id": "66157cce40a0713dddcf5ebe",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1yLdcPwZMFTcz7xLlgGfULbw3sj_UgG2g?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1P3B0X6Vahs6NNxovCG8cdH2ETARMkXym/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session on XGBoost Optimizations",
+    "topicId": "jqino8qjge",
+    "totalTime": 121.461334,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/17qgja8XHnjCLIXTOdxSEwcSBwQdR4Y-Q?usp=sharing\">https://colab.research.google.com/drive/17qgja8XHnjCLIXTOdxSEwcSBwQdR4Y-Q?usp=sharing</a></p>\n",
+    "id": "6618cb6243bf493d6bcd72cd",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/17qgja8XHnjCLIXTOdxSEwcSBwQdR4Y-Q?usp=sharing": "colab.research.google.com"
+    },
+    "title": "How XGBoost Handles Missing Values",
+    "topicId": "jqino8qjge",
+    "totalTime": 25.704666,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1ZeqDKHFrgS96K1guNXKINEuVXRg-8LxL?usp=sharing\">https://colab.research.google.com/drive/1ZeqDKHFrgS96K1guNXKINEuVXRg-8LxL?usp=sharing</a></p>\n",
+    "id": "661ac4b1a49c9d131880cac4",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1ZeqDKHFrgS96K1guNXKINEuVXRg-8LxL?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session 1 on Introduction to LightGBM",
+    "topicId": "6lombee8ya",
+    "totalTime": 127.905334,
+    "type": "video"
+  },
+  {
+    "description": "<p>Research Paper -&nbsp;<a href=\"https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf\">https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf</a></p>\n",
+    "id": "66200cc0e27b604023e45f05",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf": "proceedings.neurips.cc"
+    },
+    "title": "Session 2 on LightGBM (GOSS & EFB)",
+    "topicId": "6lombee8ya",
+    "totalTime": 139.444,
+    "type": "video"
+  },
+  {
+    "description": "<p>Please give feedback</p>\n\n<p><a href=\"https://forms.gle/GyJRLaF61S3p3RYM6\">https://forms.gle/GyJRLaF61S3p3RYM6</a></p>\n",
+    "id": "6612d4000e2ff95544311617",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/GyJRLaF61S3p3RYM6": "forms.gle"
+    },
+    "title": "Session 1 on Interview Questions on Statistics",
+    "topicId": "nb956oo2zm",
+    "totalTime": 112.513336,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "661d5a5bc1991b45d93f2d8a",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Session 2 on Interview Questions on Statistics",
+    "topicId": "nb956oo2zm",
+    "totalTime": 99.58733,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form&nbsp; -&nbsp;<a href=\"https://forms.gle/5vGSrcVs1LrKd8Mo9\">https://forms.gle/5vGSrcVs1LrKd8Mo9</a></p>\n",
+    "id": "65e203edebf2d4699e58cfa6",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/5vGSrcVs1LrKd8Mo9": "forms.gle"
+    },
+    "title": "Interview Questions on Statistics",
+    "topicId": "lwquglhl18",
+    "totalTime": 97.672,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/14bjmVMSL1GUFPXy5\">https://forms.gle/14bjmVMSL1GUFPXy5</a></p>\n",
+    "id": "65e60aacab9d893699bb3b38",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/14bjmVMSL1GUFPXy5": "forms.gle"
+    },
+    "title": "Model Explainability",
+    "topicId": "lwquglhl18",
+    "totalTime": 121.648,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/GFbzkKyStkFPn6t9A\">https://forms.gle/GFbzkKyStkFPn6t9A</a></p>\n",
+    "id": "65eb465875f0ba375f29dc5b",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/GFbzkKyStkFPn6t9A": "forms.gle"
+    },
+    "title": "Interview Questions on Regression",
+    "topicId": "lwquglhl18",
+    "totalTime": 113.19334,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/2E94oLoMsWwrysvB8\">https://forms.gle/2E94oLoMsWwrysvB8</a></p>\n",
+    "id": "65ed7fb6ce69a32bf157551f",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/2E94oLoMsWwrysvB8": "forms.gle"
+    },
+    "title": "How to Solve a Banking Problem using ML",
+    "topicId": "lwquglhl18",
+    "totalTime": 129.40733,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/7p2wCSjoC7UDRox99\">https://forms.gle/7p2wCSjoC7UDRox99</a></p>\n",
+    "id": "65edef1b4e1e7227f12cca27",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/7p2wCSjoC7UDRox99": "forms.gle"
+    },
+    "title": "Session on ResNET Paper Discussion",
+    "topicId": "lwquglhl18",
+    "totalTime": 119.793335,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/SeGGzLa1pUZWvTvP9\">https://forms.gle/SeGGzLa1pUZWvTvP9</a></p>\n",
+    "id": "65ef4c376ce9f46992aca10c",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/SeGGzLa1pUZWvTvP9": "forms.gle"
+    },
+    "title": "Introduction to PyTorch",
+    "topicId": "lwquglhl18",
+    "totalTime": 150.75734,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/M1KszATvuEgXWJW57\">https://forms.gle/M1KszATvuEgXWJW57</a></p>\n",
+    "id": "65f1e520c6970966597dec6e",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/M1KszATvuEgXWJW57": "forms.gle"
+    },
+    "title": "Named Entity Recognition using NLTK & Spacy",
+    "topicId": "lwquglhl18",
+    "totalTime": 127.86933,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/EQk2F3mg1Hgqjgyx7\">https://forms.gle/EQk2F3mg1Hgqjgyx7</a></p>\n",
+    "id": "65f481aec0a401523b6411d2",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/EQk2F3mg1Hgqjgyx7": "forms.gle"
+    },
+    "title": "Latent Dirichlet Allocation (LDA)",
+    "topicId": "lwquglhl18",
+    "totalTime": 115.90134,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/8YMKA71gS9bos6Ns8\">https://forms.gle/8YMKA71gS9bos6Ns8</a></p>\n",
+    "id": "65f5752ae19e380b0a319651",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/8YMKA71gS9bos6Ns8": "forms.gle"
+    },
+    "title": "Introduction to PowerBI",
+    "topicId": "lwquglhl18",
+    "totalTime": 124.76867,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/2Ck2kFvSWqRptiaR6\">https://forms.gle/2Ck2kFvSWqRptiaR6</a></p>\n",
+    "id": "65f6c845bbd7bc36420cc59a",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/2Ck2kFvSWqRptiaR6": "forms.gle"
+    },
+    "title": "Anomaly Detection",
+    "topicId": "lwquglhl18",
+    "totalTime": 158.92667,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/wYXG79C48X5WLdqe7\">https://forms.gle/wYXG79C48X5WLdqe7</a></p>\n\n<p>Notebook -&nbsp;<a href=\"https://colab.research.google.com/drive/1ukpKSCDsY8vmgdB12oTMTol7YCrbls9Q?usp=sharing\">https://colab.research.google.com/drive/1ukpKSCDsY8vmgdB12oTMTol7YCrbls9Q?usp=sharing</a></p>\n",
+    "id": "65f72d45fcf6373779d04865",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1ukpKSCDsY8vmgdB12oTMTol7YCrbls9Q?usp=sharing": "colab.research.google.com",
+      "https://forms.gle/wYXG79C48X5WLdqe7": "forms.gle"
+    },
+    "title": "Prompt Engineering",
+    "topicId": "lwquglhl18",
+    "totalTime": 118.568,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/naq7hYB4wr9B1jCq8\">https://forms.gle/naq7hYB4wr9B1jCq8</a></p>\n",
+    "id": "65f887f4ca6b1d7497bdacea",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/naq7hYB4wr9B1jCq8": "forms.gle"
+    },
+    "title": "Interview Questions on Tree Based Models",
+    "topicId": "lwquglhl18",
+    "totalTime": 149.28067,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/UPQVWEQ7vzWPh3PP8\">https://forms.gle/UPQVWEQ7vzWPh3PP8</a></p>\n",
+    "id": "65fdadf66b058c7a39e214c7",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/UPQVWEQ7vzWPh3PP8": "forms.gle"
+    },
+    "title": "Multioutput and Multiclass Classification Problem",
+    "topicId": "lwquglhl18",
+    "totalTime": 77.709335,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/GAyVY3hqZK4eLK3D7\">https://forms.gle/GAyVY3hqZK4eLK3D7</a></p>\n",
+    "id": "65fea822cd84ab3678fc3700",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/GAyVY3hqZK4eLK3D7": "forms.gle"
+    },
+    "title": "EKYC Using Computer Vision",
+    "topicId": "lwquglhl18",
+    "totalTime": 137.238,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/cKyz2gLPLDNsFRv49\">https://forms.gle/cKyz2gLPLDNsFRv49</a></p>\n",
+    "id": "66006e9a40c9544fbe1f30d0",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/cKyz2gLPLDNsFRv49": "forms.gle"
+    },
+    "title": "Time Series Forecasting",
+    "topicId": "lwquglhl18",
+    "totalTime": 159.84933,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/qXj3NkuJGMVDvEY86\">https://forms.gle/qXj3NkuJGMVDvEY86</a></p>\n",
+    "id": "660313f7ce98b908cb391e2a",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/qXj3NkuJGMVDvEY86": "forms.gle"
+    },
+    "title": "A/B Testing",
+    "topicId": "lwquglhl18",
+    "totalTime": 153.414,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/mtLS482RCXEfGu1R6\">https://forms.gle/mtLS482RCXEfGu1R6</a></p>\n",
+    "id": "6604601adc22960cad26924c",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/mtLS482RCXEfGu1R6": "forms.gle"
+    },
+    "title": "Langchain",
+    "topicId": "lwquglhl18",
+    "totalTime": 138.734,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/DP2xVdUxscsAcoPm8\">https://forms.gle/DP2xVdUxscsAcoPm8</a></p>\n",
+    "id": "6608532e8580077896bb560a",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://forms.gle/DP2xVdUxscsAcoPm8": "forms.gle"
+    },
+    "title": "FastAPI",
+    "topicId": "lwquglhl18",
+    "totalTime": 147.82866,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6\">https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6</a></p>\n",
+    "id": "64b5786ce4b017bd75bfb76c",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6": "drive.google.com"
+    },
+    "title": "Session 2 on Handling Missing Data",
+    "topicId": "y0za3t5tgi",
+    "totalTime": 133.108,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing\">https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing</a></p>\n\n<p>Notes + Dataset -&nbsp;<a href=\"https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link\">https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link</a></p>\n",
+    "id": "64aaf332e4b08bdad9392973",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link": "drive.google.com"
+    },
+    "title": "Session on Handling Missing Values Part 1",
+    "topicId": "y0za3t5tgi",
+    "totalTime": 153.56934,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "64beb074e4b0537e95689e09",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Session 3 on Handling Missing Values",
+    "topicId": "y0za3t5tgi",
+    "totalTime": 128.65866,
     "type": "video"
   }
 ]

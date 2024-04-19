@@ -176,10 +176,6 @@
     "title": "Week 34 - Decision Trees"
   },
   {
-    "id": "y0za3t5tgi",
-    "title": "Extra Sessions - Feature Engineering"
-  },
-  {
     "id": "yqkczjdcta",
     "title": "Week 35 - Random Forest"
   },
@@ -210,5 +206,25 @@
   {
     "id": "yq6ljm4zv",
     "title": "Unsupervised Machine Learning"
+  },
+  {
+    "id": "3d3qbfrgg6",
+    "title": "Feature Engineering"
+  },
+  {
+    "id": "jqino8qjge",
+    "title": "Advanced XGBoost"
+  },
+  {
+    "id": "6lombee8ya",
+    "title": "LightGBM"
+  },
+  {
+    "id": "nb956oo2zm",
+    "title": "Interview Questions"
+  },
+  {
+    "id": "lwquglhl18",
+    "title": "Trial Session (Available till 30th April)"
   }
 ]
