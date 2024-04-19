@@ -25,6 +25,7 @@ dev-dependencies = ["pytest>=8.0.0"]
 
 [tool.rye.scripts]
 fetch = "python main.py"
+organise = "python -m src.utils"
 
 [tool.ruff]
 target-version = "py311"
