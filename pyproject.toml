@@ -8,9 +8,9 @@ readme = "README.md"
 description = "Get all the resources like 🔗 Links of 📝 Notes and 📓 Notebooks provided in the CampusX's DSMP Course."
 dependencies = [
     "bs4==0.0.1",
-    "httpx>=0.26.0",
-    "mkdocs-markdownextradata-plugin>=0.2.5",
-    "mkdocs-material>=9.5.8",
+    "httpx==0.26.0",
+    "mkdocs-markdownextradata-plugin==0.2.5",
+    "mkdocs-material==9.5.23",
     "python-dotenv==1.0.0",
 ]
 
