@@ -23,10 +23,11 @@ BASE_HEADERS = {
     ),
 }
 
-COURSE_HTML_PATH = Path("campusx.arv.html")  # Added `.arv` to ignore for *git*
-COURSE_TOPICS_PATH = Path("data/courseTopics.json")
-COURSE_SUB_TOPICS_PATH = Path("data/courseSubTopics.json")
-SUB_TOPIC_RESOURCES_PATH = Path("data/subTopicResources.json")
+COURSE_HTML_PATH = Path("dsmp2.arv.html")  # Added `.arv` to ignore for *git*
+DSMP2_DATA_PATH = Path("data/dsmp2")
+COURSE_TOPICS_PATH = DSMP2_DATA_PATH / "courseTopics.json"
+COURSE_SUB_TOPICS_PATH = DSMP2_DATA_PATH / "courseSubTopics.json"
+SUB_TOPIC_RESOURCES_PATH = DSMP2_DATA_PATH / "subTopicResources.json"
 CLEANED_RESOURCES_PATH = SUB_TOPIC_RESOURCES_PATH.with_name("cleanedResources.json")
 
 

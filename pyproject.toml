@@ -24,8 +24,8 @@ virtual = true
 dev-dependencies = ["pytest>=8.0.0"]
 
 [tool.rye.scripts]
-fetch = "python main.py"
-organise = "python -m src.utils"
+dsmp2-main = "python -m src.dsmp2.main"
+dsmp2-organise = "python -m src.dsmp2.organise"
 
 [tool.ruff]
 target-version = "py311"

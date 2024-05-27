@@ -3,14 +3,14 @@ from pathlib import Path
 
 import pytest
 
-from src import course_parser as cp
+from src.dsmp2 import course_parser as cp
 
-TEST_COURSE_HTML_PATH = Path("tests/data/campusx.html")
+DSMP2_TEST_HTML_PATH = Path("tests/data/campusx.html")
 
 
 @pytest.fixture
 def course_topics() -> list[cp.CourseTopic]:
-    return list(cp.CourseTopic.parse(cp.CourseTopic.search(TEST_COURSE_HTML_PATH)))
+    return list(cp.CourseTopic.parse(cp.CourseTopic.search(DSMP2_TEST_HTML_PATH)))
 
 
 def test_course_topic_parser(course_topics: list[cp.CourseTopic]):

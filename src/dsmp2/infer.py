@@ -13,9 +13,9 @@ from typing import Any
 import httpx
 
 from src import _io
+from src.downloader import infer_downloader
 
 from .course_parser import CLEANED_RESOURCES_PATH, COURSE_TOPICS_PATH, ResourceType
-from .downloader import infer_downloader
 
 RESOURCES_PATH = Path("resources")
 DSMP_RESOURCES_PATH = RESOURCES_PATH / "DSMP"
