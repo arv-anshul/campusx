@@ -8,7 +8,7 @@ import re
 from dataclasses import asdict
 from urllib.parse import urlparse
 
-from src import course_parser as cp
+from . import course_parser as cp
 
 
 def export_course_topics() -> None:

@@ -2131,7 +2131,7 @@
   },
   {
     "id": "656cd00ce4b07eebf00c0d44",
-    "title": "Session 6 on MLOps",
+    "title": "Session 6 on MLOps | ML Pipelines and Experiment Tracking Contd.",
     "topicId": "tst9kpv89q",
     "type": "video"
   },
@@ -2466,6 +2466,36 @@
     "type": "video"
   },
   {
+    "id": "6623fb2c6499ad57a78584e1",
+    "title": "Session 1 on CatBoost - Practical Introduction",
+    "topicId": "6lombee8ya",
+    "type": "video"
+  },
+  {
+    "id": "6629468cd3c54a4e772baa97",
+    "title": "Session 1 on Imbalanced Data - Introduction",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
+    "id": "66327fb0682fff14e4153f91",
+    "title": "Session 2 on Imbalanced Data - Oversampling Techniques",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
+    "id": "66369b277c64632a734a4253",
+    "title": "Oversampling Techniques Continued",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
+    "id": "66364035c4a8822ad887fe2e",
+    "title": "Session 3 on Imbalanced Data - Undersampling Techniques",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
     "id": "6612d4000e2ff95544311617",
     "title": "Session 1 on Interview Questions on Statistics",
     "topicId": "nb956oo2zm",
@@ -2475,6 +2505,66 @@
     "id": "661d5a5bc1991b45d93f2d8a",
     "title": "Session 2 on Interview Questions on Statistics",
     "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "662698b051fc3564878ee3c2",
+    "title": "Session 3 on Interview Questions on Statistics",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "663125b236200d2677525247",
+    "title": "Session 4 on Interview Questions on Statistics",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "6633cf1bf183d545e2dd8ee3",
+    "title": "Session on Project Based Interview Questions",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "663e6315ba0e4359de1ec023",
+    "title": "Session 1 on ML Interview Questions",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "66464ad6c0c4bf11077c1ec8",
+    "title": "Session 2 on ML Interview Questions",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "664f7f4bd5bf0f32d416b883",
+    "title": "Recording - Session 3 on ML Interview Questions",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "663d0913556ce22e5d7647b6",
+    "title": "Session 1 MLOps Revisited - Introduction to MLOps",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "6643aac85aabea1686189a2b",
+    "title": "Session 2 on MLOps Revisited - MLOps Tools Stack",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "664a0c6fdb23c953614186f0",
+    "title": "Session 3 on MLOps Revisited - MLOps Tools Stack Part 2",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "664dbf08d2a05952a38115b2",
+    "title": "Session 4 on MLOps Revisited - MLOps Tools Stack Part 3",
+    "topicId": "wxa70fmeja",
     "type": "video"
   },
   {
@@ -2588,6 +2678,18 @@
   {
     "id": "6608532e8580077896bb560a",
     "title": "FastAPI",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "6622b7808b20c70df9091017",
+    "title": "Vertex AI",
+    "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "662d400fc8b5e27c5f529d28",
+    "title": "RAG",
     "topicId": "lwquglhl18",
     "type": "video"
   }

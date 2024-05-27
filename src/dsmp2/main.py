@@ -6,7 +6,7 @@ from pathlib import Path
 import dotenv
 import httpx
 
-import src.course_parser as cp
+from . import course_parser as cp
 
 # Load ENVs for `cookies`
 dotenv.load_dotenv()
@@ -32,7 +32,7 @@ def get_resources_to_fetch() -> list[cp.CourseSubTopic]:
     # sub_topics = [i for topic in topics for i in cp.CourseSubTopic.parse(topic)]
 
     # Read stored json file for sub_topics
-    sub_topics = list(cp.CourseSubTopic.from_json("data/courseSubTopics.json"))
+    sub_topics = list(cp.CourseSubTopic.from_json(cp.COURSE_SUB_TOPICS_PATH))
     logger.info("❗ Length of SubTopics: %d", len(sub_topics))
     return cp.filter_resources(sub_topics, cp.load_resources())
 
