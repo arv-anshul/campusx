@@ -3128,6 +3128,51 @@
     "type": "video"
   },
   {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1EK3EDWkl0V6bpJ0AXO1IhYNCyZalUPPj?usp=sharing\">https://colab.research.google.com/drive/1EK3EDWkl0V6bpJ0AXO1IhYNCyZalUPPj?usp=sharing</a></p>\n",
+    "id": "6623fb2c6499ad57a78584e1",
+    "isDescriptionHtml": true,
+    "title": "Session 1 on CatBoost - Practical Introduction",
+    "topicId": "6lombee8ya",
+    "totalTime": 123.277336,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1om2tWp4mXsMFlIz6hx91cxEE8gGPgnb8?usp=sharing\">https://colab.research.google.com/drive/1om2tWp4mXsMFlIz6hx91cxEE8gGPgnb8?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1YlemM7FSzMiAiIVcb7WXvlckcM60U6k8/view?usp=drive_link\">https://drive.google.com/file/d/1YlemM7FSzMiAiIVcb7WXvlckcM60U6k8/view?usp=drive_link</a></p>\n",
+    "id": "6629468cd3c54a4e772baa97",
+    "isDescriptionHtml": true,
+    "title": "Session 1 on Imbalanced Data - Introduction",
+    "topicId": "78aqnsp4u8",
+    "totalTime": 135.788,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1hzraH16KcNGnfGM_qw_UOvB2lFH4E7f-?usp=sharing\">https://colab.research.google.com/drive/1hzraH16KcNGnfGM_qw_UOvB2lFH4E7f-?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1dgEFWsxp02my40-aNlx_VdAvsMtALt8u/view?usp=sharing\">https://drive.google.com/file/d/1dgEFWsxp02my40-aNlx_VdAvsMtALt8u/view?usp=sharing</a></p>\n",
+    "id": "66327fb0682fff14e4153f91",
+    "isDescriptionHtml": true,
+    "title": "Session 2 on Imbalanced Data - Oversampling Techniques",
+    "topicId": "78aqnsp4u8",
+    "totalTime": 136.77133,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "66369b277c64632a734a4253",
+    "isDescriptionHtml": false,
+    "title": "Oversampling Techniques Continued",
+    "topicId": "78aqnsp4u8",
+    "totalTime": 32.02667,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/10Bb-292f7_eYdGTjzSEtmT_6Gzp1LvDr?usp=sharing\">https://colab.research.google.com/drive/10Bb-292f7_eYdGTjzSEtmT_6Gzp1LvDr?usp=sharing</a></p>\n",
+    "id": "66364035c4a8822ad887fe2e",
+    "isDescriptionHtml": true,
+    "title": "Session 3 on Imbalanced Data - Undersampling Techniques",
+    "topicId": "78aqnsp4u8",
+    "totalTime": 55.239445,
+    "type": "video"
+  },
+  {
     "description": "<p>Please give feedback</p>\n\n<p><a href=\"https://forms.gle/GyJRLaF61S3p3RYM6\">https://forms.gle/GyJRLaF61S3p3RYM6</a></p>\n",
     "id": "6612d4000e2ff95544311617",
     "isDescriptionHtml": true,
@@ -3143,6 +3188,96 @@
     "title": "Session 2 on Interview Questions on Statistics",
     "topicId": "nb956oo2zm",
     "totalTime": 99.58733,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "662698b051fc3564878ee3c2",
+    "isDescriptionHtml": false,
+    "title": "Session 3 on Interview Questions on Statistics",
+    "topicId": "nb956oo2zm",
+    "totalTime": 103.402664,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "663125b236200d2677525247",
+    "isDescriptionHtml": false,
+    "title": "Session 4 on Interview Questions on Statistics",
+    "topicId": "nb956oo2zm",
+    "totalTime": 109.96,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback -&nbsp;<a href=\"https://forms.gle/Z6eJ2KGW8PD6m3kq6\">https://forms.gle/Z6eJ2KGW8PD6m3kq6</a></p>\n",
+    "id": "6633cf1bf183d545e2dd8ee3",
+    "isDescriptionHtml": true,
+    "title": "Session on Project Based Interview Questions",
+    "topicId": "nb956oo2zm",
+    "totalTime": 130.74333,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback -&nbsp;<a href=\"https://forms.gle/BuHb3bKNuiDEKq54A\">https://forms.gle/BuHb3bKNuiDEKq54A</a></p>\n",
+    "id": "663e6315ba0e4359de1ec023",
+    "isDescriptionHtml": true,
+    "title": "Session 1 on ML Interview Questions",
+    "topicId": "nb956oo2zm",
+    "totalTime": 142.80133,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "66464ad6c0c4bf11077c1ec8",
+    "isDescriptionHtml": false,
+    "title": "Session 2 on ML Interview Questions",
+    "topicId": "nb956oo2zm",
+    "totalTime": 134.81467,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback Form -&nbsp;<a href=\"https://forms.gle/grsYYRzmG8YasmCQ7\">https://forms.gle/grsYYRzmG8YasmCQ7</a></p>\n",
+    "id": "664f7f4bd5bf0f32d416b883",
+    "isDescriptionHtml": true,
+    "title": "Recording - Session 3 on ML Interview Questions",
+    "topicId": "nb956oo2zm",
+    "totalTime": 133.766,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1SN5eHzhvefu4PJmVQ1Qp6ADTO6KBQd5S/view?usp=sharing\">https://drive.google.com/file/d/1SN5eHzhvefu4PJmVQ1Qp6ADTO6KBQd5S/view?usp=sharing</a></p>\n",
+    "id": "663d0913556ce22e5d7647b6",
+    "isDescriptionHtml": true,
+    "title": "Session 1 MLOps Revisited - Introduction to MLOps",
+    "topicId": "wxa70fmeja",
+    "totalTime": 129.22533,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/15eH2h74B7bSsb2J38HCAMTIzEboDqVLm/view?usp=sharing\">https://drive.google.com/file/d/15eH2h74B7bSsb2J38HCAMTIzEboDqVLm/view?usp=sharing</a></p>\n",
+    "id": "6643aac85aabea1686189a2b",
+    "isDescriptionHtml": true,
+    "title": "Session 2 on MLOps Revisited - MLOps Tools Stack",
+    "topicId": "wxa70fmeja",
+    "totalTime": 131.19333,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "664a0c6fdb23c953614186f0",
+    "isDescriptionHtml": false,
+    "title": "Session 3 on MLOps Revisited - MLOps Tools Stack Part 2",
+    "topicId": "wxa70fmeja",
+    "totalTime": 83.38333,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "664dbf08d2a05952a38115b2",
+    "isDescriptionHtml": false,
+    "title": "Session 4 on MLOps Revisited - MLOps Tools Stack Part 3",
+    "topicId": "wxa70fmeja",
+    "totalTime": 65.77,
     "type": "video"
   },
   {
@@ -3308,6 +3443,24 @@
     "type": "video"
   },
   {
+    "description": "<p>Feedback -&nbsp;<a href=\"https://forms.gle/dvWxrHCHNccbHi6p9\">https://forms.gle/dvWxrHCHNccbHi6p9</a></p>\n",
+    "id": "6622b7808b20c70df9091017",
+    "isDescriptionHtml": true,
+    "title": "Vertex AI",
+    "topicId": "lwquglhl18",
+    "totalTime": 128.846,
+    "type": "video"
+  },
+  {
+    "description": "<p>Feedback -&nbsp;<a href=\"https://forms.gle/NdHpDDgw9beYZm786\">https://forms.gle/NdHpDDgw9beYZm786</a></p>\n",
+    "id": "662d400fc8b5e27c5f529d28",
+    "isDescriptionHtml": true,
+    "title": "RAG",
+    "topicId": "lwquglhl18",
+    "totalTime": 121.833336,
+    "type": "video"
+  },
+  {
     "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6\">https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6</a></p>\n",
     "id": "64b5786ce4b017bd75bfb76c",
     "isDescriptionHtml": true,
@@ -3317,21 +3470,21 @@
     "type": "video"
   },
   {
-    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing\">https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing</a></p>\n\n<p>Notes + Dataset -&nbsp;<a href=\"https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link\">https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link</a></p>\n",
-    "id": "64aaf332e4b08bdad9392973",
-    "isDescriptionHtml": true,
-    "title": "Session on Handling Missing Values Part 1",
-    "topicId": "y0za3t5tgi",
-    "totalTime": 153.56934,
-    "type": "video"
-  },
-  {
     "description": "",
     "id": "64beb074e4b0537e95689e09",
     "isDescriptionHtml": false,
     "title": "Session 3 on Handling Missing Values",
     "topicId": "y0za3t5tgi",
     "totalTime": 128.65866,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing\">https://colab.research.google.com/drive/1f3EUKsxKheDYQxjjjuctaAeFJDNgL-Om?usp=sharing</a></p>\n\n<p>Notes + Dataset -&nbsp;<a href=\"https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link\">https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6?usp=drive_link</a></p>\n",
+    "id": "64aaf332e4b08bdad9392973",
+    "isDescriptionHtml": true,
+    "title": "Session on Handling Missing Values Part 1",
+    "topicId": "y0za3t5tgi",
+    "totalTime": 153.56934,
     "type": "video"
   }
 ]
