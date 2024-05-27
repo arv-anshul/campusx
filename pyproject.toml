@@ -1,11 +1,11 @@
 [project]
-name = "campusx-dsmp"
+name = "campusx"
 version = "0.10.0"
 license = "MIT"
 authors = [{ name = "Anshul Raj Verma", email = "arv.anshul.1864@gmail.com" }]
 requires-python = ">=3.11"
 readme = "README.md"
-description = "Get all the resources like 🔗 Links of 📝 Notes and 📓 Notebooks provided in the CampusX's DSMP Course."
+description = "Get resource related to CampusX courses like DSMP and more."
 dependencies = [
     "bs4==0.0.1",
     "httpx==0.26.0",
