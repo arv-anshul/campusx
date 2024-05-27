@@ -14,14 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@campusx-official" title="CampusX YouTube Channel">
-    <img src="https://img.shields.io/badge/CampusX-F00?logo=youtube&logoColor=fff" alt="CampusX YouTube Channel">
-  </a>
-  <a href="https://learnwith.campusx.in" title="CampusX DSMP Website">
-    <img src="https://img.shields.io/badge/CampusX_DSMP-0056D2?logo=curl&logoColor=fff" alt="CampusX DSMP Website">
-  </a>
-  <br>
   <img src="https://img.shields.io/badge/Material_for_MkDocs-526CFE?logo=MaterialForMkDocs&logoColor=white" alt="Built with Material for MkDocs">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=fff" alt="Python">
+  <img src="https://img.shields.io/badge/Jinja-B41717?logo=jinja&amp;logoColor=fff" alt="Jinja">
   <img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=github&logoColor=fff" alt="GitHub Badge">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff" alt="GitHub Actions Badge">
   <img src="https://img.shields.io/badge/Rye-000?logo=rye&logoColor=fff" alt="Rye Badge">
