@@ -1,25 +1,27 @@
 ---
 hide:
-    - navigation
+  - navigation
 ---
 
-# CampusX - DSMP Resources
+# DSMP by CampusX
 
 <style>
-#campusx-dsmp-resources {
-    display: none;
-}
+article > h1 { display: none; }
 </style>
 
-<p align="center" style="margin: 0;" markdown>
-[:material-sync:{ .lg .middle } Reverse Elements](#){ .md-button style="border-radius: 2rem;" onclick="reverseContainers()" }
-</p>
+<div class="grid" markdown>
+
+[:material-sync:{ .lg .middle .bounce } Reverse Topic Order](#){ .md-button .md-button--primary style="text-align: center; display: block;" onclick="reverseContainers()" }
+
+[:material-database:{ .lg .middle } View Downloaded Resources](https://github.com/arv-anshul/campusx-dsmp/tree/main/resources/DSMP "Resources downloaded as files on GitHub"){ .md-button .md-button--primary style="text-align: center; display: block;" target="_blank" }
+
+</div>
 
 <article id="resourceContainer" markdown>
 {% set printed_topic_ids = [] %}
 
-{% for topic in courseTopics|reverse %}
-    {% for sub_topic in cleanedResources %}
+{% for topic in dsmp2.courseTopics|reverse %}
+    {% for sub_topic in dsmp2.cleanedResources %}
         {% if topic.id == sub_topic.topicId %}
 
 {% if sub_topic.type == "video" %}
