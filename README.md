@@ -7,7 +7,7 @@
 
   <h3 align="center">CampusX Course Resources</h3>
   <p align="center">
-    Here, you can get all the resources like Notes and Notebooks provided in the DSMP Course.
+    Here, you can get all the resources like Notes and Notebooks provided in CampusX Courses.
     <br>
     <strong>By <a href="https://github.com/arv-anshul">Anshul Raj Verma</a></strong>
   </p>
