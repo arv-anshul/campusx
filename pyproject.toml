@@ -15,8 +15,8 @@ dependencies = [
 ]
 
 [project.urls]
-homepage = "https://github.com/arv-anshul/campusx-dsmp"
-repository = "https://github.com/arv-anshul/campusx-dsmp"
+homepage = "https://github.com/arv-anshul/campusx"
+repository = "https://github.com/arv-anshul/campusx"
 
 [tool.rye]
 manage = true

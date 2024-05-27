@@ -13,7 +13,7 @@ article > h1 { display: none; }
 
 [:material-sync:{ .lg .middle .bounce } Reverse Topic Order](#){ .md-button .md-button--primary style="text-align: center; display: block;" onclick="reverseContainers()" }
 
-[:material-database:{ .lg .middle } View Downloaded Resources](https://github.com/arv-anshul/campusx-dsmp/tree/main/resources/DSMP "Resources downloaded as files on GitHub"){ .md-button .md-button--primary style="text-align: center; display: block;" target="_blank" }
+[:material-database:{ .lg .middle } View Downloaded Resources](https://github.com/arv-anshul/campusx/tree/main/resources/DSMP "Resources downloaded as files on GitHub"){ .md-button .md-button--primary style="text-align: center; display: block;" target="_blank" }
 
 </div>
 

@@ -31,7 +31,7 @@
 
 <p align="center">
 
-https://github.com/arv-anshul/campusx-dsmp/assets/111767754/3414dc8e-d474-4751-b504-317d7d719d3e
+https://github.com/arv-anshul/campusx/assets/111767754/3414dc8e-d474-4751-b504-317d7d719d3e
 
 </p>
 
@@ -54,7 +54,7 @@ By following these workflows, the project ensures efficient data extraction, rob
 
 > \[!CAUTION\]
 >
-> If you get any problem while opening a file then try to change its file extension. My program is not good at inferring file extension 😞. Otherwise, [raise issue](https://github.com/arv-anshul/campusx-dsmp/issues).
+> If you get any problem while opening a file then try to change its file extension. My program is not good at inferring file extension 😞. Otherwise, [raise issue](https://github.com/arv-anshul/campusx/issues).
 
 <details>
 <summary>Resources File Structure</summary>
@@ -81,4 +81,4 @@ By following these workflows, the project ensures efficient data extraction, rob
 
 ### Issues
 
-If you have any issue or query related to this project you can raise [here](https://github.com/arv-anshul/campusx-dsmp/issues "Project's Issues Tab").
+If you have any issue or query related to this project you can raise [here](https://github.com/arv-anshul/campusx/issues "Project's Issues Tab").
