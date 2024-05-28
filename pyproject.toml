@@ -11,7 +11,6 @@ dependencies = [
     "httpx==0.26.0",
     "mkdocs-markdownextradata-plugin==0.2.5",
     "mkdocs-material==9.5.23",
-    "python-dotenv==1.0.0",
 ]
 
 [project.urls]
@@ -24,7 +23,7 @@ virtual = true
 dev-dependencies = ["pytest>=8.0.0"]
 
 [tool.rye.scripts]
-dsmp2-main = "python -m src.dsmp2.main"
+dsmp2-main = { cmd = "python -m src.dsmp2.main", env-file = ".env" }
 dsmp2-organise = "python -m src.dsmp2.organise"
 
 [tool.ruff]

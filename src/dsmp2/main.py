@@ -3,13 +3,9 @@ import os
 import time
 from pathlib import Path
 
-import dotenv
 import httpx
 
 from . import course_parser as cp
-
-# Load ENVs for `cookies`
-dotenv.load_dotenv()
 
 # Logging configs
 LOG_FILE_PATH = Path("course_parser.log")
