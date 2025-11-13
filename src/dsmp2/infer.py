@@ -15,10 +15,8 @@ import httpx
 from src import _io
 from src.downloader import infer_downloader
 
-from .course_parser import CLEANED_RESOURCES_PATH, COURSE_TOPICS_PATH, ResourceType
-
-RESOURCES_PATH = Path("resources")
-DSMP_RESOURCES_PATH = RESOURCES_PATH / "DSMP"
+from . import constant as C
+from .course_parser import ResourceType
 
 ResourceDict = dict[str, dict[str, list[tuple[str, bytes]]]]
 
@@ -64,7 +62,7 @@ def download_resources(
 
 
 def topic_title_from_topic_id(topic_id: str) -> str:
-    data = json.loads(_io.open_file(COURSE_TOPICS_PATH))
+    data = json.loads(_io.open_file(C.COURSE_TOPICS_PATH))
     for topic in data:
         if topic["id"] == topic_id:
             return topic["title"]
@@ -79,7 +77,7 @@ def _infer_existed_file_path(fp: Path, /) -> Path:
 
 def store_resources(dl_resources: ResourceDict) -> None:
     for topic_id, resource in dl_resources.items():
-        topic_dir = DSMP_RESOURCES_PATH / _infer_path_from_title(
+        topic_dir = C.DSMP_RESOURCES_PATH / _infer_path_from_title(
             topic_title_from_topic_id(topic_id)
         )
         for parent_title, contents in resource.items():
@@ -93,7 +91,7 @@ def store_resources(dl_resources: ResourceDict) -> None:
 def filter_stored_resources(
     resources: list[dict[str, Any]],
 ) -> list[dict[str, Any]]:
-    stored_resources = {p.name for p in DSMP_RESOURCES_PATH.rglob("*") if p.is_dir()}
+    stored_resources = {p.name for p in C.DSMP_RESOURCES_PATH.rglob("*") if p.is_dir()}
     filtered_resources = [
         resource
         for resource in resources
@@ -120,6 +118,6 @@ def main(resources: list[dict[str, Any]]):
 
 
 if __name__ == "__main__":
-    all_resources = json.loads(_io.open_file(CLEANED_RESOURCES_PATH))
+    all_resources = json.loads(_io.open_file(C.CLEANED_RESOURCES_PATH))
     filtered_resources = filter_stored_resources(all_resources)
     main(all_resources)

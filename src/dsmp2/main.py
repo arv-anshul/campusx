@@ -5,6 +5,7 @@ from pathlib import Path
 
 import httpx
 
+from . import constant as C
 from . import course_parser as cp
 
 # Logging configs
@@ -28,7 +29,7 @@ def get_resources_to_fetch() -> list[cp.CourseSubTopic]:
     # sub_topics = [i for topic in topics for i in cp.CourseSubTopic.parse(topic)]
 
     # Read stored json file for sub_topics
-    sub_topics = list(cp.CourseSubTopic.from_json(cp.COURSE_SUB_TOPICS_PATH))
+    sub_topics = list(cp.CourseSubTopic.from_json(C.COURSE_SUB_TOPICS_PATH))
     logger.info("❗ Length of SubTopics: %d", len(sub_topics))
     return cp.filter_resources(sub_topics, cp.load_resources())
 
@@ -60,8 +61,8 @@ def fetch_resources(
         )
         try:
             with httpx.Client(
-                base_url=cp.BASE_RESOURCE_URL,
-                headers=cp.BASE_HEADERS,
+                base_url=C.BASE_RESOURCE_URL,
+                headers=C.BASE_HEADERS,
                 cookies=cp.get_cookies(),
             ) as client:
                 fetched_resources.append(
@@ -87,7 +88,7 @@ def main():
     logger.info("❗ Resources to fetch: %d", len(resources_to_fetch))
     fetched_resources = fetch_resources(
         resources_to_fetch,
-        cp.ResourceType.assignment,
+        cp.ResourceType.video,
         n_resources=30,
     )
     # Store the data into a JSON file

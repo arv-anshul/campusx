@@ -8,14 +8,15 @@ import re
 from dataclasses import asdict
 from urllib.parse import urlparse
 
+from . import constant as C
 from . import course_parser as cp
 
 
 def export_course_topics() -> None:
     """Parse all Course Topics and dump them as JSON."""
-    course_topic_tag = cp.CourseTopic.search(cp.COURSE_HTML_PATH)
+    course_topic_tag = cp.CourseTopic.search(C.COURSE_HTML_PATH)
     topics = cp.CourseTopic.parse(course_topic_tag)
-    with cp.COURSE_TOPICS_PATH.open("w") as f:
+    with C.COURSE_TOPICS_PATH.open("w") as f:
         json.dump(
             [{"id": i.id, "title": i.title} for i in topics],
             f,
@@ -26,10 +27,10 @@ def export_course_topics() -> None:
 
 def export_course_sub_topics() -> None:
     """Parse all Course Sub-Topics and dump them as JSON."""
-    course_topic_tag = cp.CourseTopic.search(cp.COURSE_HTML_PATH)
+    course_topic_tag = cp.CourseTopic.search(C.COURSE_HTML_PATH)
     topics = cp.CourseTopic.parse(course_topic_tag)
     sub_topics = [asdict(j) for i in topics for j in cp.CourseSubTopic.parse(i)]
-    with cp.COURSE_SUB_TOPICS_PATH.open("w") as f:
+    with C.COURSE_SUB_TOPICS_PATH.open("w") as f:
         json.dump(sub_topics, f, indent=2, sort_keys=True)
 
 
@@ -38,8 +39,8 @@ def sort_sub_topics_resources():
     Sorts the existing `data/subTopicResources.json` file according to
     `data/courseSubTopics.json`.
     """
-    sub_topics = json.loads(cp.COURSE_SUB_TOPICS_PATH.read_bytes())
-    resources = json.loads(cp.SUB_TOPIC_RESOURCES_PATH.read_bytes())
+    sub_topics = json.loads(C.COURSE_SUB_TOPICS_PATH.read_bytes())
+    resources = json.loads(C.SUB_TOPIC_RESOURCES_PATH.read_bytes())
 
     id_to_position = {item["id"]: index for index, item in enumerate(sub_topics)}
     sorted_data_file2 = sorted(
@@ -47,12 +48,12 @@ def sort_sub_topics_resources():
         key=lambda item: id_to_position.get(item.get("id"), float("inf")),
     )
 
-    with cp.SUB_TOPIC_RESOURCES_PATH.open("w") as file2:
+    with C.SUB_TOPIC_RESOURCES_PATH.open("w") as file2:
         json.dump(sorted_data_file2, file2, indent=2, sort_keys=True)
 
 
 def clean_videos_resources() -> None:
-    resources: list[dict] = json.loads(cp.SUB_TOPIC_RESOURCES_PATH.read_bytes())
+    resources: list[dict] = json.loads(C.SUB_TOPIC_RESOURCES_PATH.read_bytes())
 
     def parse_description(description: str) -> dict[str, str]:
         __s = re.sub(r"[\"<]", " ", description)
@@ -67,12 +68,12 @@ def clean_videos_resources() -> None:
         resource["links"] = parse_description(resource["description"])
         cleaned_resources.append(resource)
 
-    with cp.CLEANED_RESOURCES_PATH.open("w") as f:
+    with C.CLEANED_RESOURCES_PATH.open("w") as f:
         json.dump(cleaned_resources, f, indent=2, sort_keys=True)
 
 
 if __name__ == "__main__":
-    if not cp.COURSE_HTML_PATH.exists():
+    if not C.COURSE_HTML_PATH.exists():
         raise RuntimeError("You must have the Course's website HTML.")
     export_course_topics()
     export_course_sub_topics()
