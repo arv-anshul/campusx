@@ -1200,6 +1200,12 @@
     "type": "assessment"
   },
   {
+    "id": "6704a3d240b12656c557e774",
+    "title": "Common Table Expressions(CTE) in SQL",
+    "topicId": "95i4c5rj6v",
+    "type": "video"
+  },
+  {
     "id": "640bde22e4b09d8eecf4e837",
     "title": "Session 38 - Descriptive Statistics Part 1",
     "topicId": "95i4c5rj6v",
@@ -2496,6 +2502,54 @@
     "type": "video"
   },
   {
+    "id": "66649658ca69ce50319f4321",
+    "title": "Session 1 on Regular Expressions",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
+    "id": "666f33b0ee4e301c9f91740e",
+    "title": "Session 2 on Regular Expressions",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
+    "id": "66b8fd2bedc8123b4e111b8a",
+    "title": "Session 1 on MongoDB",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
+    "id": "66bf998a69a777745874dc0c",
+    "title": "Session 2 on MongoDB",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
+    "id": "66e58e738c84394490e72dcd",
+    "title": "Introduction to Bayesian Optimization",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
+    "id": "66ec6059e744d912ed637248",
+    "title": "Session 2 on Bayesian Optimization",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
+    "id": "66eecfbcf83d092f2b9b2681",
+    "title": "Optuna Part 1",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
+    "id": "66ef3b93579c6145c44b4cd0",
+    "title": "Optuna Part 2",
+    "topicId": "78aqnsp4u8",
+    "type": "video"
+  },
+  {
     "id": "6612d4000e2ff95544311617",
     "title": "Session 1 on Interview Questions on Statistics",
     "topicId": "nb956oo2zm",
@@ -2539,7 +2593,37 @@
   },
   {
     "id": "664f7f4bd5bf0f32d416b883",
-    "title": "Recording - Session 3 on ML Interview Questions",
+    "title": "Session 3 on ML Interview Questions",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "6658be9853e27a65b7e9aa29",
+    "title": "Session 4 on ML Interview Questions",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "66609c30eb436a569f198755",
+    "title": "Session 1 on SQL Interview Questions",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "666c2519462e2d10cc391038",
+    "title": "Session 2 on SQL Interview Questions",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "66786368ddae0c6216557f4e",
+    "title": "Session 1 on Python Interview Questions",
+    "topicId": "nb956oo2zm",
+    "type": "video"
+  },
+  {
+    "id": "66804bce1a82ae478757410a",
+    "title": "Session 2 on Python Interview Questions",
     "topicId": "nb956oo2zm",
     "type": "video"
   },
@@ -2564,6 +2648,282 @@
   {
     "id": "664dbf08d2a05952a38115b2",
     "title": "Session 4 on MLOps Revisited - MLOps Tools Stack Part 3",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "6654cb26f81f1a49844b0be4",
+    "title": "Session 5 on MLOps Revisited - DevOps Fundamentals",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "665a1200e789ad3d74459045",
+    "title": "Session 6 on MLOps Revisited - DevOps Contd.",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "6662ffca974b7a4fa401485b",
+    "title": "Session 7 on MLOps Revisited - MLOps Tool Stack - CI/CD",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66645e02fe183c5cbf789e17",
+    "title": "Session 8 on MLOps Revisited - MLOps Tool Stack - Cloud Infrastructure",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "6669e3147e041b259d898eec",
+    "title": "Session 9 on MLOps Revisited - ML Pipelines using DVC",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "666dd228b848fe5409312c1c",
+    "title": "Session 10 on MLOps Revisited - Improving ML Pipelines",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "6673027358c7c6364d640fe5",
+    "title": "Session 11 on MLOps Revisited - Version Control",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "667bcc02b1eaef3d4ec554c5",
+    "title": "Session 12 on MLOps Revisited - Data Versioning using DVC",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "668158ecfd77a15ec2fb3cb2",
+    "title": "Session 13 on MLOPs Revisited - Pipeline x Data Versioning x AWS S3",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "6689341c980eaf1aaa1e8b6e",
+    "title": "Session 14 (Part 1) on MLOps Revisited - Experiment Tracking using DVC (without Pipeline)",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66897e5d4f12f64070f14da0",
+    "title": "Session 14 (Part 2) on MLOps Revisited - Experiment Tracking using DVC (with Pipeline)",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66901739bbe4ae65427855b5",
+    "title": "Session 15 on MLOps Revisited - Introduction to MLflow",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "669262c20b891873410fd324",
+    "title": "Session 16 (Part 1) on MLOps Revisited - MLflow Remote Tracking using Dagshub",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "6692b904c5e6c46393bf291d",
+    "title": "Session 16 (Part 2) on MLOps Revisited - MLflow Remote Tracking using AWS",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "6699097789005061bb937f0f",
+    "title": "Session 17 (Part 1) on MLOps Revisited - Autologging in MLflow",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "669944fc244be27eceadff4a",
+    "title": "Session 17 (Part 2) on MLOps Revisited - Hyperparameter Tuning in MLflow",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "669bfa9f7b88734b3b712216",
+    "title": "Session 18 on MLOps Revisited - Model Registry",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66a3e182210ea0664b9c3a85",
+    "title": "Session 19 on MLOps Revisited - Mini Project",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66a52876b1bb684eb0d7a0c3",
+    "title": "Session 20 on MLOps Revisited - Model Serving",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66aae8bd81cf626fad513119",
+    "title": "Session 21 on MLOps Revisited - Fundamentals of CI",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66ae666f3af7c243c936e07f",
+    "title": "Session 22 on MLOps Revisited - CI in MLOps",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66b117c4c99a59204090d10b",
+    "title": "Session 23 on MLOps Revisited - CI in MLOps (Contd.)",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66b4899e2a40035f7b330287",
+    "title": "Session 24 (Part 1) on MLOps Revisited - Docker Fundamentals (Theory)",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66b4bd609aad57153ae2f669",
+    "title": "Session 24 (Part 2) on MLOps Revisited - Docker Fundamentals (Practical)",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66b714e33c17266a07a8bf13",
+    "title": "Session 25 on MLOps Revisited - Dockers in MLOps",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66bcb6f4a1fbd568e69a3a42",
+    "title": "Session 26 on MLOps Revisited - Deployment on AWS EC2",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66c464389685ad59a3781086",
+    "title": "Session 27 on MLOps Revisited - Deployment on AWS ECR x AWS EC2",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66cd9c64629a4c0e448051ae",
+    "title": "Session 28 (Part 1) on MLOps Revisited - Multi-container deployment on EC2",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66cf216ffdee85607efa9087",
+    "title": "Session 28 (Part 2) on MLOps Revisited - AWS EC2 x Load Balancer x Auto Scaling",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66d2f10a00d55b1137771c3d",
+    "title": "Session 29 (Part 1) on MLOps Revisited - Updating Deployment",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66d3ce8aa88df9169a16d540",
+    "title": "Session 29 (Part 2) on MLOps Revisited - Deployment using AWS CodeDeploy",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66dafa7d52b84c395f8c438c",
+    "title": "Session 30 (Part 1) on MLOps Revisited - Deployment Strategies | Rolling Deployment",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66dbbd1f2994f72fc922f3ca",
+    "title": "Session 30 (Part 2) on MLOps Revisited - Deployment Strategies | Blue Green Deployment",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66deed222da0fc7ed7bc6814",
+    "title": "Session 31 on MLOps Revisited - CI/CD with AWS CodeDeploy",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "66e0725063e4114244286cb9",
+    "title": "MLOps Doubt Clearance Session",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "687f84a1e521d70b7e7e9bc7",
+    "title": "Prometheus Part-1",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "687f84cae521d70b7e7e9bde",
+    "title": "Prometheus Part-2",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "687f84d34d14a157a2eddda1",
+    "title": "Prometheus Part-3",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "6889c336911e5c0bf1092af6",
+    "title": "Grafana",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "687f84cb1df0e4768a073df2",
+    "title": "Monitoring ML Model - (Local)",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "687f84d59c9bea77b6798962",
+    "title": "Monitoring on AWS",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "687f84e64cfcd6035560c123",
+    "title": "Monitoring on ASG",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "687f84990735b77086acfc84",
+    "title": "Concepts of Alerting in Prometheus",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "687f84c2fd6dd506bf919534",
+    "title": "Alerting on AWS (Complete)",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "687f8490fd6dd506bf919528",
+    "title": "Model Retraining Concepts",
+    "topicId": "wxa70fmeja",
+    "type": "video"
+  },
+  {
+    "id": "687f84daff455261dee9adee",
+    "title": "Model Retraining Implementation",
     "topicId": "wxa70fmeja",
     "type": "video"
   },
@@ -2691,6 +3051,312 @@
     "id": "662d400fc8b5e27c5f529d28",
     "title": "RAG",
     "topicId": "lwquglhl18",
+    "type": "video"
+  },
+  {
+    "id": "66f597a59877891c274e2185",
+    "title": "Session 1 - Project Planning",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "66fc4ad7343ce70b14d0f71e",
+    "title": "Session 2 - Preprocessing & EDA",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "66ff5316e302ed5a963d0de4",
+    "title": "Session 3 - Building a Baseline Model",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "670a0470c0233b06b9ca22b1",
+    "title": "Session 4 (Part 1) - Improving the Baseline Model",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "670b29b60dfba334c365f410",
+    "title": "Session 4 (Part 2) - Improving the Baseline Model",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "6711149e09914b0e6eb7cdbc",
+    "title": "Session 5 - Improving the LightGBM model",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "67137bd217aa0e2ebee4eea1",
+    "title": "Session 6 - Building the DVC Pipeline",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "67186357ad562257dd5f110d",
+    "title": "Session 7 - Adding Model Registry",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "671c51edd40296573a9376c7",
+    "title": "Session 8 - Building the Chrome Plugin Part 1",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "6722711aec41d224b7f86a52",
+    "title": "Session 9 - Building the Chrome Plugin Part 2",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "672623a79c69df2dbbaec233",
+    "title": "Session 10 (Part 1) - Adding the CI workflow",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "6728b5fd290e23297dc1b85c",
+    "title": "Session 10 (Part 2) - Adding the CI Workflow",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "672ada2b35dc0265f1c7ac66",
+    "title": "Session 11 - Dockerization",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "67322256deed5103f24894fa",
+    "title": "Session 12 - Deployment",
+    "topicId": "5gvv1jzt88",
+    "type": "video"
+  },
+  {
+    "id": "673715865ffaf044dac9e965",
+    "title": "Session 1 - Understanding the Problem Statement",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "673ddd6e4ac8283fefed4385",
+    "title": "Session 2 - Data Cleaning",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "67419e7112b1930224aee0b1",
+    "title": "Session 3 - EDA",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "6745c31edb2d931cebb7ba7b",
+    "title": "Session 4 - Building a baseline model",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "6749b3364dbbd70d22dd6017",
+    "title": "Session 5 (Part 1) - Experimentation Part 1",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "6749c54f8446ec38e129ce0b",
+    "title": "Session 5 (Part 2) - Experimentation Part 2",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "674d286f99ea26362389cab0",
+    "title": "Session 6 - Building the DVC Pipeline Workflow",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "67503f71eba2d35d5ffa6f74",
+    "title": "Session 7 - Model Registry and Building the API",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "675448bd44b315211dde4f16",
+    "title": "Session 8 (Part 1) - Model Testing",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "6754feb34cc92610afa122e6",
+    "title": "Session 8 (Part 2) - CI",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "675a50990fdb992f79f60657",
+    "title": "Session 9 - Dockers and CD",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "675e2f3fd133aa2d56ce6cbb",
+    "title": "Session 10 (Part 1) - Deployment on AWS",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "675f1b8dd96e4513f5dbdb08",
+    "title": "Session 10 (Part 2) - Deployment on AWS",
+    "topicId": "553ikkzhon",
+    "type": "video"
+  },
+  {
+    "id": "67714b804da4ae222c1eb584",
+    "title": "Session 1 - Project Overview",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "677510fabf86c3117c4c39ba",
+    "title": "Session 2 - EDA",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "67792ee18de5d875d20370e7",
+    "title": "Session 3 (Part 1) - Content Based Recommender System",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "6779fbe84487f259200e2fae",
+    "title": "Session 3 (Part 2) - Content Based Recommender System",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "677f3a07ec3dd82e6771eb77",
+    "title": "Session 4 (Part 1) - Collaborative Filtering Based Recommender System",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "677fbe63d845e555a45237a9",
+    "title": "Session 4 (Part 2) - Collaborative Filtering Based Recommender System",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "67833549455736570a53fcca",
+    "title": "Session 5 - Building the Hybrid Recommender System",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "678badd7b343e7500db27c33",
+    "title": "Session 6 - Improving Hybrid Recommender System",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "678bad60a07d1d185d802da3",
+    "title": "Session 7 - DVC Pipeline & CI",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "679f5b7d6022d263f568e592",
+    "title": "Session 8 - Dockers and CD",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "679f5bdecc33023eb493a8e5",
+    "title": "Session 9 - Deployment on AWS",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "679f5c27f6a9e0460ba071e4",
+    "title": "Session 10 (Part 1) - Blue Green Deployment Phase 1",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "679f5c6fcc33023eb493a903",
+    "title": "Session 10 (Part 2) - Blue Green Deployment Phase 2",
+    "topicId": "px38hr88sx",
+    "type": "video"
+  },
+  {
+    "id": "67b0c3b2f7f2a25bab39e37e",
+    "title": "Session 1 - Project Overview",
+    "topicId": "gky8e9hh5t",
+    "type": "video"
+  },
+  {
+    "id": "67b0c446aca8c1579d392049",
+    "title": "Session 2 (Part 1) - EDA",
+    "topicId": "gky8e9hh5t",
+    "type": "video"
+  },
+  {
+    "id": "67bbed9f9a808307714c6327",
+    "title": "Session 2 (Part 2) - Demand Prediction EDA",
+    "topicId": "gky8e9hh5t",
+    "type": "video"
+  },
+  {
+    "id": "67bbee96bc8c8538a45e2e10",
+    "title": "Session 3 - Breaking New York into regions",
+    "topicId": "gky8e9hh5t",
+    "type": "video"
+  },
+  {
+    "id": "67bbef6294057359cf7e2e73",
+    "title": "Session 4 - Creating Historical Data",
+    "topicId": "gky8e9hh5t",
+    "type": "video"
+  },
+  {
+    "id": "67c002f80baf3371abadc9fb",
+    "title": "Session 5 - Training a baseline model",
+    "topicId": "gky8e9hh5t",
+    "type": "video"
+  },
+  {
+    "id": "67c3c9f09cd7dd5d224e0edd",
+    "title": "Session 6 - Model Selection and HP Tuning",
+    "topicId": "gky8e9hh5t",
+    "type": "video"
+  },
+  {
+    "id": "67c97acfac6aa60e68f64b79",
+    "title": "Session 7 - Building the DVC Pipeline",
+    "topicId": "gky8e9hh5t",
+    "type": "video"
+  },
+  {
+    "id": "67ce5bf67d789843d4bb830b",
+    "title": "Session 8 - Building the Streamlit Application",
+    "topicId": "gky8e9hh5t",
+    "type": "video"
+  },
+  {
+    "id": "67d1871888310c1a44e72419",
+    "title": "Session 9 - Building the CI Pipeline",
+    "topicId": "gky8e9hh5t",
+    "type": "video"
+  },
+  {
+    "id": "67d7c01dd94ba234e7250c9b",
+    "title": "Session 10 - Deployment using AWS CodeDeploy",
+    "topicId": "gky8e9hh5t",
     "type": "video"
   }
 ]

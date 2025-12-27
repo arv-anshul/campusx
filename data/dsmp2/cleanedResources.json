@@ -4399,6 +4399,106 @@
     "type": "video"
   },
   {
+    "description": "<p>Resources -&nbsp;<a href=\"https://github.com/Himanshu-1703/prometheus-test-target\">https://github.com/Himanshu-1703/prometheus-test-target</a></p>\n",
+    "id": "687f84d34d14a157a2eddda1",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/Himanshu-1703/prometheus-test-target": "github.com"
+    },
+    "title": "Prometheus Part-3",
+    "topicId": "wxa70fmeja",
+    "totalTime": 52.57733,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "6889c336911e5c0bf1092af6",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Grafana",
+    "topicId": "wxa70fmeja",
+    "totalTime": "0",
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "687f84cb1df0e4768a073df2",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Monitoring ML Model - (Local)",
+    "topicId": "wxa70fmeja",
+    "totalTime": 45.320667,
+    "type": "video"
+  },
+  {
+    "description": "<p>Resources -&nbsp;\n<style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->\n</style>\n<a href=\"https://github.com/Himanshu-1703/model-monitoring-demo.git\" target=\"_blank\">https://github.com/Himanshu-1703/model-monitoring-demo.git</a></p>\n",
+    "id": "687f84d59c9bea77b6798962",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/Himanshu-1703/model-monitoring-demo.git": "github.com"
+    },
+    "title": "Monitoring on AWS",
+    "topicId": "wxa70fmeja",
+    "totalTime": 53.65333,
+    "type": "video"
+  },
+  {
+    "description": "<p>Resources -&nbsp;\n<style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->\n</style>\n<a href=\"https://github.com/Himanshu-1703/monitoring-sentiment-analysis-project.git\" target=\"_blank\">https://github.com/Himanshu-1703/monitoring-sentiment-analysis-project.git</a></p>\n",
+    "id": "687f84e64cfcd6035560c123",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/Himanshu-1703/monitoring-sentiment-analysis-project.git": "github.com"
+    },
+    "title": "Monitoring on ASG",
+    "topicId": "wxa70fmeja",
+    "totalTime": 86.70333,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "687f84990735b77086acfc84",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Concepts of Alerting in Prometheus",
+    "topicId": "wxa70fmeja",
+    "totalTime": 36.9,
+    "type": "video"
+  },
+  {
+    "description": "<p>Resources -&nbsp;<a href=\"https://github.com/Himanshu-1703/monitoring-sentiment-analysis-project.git\">https://github.com/Himanshu-1703/monitoring-sentiment-analysis-project.git</a></p>\n",
+    "id": "687f84c2fd6dd506bf919534",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/Himanshu-1703/monitoring-sentiment-analysis-project.git": "github.com"
+    },
+    "title": "Alerting on AWS (Complete)",
+    "topicId": "wxa70fmeja",
+    "totalTime": 45.234665,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "687f8490fd6dd506bf919528",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Model Retraining Concepts",
+    "topicId": "wxa70fmeja",
+    "totalTime": "0",
+    "type": "video"
+  },
+  {
+    "description": "<p>Resources -&nbsp;\n<style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->\n</style>\n<a href=\"https://github.com/Himanshu-1703/monitoring-sentiment-analysis-project.git\" target=\"_blank\">https://github.com/Himanshu-1703/monitoring-sentiment-analysis-project.git</a></p>\n",
+    "id": "687f84daff455261dee9adee",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/Himanshu-1703/monitoring-sentiment-analysis-project.git": "github.com"
+    },
+    "title": "Model Retraining Implementation",
+    "topicId": "wxa70fmeja",
+    "totalTime": 58.633335,
+    "type": "video"
+  },
+  {
     "description": "<p>Feedback Form&nbsp; -&nbsp;<a href=\"https://forms.gle/5vGSrcVs1LrKd8Mo9\">https://forms.gle/5vGSrcVs1LrKd8Mo9</a></p>\n",
     "id": "65e203edebf2d4699e58cfa6",
     "isDescriptionHtml": true,
@@ -4640,6 +4740,700 @@
     "type": "video"
   },
   {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1TgIpAhdltm8OVoMY7IAk__2tieAOCAOX/view?usp=sharing\">https://drive.google.com/file/d/1TgIpAhdltm8OVoMY7IAk__2tieAOCAOX/view?usp=sharing</a></p>\n",
+    "id": "66f597a59877891c274e2185",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1TgIpAhdltm8OVoMY7IAk__2tieAOCAOX/view?usp=sharing": "drive.google.com"
+    },
+    "title": "Session 1 - Project Planning",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 87.662,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1yM7Tgkc63jzpu9Bpbd0TUBbstGyeG4El?usp=sharing\">https://colab.research.google.com/drive/1yM7Tgkc63jzpu9Bpbd0TUBbstGyeG4El?usp=sharing</a></p>\n",
+    "id": "66fc4ad7343ce70b14d0f71e",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1yM7Tgkc63jzpu9Bpbd0TUBbstGyeG4El?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session 2 - Preprocessing & EDA",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 35.914444,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1P0ljSEbL2blaPdBilgUp9XullOk4rBgV?usp=sharing\">https://colab.research.google.com/drive/1P0ljSEbL2blaPdBilgUp9XullOk4rBgV?usp=sharing</a></p>\n",
+    "id": "66ff5316e302ed5a963d0de4",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1P0ljSEbL2blaPdBilgUp9XullOk4rBgV?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session 3 - Building a Baseline Model",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 51.941666,
+    "type": "video"
+  },
+  {
+    "description": "<p>Codes</p>\n\n<p><a href=\"https://colab.research.google.com/drive/1bKQGgNJG3N6zHe6fZYdobUBH9BirI9xY?usp=sharing\">https://colab.research.google.com/drive/1bKQGgNJG3N6zHe6fZYdobUBH9BirI9xY?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1jhrNYo7a523RK3X7Kz4fGG-UfEoap4I_?usp=sharing\">https://colab.research.google.com/drive/1jhrNYo7a523RK3X7Kz4fGG-UfEoap4I_?usp=sharing</a></p>\n",
+    "id": "670a0470c0233b06b9ca22b1",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1bKQGgNJG3N6zHe6fZYdobUBH9BirI9xY?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1jhrNYo7a523RK3X7Kz4fGG-UfEoap4I_?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session 4 (Part 1) - Improving the Baseline Model",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 27.06611,
+    "type": "video"
+  },
+  {
+    "description": "<p>Codes:</p>\n\n<p><a href=\"https://colab.research.google.com/drive/1Xve9ljMn3VMse9C5cl4UYsW07bOOfv_8?usp=sharing\">https://colab.research.google.com/drive/1Xve9ljMn3VMse9C5cl4UYsW07bOOfv_8?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1aoOAt8lBKG9uri0XZSoz-6_ucyYEHWpM?usp=sharing\">https://colab.research.google.com/drive/1aoOAt8lBKG9uri0XZSoz-6_ucyYEHWpM?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1ZAWzrxxWTj9zgyjfsmaFWSpYl4VoU0O1?usp=sharing\">https://colab.research.google.com/drive/1ZAWzrxxWTj9zgyjfsmaFWSpYl4VoU0O1?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/13-tbBUHakidGX32wVlOi0ZfMDBxffn1k?usp=sharing\">https://colab.research.google.com/drive/13-tbBUHakidGX32wVlOi0ZfMDBxffn1k?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1Y446h7pdn0C_2ITM-N6oI89fdt90RjJT?usp=sharing\">https://colab.research.google.com/drive/1Y446h7pdn0C_2ITM-N6oI89fdt90RjJT?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1WJLt7d95WOmVLwXEZl61_1EuzVW_AjVi?usp=sharing\">https://colab.research.google.com/drive/1WJLt7d95WOmVLwXEZl61_1EuzVW_AjVi?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1tjqqb-rLyrFOioEqc4vgyfhhfYEEKjKv?usp=sharing\">https://colab.research.google.com/drive/1tjqqb-rLyrFOioEqc4vgyfhhfYEEKjKv?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/14mIeAQT3HcxF_1BbhAUahpmNV8CJw1vH?usp=sharing\">https://colab.research.google.com/drive/14mIeAQT3HcxF_1BbhAUahpmNV8CJw1vH?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1dyifRVHZ-rO0rXD60elgRIGYatwO2MN0?usp=sharing\">https://colab.research.google.com/drive/1dyifRVHZ-rO0rXD60elgRIGYatwO2MN0?usp=sharing</a></p>\n",
+    "id": "670b29b60dfba334c365f410",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/13-tbBUHakidGX32wVlOi0ZfMDBxffn1k?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/14mIeAQT3HcxF_1BbhAUahpmNV8CJw1vH?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1WJLt7d95WOmVLwXEZl61_1EuzVW_AjVi?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1Xve9ljMn3VMse9C5cl4UYsW07bOOfv_8?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1Y446h7pdn0C_2ITM-N6oI89fdt90RjJT?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1ZAWzrxxWTj9zgyjfsmaFWSpYl4VoU0O1?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1aoOAt8lBKG9uri0XZSoz-6_ucyYEHWpM?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1dyifRVHZ-rO0rXD60elgRIGYatwO2MN0?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1tjqqb-rLyrFOioEqc4vgyfhhfYEEKjKv?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session 4 (Part 2) - Improving the Baseline Model",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 36.73389,
+    "type": "video"
+  },
+  {
+    "description": "<p>Codes:</p>\n\n<p><a href=\"https://colab.research.google.com/drive/1mCRrndK4qzadoGMCe3SZE9BPK4lIdwzb?usp=sharing\">https://colab.research.google.com/drive/1mCRrndK4qzadoGMCe3SZE9BPK4lIdwzb?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1ZwgHCBrYwdHKf_tJwMRj_HOGmiE5BmM_?usp=sharing\">https://colab.research.google.com/drive/1ZwgHCBrYwdHKf_tJwMRj_HOGmiE5BmM_?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1nD4a0oL-8hM3G8rBYqtSlzKBIszhXIlJ?usp=sharing\">https://colab.research.google.com/drive/1nD4a0oL-8hM3G8rBYqtSlzKBIszhXIlJ?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1_7abUn-Ffd22Zux27-yovOzNk6KJscZt?usp=sharing\">https://colab.research.google.com/drive/1_7abUn-Ffd22Zux27-yovOzNk6KJscZt?usp=sharing</a></p>\n\n<p>&nbsp;</p>\n",
+    "id": "6711149e09914b0e6eb7cdbc",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1ZwgHCBrYwdHKf_tJwMRj_HOGmiE5BmM_?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1_7abUn-Ffd22Zux27-yovOzNk6KJscZt?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1mCRrndK4qzadoGMCe3SZE9BPK4lIdwzb?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1nD4a0oL-8hM3G8rBYqtSlzKBIszhXIlJ?usp=sharing": "colab.research.google.com"
+    },
+    "title": "Session 5 - Improving the LightGBM model",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 52.27667,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;</p>\n\n<p><a href=\"https://www.kaggle.com/code/sampsuman/sentiment-analysis-bert-reddit-data\">https://www.kaggle.com/code/sampsuman/sentiment-analysis-bert-reddit-data</a></p>\n\n<p><a href=\"https://github.com/campusx-official/yt-comment-sentiment-analysis/tree/master/src/model\">https://github.com/campusx-official/yt-comment-sentiment-analysis/tree/master/src/model</a></p>\n",
+    "id": "67137bd217aa0e2ebee4eea1",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/yt-comment-sentiment-analysis/tree/master/src/model": "github.com",
+      "https://www.kaggle.com/code/sampsuman/sentiment-analysis-bert-reddit-data": "www.kaggle.com"
+    },
+    "title": "Session 6 - Building the DVC Pipeline",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 51.10611,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code&nbsp;</p>\n\n<p><a href=\"https://github.com/campusx-official/yt-comment-sentiment-analysis/tree/master/src/model\">https://github.com/campusx-official/yt-comment-sentiment-analysis/</a></p>\n",
+    "id": "67186357ad562257dd5f110d",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/yt-comment-sentiment-analysis/": "github.com",
+      "https://github.com/campusx-official/yt-comment-sentiment-analysis/tree/master/src/model": "github.com"
+    },
+    "title": "Session 7 - Adding Model Registry",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 41.75,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code&nbsp;</p>\n\n<p><a href=\"https://github.com/campusx-official/yt-chrome-plugin-frontend\">https://github.com/campusx-official/yt-chrome-plugin-frontend</a></p>\n\n<p><a href=\"https://github.com/campusx-official/yt-comment-sentiment-analysis\">https://github.com/campusx-official/yt-comment-sentiment-analysis</a></p>\n",
+    "id": "671c51edd40296573a9376c7",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/yt-chrome-plugin-frontend": "github.com",
+      "https://github.com/campusx-official/yt-comment-sentiment-analysis": "github.com"
+    },
+    "title": "Session 8 - Building the Chrome Plugin Part 1",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 64.69833,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1q7JLwuivBowIcaKMDdWqKX1mYuG9ikc4/view?usp=sharing\">https://drive.google.com/file/d/1q7JLwuivBowIcaKMDdWqKX1mYuG9ikc4/view?usp=sharing</a></p>\n\n<p>Code&nbsp;</p>\n\n<p><a href=\"https://github.com/campusx-official/yt-chrome-plugin-frontend\">https://github.com/campusx-official/yt-chrome-plugin-frontend</a></p>\n\n<p><a href=\"https://github.com/campusx-official/yt-comment-sentiment-analysis\">https://github.com/campusx-official/yt-comment-sentiment-analysis</a></p>\n\n<p>&nbsp;</p>\n",
+    "id": "6722711aec41d224b7f86a52",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1q7JLwuivBowIcaKMDdWqKX1mYuG9ikc4/view?usp=sharing": "drive.google.com",
+      "https://github.com/campusx-official/yt-chrome-plugin-frontend": "github.com",
+      "https://github.com/campusx-official/yt-comment-sentiment-analysis": "github.com"
+    },
+    "title": "Session 9 - Building the Chrome Plugin Part 2",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 62.27778,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/yt-comment-sentiment-analysis\">https://github.com/campusx-official/yt-comment-sentiment-analysis</a></p>\n",
+    "id": "672623a79c69df2dbbaec233",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/yt-comment-sentiment-analysis": "github.com"
+    },
+    "title": "Session 10 (Part 1) - Adding the CI workflow",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 31.85389,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/yt-comment-sentiment-analysis\">https://github.com/campusx-official/yt-comment-sentiment-analysis</a></p>\n",
+    "id": "6728b5fd290e23297dc1b85c",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/yt-comment-sentiment-analysis": "github.com"
+    },
+    "title": "Session 10 (Part 2) - Adding the CI Workflow",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 35.982224,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/campusx-official/yt-comment-sentiment-analysis\">https://github.com/campusx-official/yt-comment-sentiment-analysis</a></p>\n",
+    "id": "672ada2b35dc0265f1c7ac66",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/campusx-official/yt-comment-sentiment-analysis": "github.com"
+    },
+    "title": "Session 11 - Dockerization",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 38.627777,
+    "type": "video"
+  },
+  {
+    "description": "<p>Codes:</p>\n\n<p><a href=\"https://github.com/campusx-official/yt-comment-sentiment-analysis\">https://github.com/campusx-official/yt-comment-sentiment-analysis</a></p>\n\n<p><a href=\"https://github.com/campusx-official/yt-chrome-plugin-frontend\">https://github.com/campusx-official/yt-chrome-plugin-frontend</a></p>\n\n<p>- create a new launch template<br />\n&nbsp;&nbsp;&nbsp;&nbsp;- create a new IAM role - EC2_Codedeploy_role -&gt; policy - AmazonEC2RoleforAWSCodeDeploy<br />\n&nbsp;&nbsp;&nbsp;&nbsp;- create a new IAM role - EC2_ECR_role -&gt; policy - AmazonEC2ContainerRegistryReadOnly<br />\n&nbsp;&nbsp;&nbsp;&nbsp;- install and codedeploy agent in using User data</p>\n\n<p>********************************************************************************************<br />\n#!/bin/bash</p>\n\n<p># Update the package list<br />\nsudo apt-get update -y</p>\n\n<p># Install Ruby (required by the CodeDeploy agent)<br />\nsudo apt-get install ruby -y</p>\n\n<p># Download the CodeDeploy agent installer from the correct region<br />\nwget https://aws-codedeploy-ap-southeast-2.s3.ap-southeast-2.amazonaws.com/latest/install</p>\n\n<p># Make the installer executable<br />\nchmod +x ./install</p>\n\n<p># Install the CodeDeploy agent<br />\nsudo ./install auto</p>\n\n<p># Start the CodeDeploy agent<br />\nsudo service codedeploy-agent start</p>\n\n<p>**********************************************************************************************<br />\n- create a new ASG using the above launch template</p>\n\n<p>- check if codedeploy agent is running - sudo service codedeploy-agent status</p>\n\n<p>- create a new codedeploy application</p>\n\n<p>- create a deployment group -&gt; Service role -&gt; CodeDeployServiceRole -&gt; AWSCodeDeployRole</p>\n\n<p>- create appspec.yml deploy/scripts/install_dependencies.sh and start_docker.sh</p>\n\n<p>- update CICD.yaml</p>\n\n<p>- create S3 bucket</p>\n\n<p>- create new deployment</p>\n\n<p>- monitor the deployment</p>\n\n<p>- check the docker application -&gt; test in postman</p>\n\n<p>- check the chrome plugin by editing the url</p>\n",
+    "id": "67322256deed5103f24894fa",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://aws-codedeploy-ap-southeast-2.s3.ap-southeast-2.amazonaws.com/latest/install": "aws-codedeploy-ap-southeast-2.s3.ap-southeast-2.amazonaws.com",
+      "https://github.com/campusx-official/yt-chrome-plugin-frontend": "github.com",
+      "https://github.com/campusx-official/yt-comment-sentiment-analysis": "github.com"
+    },
+    "title": "Session 12 - Deployment",
+    "topicId": "5gvv1jzt88",
+    "totalTime": 38.836666,
+    "type": "video"
+  },
+  {
+    "description": "<p><strong>Note:</strong> If you experience any rendering issues with the notes on Github, please <span style=\"background-color:#f1c40f;\">download them to your system and open them locally</span> in any IDE.</p>\n\n<p><strong>Updated Resources</strong>&nbsp;-&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n",
+    "id": "673715865ffaf044dac9e965",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 1 - Understanding the Problem Statement",
+    "topicId": "553ikkzhon",
+    "totalTime": 36.290554,
+    "type": "video"
+  },
+  {
+    "description": "<p><strong>Note:</strong> If you experience any rendering issues with the notes on Github, please download them to your system and open them locally in any IDE.</p>\n\n<p><strong>Updated Resources</strong>&nbsp;-&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n\n<p>&nbsp;</p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/11NK6LBoPQjtXok82OT322UjDhlU5VUYa/view?usp=drive_link\">https://drive.google.com/file/d/11NK6LBoPQjtXok82OT322UjDhlU5VUYa/view?usp=drive_link</a></p>\n\n<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1POTfVyjYOgFAGwnwDnf8VdCkCw3wX0Uc?usp=sharing\">https://colab.research.google.com/drive/1POTfVyjYOgFAGwnwDnf8VdCkCw3wX0Uc?usp=sharing</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=sharing\">https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=sharing</a></p>\n",
+    "id": "673ddd6e4ac8283fefed4385",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1POTfVyjYOgFAGwnwDnf8VdCkCw3wX0Uc?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/11NK6LBoPQjtXok82OT322UjDhlU5VUYa/view?usp=drive_link": "drive.google.com",
+      "https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=sharing": "drive.google.com",
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 2 - Data Cleaning",
+    "topicId": "553ikkzhon",
+    "totalTime": 69.880554,
+    "type": "video"
+  },
+  {
+    "description": "<p><strong>Note:</strong> If you experience any rendering issues with the notes on Github, please download them to your system and open them locally in any IDE.</p>\n\n<p><strong>Updated Resources</strong>&nbsp;-&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n\n<p>&nbsp;</p>\n\n<p>Code:</p>\n\n<p><a href=\"https://drive.google.com/file/d/11mbsmgD4h4MdGy0lIY1gbrkK1wv76R4R/view?usp=sharing\">https://drive.google.com/file/d/11mbsmgD4h4MdGy0lIY1gbrkK1wv76R4R/view?usp=sharing</a></p>\n\n<p><a href=\"https://drive.google.com/file/d/11bsljQCrSwE4XETGnV2oboxLhafa0rxa/view?usp=drive_link\">https://drive.google.com/file/d/11bsljQCrSwE4XETGnV2oboxLhafa0rxa/view?usp=drive_link</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link\">https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/11fgYT0uHWt9rKhiPxHO__hwv9RfMX4ZR/view?usp=drive_link\">https://drive.google.com/file/d/11fgYT0uHWt9rKhiPxHO__hwv9RfMX4ZR/view?usp=drive_link</a></p>\n",
+    "id": "67419e7112b1930224aee0b1",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link": "drive.google.com",
+      "https://drive.google.com/file/d/11bsljQCrSwE4XETGnV2oboxLhafa0rxa/view?usp=drive_link": "drive.google.com",
+      "https://drive.google.com/file/d/11fgYT0uHWt9rKhiPxHO__hwv9RfMX4ZR/view?usp=drive_link": "drive.google.com",
+      "https://drive.google.com/file/d/11mbsmgD4h4MdGy0lIY1gbrkK1wv76R4R/view?usp=sharing": "drive.google.com",
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 3 - EDA",
+    "topicId": "553ikkzhon",
+    "totalTime": 71.246,
+    "type": "video"
+  },
+  {
+    "description": "<p><strong>Note:</strong> If you experience any rendering issues with the notes on Github, please download them to your system and open them locally in any IDE.</p>\n\n<p><strong>Updated Resources</strong>&nbsp;-&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n\n<p>&nbsp;</p>\n\n<p>Code -&nbsp;<a href=\"https://drive.google.com/file/d/11bsljQCrSwE4XETGnV2oboxLhafa0rxa/view\">https://drive.google.com/file/d/11bsljQCrSwE4XETGnV2oboxLhafa0rxa/view</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/12bB6Q1Ea3P_HEt20n-bXudGxeViPDgqg?usp=sharing\">https://colab.research.google.com/drive/12bB6Q1Ea3P_HEt20n-bXudGxeViPDgqg?usp=sharing</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view\">https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/12-ySN8WSXcCIsgOp0M2lDFDb7fTR0bq6/view\">https://drive.google.com/file/d/12-ySN8WSXcCIsgOp0M2lDFDb7fTR0bq6/view</a></p>\n",
+    "id": "6745c31edb2d931cebb7ba7b",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/12bB6Q1Ea3P_HEt20n-bXudGxeViPDgqg?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view": "drive.google.com",
+      "https://drive.google.com/file/d/11bsljQCrSwE4XETGnV2oboxLhafa0rxa/view": "drive.google.com",
+      "https://drive.google.com/file/d/12-ySN8WSXcCIsgOp0M2lDFDb7fTR0bq6/view": "drive.google.com",
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 4 - Building a baseline model",
+    "topicId": "553ikkzhon",
+    "totalTime": 48.627335,
+    "type": "video"
+  },
+  {
+    "description": "<p><strong>Note:</strong> If you experience any rendering issues with the notes on Github, please download them to your system and open them locally in any IDE.</p>\n\n<p><strong>Updated Resources</strong>&nbsp;-&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n\n<p>Code:</p>\n\n<p><a href=\"https://colab.research.google.com/drive/1tAW-Lz0km1DmXZaNnqykEtoDCIi66fX1?usp=sharing\">https://colab.research.google.com/drive/1tAW-Lz0km1DmXZaNnqykEtoDCIi66fX1?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1lUUwCHqX7pdAiro8G4PmLVfLiSjS7_m9?usp=sharing\">https://colab.research.google.com/drive/1lUUwCHqX7pdAiro8G4PmLVfLiSjS7_m9?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/19WpmGfOWxHHT0r-7mOQOnobSf9zCfuPP?usp=sharing\">https://colab.research.google.com/drive/19WpmGfOWxHHT0r-7mOQOnobSf9zCfuPP?usp=sharing</a></p>\n\n<p><a href=\"https://drive.google.com/file/d/11bsljQCrSwE4XETGnV2oboxLhafa0rxa/view?usp=drive_link\">https://drive.google.com/file/d/11bsljQCrSwE4XETGnV2oboxLhafa0rxa/view?usp=drive_link</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1hdbgTC8eCxQkaZDwt0oetF48YmmgyjqB?usp=sharing\">https://colab.research.google.com/drive/1hdbgTC8eCxQkaZDwt0oetF48YmmgyjqB?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1M8R39bCnlLPkeXdaWwYMNDhscz6ggBCr?usp=sharing\">https://colab.research.google.com/drive/1M8R39bCnlLPkeXdaWwYMNDhscz6ggBCr?usp=sharing</a></p>\n\n<p><a href=\"https://colab.research.google.com/drive/1iEBmzGKBUQY8s2BIy2J88WOQDFAjgcvS?usp=sharing\">https://colab.research.google.com/drive/1iEBmzGKBUQY8s2BIy2J88WOQDFAjgcvS?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/12ZCxUOCpaQvJimpSbNni9rEDi436kPRz/view?usp=drive_link\">https://drive.google.com/file/d/12ZCxUOCpaQvJimpSbNni9rEDi436kPRz/view?usp=drive_link</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link\">https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link</a></p>\n\n<p>Github Repo -&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+    "id": "6749b3364dbbd70d22dd6017",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/19WpmGfOWxHHT0r-7mOQOnobSf9zCfuPP?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1M8R39bCnlLPkeXdaWwYMNDhscz6ggBCr?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1hdbgTC8eCxQkaZDwt0oetF48YmmgyjqB?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1iEBmzGKBUQY8s2BIy2J88WOQDFAjgcvS?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1lUUwCHqX7pdAiro8G4PmLVfLiSjS7_m9?usp=sharing": "colab.research.google.com",
+      "https://colab.research.google.com/drive/1tAW-Lz0km1DmXZaNnqykEtoDCIi66fX1?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link": "drive.google.com",
+      "https://drive.google.com/file/d/11bsljQCrSwE4XETGnV2oboxLhafa0rxa/view?usp=drive_link": "drive.google.com",
+      "https://drive.google.com/file/d/12ZCxUOCpaQvJimpSbNni9rEDi436kPRz/view?usp=drive_link": "drive.google.com",
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 5 (Part 1) - Experimentation Part 1",
+    "topicId": "553ikkzhon",
+    "totalTime": 45.672,
+    "type": "video"
+  },
+  {
+    "description": "<p><strong>Note:</strong> If you experience any rendering issues with the notes on Github, please download them to your system and open them locally in any IDE.</p>\n\n<p><strong>Updated Resources</strong>&nbsp;-&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n\n<p>&nbsp;</p>\n\n<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/11tMj_IBDiVHd4c2gpLpRSttQvi9obID1?usp=sharing\">https://colab.research.google.com/drive/11tMj_IBDiVHd4c2gpLpRSttQvi9obID1?usp=sharing</a></p>\n",
+    "id": "6749c54f8446ec38e129ce0b",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/11tMj_IBDiVHd4c2gpLpRSttQvi9obID1?usp=sharing": "colab.research.google.com",
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 5 (Part 2) - Experimentation Part 2",
+    "topicId": "553ikkzhon",
+    "totalTime": 23.399334,
+    "type": "video"
+  },
+  {
+    "description": "<p>Github Repo -&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link\">https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/14jZjSoSRcYvI1QHqkI_l2c2ZD63Mu4Zs/view?usp=sharing\">https://drive.google.com/file/d/14jZjSoSRcYvI1QHqkI_l2c2ZD63Mu4Zs/view?usp=sharing</a></p>\n",
+    "id": "674d286f99ea26362389cab0",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link": "drive.google.com",
+      "https://drive.google.com/file/d/14jZjSoSRcYvI1QHqkI_l2c2ZD63Mu4Zs/view?usp=sharing": "drive.google.com",
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 6 - Building the DVC Pipeline Workflow",
+    "topicId": "553ikkzhon",
+    "totalTime": 60.617332,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/151g0TwnHxRnBWxMnJMVa0Hn0qQvERFrm/view?usp=drive_link\">https://drive.google.com/file/d/151g0TwnHxRnBWxMnJMVa0Hn0qQvERFrm/view?usp=drive_link</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link\">https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link</a></p>\n\n<p>Github repo -&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n",
+    "id": "67503f71eba2d35d5ffa6f74",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link": "drive.google.com",
+      "https://drive.google.com/file/d/151g0TwnHxRnBWxMnJMVa0Hn0qQvERFrm/view?usp=drive_link": "drive.google.com",
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 7 - Model Registry and Building the API",
+    "topicId": "553ikkzhon",
+    "totalTime": 50.351334,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/154umLi_fSLDuEuuI8zZCgTsciNIKgqnd/view\">https://drive.google.com/file/d/154umLi_fSLDuEuuI8zZCgTsciNIKgqnd/view</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view\">https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view</a></p>\n\n<p>Repo -&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n",
+    "id": "675448bd44b315211dde4f16",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view": "drive.google.com",
+      "https://drive.google.com/file/d/154umLi_fSLDuEuuI8zZCgTsciNIKgqnd/view": "drive.google.com",
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 8 (Part 1) - Model Testing",
+    "topicId": "553ikkzhon",
+    "totalTime": 19.740667,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/154umLi_fSLDuEuuI8zZCgTsciNIKgqnd/view\">https://drive.google.com/file/d/154umLi_fSLDuEuuI8zZCgTsciNIKgqnd/view</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view\">https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view</a></p>\n\n<p>Repo -&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n",
+    "id": "6754feb34cc92610afa122e6",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view": "drive.google.com",
+      "https://drive.google.com/file/d/154umLi_fSLDuEuuI8zZCgTsciNIKgqnd/view": "drive.google.com",
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 8 (Part 2) - CI",
+    "topicId": "553ikkzhon",
+    "totalTime": 26.227333,
+    "type": "video"
+  },
+  {
+    "description": "<p>Dataset -&nbsp;<a href=\"https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view\">https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view</a></p>\n\n<p>Repo -&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n",
+    "id": "675a50990fdb992f79f60657",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view": "drive.google.com",
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 9 - Dockers and CD",
+    "topicId": "553ikkzhon",
+    "totalTime": 39.746666,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/176kdNIdhHERq3Jzh_KRjZZNOBr3cKdv6/view\">https://drive.google.com/file/d/176kdNIdhHERq3Jzh_KRjZZNOBr3cKdv6/view</a></p>\n",
+    "id": "675e2f3fd133aa2d56ce6cbb",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/176kdNIdhHERq3Jzh_KRjZZNOBr3cKdv6/view": "drive.google.com"
+    },
+    "title": "Session 10 (Part 1) - Deployment on AWS",
+    "topicId": "553ikkzhon",
+    "totalTime": 31.614,
+    "type": "video"
+  },
+  {
+    "description": "<p>Steps -&nbsp;<a href=\"https://drive.google.com/file/d/179Rm0_IG-6u99VjMtKruWk4fCmM_jl67/view?usp=sharing\">https://drive.google.com/file/d/179Rm0_IG-6u99VjMtKruWk4fCmM_jl67/view?usp=sharing</a></p>\n\n<p>Github Repo -&nbsp;<a href=\"https://github.com/Himanshu-1703/swiggy-delivery-time-prediction\">https://github.com/Himanshu-1703/swiggy-delivery-time-prediction</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link\">https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link</a></p>\n",
+    "id": "675f1b8dd96e4513f5dbdb08",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/11Na0FCU5grOqY-vyKfy7T4Ge1IUdWMIN/view?usp=drive_link": "drive.google.com",
+      "https://drive.google.com/file/d/179Rm0_IG-6u99VjMtKruWk4fCmM_jl67/view?usp=sharing": "drive.google.com",
+      "https://github.com/Himanshu-1703/swiggy-delivery-time-prediction": "github.com"
+    },
+    "title": "Session 10 (Part 2) - Deployment on AWS",
+    "topicId": "553ikkzhon",
+    "totalTime": 20.698,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1ACfEnspTRsdEMbliNxkYjDev9KEpWHN3/view?usp=drive_link\">https://drive.google.com/file/d/1ACfEnspTRsdEMbliNxkYjDev9KEpWHN3/view?usp=drive_link</a></p>\n",
+    "id": "67714b804da4ae222c1eb584",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1ACfEnspTRsdEMbliNxkYjDev9KEpWHN3/view?usp=drive_link": "drive.google.com"
+    },
+    "title": "Session 1 - Project Overview",
+    "topicId": "px38hr88sx",
+    "totalTime": 74.252,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code-&nbsp;<a href=\"https://colab.research.google.com/drive/1wSrwGaPHt9NyJ5nz2Evna1hYZVbykAKo?usp=sharing\">https://colab.research.google.com/drive/1wSrwGaPHt9NyJ5nz2Evna1hYZVbykAKo?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1-SH_voCRjAFclT91FB1IOgjsHwkQDaCj/view?usp=drive_link\">https://drive.google.com/file/d/1-SH_voCRjAFclT91FB1IOgjsHwkQDaCj/view?usp=drive_link</a></p>\n",
+    "id": "677510fabf86c3117c4c39ba",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1wSrwGaPHt9NyJ5nz2Evna1hYZVbykAKo?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1-SH_voCRjAFclT91FB1IOgjsHwkQDaCj/view?usp=drive_link": "drive.google.com"
+    },
+    "title": "Session 2 - EDA",
+    "topicId": "px38hr88sx",
+    "totalTime": 65.39066,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1NSqfgdkOL4Ztnp47-VIcTpJ0EPlRhElN?usp=sharing\">https://colab.research.google.com/drive/1NSqfgdkOL4Ztnp47-VIcTpJ0EPlRhElN?usp=sharing</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1-X7BSJORF_jOtMYL8da8McDoaB4X9DXE/view?usp=drive_link\">https://drive.google.com/file/d/1-X7BSJORF_jOtMYL8da8McDoaB4X9DXE/view?usp=drive_link</a></p>\n",
+    "id": "67792ee18de5d875d20370e7",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1NSqfgdkOL4Ztnp47-VIcTpJ0EPlRhElN?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/1-X7BSJORF_jOtMYL8da8McDoaB4X9DXE/view?usp=drive_link": "drive.google.com"
+    },
+    "title": "Session 3 (Part 1) - Content Based Recommender System",
+    "topicId": "px38hr88sx",
+    "totalTime": 36.161335,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/spotify-hybrid-recommender-system\">https://github.com/Himanshu-1703/spotify-hybrid-recommender-system</a></p>\n",
+    "id": "6779fbe84487f259200e2fae",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/Himanshu-1703/spotify-hybrid-recommender-system": "github.com"
+    },
+    "title": "Session 3 (Part 2) - Content Based Recommender System",
+    "topicId": "px38hr88sx",
+    "totalTime": 22.468666,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/108gCpnCQDjnh6nKfTkugf5UsLvH-1nir/view?usp=drive_link\">https://drive.google.com/file/d/108gCpnCQDjnh6nKfTkugf5UsLvH-1nir/view?usp=drive_link</a></p>\n\n<p>Code -&nbsp;<a href=\"https://colab.research.google.com/drive/1c5TIgUu4xeqHBnELH41U6qU9418UYux7?usp=sharing\">https://colab.research.google.com/drive/1c5TIgUu4xeqHBnELH41U6qU9418UYux7?usp=sharing</a></p>\n",
+    "id": "677f3a07ec3dd82e6771eb77",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://colab.research.google.com/drive/1c5TIgUu4xeqHBnELH41U6qU9418UYux7?usp=sharing": "colab.research.google.com",
+      "https://drive.google.com/file/d/108gCpnCQDjnh6nKfTkugf5UsLvH-1nir/view?usp=drive_link": "drive.google.com"
+    },
+    "title": "Session 4 (Part 1) - Collaborative Filtering Based Recommender System",
+    "topicId": "px38hr88sx",
+    "totalTime": 83.10333,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/spotify-hybrid-recommender-system\">https://github.com/Himanshu-1703/spotify-hybrid-recommender-system</a></p>\n",
+    "id": "677fbe63d845e555a45237a9",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/Himanshu-1703/spotify-hybrid-recommender-system": "github.com"
+    },
+    "title": "Session 4 (Part 2) - Collaborative Filtering Based Recommender System",
+    "topicId": "px38hr88sx",
+    "totalTime": 28.393333,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/10D7SoZgk2nQ2rTQORdSZVVvvpDlRn6cm/view?usp=drive_link\">https://drive.google.com/file/d/10D7SoZgk2nQ2rTQORdSZVVvvpDlRn6cm/view?usp=drive_link</a></p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/spotify-hybrid-recommender-system\">https://github.com/Himanshu-1703/spotify-hybrid-recommender-system</a></p>\n",
+    "id": "67833549455736570a53fcca",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/10D7SoZgk2nQ2rTQORdSZVVvvpDlRn6cm/view?usp=drive_link": "drive.google.com",
+      "https://github.com/Himanshu-1703/spotify-hybrid-recommender-system": "github.com"
+    },
+    "title": "Session 5 - Building the Hybrid Recommender System",
+    "topicId": "px38hr88sx",
+    "totalTime": 50.06333,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/10DoSf0SRw2Be_RohcF_LU06CW7Cm_3dq/view?usp=drive_link\">https://drive.google.com/file/d/10DoSf0SRw2Be_RohcF_LU06CW7Cm_3dq/view?usp=drive_link</a></p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/spotify-hybrid-recommender-system\">https://github.com/Himanshu-1703/spotify-hybrid-recommender-system</a></p>\n",
+    "id": "678badd7b343e7500db27c33",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/10DoSf0SRw2Be_RohcF_LU06CW7Cm_3dq/view?usp=drive_link": "drive.google.com",
+      "https://github.com/Himanshu-1703/spotify-hybrid-recommender-system": "github.com"
+    },
+    "title": "Session 6 - Improving Hybrid Recommender System",
+    "topicId": "px38hr88sx",
+    "totalTime": 43.412666,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/10owhy_FY_ioZPM5LLz_TKMIRMyZtecra/view?usp=drive_link\">https://drive.google.com/file/d/10owhy_FY_ioZPM5LLz_TKMIRMyZtecra/view?usp=drive_link</a></p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/spotify-hybrid-recommender-system\">https://github.com/Himanshu-1703/spotify-hybrid-recommender-system</a></p>\n",
+    "id": "678bad60a07d1d185d802da3",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/10owhy_FY_ioZPM5LLz_TKMIRMyZtecra/view?usp=drive_link": "drive.google.com",
+      "https://github.com/Himanshu-1703/spotify-hybrid-recommender-system": "github.com"
+    },
+    "title": "Session 7 - DVC Pipeline & CI",
+    "topicId": "px38hr88sx",
+    "totalTime": 36.944,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1192mlHMESug16v9PptW5QFhLTK8lTSBb/view?usp=drive_link\">https://drive.google.com/file/d/1192mlHMESug16v9PptW5QFhLTK8lTSBb/view?usp=drive_link</a></p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/spotify-hybrid-recommender-system\">https://github.com/Himanshu-1703/spotify-hybrid-recommender-system</a></p>\n",
+    "id": "679f5b7d6022d263f568e592",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1192mlHMESug16v9PptW5QFhLTK8lTSBb/view?usp=drive_link": "drive.google.com",
+      "https://github.com/Himanshu-1703/spotify-hybrid-recommender-system": "github.com"
+    },
+    "title": "Session 8 - Dockers and CD",
+    "topicId": "px38hr88sx",
+    "totalTime": 51.932667,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/11AeHwazS9TivCwthex48HVJ0Lgt3FYkw/view?usp=drive_link\">https://drive.google.com/file/d/11AeHwazS9TivCwthex48HVJ0Lgt3FYkw/view?usp=drive_link</a></p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/spotify-hybrid-recommender-system\">https://github.com/Himanshu-1703/spotify-hybrid-recommender-system</a></p>\n\n<p>Command</p>\n\n<p>Commands to install Docker and AWS CLI V2 on EC2 instances.</p>\n\n<p># Update the package lists<br />\nsudo apt-get update -y</p>\n\n<p># Install Docker<br />\nsudo apt-get install -y docker.io</p>\n\n<p># Start and enable Docker service<br />\nsudo systemctl start docker<br />\nsudo systemctl enable docker</p>\n\n<p># Add &#39;ubuntu&#39; user to the &#39;docker&#39; group to run Docker commands without &#39;sudo&#39;<br />\nsudo usermod -aG docker ubuntu</p>\n\n<p># Install necessary utilities<br />\nsudo apt-get install -y unzip curl</p>\n\n<p># Download and install AWS CLI<br />\ncurl &quot;https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip&quot; -o &quot;/home/ubuntu/awscliv2.zip&quot;<br />\nunzip -o /home/ubuntu/awscliv2.zip -d /home/ubuntu/<br />\nsudo /home/ubuntu/aws/install</p>\n\n<p># Clean up the AWS CLI installation files<br />\nrm -rf /home/ubuntu/awscliv2.zip /home/ubuntu/aws</p>\n\n<p>---------------------------------------------------------------------------------------------------------------------------------------</p>\n\n<p>Docker Commands</p>\n\n<p># login and authenticate<br />\naws ecr get-login-password --region ap-south-1 | docker login --username AWS --password-stdin 891377050051.dkr.ecr.ap-south-1.amazonaws.com</p>\n\n<p># pull the docker image<br />\ndocker pull 891377050051.dkr.ecr.ap-south-1.amazonaws.com/spotify_hybrid_recsys:latest</p>\n\n<p># change image tags<br />\ndocker tag 891377050051.dkr.ecr.ap-south-1.amazonaws.com/spotify_hybrid_recsys:latest spotify_hybrid_recsys:latest&nbsp;</p>\n\n<p># Run the container<br />\ndocker run -d --name hybrid_recsys -p 8000:8000 spotify_hybrid_recsys:latest</p>\n",
+    "id": "679f5bdecc33023eb493a8e5",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip&quot;": "awscli.amazonaws.com",
+      "https://drive.google.com/file/d/11AeHwazS9TivCwthex48HVJ0Lgt3FYkw/view?usp=drive_link": "drive.google.com",
+      "https://github.com/Himanshu-1703/spotify-hybrid-recommender-system": "github.com"
+    },
+    "title": "Session 9 - Deployment on AWS",
+    "topicId": "px38hr88sx",
+    "totalTime": 30.584667,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/spotify-hybrid-recommender-system\">https://github.com/Himanshu-1703/spotify-hybrid-recommender-system</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/12CN3bd2V2ZdoZe_RB3YxLwunFpAv2aiq/view?usp=drive_link\">https://drive.google.com/file/d/12CN3bd2V2ZdoZe_RB3YxLwunFpAv2aiq/view?usp=drive_link</a></p>\n\n<p>Commands</p>\n\n<p>Install CodeDeploy Agent on each instance using the Launch Template</p>\n\n<p>#!/bin/bash</p>\n\n<p># update packages<br />\nsudo apt update -y</p>\n\n<p># install ruby required for code deploy<br />\nsudo apt install ruby-full -y</p>\n\n<p># get additional packages<br />\nsudo apt install wget -y<br />\ncd /home/ubuntu</p>\n\n<p># import the agent<br />\nwget https://aws-codedeploy-ap-south-1.s3.ap-south-1.amazonaws.com/latest/install</p>\n\n<p># install the agent<br />\nchmod +x ./install<br />\nsudo ./install auto</p>\n\n<p># run the agent<br />\nsudo systemctl start codedeploy-agent</p>\n",
+    "id": "679f5c27f6a9e0460ba071e4",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://aws-codedeploy-ap-south-1.s3.ap-south-1.amazonaws.com/latest/install": "aws-codedeploy-ap-south-1.s3.ap-south-1.amazonaws.com",
+      "https://drive.google.com/file/d/12CN3bd2V2ZdoZe_RB3YxLwunFpAv2aiq/view?usp=drive_link": "drive.google.com",
+      "https://github.com/Himanshu-1703/spotify-hybrid-recommender-system": "github.com"
+    },
+    "title": "Session 10 (Part 1) - Blue Green Deployment Phase 1",
+    "topicId": "px38hr88sx",
+    "totalTime": 64.914665,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/12CN3bd2V2ZdoZe_RB3YxLwunFpAv2aiq/view?usp=drive_link\">https://drive.google.com/file/d/12CN3bd2V2ZdoZe_RB3YxLwunFpAv2aiq/view?usp=drive_link</a></p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/spotify-hybrid-recommender-system\">https://github.com/Himanshu-1703/spotify-hybrid-recommender-system</a></p>\n",
+    "id": "679f5c6fcc33023eb493a903",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/12CN3bd2V2ZdoZe_RB3YxLwunFpAv2aiq/view?usp=drive_link": "drive.google.com",
+      "https://github.com/Himanshu-1703/spotify-hybrid-recommender-system": "github.com"
+    },
+    "title": "Session 10 (Part 2) - Blue Green Deployment Phase 2",
+    "topicId": "px38hr88sx",
+    "totalTime": 30.713333,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/139OjwnkomO4w4GatdectPe2DRgNNnWo1/view?usp=sharing\">https://drive.google.com/file/d/139OjwnkomO4w4GatdectPe2DRgNNnWo1/view?usp=sharing</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv</a></p>\n",
+    "id": "67b0c3b2f7f2a25bab39e37e",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/139OjwnkomO4w4GatdectPe2DRgNNnWo1/view?usp=sharing": "drive.google.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv": "www.kaggle.com"
+    },
+    "title": "Session 1 - Project Overview",
+    "topicId": "gky8e9hh5t",
+    "totalTime": 53.004,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -<a href=\"https://drive.google.com/file/d/15FAmn612n7AAHNfOxnM2uWIjVz-hLD3Y/view?usp=sharing\">https://drive.google.com/file/d/15FAmn612n7AAHNfOxnM2uWIjVz-hLD3Y/view?usp=sharing</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv</a></p>\n",
+    "id": "67b0c446aca8c1579d392049",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/15FAmn612n7AAHNfOxnM2uWIjVz-hLD3Y/view?usp=sharing": "drive.google.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv": "www.kaggle.com"
+    },
+    "title": "Session 2 (Part 1) - EDA",
+    "topicId": "gky8e9hh5t",
+    "totalTime": 40.420666,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/uber-demand-prediction\">https://github.com/Himanshu-1703/uber-demand-prediction</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv</a></p>\n",
+    "id": "67bbed9f9a808307714c6327",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://github.com/Himanshu-1703/uber-demand-prediction": "github.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv": "www.kaggle.com"
+    },
+    "title": "Session 2 (Part 2) - Demand Prediction EDA",
+    "topicId": "gky8e9hh5t",
+    "totalTime": 41.767334,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1KvwLO6x5tSx_i1MdZe5R0R4grEUtgCyB/view?usp=sharing\">https://drive.google.com/file/d/1KvwLO6x5tSx_i1MdZe5R0R4grEUtgCyB/view?usp=sharing</a></p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/uber-demand-prediction\">https://github.com/Himanshu-1703/uber-demand-prediction</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv</a></p>\n",
+    "id": "67bbee96bc8c8538a45e2e10",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1KvwLO6x5tSx_i1MdZe5R0R4grEUtgCyB/view?usp=sharing": "drive.google.com",
+      "https://github.com/Himanshu-1703/uber-demand-prediction": "github.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv": "www.kaggle.com"
+    },
+    "title": "Session 3 - Breaking New York into regions",
+    "topicId": "gky8e9hh5t",
+    "totalTime": 59.368,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1E-az1lqZkW5KssYtrb41iRo8jKxRaawk/view?usp=sharing\">https://drive.google.com/file/d/1E-az1lqZkW5KssYtrb41iRo8jKxRaawk/view?usp=sharing</a></p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/uber-demand-prediction\">https://github.com/Himanshu-1703/uber-demand-prediction</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv</a></p>\n",
+    "id": "67bbef6294057359cf7e2e73",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1E-az1lqZkW5KssYtrb41iRo8jKxRaawk/view?usp=sharing": "drive.google.com",
+      "https://github.com/Himanshu-1703/uber-demand-prediction": "github.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv": "www.kaggle.com"
+    },
+    "title": "Session 4 - Creating Historical Data",
+    "topicId": "gky8e9hh5t",
+    "totalTime": 55.947334,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1QJZcWt3h_dPUF2cRJiSb-jMQU6w7oHS7/view?usp=sharing\">https://drive.google.com/file/d/1QJZcWt3h_dPUF2cRJiSb-jMQU6w7oHS7/view?usp=sharing</a></p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/uber-demand-prediction\">https://github.com/Himanshu-1703/uber-demand-prediction</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv</a></p>\n",
+    "id": "67c002f80baf3371abadc9fb",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1QJZcWt3h_dPUF2cRJiSb-jMQU6w7oHS7/view?usp=sharing": "drive.google.com",
+      "https://github.com/Himanshu-1703/uber-demand-prediction": "github.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv": "www.kaggle.com"
+    },
+    "title": "Session 5 - Training a baseline model",
+    "topicId": "gky8e9hh5t",
+    "totalTime": 33.662666,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;https://drive.google.com/file/d/1mBIjvI0yF9MLgNYJM07KYb0W0f5dki_1/view?usp=sharing</p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/uber-demand-prediction\">https://github.com/Himanshu-1703/uber-demand-prediction</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv</a></p>\n\n<p>&nbsp;</p>\n",
+    "id": "67c3c9f09cd7dd5d224e0edd",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1mBIjvI0yF9MLgNYJM07KYb0W0f5dki_1/view?usp=sharing": "drive.google.com",
+      "https://github.com/Himanshu-1703/uber-demand-prediction": "github.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv": "www.kaggle.com"
+    },
+    "title": "Session 6 - Model Selection and HP Tuning",
+    "topicId": "gky8e9hh5t",
+    "totalTime": 32.688,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/uber-demand-prediction\">https://github.com/Himanshu-1703/uber-demand-prediction</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/1Lvo2GxEESL2KFWHCLMZULd4YnYQAxF6s/view\">https://drive.google.com/file/d/1Lvo2GxEESL2KFWHCLMZULd4YnYQAxF6s/view</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv</a></p>\n",
+    "id": "67c97acfac6aa60e68f64b79",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1Lvo2GxEESL2KFWHCLMZULd4YnYQAxF6s/view": "drive.google.com",
+      "https://github.com/Himanshu-1703/uber-demand-prediction": "github.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv": "www.kaggle.com"
+    },
+    "title": "Session 7 - Building the DVC Pipeline",
+    "topicId": "gky8e9hh5t",
+    "totalTime": 58.564,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;https://drive.google.com/file/d/119HV3A7UcCKBQmJ0Dpm26pJb5UCdaEd9/view?usp=sharing</p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/uber-demand-prediction\">https://github.com/Himanshu-1703/uber-demand-prediction</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv</a></p>\n",
+    "id": "67ce5bf67d789843d4bb830b",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/119HV3A7UcCKBQmJ0Dpm26pJb5UCdaEd9/view?usp=sharing": "drive.google.com",
+      "https://github.com/Himanshu-1703/uber-demand-prediction": "github.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv": "www.kaggle.com"
+    },
+    "title": "Session 8 - Building the Streamlit Application",
+    "topicId": "gky8e9hh5t",
+    "totalTime": 47.033333,
+    "type": "video"
+  },
+  {
+    "description": "<p>Notes -&nbsp;https://drive.google.com/file/d/1ywmObgr0TbDg71lAINFSUZP1Ixhlz2fQ/view?usp=sharing</p>\n\n<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/uber-demand-prediction\">https://github.com/Himanshu-1703/uber-demand-prediction</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv</a></p>\n",
+    "id": "67d1871888310c1a44e72419",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/1ywmObgr0TbDg71lAINFSUZP1Ixhlz2fQ/view?usp=sharing": "drive.google.com",
+      "https://github.com/Himanshu-1703/uber-demand-prediction": "github.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv": "www.kaggle.com"
+    },
+    "title": "Session 9 - Building the CI Pipeline",
+    "topicId": "gky8e9hh5t",
+    "totalTime": 54.886665,
+    "type": "video"
+  },
+  {
+    "description": "<p>Code -&nbsp;<a href=\"https://github.com/Himanshu-1703/uber-demand-prediction\">https://github.com/Himanshu-1703/uber-demand-prediction</a></p>\n\n<p>Notes -&nbsp;<a href=\"https://drive.google.com/file/d/10Q3uZdd1egIeC29JMEqTQbLMcjNtcV4I/view?usp=sharing\">https://drive.google.com/file/d/10Q3uZdd1egIeC29JMEqTQbLMcjNtcV4I/view?usp=sharing</a></p>\n\n<p>Dataset -&nbsp;<a href=\"https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv\">https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv</a></p>\n",
+    "id": "67d7c01dd94ba234e7250c9b",
+    "isDescriptionHtml": true,
+    "links": {
+      "https://drive.google.com/file/d/10Q3uZdd1egIeC29JMEqTQbLMcjNtcV4I/view?usp=sharing": "drive.google.com",
+      "https://github.com/Himanshu-1703/uber-demand-prediction": "github.com",
+      "https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-03.csv": "www.kaggle.com"
+    },
+    "title": "Session 10 - Deployment using AWS CodeDeploy",
+    "topicId": "gky8e9hh5t",
+    "totalTime": 50.394665,
+    "type": "video"
+  },
+  {
     "description": "<p>Code -&nbsp;<a href=\"https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6\">https://drive.google.com/drive/folders/1N9yaSZYQ6WF25jIfrCgaUrh3ruUXacj6</a></p>\n",
     "id": "64b5786ce4b017bd75bfb76c",
     "isDescriptionHtml": true,
@@ -4649,16 +5443,6 @@
     "title": "Session 2 on Handling Missing Data",
     "topicId": "y0za3t5tgi",
     "totalTime": 133.108,
-    "type": "video"
-  },
-  {
-    "description": "",
-    "id": "64beb074e4b0537e95689e09",
-    "isDescriptionHtml": false,
-    "links": {},
-    "title": "Session 3 on Handling Missing Values",
-    "topicId": "y0za3t5tgi",
-    "totalTime": 128.65866,
     "type": "video"
   },
   {
@@ -4672,6 +5456,16 @@
     "title": "Session on Handling Missing Values Part 1",
     "topicId": "y0za3t5tgi",
     "totalTime": 153.56934,
+    "type": "video"
+  },
+  {
+    "description": "",
+    "id": "64beb074e4b0537e95689e09",
+    "isDescriptionHtml": false,
+    "links": {},
+    "title": "Session 3 on Handling Missing Values",
+    "topicId": "y0za3t5tgi",
+    "totalTime": 128.65866,
     "type": "video"
   }
 ]

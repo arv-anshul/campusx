@@ -1,7 +1,7 @@
 [
   {
     "id": "b50va4d646",
-    "title": "Next Upcoming Live Session"
+    "title": "Next Upcoming Session"
   },
   {
     "id": "nevhm7dpld",
@@ -234,5 +234,21 @@
   {
     "id": "lwquglhl18",
     "title": "Extra Sessions"
+  },
+  {
+    "id": "5gvv1jzt88",
+    "title": "Capstone Project 2 | YouTube Comment Analysis"
+  },
+  {
+    "id": "553ikkzhon",
+    "title": "Capstone Project 3 | Swiggy Delivery Time Prediction"
+  },
+  {
+    "id": "px38hr88sx",
+    "title": "Capstone Project 4 | Hybrid Recommender System"
+  },
+  {
+    "id": "gky8e9hh5t",
+    "title": "Capstone Project 5 - Uber Demand Prediction"
   }
 ]
