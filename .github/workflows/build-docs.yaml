@@ -1,27 +1,32 @@
 name: Build Docs
+
 on:
   release:
     types:
       - published
+
 permissions:
   contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Setup Python 3.x
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.x
+      - uses: actions/checkout@v5
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+
       - name: Setup cache for CI
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           key: ${{ github.ref }}
           path: .cache
-      - name: Install mkdocs
-        run: pip install mkdocs-material==9.5.8 mkdocs-markdownextradata-plugin==0.2.5
+
+      - name: Sync dependencies
+        run: uv sync -p 3.13 --locked --no-dev
+
       - name: Finally build docs and publish
         env:
           GOOGLE_ANALYTICS_PROPERTY: ${{ secrets.GOOGLE_ANALYTICS_PROPERTY }}
-        run: mkdocs gh-deploy --force
+        run: uv run --locked mkdocs gh-deploy --force
