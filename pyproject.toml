@@ -1,6 +1,6 @@
 [project]
 name = "campusx"
-version = "0.12.0"
+version = "0.12.1"
 license = "MIT"
 authors = [{ name = "Anshul Raj Verma", email = "arv.anshul.1864@gmail.com" }]
 requires-python = ">=3.11"
