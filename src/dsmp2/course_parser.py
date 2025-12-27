@@ -5,30 +5,14 @@ import os
 from dataclasses import asdict, dataclass, field
 from enum import StrEnum, auto
 from pathlib import Path
-from typing import TYPE_CHECKING, Iterable, Self
+from typing import TYPE_CHECKING, Any, Iterable, Self
 
 from bs4 import BeautifulSoup, Tag
 
+from . import constant as C
+
 if TYPE_CHECKING:
     import httpx
-
-COURSE_URL = "https://learnwith.campusx.in/s/courses/653f50d1e4b0d2eae855480a/take"
-BASE_RESOURCE_URL = "https://learnwith.campusx.in/s/courses/653f50d1e4b0d2eae855480a"
-BASE_HEADERS = {
-    "accept": "application/json, text/javascript, */*; q=0.01",
-    "referer": COURSE_URL,
-    "user-agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_7) AppleWebKit/537.36 (KHTML, "
-        "like Gecko) Chrome/111.5.0.0 Safari/507.02"
-    ),
-}
-
-COURSE_HTML_PATH = Path("dsmp2.arv.html")  # Added `.arv` to ignore for *git*
-DSMP2_DATA_PATH = Path("data/dsmp2")
-COURSE_TOPICS_PATH = DSMP2_DATA_PATH / "courseTopics.json"
-COURSE_SUB_TOPICS_PATH = DSMP2_DATA_PATH / "courseSubTopics.json"
-SUB_TOPIC_RESOURCES_PATH = DSMP2_DATA_PATH / "subTopicResources.json"
-CLEANED_RESOURCES_PATH = SUB_TOPIC_RESOURCES_PATH.with_name("cleanedResources.json")
 
 
 class ResourceType(StrEnum):
@@ -112,8 +96,8 @@ class CourseTopic:
         """
         yield from (
             cls(
-                title=tag["data-title"],
-                id=tag["data-id"],
+                title=str(tag["data-title"]),
+                id=str(tag["data-id"]),
                 source=tag,
             )
             for tag in source.find_all("div", {"data-type": "label"})
@@ -127,7 +111,9 @@ class CourseSubTopic:
     title: str
     type: ResourceType
 
-    def __eq__(self, __value: Self) -> bool:
+    def __eq__(self, __value: Any) -> bool:
+        if not isinstance(__value, CourseSubTopic):
+            return False
         return self.id == __value.id
 
     @classmethod
@@ -140,9 +126,9 @@ class CourseSubTopic:
         """
         yield from (
             cls(
-                id=tag["data-id"],
+                id=str(tag["data-id"]),
                 topicId=topic.id,
-                title=tag["data-title"],
+                title=str(tag["data-title"]),
                 type=tag["data-type"],
             )
             for tag in topic.source.find_all("div", {"data-type": True})
@@ -280,7 +266,7 @@ _RESOURCE_TYPE_MAPPING: dict[ResourceType, type] = {
 
 def load_resources() -> list[CourseSubTopic]:
     inferred_resources = []
-    resources = json.loads(SUB_TOPIC_RESOURCES_PATH.read_bytes())
+    resources = json.loads(C.SUB_TOPIC_RESOURCES_PATH.read_bytes())
     for i in resources:
         _class = _RESOURCE_TYPE_MAPPING.get(getattr(ResourceType, i["type"]))
         if _class:
@@ -297,8 +283,8 @@ def filter_resources(
 
 def dump_resources(resources: Iterable[CourseSubTopic]) -> None:
     _resources: list[dict] = [asdict(i) for i in resources]
-    if SUB_TOPIC_RESOURCES_PATH.exists():
-        _resources = json.loads(SUB_TOPIC_RESOURCES_PATH.read_bytes()) + _resources
+    if C.SUB_TOPIC_RESOURCES_PATH.exists():
+        _resources = json.loads(C.SUB_TOPIC_RESOURCES_PATH.read_bytes()) + _resources
         _resources = [dict(i) for i in {frozenset(r.items()) for r in _resources}]
-    with SUB_TOPIC_RESOURCES_PATH.open("w") as f:
+    with C.SUB_TOPIC_RESOURCES_PATH.open("w") as f:
         json.dump(_resources, f, indent=2)

@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Rye-000?logo=rye&logoColor=fff" alt="Rye Badge">
 </p>
 
-### 🙌 Praise for this Project
+## 🙌 Praise for this Project
 
 <p align="center">
 
@@ -30,7 +30,7 @@ https://github.com/arv-anshul/campusx/assets/111767754/3414dc8e-d474-4751-b504-3
 
 </p>
 
-### ♻️ Project Workflows
+## ♻️ Project Workflows
 
 1. **Data Collection:** Gathered data from the HTML structure of the course's website.
 2. **Script Development:** Developed Python scripts responsible for parsing HTML and extracting essential data required for subsequent requests.
@@ -74,6 +74,31 @@ By following these workflows, the project ensures efficient data extraction, rob
 
 </details>
 
-### Issues
+## Issues
 
 If you have any issue or query related to this project you can raise [here](https://github.com/arv-anshul/campusx/issues "Project's Issues Tab").
+
+## Setup
+
+1. Clone the repository.
+2. Sync dependencies using [uv](https://docs.astral.sh/uv):
+   ```bash
+   uv sync --dev
+   ```
+3. First sign-in to the [learnwith.campusx.in](https://learnwith.campusx.in) website and _make sure you have bought the course_.
+4. Go to the DSMP course page and inspect the page to copy the page's HTML content and then paste it in the project directory in `dsmp2.arv.html` file.
+5. Rename `.example.env` file to `.env` and set environment variables:
+   ```
+   C_UJWT=<from-browser-cookies>
+   SESSION_ID=<from-browser-cookies>
+   ```
+   You can get these from your browser's cookies after singing into the official website.
+6. Run the program to fetch the resources of corresponding courses:
+   ```bash
+   # Fetch resources of DSMP course
+   just dsmp
+   ```
+
+## Contribute
+
+You can also contribute to this project _(only if you have bought the course)_ by fetching the courses data using your cookies/tokens.
