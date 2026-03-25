@@ -6,16 +6,21 @@ authors = [{ name = "Anshul Raj Verma", email = "arv.anshul.1864@gmail.com" }]
 requires-python = ">=3.11"
 readme = "README.md"
 description = "Get resource related to CampusX courses like DSMP and more."
-dependencies = [
-    "bs4==0.0.1",
-    "httpx==0.26.0",
-    "mkdocs-markdownextradata-plugin==0.2.5",
-    "mkdocs-material==9.5.23",
-]
+dependencies = []
 
 [project.urls]
 homepage = "https://github.com/arv-anshul/campusx"
 repository = "https://github.com/arv-anshul/campusx"
+
+[project.optional-dependencies]
+fetch = [
+    "beautifulsoup4>=4.14.2",
+    "httpx>=0.26.0",
+]
+mkdocs = [
+    "mkdocs-markdownextradata-plugin>=0.2.6",
+    "mkdocs-material>=9.5.23",
+]
 
 [dependency-groups]
 dev = [
